@@ -1,0 +1,79 @@
+# Cựu sinh viên UIT - Chìa khóa thành công trong ngành công nghệ chính là tinh thần dấn thân và thái độ cầu tiến
+
+T5, 10/04/2025 - 16:02
+
+*"Điều quan trọng nhất giúp một người trẻ phát triển trong ngành công nghệ không chỉ là kỹ năng, mà còn là thái độ – sự dấn thân, tinh thần cầu tiến và dám thử thách bản thân trong môi trường thực tế"* - đó là chia sẻ của anh Bùi Kim Tùng - cựu sinh viên Khoa Hệ thống Thông tin khóa 2011 trường Đại học Công nghệ Thông tin, ĐHQG-HCM. Hiện tại anh đang đảm nhiệm vị trí Giám đốc vận hành phụ trách mảng triển khai dự án tại Công ty TNHH Công Nghệ CloudGO (CloudGO.vn).
+
+**Hành trình phát triển sự nghiệp tại CloudGO**
+
+Không phải ai cũng xác định được con đường sự nghiệp của mình ngay từ những ngày đầu, và với anh Bùi Kim Tùng, mỗi lựa chọn và trải nghiệm đều là một bước đệm vững chắc cho con đường sự nghiệp tương lai của anh. Ngay từ khi còn ngồi trên ghế nhà trường, anh Tùng đã chủ động tìm kiếm cơ hội thực tập để cọ xát với môi trường làm việc thực tế. Chính khoảng thời gian này đã giúp anh định hình rõ ràng hơn về hướng đi của mình trong lĩnh vực công nghệ. Chàng cựu sinh viên chia sẻ: “Lúc đó, mình mong muốn rằng bản thân sau 2-3 năm tới sẽ không chỉ đóng góp cho công ty dưới vai trò là lập trình viên, mà còn thể hiện nhiều giá trị hơn về mặt phân tích thiết kế giải pháp cho các dự án của công ty."
+
+![](/sites/default/files/uploads/images/202504/603f80833ef48daad4e5.jpg)
+
+*Bùi Kim Tùng - cựu sinh viên Khoa Hệ thống Thông tin khóa 2012*
+
+CloudGO không phải là điểm dừng đầu tiên trên hành trình thực tập của Kim Tùng, nhưng lại là nơi mang đến trải nghiệm trọn vẹn nhất. Không chỉ lập trình, anh còn được tham gia vào quá trình triển khai dự án từ đầu đến cuối – làm rõ yêu cầu với khách hàng, phân tích hệ thống, thiết kế, lập trình và hỗ trợ triển khai. Chính môi trường này đã giúp anh tìm thấy niềm vui trong công việc và gắn bó với ngành công nghệ cho đến tận bây giờ.
+
+*"Một trong những điều ý nghĩa nhất với mình là khi nhìn thấy sản phẩm mình góp phần tạo ra được ứng dụng thực tế, giúp doanh nghiệp vận hành hiệu quả hơn. Lúc ấy, mình biết rằng những nỗ lực của mình đang mang lại giá trị."*
+
+Từ những trải nghiệm ban đầu đầy hứng khởi ấy, hành trình nghề nghiệp của anh Tùng dần mở rộng với không ít thử thách. Những ngày đầu làm việc chính thức tại CloudGO, anh không tránh khỏi cảm giác chông chênh khi các bạn đồng khóa thực tập chung lần lượt rẽ sang hướng khác, còn mình tiếp tục ở lại. “Ban đầu thì mình cũng khá tụt mood. Tuy nhiên về sau thì mình suy nghĩ mỗi cá nhân đều có những môi trường phù hợp khác nhau để có thể phát triển bản thân một cách tốt nhất.” 
+
+![](/sites/default/files/uploads/images/202504/e2d87965c712744c2d03.jpg)
+
+*Anh Bùi Kim Tùng tham gia đoàn kiểm định ASIIN Khoa Hệ thống Thông tin*
+
+Bên cạnh đó, thời gian đầu khi làm việc tại công ty, số lượng nhân sự còn hạn chế, nên với vai trò là lập trình viên, anh Tùng cũng kiêm nhiệm đủ mọi công việc trong quy trình triển khai dự án: “*Việc này tuy vất vả, nhưng giúp mình có cái nhìn tổng quan về toàn bộ quy trình triển khai dự án. Chính trải nghiệm đó là nền tảng để mình phát triển kỹ năng quản lý dự án & tự tin đảm nhiệm những trách nhiệm lớn hơn ở công ty*”. Làm thật – học thật – va chạm thật, chính trải nghiệm “đa nhiệm” này đã trang bị cho anh không chỉ kỹ năng chuyên môn, mà còn cả bản lĩnh để đứng vững và phát triển trong môi trường làm việc về sau. 
+
+Sự kiên trì ấy đã được đền đáp bằng những bước tiến vượt bậc trong sự nghiệp. Năm 2019, anh được tin tưởng giao dẫn dắt một trong những dự án lớn nhất từ trước đến nay của công ty – triển khai hệ thống cho Viettel IDC. Đây là một khách hàng có yêu cầu khắt khe cả về nghiệp vụ lẫn hạ tầng kỹ thuật, với yêu cầu tích hợp cùng lúc ba hệ thống nội bộ, đồng thời phải triển khai trên nền hạ tầng tuân thủ chặt chẽ các quy định bảo mật nội bộ. Thành công của dự án này không chỉ là một dấu mốc cá nhân, mà còn là bước đệm giúp anh tiến xa hơn trong những năm tiếp theo. 
+
+“*Có những lúc mình cũng không biết phải xử lý vấn đề như thế nào, và phải cầu cứu những anh có nhiều kinh nghiệm hơn trong ngành để tìm giải pháp. Và rồi những vấn đề cũng được giải quyết, và sau đó mình nhận ra qua mỗi dự án mình lại trưởng thành hơn, các bài toán của dự án sau lại lớn hơn dự án trước*.”
+
+**UIT - Cung cấp nền tảng kiến thức chuyên môn vững chắc**
+
+Khởi đầu từ nền tảng vững chắc tại UIT, Kim Tùng cho biết chương trình học tại trường đã trang bị cho bản thân anh một cái nhìn toàn diện về ngành công nghệ thông tin, giúp anh dễ dàng thích ứng với môi trường làm việc thực tế. Đối với chương trình học theo chuyên ngành của anh, ngoài những môn về kỹ năng chuyên môn như phân tích thiết kế hệ thống hay lập trình, các môn như ERP hay CRM cũng rất có giá trị, giúp các bạn sinh viên nắm bắt được cách thức vận hành của một doanh nghiệp, hiểu được vấn đề của người dùng hệ thống mình có thể sẽ phát triển trong tương lai. Chàng cựu sinh viên chia sẻ: “*Các kiến thức ở trường là nền tảng về sinh viên nắm bắt được những yêu cầu chung của công việc, từ đó các bạn tự lựa chọn những đường đi cho riêng bản thân mình và tập trung đào sâu nghiên cứu. Việc này cũng đòi hỏi khả năng chủ động học tập của từng bạn, nếu không thì sẽ dễ rơi vào tình trạng mất phương hướng*.”
+
+![](/sites/default/files/uploads/images/202504/4ddd8f5c032bb075e93a.jpg)
+
+*Anh Kim Tùng (ngoài cùng bên phải) làm BGK cuộc thi AISC 2024*
+
+Song song đó, có rất nhiều bài học quý giá từ môi trường học tập và nghiên cứu tại UIT mà đến nay anh luôn áp dụng trong công việc. Tại UIT, anh học được sự quan trọng của việc phân tích thiết kế và soạn báo cáo đồ án, những công việc này không chỉ giúp sinh viên phát triển kỹ năng tư duy logic, phân tích vấn đề mà còn rèn luyện khả năng truyền đạt ý tưởng một cách rõ ràng. Khi bắt tay vào làm việc thực tế tại doanh nghiệp, kỹ năng này trở thành yếu tố quan trọng giúp chàng cựu sinh viên truyền tải ý tưởng và cách thực hiện dự án cùng với đồng nghiệp. 
+
+“*Ngoài ra, trong suốt thời gian học tại UIT, các thầy cô luôn nhấn mạnh rằng công nghệ thông tin không chỉ là việc chạy đua theo những xu hướng mới mà phải hướng đến mục tiêu cuối cùng là giải quyết vấn đề thực tế của doanh nghiệp và người dùng. Chính tư duy này đã giúp mình luôn giữ được cái nhìn thực tế khi triển khai các dự án, đảm bảo rằng sản phẩm mang lại giá trị thực sự cho người dùng.*”
+
+**Hành trình phát triển toàn diện tại UIT**
+
+Đối với chàng cựu sinh viên, UIT không chỉ là nơi cung cấp kiến thức chuyên môn mà còn là môi trường giúp anh phát triển những kỹ năng mềm và tạo ra những mối quan hệ bền chặt trong suốt hành trình nghề nghiệp. "*Mình không chỉ kết nối với các bạn trong Khoa Hệ Thống Thông Tin mà còn có cơ hội giao lưu với các anh chị, các bạn từ những khoa khác. Nhiều anh chị đến nay vẫn giữ liên lạc và hỗ trợ nhau trong công việc cũng như trong cuộc sống."*
+
+![](/sites/default/files/uploads/images/202504/4973d9c267b5d4eb8da4.jpg)
+
+Những lần tham gia các hoạt động Đoàn - Hội, ngoại khóa và trải nghiệm tại UIT còn là cơ hội giúp anh phát triển một cách toàn diện. “*Những trải nghiệm tại UIT đã giúp mình hiểu rằng, kiến thức chuyên môn dù quan trọng, nhưng kỹ năng giao tiếp, khả năng làm việc nhóm và tư duy sáng tạo mới là chìa khóa giúp mình phát triển trong môi trường làm việc chuyên nghiệp."*
+
+Với những trải nghiệm quý báu được tích lũy trên hành trình học tập và làm việc, Bùi Kim Tùng cũng gửi gắm đến các bạn sinh viên UIT cần xây dựng tinh thần tự học và chủ động trong nghiên cứu. Tận dụng cơ hội giao lưu với giảng viên, tham gia câu lạc bộ học thuật, khám phá công nghệ mới và thực hiện các dự án cá nhân để nâng cao kỹ năng chuyên môn. Anh chia sẻ: “*Mình tin rằng cuộc sống luôn có những sự may mắn, nhưng hạt giống may mắn chỉ nảy mầm khi gặp những mảnh đất thuận lợi. Hy vọng các bạn sẽ luôn là những mảnh mất màu mỡ, được vun xới đầy đủ, để những hạt giống công nghệ & tri thức sẽ phát triển mạnh mẽ nơi các bạn, tạo ra một thế hệ phát triển đột phá cho xã hội & cho nước nhà*.”
+
+## Thông tin khác
+
+* [Đội ngũ giảng viên UIT – Nền tảng vững chắc cho đào tạo và nghiên cứu](/doi-ngu-giang-vien-uit-nen-tang-vung-chac-cho-dao-tao-va-nghien-cuu)
+  (10-04-2025)
+* [UIT - Nâng tầm trải nghiệm học tập với hệ thống cơ sở vật chất hiện đại](/uit-nang-tam-trai-nghiem-hoc-tap-voi-he-thong-co-so-vat-chat-hien-dai)
+  (27-03-2025)
+* [Hành trình vươn mình ra thế giới của sinh viên UIT Tăng Kim Sơn](/hanh-trinh-vuon-minh-ra-gioi-cua-sinh-vien-uit-tang-kim-son)
+  (20-03-2025)
+* [Hành trình chinh phục giấc mơ của Cựu sinh viên Nguyễn Trung Nguyên](/hanh-trinh-chinh-phuc-giac-mo-cua-cuu-sinh-vien-nguyen-trung-nguyen)
+  (11-03-2025)
+* [Trần Đức Duy - Chàng trai Cần Thơ 'hack' cánh cửa Đại học mơ ước bằng giải Nhì quốc gia Tin học](/tran-duc-duy-chang-trai-can-tho-hack-canh-cua-dai-hoc-mo-uoc-bang-giai-nhi-quoc-gia-tin-hoc)
+  (26-02-2025)
+
+## Trang
+
+* 1
+* [2](/cuu-sinh-vien-uit-chia-khoa-thanh-cong-trong-nganh-cong-nghe-chinh-la-tinh-dan-va-thai-do-cau-tien?page=1 "Đến trang 2")
+* [3](/cuu-sinh-vien-uit-chia-khoa-thanh-cong-trong-nganh-cong-nghe-chinh-la-tinh-dan-va-thai-do-cau-tien?page=2 "Đến trang 3")
+* [4](/cuu-sinh-vien-uit-chia-khoa-thanh-cong-trong-nganh-cong-nghe-chinh-la-tinh-dan-va-thai-do-cau-tien?page=3 "Đến trang 4")
+* [5](/cuu-sinh-vien-uit-chia-khoa-thanh-cong-trong-nganh-cong-nghe-chinh-la-tinh-dan-va-thai-do-cau-tien?page=4 "Đến trang 5")
+* [6](/cuu-sinh-vien-uit-chia-khoa-thanh-cong-trong-nganh-cong-nghe-chinh-la-tinh-dan-va-thai-do-cau-tien?page=5 "Đến trang 6")
+* [7](/cuu-sinh-vien-uit-chia-khoa-thanh-cong-trong-nganh-cong-nghe-chinh-la-tinh-dan-va-thai-do-cau-tien?page=6 "Đến trang 7")
+* [8](/cuu-sinh-vien-uit-chia-khoa-thanh-cong-trong-nganh-cong-nghe-chinh-la-tinh-dan-va-thai-do-cau-tien?page=7 "Đến trang 8")
+* [9](/cuu-sinh-vien-uit-chia-khoa-thanh-cong-trong-nganh-cong-nghe-chinh-la-tinh-dan-va-thai-do-cau-tien?page=8 "Đến trang 9")
+* …
+* [sau ›](/cuu-sinh-vien-uit-chia-khoa-thanh-cong-trong-nganh-cong-nghe-chinh-la-tinh-dan-va-thai-do-cau-tien?page=1 "Đến trang sau")
+* [cuối »](/cuu-sinh-vien-uit-chia-khoa-thanh-cong-trong-nganh-cong-nghe-chinh-la-tinh-dan-va-thai-do-cau-tien?page=39 "Đến trang cuối cùng")
