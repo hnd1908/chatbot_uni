@@ -1,1 +1,1 @@
-# chatbot_uni-using-simple-rag-
+# chatbot_uni (using simple rag)
