@@ -6,9 +6,9 @@ cleaned_folder = 'cleaned_data/markdown'
 os.makedirs(cleaned_folder, exist_ok=True)
 
 excluded_keywords = [
-    "thong-bao-muc-diem", "thong-bao-ket-qua", "ba44e70ae712a2cf3e6533000212f833", 
+    "thong-bao-muc-diem", "thong-bao-ket-qua", "ba44e70ae712a2cf3e6533000212f833",
     "goc-bao-chi", "giay-bao-nhaphoc", "giaybao-nhaphoc", "diem-chuan", "cam-nang-tuyen-sinh-2023", "chuong-trinh-dac-biet",
-    "cuoc-song-sinh-vien", "su-kien-noi-bat", "vb2-lien-thong", 
+    "cuoc-song-sinh-vien", "su-kien-noi-bat", "vb2-lien-thong",
 ]
 
 def remove_after_keyword(content, keyword):
