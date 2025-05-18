@@ -1,11 +1,8 @@
-# Tổng quan ngành Khoa học Dữ liệu
-
-## GIỚI THIỆU CHUNG
+GIỚI THIỆU CHUNG
 Khoa học dữ liệu (KHDL) là khoa học về việc quản trị và phân tích dữ liệu để tìm ra các hiểu biết, các tri thức hành động, các quyết định dẫn dắt hành động. KHDL gồm ba phần chính: Tạo ra và quản trị dữ liệu, phân tích dữ liệu, và chuyển kết quả phân tích thành giá trị của hành động. Nôm na bước thứ nhất là về số hóa và bước thứ hai là về dùng dữ liệu. Việc phân tích và dùng dữ liệu lại dựa vào ba nguồn tri thức: toán học (thống kê toán học), công nghệ thông tin (máy học) và tri thức của lĩnh vực ứng dụng cụ thể.
-## ỨNG DỤNG CỦA KHOA HỌC DỮ LIỆU
+ỨNG DỤNG CỦA KHOA HỌC DỮ LIỆU
 Nếu phân tích dữ liệu về nhu cầu thị trường ta có thể quyết định cần nuôi bao nhiêu lợn mỗi nơi mỗi lúc. Nếu có và phân tích được dữ liệu mô phỏng các phương án xả lũ vào mùa mưa ta có thể chọn được cách xả lũ ít thiệt hại nhất. Nếu có và phân tích được các bệnh án điện tử của người bệnh ta có thể tìm ra được phác đồ thích hợp hơn cả cho người bệnh. Amazon đã phân tích các lần mua hàng trước của bạn để dự đoán những món đồ bạn có thể sẽ thích mua và gửi quảng cáo tới, v.v. Khi nghe nói về các thành tựu đột phá gần đây của Trí tuệ nhân tạo người nghe có thể cũng chưa biết rằng phần lớn chúng đều dựa vào các phương pháp và đột phá của KHDL.
 Mạng xã hội và dữ liệu người dùng
-
 CEO của Facebook, Mark Zuckerberg thuyết trình tại hội nghị phát triển F8
 Facebook, mạng xã hội lớn nhất hành tinh, một trong những cái tên được nhắc tới nhiều nhất trong giới trẻ hiện nay, là một trong những ứng dụng nổi tiếng của khoa học dữ liệu.
 Tại hội nghị các nhà phát triển F8 đầu năm 2016, CEO Mark Zurkerberg cũng đã thông báo về một lộ trình mười năm tới. Trong đó, sẽ tạo ra một hệ sinh thái với những sản phẩm và công nghệ tiên tiến như trí tuệ nhân tạo (Artificial Intelligence). Tất cả đều dựa trên toàn bộ nguồn dữ liệu từ người dùng và các thuật toán máy học (Machine Learning Algorithms).
@@ -23,16 +20,4 @@ Có nhiều biệt tài và kinh nghiệm với nhiều dạng dữ liệu và c
 Nhà phát triển dữ liệu thường tập trung vào việc viết phần mềm để làm phân tích, thống kê, và nhiệm vụ học máy, thường xuyên trong môi trường sản xuất. Họ thường có trình độ khoa học máy tính, và thường xuyên làm việc với cái gọi là "dữ liệu lớn" (Big Data).
 ### 4. Nhà nghiên cứu (Data Researchers)
 Đó là những người áp dụng những kỹ năng được đào tạo trong khoa học cùng với các công cụ và kỹ thuật, số liệu. Một số có bằng tiến sĩ, và các ứng dụng sáng tạo các công cụ toán học mang lại những hiểu biết và sản phẩm có giá trị.
-## Ngành đào tạo
- [Ngành Công nghệ Thông tin](https://tuyensinh.uit.edu.vn/tong-quan-nganh-cong-nghe-thong-tin)
- [Ngành Hệ thống Thông tin](https://tuyensinh.uit.edu.vn/tong-quan-nganh-he-thong-thong-tin)
- [Ngành Khoa học Máy tính](https://tuyensinh.uit.edu.vn/tong-quan-nganh-khoa-hoc-may-tinh)
- [Ngành Kỹ thuật Phần mềm](https://tuyensinh.uit.edu.vn/tong-quan-nganh-ky-thuat-phan-mem)
- [Ngành Kỹ thuật Máy tính](https://tuyensinh.uit.edu.vn/tong-quan-nganh-ky-thuat-may-tinh)
- [Ngành Mạng máy tính & Truyền thông Dữ liệu](https://tuyensinh.uit.edu.vn/tong-quan-nganh-mang-may-tinh-va-truyen-thong-du-lieu)
- [Ngành An toàn Thông tin](https://tuyensinh.uit.edu.vn/tong-quan-nganh-an-toan-thong-tin)
- [Ngành Thương mại Điện tử](https://tuyensinh.uit.edu.vn/tong-quan-nganh-thuong-mai-dien-tu)
- [Ngành Khoa học Dữ liệu](https://tuyensinh.uit.edu.vn/tong-quan-nganh-khoa-hoc-du-lieu)
- [Ngành Trí tuệ Nhân tạo](https://tuyensinh.uit.edu.vn/tong-quan-nganh-tri-tue-nhan-tao)
- [Ngành Thiết kế Vi mạch](https://tuyensinh.uit.edu.vn/tong-quan-nganh-thiet-ke-vi-mach)
- [Ngành Truyền thông Đa phương tiện](https://tuyensinh.uit.edu.vn/tong-quan-nganh-truyen-thong-da-phuong-tien)
+Source: https://tuyensinh.uit.edu.vn/tong-quan-nganh-khoa-hoc-du-lieu
