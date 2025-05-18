@@ -1,247 +1,257 @@
-import re
 import os
+import re
+import sys
 import json
 from pathlib import Path
+from langchain.text_splitter import RecursiveCharacterTextSplitter
+from datetime import datetime
 
-folder_dir = "cleaned_data"
-data_dir = "cleaned_data/markdown"
-
-def extract_year(text):
-    match = re.search(r'20\d{2}', text)
-    return match.group() if match else None
-
-def extract_department(text):
-    match = re.search(r'(ngành|khoa)\s+(.*)', text, re.IGNORECASE)
-    return match.group(2).strip() if match else None
-
-def detect_field(title):
-    lowered = title.lower()
-    tuyen_sinh_keywords = ["tuyển sinh", "đợt", "phương thức"]
-    nganh_keywords = ["tổng quan", "ngành", "khoa"]
-
-    tuyen_sinh_count = sum(1 for word in tuyen_sinh_keywords if word in lowered)
-    nganh_count = sum(1 for word in nganh_keywords if word in lowered)
-
-    if tuyen_sinh_count >= 2:
-        return "tuyển sinh"
-    elif nganh_count >= 2:
-        return "ngành"
-    else:
-        return "ngoài lề"
-
-# def chunk_markdown(content, source_file):
-    lines = content.splitlines()
-    title_line = lines[0]
-    title_line = title_line.replace("#","").strip()
-    field = detect_field(title_line)
-    year = extract_year(content) if field in ['tuyển sinh', 'ngoài lề'] else None
-    department = extract_department(title_line) if field == 'ngành' else None
-
-    # Đếm số lần xuất hiện mỗi header
-    header_counts = {
-        '##': sum(1 for line in lines if line.startswith('## ')),
-        '###': sum(1 for line in lines if line.startswith('### ')),
-        '####': sum(1 for line in lines if line.startswith('#### ')),
-    }
-
-    chunks = []
-
-    # Ưu tiên header cao hơn trước (## > ### > ####)
-    for level in ['##', '###', '####']:
-        if header_counts[level] >= 2:
-            header_prefix = level
-            print(f"Header level: {header_prefix}")
-            pattern = rf'{re.escape(header_prefix)}\s+(.*)\n(.*?)(?=\n{re.escape(header_prefix)}\s+|\n#{1,4}\s+|\Z)'
-            matches = re.findall(pattern, content, re.MULTILINE | re.DOTALL)
-            print(f"Matches found: {matches}")
-            # Chuyển đổi các chunk thành định dạng mong muốn
-            for header, body, _ in matches:
-                header = header.strip()
-                body = body.strip()
-                print(f"Header: {header}")
-                print(f"Body: {body}")
-                if header and body:
-                    chunks.append({
-                        'header': header,
-                        'content': body,
-                    })
-            break
-        else:
-            # Không có đủ header nào để tách
-            chunks = [{
-                'header': "",
-                'content': content.strip()
-            }]
-            header_prefix = ''
-
-
-    chunked_data = []
-    base_filename = Path(source_file).stem
-
-    for i, chunk in enumerate(chunks):
-        print(f"Processing chunk {i+1}/{len(chunks)}")
-        header = chunk.get("header", "")
-        content = chunk.get("content", "")
-        lines = content.strip().splitlines()
-        print(lines[0])
-        if not lines:
-            continue
-
-        title = title_line
-        # Gộp title gốc và tiêu đề từng phần
-        title_combined = f"{title.strip()} - {header.strip()}" if header else title.strip()
-
-        body = '\n'.join(lines)
-
-        entry = {
-            "title": title_combined,
-            "content": body.strip(),
-            "source_file": source_file,
-            "chunk_id": f"{base_filename}_{i+1}",
-            "field": field
-        }
-        if year:
-            entry["year"] = year
-        if department:
-            entry["department"] = department
-        chunked_data.append(entry)
-
-    return chunked_data
-
-
-def chunk_markdown(content, source_file):
+def extract_year_from_filename(filename):
     """
-    Chia nội dung Markdown thành các chunk nhỏ hơn dựa trên tiêu đề,
-    tuân thủ giới hạn token và định dạng tiêu đề mới.
+    Trích xuất năm từ tên file Markdown (giả định tên file có định dạng chứa năm).
+
+    Args:
+        filename (str): Tên file Markdown.
+
+    Returns:
+        str: Năm được trích xuất, hoặc None nếu không tìm thấy.
+    """
+    match = re.search(r'20\d{2}', filename)
+    return match.group(0) if match else None
+
+def extract_department_from_filename(filename):
+    """
+    Trích xuất tên khoa/ngành từ tên file Markdown (giả định tên file có chứa tên khoa/ngành).
+
+    Args:
+        filename (str): Tên file Markdown.
+
+    Returns:
+        str: Tên khoa/ngành được trích xuất, hoặc None nếu không tìm thấy.
+    """
+    parts = filename.lower().replace("_", " ").replace("-", " ").split()
+    department_keywords = ["nganh", "khoa"]
+    for i, part in enumerate(parts):
+        if part in department_keywords and i + 1 < len(parts):
+            return " ".join(parts[i+1:]).title().strip()
+        elif part not in department_keywords:
+            # Thử tìm các từ khóa có thể là tên ngành/khoa
+            potential_department = " ".join(p.title() for p in parts[i:] if p not in ['thong', 'tin', 'dai', 'hoc', 'nam'])
+            if potential_department:
+                return potential_department.strip()
+    return None
+
+def detect_field_from_filename(filename):
+    """
+    Xác định lĩnh vực của văn bản dựa trên tên file Markdown.
+
+    Args:
+        filename (str): Tên file Markdown.
+
+    Returns:
+        str: Lĩnh vực của văn bản ("tuyển sinh", "ngành", "ngoài lề").
+    """
+    lowered_filename = filename.lower().replace("_", " ").replace("-", " ")
+    if "tuyen sinh" in lowered_filename or "xet tuyen" in lowered_filename or "nhap hoc" in lowered_filename:
+        return "tuyển sinh"
+    elif "nganh" in lowered_filename or "khoa" in lowered_filename or "chuong trinh dao tao" in lowered_filename:
+        return "ngành"
+    elif "thong bao" in lowered_filename or "su kien" in lowered_filename or "hoi thao" in lowered_filename:
+        return "ngoài lề"
+    return "ngoài lề" # Mặc định nếu không tìm thấy
+
+def get_keywords(text, keywords_dict):
+    """
+    Lấy tất cả các từ khóa từ keywords_dict xuất hiện trong văn bản.
+
+    Args:
+        text (str): Chuỗi văn bản để tìm kiếm từ khóa.
+        keywords_dict (dict): Từ điển chứa các từ khóa theo danh mục.
+
+    Returns:
+        list: Danh sách tất cả các từ khóa được tìm thấy trong văn bản.
+    """
+    text_lower = text.lower()
+    found_keywords = set()
+
+    for category, keywords in keywords_dict.items():
+        for kw in keywords:
+            if kw.lower() in text_lower:
+                found_keywords.add(kw)
+
+    return list(found_keywords)
+
+def chunk_markdown(content, source_file, priority_keywords_dict, output_dir):
+    """
+    Chia nội dung Markdown thành các đoạn nhỏ (chunks) và tạo metadata,
+    trích xuất source từ dòng cuối cùng của file và thông tin từ tên file.
 
     Args:
         content (str): Nội dung Markdown cần chia.
-        source_file (str): Đường dẫn đến file nguồn.
+        source_file (str): Đường dẫn đến file Markdown nguồn.
+        priority_keywords_dict (dict): Từ điển chứa các từ khóa ưu tiên.
+        output_dir (str): Đường dẫn đến thư mục output cho file JSON.
 
     Returns:
-        list: Danh sách các chunk, mỗi chunk là một dictionary.
+        list: Danh sách các chunk, mỗi chunk là một dictionary chứa nội dung và metadata.
     """
+    filename = Path(source_file).name
+    title_line = Path(source_file).stem.replace("_", " ").title() # Lấy title từ tên file mặc định
+    field = detect_field_from_filename(filename)
+    year = extract_year_from_filename(filename)
+    department = extract_department_from_filename(filename)
+
     lines = content.splitlines()
-    title_line = lines[0].replace("#", "").strip()
-    field = detect_field(title_line)
-    year = extract_year(content) if field in ['tuyển sinh', 'ngoài lề'] else None
-    department = extract_department(title_line) if field == 'ngành' else None
 
+    # Trích xuất title từ nội dung nếu có
+    if lines and lines[0].startswith("#"):
+        title_line = lines[0].replace("#", "").strip()
+
+    # Trích xuất source từ dòng cuối cùng
+    source = None
+    if lines and lines[-1].startswith("Source:"):
+        source = lines[-1].replace("Source:", "").strip()
+    elif lines and re.match(r"https?://(?:[-\w.]|(?:%[\da-fA-F]{2}))+", lines[-1]):
+        source = f"Source: {lines[-1]}"
+    else:
+        source = f"Source: {source_file}" # Mặc định nếu không tìm thấy
+
+    # Loại bỏ dòng source khỏi nội dung để tránh nó bị đưa vào chunk
+    if source and content.endswith(lines[-1]):
+        content = content[:-len(lines[-1])].rstrip("\n")
+        lines = content.splitlines() # Cập nhật lại lines sau khi loại bỏ
+
+    # Thông tin tuyển sinh chi tiết hơn (vẫn dựa trên nội dung)
+    admission_info = {}
+    if field == "tuyển sinh":
+        admission_info["dot_tuyen_sinh"] = re.search(r"đợt\s+(\d+)", content, re.IGNORECASE).group(1) if re.search(r"đợt\s+(\d+)", content, re.IGNORECASE) else None
+        admission_info["phuong_thuc_xet_tuyen"] = re.search(r"phương thức\s+xét\s+tuyển\s*:\s*(.*)", content, re.IGNORECASE).group(1).strip() if re.search(r"phương thức\s+xét\s+tuyển\s*:\s*(.*)", content, re.IGNORECASE) else None
+        admission_info["chi_tieu"] = int(re.search(r"chỉ\s+tiêu\s*:\s*(\d+)", content, re.IGNORECASE).group(1)) if re.search(r"chỉ\s+tiêu\s*:\s*(\d+)", content, re.IGNORECASE) else None
+        diem_chuan_match = re.search(r"điểm\s+chuẩn\s*:\s*(\d+\.?\d*)", content, re.IGNORECASE)
+        admission_info["diem_chuan"] = float(diem_chuan_match.group(1)) if diem_chuan_match else None
+        admission_info["nguong_xet"] = re.search(r"ngưỡng\s+xét\s+tuyển\s*:\s*(.*)", content, re.IGNORECASE).group(1).strip() if re.search(r"ngưỡng\s+xét\s+tuyển\s*:\s*(.*)", content, re.IGNORECASE) else None
+
+    # Tách chunk theo header ##, ###,...
+    header_pattern = re.compile(r"^#{2,5}\s+(.*)")
     chunks = []
-    current_chunk = []
     current_header = ""
-    header_level = 0
+    current_chunk_lines = []
 
-    for line in lines[1:]:  # Bỏ dòng tiêu đề đầu tiên
-        line = line.strip()
-        if not line:
-            continue
+    for line in lines:
+        header_match = header_pattern.match(line)
+        if header_match:
+            if current_chunk_lines:
+                chunks.append((current_header, "\n".join(current_chunk_lines)))
+            current_chunk_lines = []
+            current_header = header_match.group(1).strip()
+        else:
+            current_chunk_lines.append(line)
 
-        if line.startswith('##'):
-            level = len(line) - len(line.lstrip('#'))
-            if level in [2, 3, 4, 5]:  # Các cấp header được chấp nhận
-                if current_chunk:
-                    chunks.append({
-                        'header': current_header,
-                        'content': '\n'.join(current_chunk).strip()
-                    })
-                current_header = line.replace('#', '').strip()
-                current_chunk = []
-                header_level = level
-                continue
+    if current_chunk_lines:
+        chunks.append((current_header, "\n".join(current_chunk_lines)))
 
-        current_chunk.append(line)
+    splitter = RecursiveCharacterTextSplitter(
+        chunk_size=250,
+        chunk_overlap=50,
+        separators=["\n\n", "\n", ". ", "! ", "? ", ", ", " ", ""]
+    )
 
-    # Thêm chunk cuối cùng
-    if current_chunk:
-        chunks.append({
-            'header': current_header,
-            'content': '\n'.join(current_chunk).strip()
-        })
+    result = []
+    chunk_counter = 0
 
-    # Chia mỗi chunk thành sub-chunk tối đa 250 tokens
-    chunked_data = []
-    base_filename = Path(source_file).stem
-    chunk_index = 1
+    for header, chunk_text in chunks:
+        sub_chunks = splitter.split_text(chunk_text)
+        for sub_text in sub_chunks:
+            chunk_counter += 1
+            chunk_id = f"{Path(source_file).stem}_chunk_{chunk_counter}"
+            keywords = get_keywords(sub_text, priority_keywords_dict)
 
-    for chunk in chunks:
-        content_text = chunk["content"]
-        if not content_text.strip():
-            continue
+            metadata = {
+                "title": title_line,
+                "header": header,
+                "content": sub_text,
+                "chunk_id": chunk_id,
+                "field": field,
+                "year": year,
+                "department": department,
+                "keywords": keywords,
+                "prev_chunk": None,
+                "next_chunk": None,
+                "source": source,
+                "admission_info": admission_info,
+            }
+            result.append(metadata)
 
-        # Tiêu đề mới theo yêu cầu
-        new_title = ""
-        if field:
-            new_title += field
-        if year:
-            new_title += f" {year}"
-        if department:
-            new_title += f" {department}"
-        new_title = new_title.strip()
+    for i in range(len(result)):
+        if i > 0:
+            result[i]["prev_chunk"] = result[i-1]["chunk_id"]
+        if i < len(result) - 1:
+            result[i]["next_chunk"] = result[i+1]["chunk_id"]
 
-        # Tiêu đề gốc viết hoa
-        original_title_upper = title_line.upper()
-        header_text = chunk['header']
+    return result
 
-        combined_text = f"{original_title_upper} # {header_text} {content_text}"
-        tokens = combined_text.split() # Đơn giản hóa việc đếm token, có thể cần thay thế bằng thư viện nếu cần độ chính xác cao
+def save_chunks_to_json(chunks, output_path):
+    """
+    Lưu danh sách các chunk vào file JSON.
 
-        sub_content = ""
-        for token in tokens:
-            if len(sub_content.split()) + 1 > 250:
-                entry = {
-                    "title": new_title,
-                    "content": sub_content.strip(),
-                    "source_file": source_file,
-                    "chunk_id": f"{base_filename}_{chunk_index}",
-                    "field": field
-                }
-                if year:
-                    entry["year"] = year
-                if department:
-                    entry["department"] = department
-                chunked_data.append(entry)
-                chunk_index += 1
-                sub_content = token # Start the new sub_content with the current token
-            else:
-                sub_content += " " + token
+    Args:
+        chunks (list): Danh sách các chunk.
+        output_path (str): Đường dẫn đến file JSON đầu ra.
+    """
+    with open(output_path, "w", encoding="utf-8") as f:
+        json.dump(chunks, f, ensure_ascii=False, indent=2)
 
-        # Add the last chunk
-        if sub_content.strip():
-            entry = {
-                    "title": new_title,
-                    "content": sub_content.strip(),
-                    "source_file": source_file,
-                    "chunk_id": f"{base_filename}_{chunk_index}",
-                    "field": field
-                }
-            if year:
-                entry["year"] = year
-            if department:
-                entry["department"] = department
-            chunked_data.append(entry)
-            chunk_index += 1
+def main():
+    """
+    Hàm chính của chương trình.
+    """
+    markdown_dir = "cleaned_data/markdown"
+    output_dir = "cleaned_data/json"
+    keywords_file = "keywords.py"
 
-    return chunked_data
+    # Tạo thư mục output nếu chưa tồn tại
+    os.makedirs(output_dir, exist_ok=True)
 
+    # Load keywords
+    keywords_dict = {}
+    try:
+        script_dir = os.path.dirname(os.path.abspath(__file__))
+        sys.path.insert(0, script_dir)
+        from keywords import keywords_dict
+        keywords_dict = keywords_dict
+    except ImportError as e:
+        print(f"Error: Could not import keywords_dict from {keywords_file}. Please ensure the file exists and the variable is correctly named. Error: {e}")
+        sys.exit(1)
+    except FileNotFoundError:
+        print(f"Error: The file {keywords_file} was not found at {os.path.join(os.getcwd(), keywords_file)}. Please provide the correct path.")
+        sys.exit(1)
+    except Exception as e:
+        print(f"An unexpected error occurred while loading keywords: {e}")
+        sys.exit(1)
 
-def process_markdown_file(folder):
-    folder_path = Path(folder_dir)
-    output_path = Path(folder_dir) / "chunked_json"
-    print(f"Processing folder: {folder_path}")
-    print(f"Output folder: {output_path}")
-    if not output_path.exists():
-        print(f"Creating output folder: {output_path}")
-        output_path.mkdir(parents=True, exist_ok=True)
-    
-    for file in folder_path.glob("*.md"):
-        with open(file, 'r', encoding='utf-8') as f:
-            content = f.read()
-        print(f"Processing file: {file}")
-        chunked_data = chunk_markdown(content, str(file))
+    markdown_files = [f for f in os.listdir(markdown_dir) if f.endswith(".md")]
 
-        json_filename = output_path / (file.stem + ".json")
-        with open(json_filename, 'w', encoding='utf-8') as out_file:
-            json.dump(chunked_data, out_file, ensure_ascii=False, indent=2)
+    if not markdown_files:
+        print(f"No markdown files found in {markdown_dir}")
+        sys.exit(0)
 
-process_markdown_file(data_dir)
+    for filename in markdown_files:
+        markdown_path = os.path.join(markdown_dir, filename)
+        output_filename = Path(filename).stem + "_chunks.json"
+        output_path = os.path.join(output_dir, output_filename)
+
+        try:
+            with open(markdown_path, "r", encoding="utf-8") as f:
+                content = f.read()
+
+            chunks = chunk_markdown(content, markdown_path, keywords_dict, output_dir)
+            save_chunks_to_json(chunks, output_path)
+            print(f"Processed {markdown_path} and saved {len(chunks)} to {output_path}")
+
+        except FileNotFoundError:
+            print(f"Error: The markdown file {markdown_path} was not found.")
+        except Exception as e:
+            print(f"An error occurred while processing {markdown_path}: {e}")
+
+if __name__ == "__main__":
+    main()
