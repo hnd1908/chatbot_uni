@@ -1,0 +1,27 @@
+T5, 08/05/2025 - 16:07
+
+Bạn đang muốn tận hưởng một mùa hè có thể vừa học vừa chơi, vừa khám phá bản thân, phát triển kỹ năng lập trình và trải nghiệm môi trường đại học hiện đại? Vậy thì hãy để UIT bật mí cho bạn một thông tin cực hot: UIT ALGO BOOTCAMP 2025 - Kỳ huấn luyện mùa hè đã chính thức quay trở lại và sẵn sàng cùng bạn tạo nên hành trình bứt phá.
+
+Là chương trình thường niên của trường Đại học Công nghệ Thông tin, ĐHQG-HCM, UIT Algo Bootcamp không chỉ đơn thuần là khóa huấn luyện mà còn là một kỳ nghỉ thượng hạng - được tổ chức với mục tiêu nâng cao kiến thức và tư duy lập trình thuật toán cho các bạn học sinh THPT và sinh viên UIT. Đây là sân chơi mang đậm dấu ấn riêng của UIT, trại hè năm nay với quy mô giới hạn 60 trại sinh, nhằm đảm bảo đem đến cho các bạn trẻ yêu thích Tin học có cơ hội cọ xát, trải nghiệm và khai phá tiềm năng thực sự của mình trong lĩnh vực IT, đồng thời trang bị những kỹ năng quan trọng hỗ trợ cho quá trình khởi nghiệp sau này.
+
+Với hành trình dài 8 ngày, UIT Algo Bootcamp 2025 sẽ đưa bạn bước vào thế giới công nghệ đầy sôi động và hấp dẫn nhất hiện nay. Không đơn thuần là những buổi rèn luyện tư duy thuật toán chuyên sâu, chương trình còn đưa bạn chạm ngõ các lĩnh vực công nghệ mũi nhọn như Trí tuệ nhân tạo (AI), Internet vạn vật (IoT), An toàn thông tin và Thiết kế vi mạch – tất cả được lồng ghép vào những lớp học đặc biệt. Các trại sinh tham gia sẽ không chỉ được cung cấp nền tảng lý thuyết, bên cạnh đó còn được trải nghiệm tham gia các mini project, thực hành xây dựng sản phẩm thực tế và làm quen với quy trình giải quyết vấn đề chuyên nghiệp như một kỹ sư IT thực thụ.
+
+Không dừng lại ở chuyên môn, UIT Algo Bootcamp 2025 còn chú trọng phát triển các kỹ năng mềm thiết yếu cho hành trình học tập và nghề nghiệp tương lai: kỹ năng giải quyết vấn đề, kỹ năng làm việc nhóm, kỹ năng trình bày ý tưởng và tư duy phản biện. Tham gia Kỳ huấn luyện tại UIT, bạn sẽ được hướng dẫn bởi các thầy cô giàu kinh nghiệm, các chuyên gia từ doanh nghiệp công nghệ, và các anh chị sinh viên UIT từng gặt hái nhiều thành tích tại các đấu trường Tin học trong nước và quốc tế.
+
+Bên cạnh đó, cuộc thi “Ý tưởng sáng tạo Công nghệ Thông tin” cũng quay trở lại trong UIT Algo Bootcamp năm nay. Đây sẽ là sân chơi tạo cơ hội để trại sinh cùng nhau trao đổi, lên ý tưởng sáng tạo về ứng dụng công nghệ thông tin trong đời sống để thuyết trình với Ban giám khảo và nhận về những phần quà vô cùng hấp dẫn.
+
+Không dừng lại ở đó, hành trình tại UIT Algo Bootcamp 2025 còn đưa bạn đến tham quan các doanh nghiệp công nghệ hàng đầu, để tận mắt chứng kiến môi trường làm việc chuyên nghiệp, hiểu thêm về con đường sự nghiệp tương lai. Chính trải nghiệm thực tế quý giá sẽ tiếp thêm cho các bạn trại sinh động lực mạnh mẽ để hiện thực hóa đam mê công nghệ.
+
+Cùng với những hoạt động học thuật, trải nghiệm thế giới công nghệ đầy hấp dẫn, Kỳ huấn luyện mùa hè tại UIT sẽ còn đem đến cho các trại sinh vô vàn những hoạt động ngoại khóa thú vị. Các bạn sẽ được trải nghiệm sinh sống tại Ký túc xá sinh viên ĐHQG-HCM, tham gia giao lưu thể thao, khám phá ẩm thực khu đô thị ĐHQG-HCM cùng những người bạn mới đến từ khắp các tỉnh thành trên cả nước. Đặc biệt, trại sinh sẽ có một ngày trải nghiệm tại khu du lịch, với những hoạt động team building sôi động, bữa tiệc BBQ ấm cúng. Đồng thời, đây còn là dịp để các bạn trò chuyện gần gũi với các anh chị Đại sứ sinh viên UIT, lắng nghe về chuyện học, chuyện thi hay thực tập nghề nghiệp.
+
+Trại sinh UIT Algo Bootcamp 2024 thích thú với trải nghiệm khám phá công ty Athena
+
+Hãy để UIT ALGO BOOTCAMP 2025 là chương mở đầu cho hành trình chinh phục công nghệ và khai phá bản thân của bạn. Và là nơi để bạn rèn luyện bản lĩnh, khơi nguồn sáng tạo, phát triển tư duy công nghệ và chuẩn bị cho những bước tiến dài cho sự nghiệp tương lai.
+
+Còn chần chờ gì nữa mà không đăng ký ngay để không bỏ lỡ chuyến phiêu lưu công nghệ đầy hấp dẫn này!
+
+Đăng ký tham gia ngay tại link:
+
+https://link.uit.edu.vn/DKTraiHe2025
+
+Source: https://tuyensinh.uit.edu.vn/uit-algo-bootcamp-ky-huan-luyen-mua-he-mua-he-bung-no-dam-chat-dam-me

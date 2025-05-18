@@ -1,44 +1,64 @@
-# [2024] Học bổng dành cho sinh viên chương trình BCU Khóa 2024
-
 T3, 18/06/2024 - 11:28
 
-**THÔNG BÁO**
+THÔNG BÁO
 
-**Về học bổng dành cho sinh viên chương trình liên kết**
+Về học bổng dành cho sinh viên chương trình liên kết
 
-**với Đại học Birmingham City - Vương quốc Anh (BCU)**
+với Đại học Birmingham City - Vương quốc Anh (BCU)
 
-**Khóa 2024**
+Khóa 2024
 
-**I.****ĐỐI TƯỢNG**
+I.
 
-Sinh viên trúng tuyển **diện chính thức** vào chương trình BCU tại Trường Đại học Công nghệ Thông tin khóa tuyển 2024.
+ĐỐI TƯỢNG
 
-**II.****NỘI DUNG**
+Sinh viên trúng tuyển
 
-|  |  |  |  |
+diện chính thức
+
+vào chương trình BCU tại Trường Đại học Công nghệ Thông tin khóa tuyển 2024.
+
+II.
+
+NỘI DUNG
+
+| STT | ĐIỀU KIỆN | TRỊ GIÁ | GHI CHÚ |
+
 | --- | --- | --- | --- |
-| **STT** | **ĐIỀU KIỆN** | **TRỊ GIÁ** | **GHI CHÚ** |
-| **2.1. Học bổng khuyến học** | | | |
-| 1 | **"Học bổng toàn phần chương trình quốc tế ưu tú"**  có điều kiện như sau:  + Đạt giải Nhất, Nhì, Ba trong kỳ thi Học sinh giỏi Quốc gia hoặc huy chương (vàng, bạc, đồng) trong các cuộc thi quốc tế các môn Tin học, Toán, Lý, Hóa | Miễn học phí 100% toàn khóa học. | 5 suất |
-| 2 | **"Học bổng**  **khuyến học chương trình quốc tế xuất sắc"**  có điều kiện như sau:  + Đạt giải Khuyến khích trong kỳ thi Học sinh giỏi Quốc gia các môn Tin học, Toán, Lý, Hóa;  + Đạt giải Nhất, Nhì, Ba trong kỳ thi HSG hoặc kỳ thi Olympic cấp Tỉnh/Thành phố các môn Tin học, Toán, Lý, Hóa;  + Học sinh đạt điểm thi THPTQG tối thiểu của 3 môn (tổ hợp môn A00, A01, D01, D07) từ 28 điểm trở lên hoặc từ 800 điểm kết quả kỳ thi đánh giá năng lực Đại học quốc gia TP. HCM;  + Đăng ký xét tuyển và thực hiện thủ tục đăng ký nhập học ***trước ngày 30/08/2024.*** | Miễn học phí 70% năm học đầu tiên, trị giá 56 triệu đồng | - 10 suất ngành MMT&ATTT  - 05 suất ngành KHMT |
-| 3 | **"Học bổng****khuyến học chương trình quốc tế tài năng"**có điều kiện như sau:  + **Đối với ngành Khoa học máy tính:**Học sinh đạt điểm thi THPTQG tối thiểu của 3 môn (tổ hợp môn A00, A01, D01, D07) từ 25 điểm trở lên hoặc từ 780 điểm kết quả kỳ thi đánh giá năng lực của Đại học Quốc gia TP.HCM *;*  +  **Đối với ngành Mạng máy tính và An toàn thông tin:**  Học sinh đạt điểm thi THPTQG tối thiểu của 3 môn (tổ hợp môn A00, A01, D01, D07) từ 23 điểm trở lên hoặc từ 750 điểm kết quả kỳ thi đánh giá năng lực của Đại học Quốc gia TP.HCM*;* | Miễn học phí 50% năm học đầu tiên trị giá 40 triệu đồng. | 20 suất/ngành |
-| 4 | **"Học bổng khuyến học ch****ương trình quốc tế"**có điều kiện như sau:  + **Đối với ngành Khoa học máy tính:**Học sinh đạt điểm thi THPTQG tối thiểu của 3 môn (tổ hợp môn A00, A01, D01, D07) từ 22 điểm trở lên hoặc từ 730 điểm kết quả kỳ thi đánh giá năng lực của Đại học Quốc gia TP.HCM *;*  +  **Đối với ngành Mạng máy tính và An toàn thông tin:**  Học sinh đạt điểm thi THPTQG tối thiểu của 3 môn (tổ hợp môn A00, A01, D01, D07) từ 20 điểm trở lên hoặc từ 700 điểm kết quả kỳ thi đánh giá năng lực của Đại học Quốc gia TP.HCM*;* | Miễn học phí 30% năm học đầu tiên trị giá 24 triệu đồng. | 30 suất/ngành |
-| **2.2. Học bổng chứng chỉ Anh văn quốc tế** | | | |
+
+| 2.1. Học bổng khuyến học |
+
+| 1 | "Học bổng toàn phần chương trình quốc tế ưu tú"có điều kiện như sau:+ Đạt giải Nhất, Nhì, Ba trong kỳ thi Học sinh giỏi Quốc gia hoặc huy chương (vàng, bạc, đồng) trong các cuộc thi quốc tế các môn Tin học, Toán, Lý, Hóa | Miễn học phí 100% toàn khóa học. | 5 suất |
+
+| 2 | "Học bổngkhuyến học chương trình quốc tế xuất sắc"có điều kiện như sau:+ Đạt giải Khuyến khích trong kỳ thi Học sinh giỏi Quốc gia các môn Tin học, Toán, Lý, Hóa;+ Đạt giải Nhất, Nhì, Ba trong kỳ thi HSG hoặc kỳ thi Olympic cấp Tỉnh/Thành phố các môn Tin học, Toán, Lý, Hóa;+ Học sinh đạt điểm thi THPTQG tối thiểu của 3 môn (tổ hợp môn A00, A01, D01, D07) từ 28 điểm trở lên hoặc từ 800 điểm kết quả kỳ thi đánh giá năng lực Đại học quốc gia TP. HCM;+ Đăng ký xét tuyển và thực hiện thủ tục đăng ký nhập họctrước ngày 30/08/2024. | Miễn học phí 70% năm học đầu tiên, trị giá 56 triệu đồng | - 10 suất ngành MMT&ATTT- 05 suất ngành KHMT |
+
+| 3 | "Học bổngkhuyến học chương trình quốc tế tài năng"có điều kiện như sau:+Đối với ngành Khoa học máy tính:Học sinh đạt điểm thi THPTQG tối thiểu của 3 môn (tổ hợp môn A00, A01, D01, D07) từ 25 điểm trở lên hoặc từ 780 điểm kết quả kỳ thi đánh giá năng lực của Đại học Quốc gia TP.HCM;+Đối với ngành Mạng máy tính và An toàn thông tin:Học sinh đạt điểm thi THPTQG tối thiểu của 3 môn (tổ hợp môn A00, A01, D01, D07) từ 23 điểm trở lên hoặc từ 750 điểm kết quả kỳ thi đánh giá năng lực của Đại học Quốc gia TP.HCM; | Miễn học phí 50% năm học đầu tiên trị giá 40 triệu đồng. | 20 suất/ngành |
+
+| 4 | "Học bổng khuyến học chương trình quốc tế"có điều kiện như sau:+Đối với ngành Khoa học máy tính:Học sinh đạt điểm thi THPTQG tối thiểu của 3 môn (tổ hợp môn A00, A01, D01, D07) từ 22 điểm trở lên hoặc từ 730 điểm kết quả kỳ thi đánh giá năng lực của Đại học Quốc gia TP.HCM;+Đối với ngành Mạng máy tính và An toàn thông tin:Học sinh đạt điểm thi THPTQG tối thiểu của 3 môn (tổ hợp môn A00, A01, D01, D07) từ 20 điểm trở lên hoặc từ 700 điểm kết quả kỳ thi đánh giá năng lực của Đại học Quốc gia TP.HCM; | Miễn học phí 30% năm học đầu tiên trị giá 24 triệu đồng. | 30 suất/ngành |
+
+| 2.2. Học bổng chứng chỉ Anh văn quốc tế |
+
 | 1 | Sinh viên tại thời điểm trúng tuyển đã có trình độ tiếng Anh tương đương IELTS từ 5.5 đến dưới 6.5 | 4.000.000đ | Không giới hạn số lượng |
+
 | 2 | Sinh viên tại thời điểm trúng tuyển đã có trình độ tiếng Anh tương đương IELTS từ 6.5 đến dưới 7.0 | 8.000.000đ | Không giới hạn số lượng |
+
 | 3 | Sinh viên tại thời điểm trúng tuyển đã có trình độ tiếng Anh tương đương IELTS từ 7.0 trở lên | 10.000.000đ | Không giới hạn số lượng |
-| **2.3. Học bổng khuyến khích học tập mỗi học kỳ** | | | |
+
+| 2.3. Học bổng khuyến khích học tập mỗi học kỳ |
+
 | 1 | Sinh viên có điểm trung bình học kỳ đứng đầu của mỗi khóa cho mỗi ngành đào tạo | 3.500.000đ | 01 suất/khóa/ngành |
+
 | 2 | Sinh viên có điểm trung bình học kỳ đứng thứ 2, 3 của mỗi khóa cho mỗi ngành đào tạo | 1.750.000đ | 02 suất/khóa/ngành |
 
-**2.3. Cách thức đăng ký:**
+2.3. Cách thức đăng ký:
 
 - Đối với học bổng khuyến học và học bổng chứng chỉ Anh văn quốc tế:
 
 o Tất cả sinh viên có nguyện vọng xét học bổng đăng ký theo biểu mẫu học bổng của Trường.
 
-o Thời gian đăng ký từ ngày ra thông báo đến hết ngày  **15/10/2024.**
+o Thời gian đăng ký từ ngày ra thông báo đến hết ngày
+
+15/10/2024.
 
 - Đối với học bổng khuyến khích học tập mỗi học kỳ:
 
@@ -46,7 +66,7 @@ o Do Trường xét đầu mỗi học kỳ, bắt đầu từ học kỳ thứ 
 
 o Sinh viên không cần làm đơn.
 
-**III. LƯU Ý:**
+III. LƯU Ý:
 
 - Trong các loại học bổng (ở các mục 2.1, 2.2) nếu sinh viên đủ điều kiện đạt nhiều loại thì chỉ được nhận 01 học bổng có giá trị cao nhất.
 
@@ -62,78 +82,26 @@ o Sinh viên không cần làm đơn.
 
 o Văn phòng các Chương trình Đặc biệt, E2.1
 
-* Email: [vpdb@uit.edu.vn](mailto:vpdb@uit.edu.vn)
-* Website: [www.oep.uit.edu.vn](http://www.oep.uit.edu.vn/)
-* Điện thoại: (028) 3725 2002 - Số máy nhánh: 155
+Email:
+
+vpdb@uit.edu.vn
+
+Website:
+
+www.oep.uit.edu.vn
+
+Điện thoại: (028) 3725 2002 - Số máy nhánh: 155
 
 o Văn phòng Chương trình BCU tại Việt Nam
 
-* Email: [thuan@bcu.edu.vn](mailto:thuan@bcu.edu.vn)
-* Website: [www.bcu.edu.vn](http://www.bcu.edu.vn/)
-* Điện thoại: 028 2253 9550 – 0987 420 020 – 0909 300 994
+Email:
 
-## Thông tin khác
+thuan@bcu.edu.vn
 
-* [[2024] Thông báo tuyển sinh vào đại học Chương trình liên kết với Đại học Birmingham City – Vương Quốc Anh đợt 2 năm 2024](/2024-thong-bao-tuyen-sinh-vao-dai-hoc-chuong-trinh-lien-ket-voi-dai-hoc-birmingham-city-vuong-quoc-anh-dot-2-nam-2024)
-  (12-09-2024)
-* [[2024] – Tuyển sinh Chương trình Tài năng năm 2024](/2024-tuyen-sinh-chuong-trinh-tai-nang-nam-2024)
-  (23-08-2024)
-* [[2024] Thông báo kết quả xét tuyển Chương trình liên kết đại học Birmingham City (BCU)](/2024-thong-bao-ket-qua-xet-tuyen-chuong-trinh-lien-ket-dai-hoc-birmingham-city-bcu)
-  (29-07-2024)
-* [[2024] Thông báo tuyển sinh vào đại học Chương trình liên kết với Đại học Birmingham City – Vương Quốc Anh đợt 1 năm 2024](/2024-thong-bao-tuyen-sinh-vao-dai-hoc-chuong-trinh-lien-ket-voi-dai-hoc-birmingham-city-vuong-quoc-anh-dot-1-nam-2024)
-  (12-04-2024)
-* [[2023] Thông báo tuyển sinh vào đại học Chương trình liên kết với Đại học Birmingham City – Vương Quốc Anh đợt 3 năm 2023](/2023-thong-bao-tuyen-sinh-vao-dai-hoc-chuong-trinh-lien-ket-voi-dai-hoc-birmingham-city-vuong-quoc-anh-dot-3-nam-2023) 
-  (16-10-2023)
+Website:
 
-## Trang
+www.bcu.edu.vn
 
-* 1
-* [2](/2024-hoc-bong-danh-cho-sinh-vien-chuong-trinh-bcu-khoa-2024?page=1 "Đến trang 2")
-* [3](/2024-hoc-bong-danh-cho-sinh-vien-chuong-trinh-bcu-khoa-2024?page=2 "Đến trang 3")
-* [4](/2024-hoc-bong-danh-cho-sinh-vien-chuong-trinh-bcu-khoa-2024?page=3 "Đến trang 4")
-* [5](/2024-hoc-bong-danh-cho-sinh-vien-chuong-trinh-bcu-khoa-2024?page=4 "Đến trang 5")
-* [6](/2024-hoc-bong-danh-cho-sinh-vien-chuong-trinh-bcu-khoa-2024?page=5 "Đến trang 6")
-* [7](/2024-hoc-bong-danh-cho-sinh-vien-chuong-trinh-bcu-khoa-2024?page=6 "Đến trang 7")
-* [8](/2024-hoc-bong-danh-cho-sinh-vien-chuong-trinh-bcu-khoa-2024?page=7 "Đến trang 8")
-* [9](/2024-hoc-bong-danh-cho-sinh-vien-chuong-trinh-bcu-khoa-2024?page=8 "Đến trang 9")
-* [sau ›](/2024-hoc-bong-danh-cho-sinh-vien-chuong-trinh-bcu-khoa-2024?page=1 "Đến trang sau")
-* [cuối »](/2024-hoc-bong-danh-cho-sinh-vien-chuong-trinh-bcu-khoa-2024?page=9 "Đến trang cuối cùng")
+Điện thoại: 028 2253 9550 – 0987 420 020 – 0909 300 994
 
-* [Tuyển sinh UIT](/2024-hoc-bong-danh-cho-sinh-vien-chuong-trinh-bcu-khoa-2024?qt-th_ng_b_o=0#qt-th_ng_b_o)
-* [Tuyển sinh chung](/2024-hoc-bong-danh-cho-sinh-vien-chuong-trinh-bcu-khoa-2024?qt-th_ng_b_o=1#qt-th_ng_b_o)
-
-[[2025] THÔNG BÁO HỌC BỔNG “TOÀN DIỆN – SÁNG TẠO – PHỤNG SỰ” NĂM 2025](/2025-thong-bao-hoc-bong-toan-dien-sang-tao-phung-su-nam-2025)
-(09/04/2025)  
-THÔNG BÁO HỌC BỔNG “TOÀN DIỆN – SÁNG TẠO – PHỤNG SỰ” NĂM 2025 Trường Đại học Công nghệ Thông tin - Đại học Quốc gia...
-
-[[2024] Thông báo kết quả xét tuyển năm 2024](/2024-thong-bao-ket-qua-xet-tuyen-nam-2024)
-(19/08/2024)
-
-[[2024] Thông báo điểm chuẩn xét tuyển theo phương thức Xét kết quả thi tốt nghiệp THPT năm 2024](/2024-thong-bao-diem-chuan-xet-tuyen-theo-phuong-thuc-xet-ket-qua-thi-tot-nghiep-thpt-nam-2024)
-(18/08/2024)
-
-[[2024] Thông báo mức điểm nhận hồ sơ xét tuyển dựa trên kết quả thi tốt nghiệp THPT năm 2024](/2024-thong-bao-muc-diem-nhan-ho-so-xet-tuyen-dua-tren-ket-qua-thi-tot-nghiep-thpt-nam-2024)
-(19/07/2024)
-
-[[2024] Thông báo tuyển sinh chương trình song ngành Thương mại Điện tử](/2024-thong-bao-tuyen-sinh-chuong-trinh-song-nganh-thuong-mai-dien-tu)
-(06/08/2024)  
-Trường ĐHCNTT, ĐHQG-HCM thông báo tuyển sinh chương trình song ngành Thương mại Điện tử: Đối tượng tuyển sinh: Là sinh...
-
-[Xem thêm](/tuyen-sinh-uit)
-
-[[2024] Thông báo mức điểm nhận hồ sơ xét tuyển dựa trên kết quả thi tốt nghiệp THPT năm 2024](/2024-thong-bao-muc-diem-nhan-ho-so-xet-tuyen-dua-tren-ket-qua-thi-tot-nghiep-thpt-nam-2024)
-(19/07/2024)
-
-[[2024] Thông báo kết quả xét tuyển các phương thức xét tuyển sớm năm 2024](/2024-thong-bao-ket-qua-xet-tuyen-cac-phuong-thuc-xet-tuyen-som-nam-2024)
-(02/07/2024)
-
-[2024] Thông báo điểm chuẩn xét tuyển theo phương thức Xét tuyển dựa trên kết quả kỳ thi đánh giá năng lực do ĐHQG-HCM tổ chức năm 2024](/2024-thong-bao-diem-chuan-xet-tuyen-theo-phuong-thuc-xet-tuyen-dua-tren-ket-qua-ky-thi-danh-gia-nang-luc-do-dhqg-hcm-chuc-nam-2024)
-(02/07/2024)
-
-[[2023] Thông báo mức điểm nhận hồ sơ xét tuyển dựa trên kết quả thi tốt nghiệp THPT năm 2023](/2023-thong-bao-muc-diem-nhan-ho-so-xet-tuyen-dua-tren-ket-qua-thi-tot-nghiep-thpt-nam-2023)
-(22/07/2023)
-
-[[2023] Đề án tuyển sinh trình độ Đại học năm 2023](/2023-de-tuyen-sinh-trinh-do-dai-hoc-nam-2023)
-(02/04/2023)
-
-[Xem thêm](/tuyen-sinh-chung)
+Source: https://tuyensinh.uit.edu.vn/2024-hoc-bong-danh-cho-sinh-vien-chuong-trinh-bcu-khoa-2024

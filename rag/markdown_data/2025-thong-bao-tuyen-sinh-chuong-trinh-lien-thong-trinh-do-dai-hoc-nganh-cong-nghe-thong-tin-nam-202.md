@@ -1,40 +1,26 @@
-T3, 07/05/2024 - 11:22
+T6, 09/05/2025 - 14:42
 
-Trường Đại học Công nghệ Thông tin thông báo tuyển sinh lớp Cử nhân liên thông ngành Công nghệ Thông tin (CNTT) hệ chính quy năm 2024 như sau:
+Trường Đại học Công nghệ Thông tin thông báo tuyển sinh chương trình liên thông trình độ đại học ngành
+
+Công nghệ Thông tin
+
+(
+
+Mã ngành: 7480201
+
+)
+
+hình thức đào tạo chính quy năm 2025 như sau:
 
 I.
 
 ĐỐI
 
-TƯỢNG TUYỂN SINH
+TƯỢNG TUYỂN SINH:
 
 - Là công dân Việt Nam có đủ sức khỏe và không trong thời gian can án hoặc bị truy cứu trách nhiệm hình sự.
 
 - Đã có bằng tốt nghiệp cao đẳng cùng ngành, nhóm ngành hoặc ngành gần với ngành đào tạo. Trường hợp văn bằng do cơ sở giáo dục nước ngoài hoạt động hợp pháp tại Việt Nam hoặc cơ sở giáo dục hoạt động hợp pháp ở nước ngoài cấp thì văn bằng phải được công nhận theo quy định của Bộ Giáo dục và Đào tạo.
-
-II.
-
-NGÀNH TUYỂN SINH:
-
-Công nghệ Thông tin. Mã ngành: 7480201.
-
-III.
-
-CHỈ TIÊU TUYỂN SINH: 30
-
-chỉ tiêu.
-
-IV.
-
-HÌNH
-
-THỨC
-
-TUYỂN SINH:
-
-Xét tuyển dựa trên bằng tốt nghiệp cao đẳng theo danh mục ngành cấp 4 hiện hành, gồm:
-
-1.
 
 Ngành đúng:
 
@@ -64,8 +50,6 @@ Ngành đúng:
 
 | 11 | 6480101 | Khoa học máy tính |
 
-2.
-
 Ngành gần:
 
 | STT | Mã ngành | Tên ngành |
@@ -90,6 +74,36 @@ Ngành gần:
 
 | 9 | 6480204 | Tin học viễn thông ứng dụng |
 
+II.
+
+CHỈ TIÊU TUYỂN SINH: 30
+
+chỉ tiêu.
+
+III.
+
+HÌNH
+
+THỨC
+
+TUYỂN SINH:
+
+Xét tuyển.
+
+IV.
+
+ĐIỀU KIỆN
+
+TUYỂN SINH:
+
+- Điều kiện: Tốt nghiệp Cao đẳng ngành đúng hoặc ngành gần.
+
+- Tiêu chí xét tuyển:
+
++ Ngành tốt nghiệp cao đẳng (ngành đúng/ngành gần)
+
++ Điểm trung bình tích lũy toàn khóa bậc cao đẳng
+
 Lưu ý: thí sinh tốt nghiệp cao đẳng ngành gần với ngành đào tạo sau khi trúng tuyển phải học bổ túc một số môn học theo quy định của Trường.
 
 V.
@@ -100,7 +114,7 @@ tối thiểu 1.5 năm.
 
 VI.
 
-HÌNH THỨC HỌC TẬP
+HÌNH THỨC ĐÀO TẠO:
 
 - Học tập trung theo học chế tín chỉ.
 
@@ -112,15 +126,17 @@ VII.
 
 BẰNG CẤP:
 
-Bằng cử nhân đại học chính quy ngành CNTT.
+Bằngcử nhânđại học chính quy ngành Công nghệ Thông tin.
 
 VIII.
 
-HỌC PHÍ
+HỌC PHÍ DỰ KIẾN:
 
-- Năm 1 : 40.000.000 đồng/năm.
+| Chương trình | Năm học2025-2026 | Năm học2026-2027 |
 
-- Học kỳ cuối : 20.000.000 đồng/học kỳ.
+| --- | --- | --- |
+
+| Liên thông đại học | 40.000.000 | 20.000.000 (1 HK) |
 
 IX.
 
@@ -134,7 +150,7 @@ VÀ NỘP HỒ SƠ DỰ TUYỂN
 
 Thí sinh đăng ký dự tuyển tại cổng tuyển sinh Trường Đại học Công nghệ Thông tin:
 
-https://forms.gle/rfncC5bKTXoedJwH7
+https://tuyensinh.uit.edu.vn/dangkylt
 
 2.
 
@@ -160,7 +176,7 @@ Phòng Tuyển sinh và Truyền thông - Trường Cao đẳng Công nghệ Th�
 
 Thời gian nộp hồ sơ:
 
-từ ngày ra thông báo đến hết ngày 10/7/2024.
+từ ngày ra thông báo đến hết ngày 07/7/2025.
 
 5.
 
@@ -168,7 +184,7 @@ Lệ phí xét tuyển:
 
 100.000 đồng.
 
-Cách nộp lệ phí: Nộp tiền hoặc chuyển khoản qua tài khoản ngân hàng của Trường. Nội dung nộp tiền thí sinh ghi rõ: “CCCD, Họ và tên, LPXT-LTCQ2024”.
+Cách nộp lệ phí: Nộp tiền hoặc chuyển khoản qua tài khoản ngân hàng của Trường. Nội dung nộp tiền thí sinh ghi rõ: “CCCD, Họ và tên, LPXT-LTCQ2025”.
 
 - Tên tài khoản: TRƯỜNG ĐẠI HỌC CÔNG NGHỆ THÔNG TIN
 
@@ -178,17 +194,17 @@ Cách nộp lệ phí: Nộp tiền hoặc chuyển khoản qua tài khoản ng�
 
 - Chi nhánh mở tài khoản: Chi nhánh Đông Sài Gòn.
 
-- VD: 079012345678, Nguyen Nhat Minh, LPXT-LTCQ2024
+- VD: 079012345678, Nguyen Nhat Minh, LPXT-LTCQ2025
 
 X.
 
-K HAI
+KHAI
 
 GIẢNG
 
 (dự kiến):
 
-tháng 8/2024.
+tháng 8/2025.
 
 XI.
 
@@ -202,4 +218,6 @@ File đính kèm:
 
 02_mau_don_du_tuyen_lt_cq.docx
 
-Source: https://tuyensinh.uit.edu.vn/2024-thong-bao-tuyen-sinh-cu-nhan-lien-thong-nganh-cong-nghe-thong-tin-nam-2024
+03_so_yeu_ly_lich-dhcntt.docx
+
+Source: https://tuyensinh.uit.edu.vn/2025-thong-bao-tuyen-sinh-chuong-trinh-lien-thong-trinh-do-dai-hoc-nganh-cong-nghe-thong-tin-nam-2025
