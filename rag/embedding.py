@@ -114,4 +114,4 @@ if __name__ == "__main__":
         with open(json_file, "r", encoding="utf-8") as f:
             documents = json.load(f)
         num_points = embedder.process_and_upload(documents)
-        print(f"✅ Processed {num_points} points from {json_file.name}")
+        print(f"Processed {num_points} points from {json_file.name}")
