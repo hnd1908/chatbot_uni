@@ -8,11 +8,10 @@
     "year": null,
     "department": null,
     "keywords": [
-      "Công nghệ thông tin",
-      "AI",
-      "AI",
-      "Trường Đại học Công nghệ Thông tin",
-      "UIT"
+      "cntt",
+      "khmt",
+      "ttnt",
+      "truong"
     ],
     "prev_chunk": null,
     "next_chunk": "vi-sao-ban-nen-chon-truong-dai-hoc-cong-nghe-thong-tin_chunk_2",
@@ -28,16 +27,11 @@
     "year": null,
     "department": null,
     "keywords": [
-      "Công nghệ thông tin",
-      "AI",
-      "AI",
-      "Trường Đại học Công nghệ Thông tin",
-      "UIT",
-      "ĐHQG-HCM",
-      "cơ sở vật chất",
-      "khoa",
-      "hành trình",
-      "hoạt động ngoại khóa"
+      "cntt",
+      "khmt",
+      "ttnt",
+      "truong",
+      "ngoai_le"
     ],
     "prev_chunk": "vi-sao-ban-nen-chon-truong-dai-hoc-cong-nghe-thong-tin_chunk_1",
     "next_chunk": "vi-sao-ban-nen-chon-truong-dai-hoc-cong-nghe-thong-tin_chunk_3",
@@ -53,12 +47,10 @@
     "year": null,
     "department": null,
     "keywords": [
-      "Công nghệ thông tin",
-      "phát triển công nghệ",
-      "AI",
-      "AI",
-      "Trường Đại học Công nghệ Thông tin",
-      "UIT"
+      "cntt",
+      "khmt",
+      "ttnt",
+      "truong"
     ],
     "prev_chunk": "vi-sao-ban-nen-chon-truong-dai-hoc-cong-nghe-thong-tin_chunk_2",
     "next_chunk": "vi-sao-ban-nen-chon-truong-dai-hoc-cong-nghe-thong-tin_chunk_4",
@@ -74,12 +66,10 @@
     "year": null,
     "department": null,
     "keywords": [
-      "Công nghệ thông tin",
-      "AI",
-      "AI",
-      "UIT",
-      "ĐHQG-HCM",
-      "khoa"
+      "cntt",
+      "khmt",
+      "ttnt",
+      "truong"
     ],
     "prev_chunk": "vi-sao-ban-nen-chon-truong-dai-hoc-cong-nghe-thong-tin_chunk_3",
     "next_chunk": "vi-sao-ban-nen-chon-truong-dai-hoc-cong-nghe-thong-tin_chunk_5",
@@ -95,8 +85,8 @@
     "year": null,
     "department": null,
     "keywords": [
-      "An toàn thông tin",
-      "UIT"
+      "attt",
+      "truong"
     ],
     "prev_chunk": "vi-sao-ban-nen-chon-truong-dai-hoc-cong-nghe-thong-tin_chunk_4",
     "next_chunk": "vi-sao-ban-nen-chon-truong-dai-hoc-cong-nghe-thong-tin_chunk_6",
@@ -112,13 +102,11 @@
     "year": null,
     "department": null,
     "keywords": [
-      "Công nghệ thông tin",
-      "quản lý",
-      "AI",
-      "AI",
-      "Trường Đại học Công nghệ Thông tin",
-      "ĐHQG-HCM",
-      "khoa"
+      "cntt",
+      "httt",
+      "khmt",
+      "ttnt",
+      "truong"
     ],
     "prev_chunk": "vi-sao-ban-nen-chon-truong-dai-hoc-cong-nghe-thong-tin_chunk_5",
     "next_chunk": "vi-sao-ban-nen-chon-truong-dai-hoc-cong-nghe-thong-tin_chunk_7",
@@ -134,9 +122,9 @@
     "year": null,
     "department": null,
     "keywords": [
-      "AI",
-      "AI",
-      "ĐHQG-HCM"
+      "khmt",
+      "ttnt",
+      "truong"
     ],
     "prev_chunk": "vi-sao-ban-nen-chon-truong-dai-hoc-cong-nghe-thong-tin_chunk_6",
     "next_chunk": "vi-sao-ban-nen-chon-truong-dai-hoc-cong-nghe-thong-tin_chunk_8",
@@ -152,12 +140,10 @@
     "year": null,
     "department": null,
     "keywords": [
-      "Công nghệ thông tin",
-      "AI",
-      "AI",
-      "Trường Đại học Công nghệ Thông tin",
-      "ĐHQG-HCM",
-      "khoa"
+      "cntt",
+      "khmt",
+      "ttnt",
+      "truong"
     ],
     "prev_chunk": "vi-sao-ban-nen-chon-truong-dai-hoc-cong-nghe-thong-tin_chunk_7",
     "next_chunk": "vi-sao-ban-nen-chon-truong-dai-hoc-cong-nghe-thong-tin_chunk_9",
@@ -173,9 +159,8 @@
     "year": null,
     "department": null,
     "keywords": [
-      "UIT",
-      "sinh viên",
-      "SAT"
+      "truong",
+      "chungchi"
     ],
     "prev_chunk": "vi-sao-ban-nen-chon-truong-dai-hoc-cong-nghe-thong-tin_chunk_8",
     "next_chunk": "vi-sao-ban-nen-chon-truong-dai-hoc-cong-nghe-thong-tin_chunk_10",
@@ -191,10 +176,10 @@
     "year": null,
     "department": null,
     "keywords": [
-      "Công nghệ thông tin",
-      "AI",
-      "AI",
-      "UIT"
+      "cntt",
+      "khmt",
+      "ttnt",
+      "truong"
     ],
     "prev_chunk": "vi-sao-ban-nen-chon-truong-dai-hoc-cong-nghe-thong-tin_chunk_9",
     "next_chunk": "vi-sao-ban-nen-chon-truong-dai-hoc-cong-nghe-thong-tin_chunk_11",
@@ -210,13 +195,10 @@
     "year": null,
     "department": null,
     "keywords": [
-      "An toàn thông tin",
-      "an ninh mạng",
-      "AI",
-      "AI",
-      "UIT",
-      "sinh viên",
-      "khoa"
+      "attt",
+      "khmt",
+      "ttnt",
+      "truong"
     ],
     "prev_chunk": "vi-sao-ban-nen-chon-truong-dai-hoc-cong-nghe-thong-tin_chunk_10",
     "next_chunk": "vi-sao-ban-nen-chon-truong-dai-hoc-cong-nghe-thong-tin_chunk_12",
@@ -232,10 +214,9 @@
     "year": null,
     "department": null,
     "keywords": [
-      "AI",
-      "AI",
-      "UIT",
-      "sinh viên"
+      "khmt",
+      "ttnt",
+      "truong"
     ],
     "prev_chunk": "vi-sao-ban-nen-chon-truong-dai-hoc-cong-nghe-thong-tin_chunk_11",
     "next_chunk": "vi-sao-ban-nen-chon-truong-dai-hoc-cong-nghe-thong-tin_chunk_13",
@@ -251,7 +232,7 @@
     "year": null,
     "department": null,
     "keywords": [
-      "sinh viên"
+      "truong"
     ],
     "prev_chunk": "vi-sao-ban-nen-chon-truong-dai-hoc-cong-nghe-thong-tin_chunk_12",
     "next_chunk": "vi-sao-ban-nen-chon-truong-dai-hoc-cong-nghe-thong-tin_chunk_14",
@@ -267,10 +248,9 @@
     "year": null,
     "department": null,
     "keywords": [
-      "AI",
-      "AI",
-      "UIT",
-      "sinh viên"
+      "khmt",
+      "ttnt",
+      "truong"
     ],
     "prev_chunk": "vi-sao-ban-nen-chon-truong-dai-hoc-cong-nghe-thong-tin_chunk_13",
     "next_chunk": "vi-sao-ban-nen-chon-truong-dai-hoc-cong-nghe-thong-tin_chunk_15",
@@ -286,11 +266,11 @@
     "year": null,
     "department": null,
     "keywords": [
-      "Công nghệ thông tin",
-      "AI",
-      "AI",
-      "UIT",
-      "giảng dạy"
+      "cntt",
+      "khmt",
+      "ttnt",
+      "truong",
+      "giang_vien_va_can_bo"
     ],
     "prev_chunk": "vi-sao-ban-nen-chon-truong-dai-hoc-cong-nghe-thong-tin_chunk_14",
     "next_chunk": "vi-sao-ban-nen-chon-truong-dai-hoc-cong-nghe-thong-tin_chunk_16",
@@ -306,10 +286,10 @@
     "year": null,
     "department": null,
     "keywords": [
-      "dữ liệu lớn",
-      "AI",
-      "AI",
-      "UIT"
+      "khdl",
+      "khmt",
+      "ttnt",
+      "truong"
     ],
     "prev_chunk": "vi-sao-ban-nen-chon-truong-dai-hoc-cong-nghe-thong-tin_chunk_15",
     "next_chunk": "vi-sao-ban-nen-chon-truong-dai-hoc-cong-nghe-thong-tin_chunk_17",
@@ -325,14 +305,12 @@
     "year": null,
     "department": null,
     "keywords": [
-      "Hệ Thống Thông Tin",
-      "AI",
-      "AI",
-      "Truyền thông Đa phương tiện",
-      "đa phương tiện",
-      "UIT",
-      "sinh viên",
-      "giảng viên"
+      "httt",
+      "khmt",
+      "ttnt",
+      "ttdpt",
+      "truong",
+      "giang_vien_va_can_bo"
     ],
     "prev_chunk": "vi-sao-ban-nen-chon-truong-dai-hoc-cong-nghe-thong-tin_chunk_16",
     "next_chunk": "vi-sao-ban-nen-chon-truong-dai-hoc-cong-nghe-thong-tin_chunk_18",
@@ -348,9 +326,9 @@
     "year": null,
     "department": null,
     "keywords": [
-      "AI",
-      "AI",
-      "khoa"
+      "khmt",
+      "ttnt",
+      "truong"
     ],
     "prev_chunk": "vi-sao-ban-nen-chon-truong-dai-hoc-cong-nghe-thong-tin_chunk_17",
     "next_chunk": "vi-sao-ban-nen-chon-truong-dai-hoc-cong-nghe-thong-tin_chunk_19",
@@ -366,12 +344,9 @@
     "year": null,
     "department": null,
     "keywords": [
-      "AI",
-      "AI",
-      "UIT",
-      "ĐHQG-HCM",
-      "cơ sở vật chất",
-      "sinh viên"
+      "khmt",
+      "ttnt",
+      "truong"
     ],
     "prev_chunk": "vi-sao-ban-nen-chon-truong-dai-hoc-cong-nghe-thong-tin_chunk_18",
     "next_chunk": "vi-sao-ban-nen-chon-truong-dai-hoc-cong-nghe-thong-tin_chunk_20",
@@ -387,14 +362,11 @@
     "year": null,
     "department": null,
     "keywords": [
-      "AI",
-      "AI",
-      "UIT",
-      "ĐHQG-HCM",
-      "khoa",
-      "tốt nghiệp",
-      "giảng viên",
-      "cán bộ"
+      "khmt",
+      "ttnt",
+      "truong",
+      "hoctap",
+      "giang_vien_va_can_bo"
     ],
     "prev_chunk": "vi-sao-ban-nen-chon-truong-dai-hoc-cong-nghe-thong-tin_chunk_19",
     "next_chunk": "vi-sao-ban-nen-chon-truong-dai-hoc-cong-nghe-thong-tin_chunk_21",
@@ -410,12 +382,10 @@
     "year": null,
     "department": null,
     "keywords": [
-      "AI",
-      "AI",
-      "ĐHQG-HCM",
-      "khoa",
-      "Ts",
-      "TS"
+      "khmt",
+      "ttnt",
+      "truong",
+      "giang_vien_va_can_bo"
     ],
     "prev_chunk": "vi-sao-ban-nen-chon-truong-dai-hoc-cong-nghe-thong-tin_chunk_20",
     "next_chunk": "vi-sao-ban-nen-chon-truong-dai-hoc-cong-nghe-thong-tin_chunk_22",
@@ -431,18 +401,8 @@
     "year": null,
     "department": null,
     "keywords": [
-      "UIT",
-      "sinh viên",
-      "khoa",
-      "thạc sĩ",
-      "tiến sĩ",
-      "giáo sư",
-      "phó giáo sư",
-      "giảng viên",
-      "giáo sư",
-      "phó giáo sư",
-      "tiến sĩ",
-      "thạc sĩ"
+      "truong",
+      "giang_vien_va_can_bo"
     ],
     "prev_chunk": "vi-sao-ban-nen-chon-truong-dai-hoc-cong-nghe-thong-tin_chunk_21",
     "next_chunk": "vi-sao-ban-nen-chon-truong-dai-hoc-cong-nghe-thong-tin_chunk_23",
@@ -458,13 +418,10 @@
     "year": null,
     "department": null,
     "keywords": [
-      "AI",
-      "AI",
-      "UIT",
-      "sinh viên",
-      "khoa",
-      "giảng viên",
-      "giảng dạy"
+      "khmt",
+      "ttnt",
+      "truong",
+      "giang_vien_va_can_bo"
     ],
     "prev_chunk": "vi-sao-ban-nen-chon-truong-dai-hoc-cong-nghe-thong-tin_chunk_22",
     "next_chunk": "vi-sao-ban-nen-chon-truong-dai-hoc-cong-nghe-thong-tin_chunk_24",
@@ -480,9 +437,9 @@
     "year": null,
     "department": null,
     "keywords": [
-      "AI",
-      "AI",
-      "UIT"
+      "khmt",
+      "ttnt",
+      "truong"
     ],
     "prev_chunk": "vi-sao-ban-nen-chon-truong-dai-hoc-cong-nghe-thong-tin_chunk_23",
     "next_chunk": "vi-sao-ban-nen-chon-truong-dai-hoc-cong-nghe-thong-tin_chunk_25",
@@ -498,12 +455,10 @@
     "year": null,
     "department": null,
     "keywords": [
-      "AI",
-      "AI",
-      "UIT",
-      "sinh viên",
-      "giảng viên",
-      "cán bộ"
+      "khmt",
+      "ttnt",
+      "truong",
+      "giang_vien_va_can_bo"
     ],
     "prev_chunk": "vi-sao-ban-nen-chon-truong-dai-hoc-cong-nghe-thong-tin_chunk_24",
     "next_chunk": "vi-sao-ban-nen-chon-truong-dai-hoc-cong-nghe-thong-tin_chunk_26",
@@ -519,11 +474,10 @@
     "year": null,
     "department": null,
     "keywords": [
-      "AI",
-      "AI",
-      "UIT",
-      "cơ sở vật chất",
-      "giảng viên"
+      "khmt",
+      "ttnt",
+      "truong",
+      "giang_vien_va_can_bo"
     ],
     "prev_chunk": "vi-sao-ban-nen-chon-truong-dai-hoc-cong-nghe-thong-tin_chunk_25",
     "next_chunk": null,

@@ -3,6 +3,7 @@ import json
 import uuid
 import re
 from pathlib import Path
+from keywords import keywords_dict  # Thêm dòng này
 
 def clean_float(val):
     try:
@@ -84,8 +85,10 @@ def chunk_multi_year_csv(csv_path: str, output_path: str):
                 "to_hop_mon": to_hop
             }
 
-            found_keywords = [kw for kw in [ten_nganh.lower(), ma_nganh, to_hop] if kw]
-
+            # Lấy keywords từ keywords_dict (nếu có), đồng thời bổ sung mã ngành, tên ngành, tổ hợp môn
+            found_keywords = [field] if field else []
+            found_keywords += ["diem", "tuyensinh"]
+            
             chunk = {
                 "title": title_line,
                 "header": header,

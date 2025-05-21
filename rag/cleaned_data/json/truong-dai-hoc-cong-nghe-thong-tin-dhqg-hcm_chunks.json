@@ -8,12 +8,10 @@
     "year": null,
     "department": null,
     "keywords": [
-      "Công nghệ thông tin",
-      "AI",
-      "AI",
-      "Trường Đại học Công nghệ Thông tin",
-      "UIT",
-      "ĐHQG-HCM"
+      "cntt",
+      "khmt",
+      "ttnt",
+      "truong"
     ],
     "prev_chunk": null,
     "next_chunk": "truong-dai-hoc-cong-nghe-thong-tin-dhqg-hcm_chunk_2",
@@ -29,14 +27,11 @@
     "year": null,
     "department": null,
     "keywords": [
-      "Công nghệ thông tin",
-      "CNTT",
-      "phát triển công nghệ",
-      "AI",
-      "AI",
-      "Trường Đại học Công nghệ Thông tin",
-      "ĐHQG-HCM",
-      "chuyên ngành"
+      "cntt",
+      "khmt",
+      "ttnt",
+      "truong",
+      "hoctap"
     ],
     "prev_chunk": "truong-dai-hoc-cong-nghe-thong-tin-dhqg-hcm_chunk_1",
     "next_chunk": "truong-dai-hoc-cong-nghe-thong-tin-dhqg-hcm_chunk_3",
@@ -52,11 +47,10 @@
     "year": null,
     "department": null,
     "keywords": [
-      "Công nghệ thông tin",
-      "CNTT",
-      "quản lý",
-      "AI",
-      "AI"
+      "cntt",
+      "httt",
+      "khmt",
+      "ttnt"
     ],
     "prev_chunk": "truong-dai-hoc-cong-nghe-thong-tin-dhqg-hcm_chunk_2",
     "next_chunk": "truong-dai-hoc-cong-nghe-thong-tin-dhqg-hcm_chunk_4",
@@ -72,11 +66,11 @@
     "year": null,
     "department": null,
     "keywords": [
-      "CNTT",
-      "quản lý",
-      "AI",
-      "AI",
-      "khoa"
+      "cntt",
+      "httt",
+      "khmt",
+      "ttnt",
+      "truong"
     ],
     "prev_chunk": "truong-dai-hoc-cong-nghe-thong-tin-dhqg-hcm_chunk_3",
     "next_chunk": "truong-dai-hoc-cong-nghe-thong-tin-dhqg-hcm_chunk_5",
@@ -92,14 +86,12 @@
     "year": null,
     "department": null,
     "keywords": [
-      "xét tuyển",
-      "Công nghệ thông tin",
-      "CNTT",
-      "AI",
-      "AI",
-      "UIT",
-      "tiến sĩ",
-      "tiến sĩ"
+      "tuyensinh",
+      "cntt",
+      "khmt",
+      "ttnt",
+      "truong",
+      "giang_vien_va_can_bo"
     ],
     "prev_chunk": "truong-dai-hoc-cong-nghe-thong-tin-dhqg-hcm_chunk_4",
     "next_chunk": "truong-dai-hoc-cong-nghe-thong-tin-dhqg-hcm_chunk_6",
@@ -129,13 +121,10 @@
     "year": null,
     "department": null,
     "keywords": [
-      "Khoa học Máy tính",
-      "AI",
-      "AI",
-      "sinh viên",
-      "ngành đào tạo",
-      "khoa",
-      "giảng viên"
+      "khmt",
+      "ttnt",
+      "truong",
+      "giang_vien_va_can_bo"
     ],
     "prev_chunk": "truong-dai-hoc-cong-nghe-thong-tin-dhqg-hcm_chunk_6",
     "next_chunk": "truong-dai-hoc-cong-nghe-thong-tin-dhqg-hcm_chunk_8",
@@ -151,11 +140,10 @@
     "year": null,
     "department": null,
     "keywords": [
-      "An toàn thông tin",
-      "AI",
-      "AI",
-      "sinh viên",
-      "khoa"
+      "attt",
+      "khmt",
+      "ttnt",
+      "truong"
     ],
     "prev_chunk": "truong-dai-hoc-cong-nghe-thong-tin-dhqg-hcm_chunk_7",
     "next_chunk": "truong-dai-hoc-cong-nghe-thong-tin-dhqg-hcm_chunk_9",
@@ -171,15 +159,12 @@
     "year": null,
     "department": null,
     "keywords": [
-      "Hệ Thống Thông Tin",
-      "quản lý",
-      "AI",
-      "AI",
-      "khoa",
-      "cán bộ",
-      "cán bộ giảng dạy",
-      "giảng dạy",
-      "giao lưu"
+      "httt",
+      "khmt",
+      "ttnt",
+      "truong",
+      "giang_vien_va_can_bo",
+      "ngoai_le"
     ],
     "prev_chunk": "truong-dai-hoc-cong-nghe-thong-tin-dhqg-hcm_chunk_8",
     "next_chunk": "truong-dai-hoc-cong-nghe-thong-tin-dhqg-hcm_chunk_10",
@@ -195,12 +180,10 @@
     "year": null,
     "department": null,
     "keywords": [
-      "AI",
-      "AI",
-      "cơ sở vật chất",
-      "sinh viên",
-      "khoa",
-      "tốt nghiệp"
+      "khmt",
+      "ttnt",
+      "truong",
+      "hoctap"
     ],
     "prev_chunk": "truong-dai-hoc-cong-nghe-thong-tin-dhqg-hcm_chunk_9",
     "next_chunk": "truong-dai-hoc-cong-nghe-thong-tin-dhqg-hcm_chunk_11",
@@ -216,13 +199,10 @@
     "year": null,
     "department": null,
     "keywords": [
-      "tuyển sinh",
-      "xét tuyển",
-      "tuyển thẳng",
-      "ưu tiên xét tuyển",
-      "AI",
-      "AI",
-      "tốt nghiệp"
+      "tuyensinh",
+      "khmt",
+      "ttnt",
+      "hoctap"
     ],
     "prev_chunk": "truong-dai-hoc-cong-nghe-thong-tin-dhqg-hcm_chunk_10",
     "next_chunk": "truong-dai-hoc-cong-nghe-thong-tin-dhqg-hcm_chunk_12",
@@ -238,12 +218,9 @@
     "year": null,
     "department": null,
     "keywords": [
-      "xét tuyển",
-      "ưu tiên xét tuyển",
-      "thi đánh giá năng lực",
-      "diem chuan",
-      "điểm chuẩn",
-      "Công nghệ thông tin"
+      "tuyensinh",
+      "diem",
+      "cntt"
     ],
     "prev_chunk": "truong-dai-hoc-cong-nghe-thong-tin-dhqg-hcm_chunk_11",
     "next_chunk": "truong-dai-hoc-cong-nghe-thong-tin-dhqg-hcm_chunk_13",
@@ -259,17 +236,12 @@
     "year": null,
     "department": null,
     "keywords": [
-      "tuyển sinh",
-      "xét tuyển",
-      "tuyển thẳng",
-      "ưu tiên xét tuyển",
-      "Công nghệ thông tin",
-      "AI",
-      "AI",
-      "chứng chỉ quốc tế",
-      "SAT",
-      "ACT",
-      "điểm trung bình"
+      "tuyensinh",
+      "cntt",
+      "khmt",
+      "ttnt",
+      "chungchi",
+      "giao_duc_pho_thong"
     ],
     "prev_chunk": "truong-dai-hoc-cong-nghe-thong-tin-dhqg-hcm_chunk_12",
     "next_chunk": "truong-dai-hoc-cong-nghe-thong-tin-dhqg-hcm_chunk_14",
@@ -285,16 +257,11 @@
     "year": null,
     "department": null,
     "keywords": [
-      "Công nghệ thông tin",
-      "Khoa học Máy tính",
-      "AI",
-      "AI",
-      "Trường Đại học Công nghệ Thông tin",
-      "UIT",
-      "sinh viên",
-      "ngành đào tạo",
-      "khoa",
-      "tốt nghiệp"
+      "cntt",
+      "khmt",
+      "ttnt",
+      "truong",
+      "hoctap"
     ],
     "prev_chunk": "truong-dai-hoc-cong-nghe-thong-tin-dhqg-hcm_chunk_13",
     "next_chunk": "truong-dai-hoc-cong-nghe-thong-tin-dhqg-hcm_chunk_15",
@@ -310,10 +277,9 @@
     "year": null,
     "department": null,
     "keywords": [
-      "An toàn thông tin",
-      "Mạng máy tính",
-      "UIT",
-      "khoa"
+      "attt",
+      "mmtvttdl",
+      "truong"
     ],
     "prev_chunk": "truong-dai-hoc-cong-nghe-thong-tin-dhqg-hcm_chunk_14",
     "next_chunk": "truong-dai-hoc-cong-nghe-thong-tin-dhqg-hcm_chunk_16",
@@ -329,10 +295,10 @@
     "year": null,
     "department": null,
     "keywords": [
-      "AI",
-      "AI",
-      "sinh viên",
-      "môn học"
+      "khmt",
+      "ttnt",
+      "truong",
+      "hoctap"
     ],
     "prev_chunk": "truong-dai-hoc-cong-nghe-thong-tin-dhqg-hcm_chunk_15",
     "next_chunk": "truong-dai-hoc-cong-nghe-thong-tin-dhqg-hcm_chunk_17",
@@ -348,10 +314,9 @@
     "year": null,
     "department": null,
     "keywords": [
-      "tốt nghiệp",
-      "IELTS",
-      "Ts",
-      "TS"
+      "hoctap",
+      "chungchi",
+      "giang_vien_va_can_bo"
     ],
     "prev_chunk": "truong-dai-hoc-cong-nghe-thong-tin-dhqg-hcm_chunk_16",
     "next_chunk": null,

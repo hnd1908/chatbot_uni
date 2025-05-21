@@ -240,7 +240,7 @@ def chunk_markdown(content, source_file, keywords_dict, output_dir):
         chunks.append((current_header, "\n".join(current_chunk_lines)))
 
     splitter = RecursiveCharacterTextSplitter(
-        chunk_size=500,
+        chunk_size=400,
         chunk_overlap=50,
         separators=["\n\n", "\n", ". ", "! ", "? ", ", ", " ", ""]
     )
@@ -254,7 +254,8 @@ def chunk_markdown(content, source_file, keywords_dict, output_dir):
             chunk_counter += 1
             chunk_id = f"{Path(source_file).stem}_chunk_{chunk_counter}"
         
-            _, _, found_keywords, _ = determine_field_from_keywords(sub_text, keywords_dict)
+            category_counts, _ = count_keywords_by_category(sub_text, keywords_dict)
+            found_keywords = list(category_counts.keys())
             
             department = filename_department
 

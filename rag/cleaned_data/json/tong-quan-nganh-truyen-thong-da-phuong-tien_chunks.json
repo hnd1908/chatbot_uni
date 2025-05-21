@@ -8,9 +8,8 @@
     "year": null,
     "department": "Truyền thông đa phương tiện",
     "keywords": [
-      "Truyền thông Đa phương tiện",
-      "đa phương tiện",
-      "UIT"
+      "ttdpt",
+      "truong"
     ],
     "prev_chunk": null,
     "next_chunk": "tong-quan-nganh-truyen-thong-da-phuong-tien_chunk_2",
@@ -26,12 +25,10 @@
     "year": null,
     "department": "Truyền thông đa phương tiện",
     "keywords": [
-      "Công nghệ thông tin",
-      "AI",
-      "AI",
-      "Truyền thông Đa phương tiện",
-      "đa phương tiện",
-      "sáng tạo nội dung"
+      "cntt",
+      "khmt",
+      "ttnt",
+      "ttdpt"
     ],
     "prev_chunk": "tong-quan-nganh-truyen-thong-da-phuong-tien_chunk_1",
     "next_chunk": "tong-quan-nganh-truyen-thong-da-phuong-tien_chunk_3",
@@ -47,15 +44,11 @@
     "year": null,
     "department": "Truyền thông đa phương tiện",
     "keywords": [
-      "Công nghệ thông tin",
-      "AI",
-      "AI",
-      "Truyền thông Đa phương tiện",
-      "đa phương tiện",
-      "Trường Đại học Công nghệ Thông tin",
-      "UIT",
-      "ĐHQG-HCM",
-      "sinh viên"
+      "cntt",
+      "khmt",
+      "ttnt",
+      "ttdpt",
+      "truong"
     ],
     "prev_chunk": "tong-quan-nganh-truyen-thong-da-phuong-tien_chunk_2",
     "next_chunk": "tong-quan-nganh-truyen-thong-da-phuong-tien_chunk_4",
@@ -71,9 +64,8 @@
     "year": null,
     "department": "Truyền thông đa phương tiện",
     "keywords": [
-      "Công nghệ thông tin",
-      "Truyền thông Đa phương tiện",
-      "đa phương tiện"
+      "cntt",
+      "ttdpt"
     ],
     "prev_chunk": "tong-quan-nganh-truyen-thong-da-phuong-tien_chunk_3",
     "next_chunk": "tong-quan-nganh-truyen-thong-da-phuong-tien_chunk_5",
@@ -89,10 +81,9 @@
     "year": null,
     "department": "Truyền thông đa phương tiện",
     "keywords": [
-      "AI",
-      "AI",
-      "Truyền thông Đa phương tiện",
-      "đa phương tiện"
+      "khmt",
+      "ttnt",
+      "ttdpt"
     ],
     "prev_chunk": "tong-quan-nganh-truyen-thong-da-phuong-tien_chunk_4",
     "next_chunk": "tong-quan-nganh-truyen-thong-da-phuong-tien_chunk_6",
@@ -108,9 +99,8 @@
     "year": null,
     "department": "Truyền thông đa phương tiện",
     "keywords": [
-      "Truyền thông Đa phương tiện",
-      "đa phương tiện",
-      "SAT"
+      "ttdpt",
+      "chungchi"
     ],
     "prev_chunk": "tong-quan-nganh-truyen-thong-da-phuong-tien_chunk_5",
     "next_chunk": "tong-quan-nganh-truyen-thong-da-phuong-tien_chunk_7",
@@ -126,15 +116,12 @@
     "year": null,
     "department": "Truyền thông đa phương tiện",
     "keywords": [
-      "Khoa học dữ liệu",
-      "Trí tuệ nhân tạo",
-      "AI",
-      "Trí tuệ nhân tạo",
-      "AI",
-      "Truyền thông Đa phương tiện",
-      "đa phương tiện",
-      "khoa",
-      "SAT"
+      "khdl",
+      "khmt",
+      "ttnt",
+      "ttdpt",
+      "truong",
+      "chungchi"
     ],
     "prev_chunk": "tong-quan-nganh-truyen-thong-da-phuong-tien_chunk_6",
     "next_chunk": "tong-quan-nganh-truyen-thong-da-phuong-tien_chunk_8",
@@ -150,11 +137,10 @@
     "year": null,
     "department": "Truyền thông đa phương tiện",
     "keywords": [
-      "Công nghệ thông tin",
-      "CNTT",
-      "AI",
-      "AI",
-      "SAT"
+      "cntt",
+      "khmt",
+      "ttnt",
+      "chungchi"
     ],
     "prev_chunk": "tong-quan-nganh-truyen-thong-da-phuong-tien_chunk_7",
     "next_chunk": "tong-quan-nganh-truyen-thong-da-phuong-tien_chunk_9",
@@ -170,9 +156,9 @@
     "year": null,
     "department": "Truyền thông đa phương tiện",
     "keywords": [
-      "AI",
-      "AI",
-      "SAT"
+      "khmt",
+      "ttnt",
+      "chungchi"
     ],
     "prev_chunk": "tong-quan-nganh-truyen-thong-da-phuong-tien_chunk_8",
     "next_chunk": "tong-quan-nganh-truyen-thong-da-phuong-tien_chunk_10",
@@ -188,13 +174,11 @@
     "year": null,
     "department": "Truyền thông đa phương tiện",
     "keywords": [
-      "Công nghệ thông tin",
-      "AI",
-      "AI",
-      "Truyền thông Đa phương tiện",
-      "đa phương tiện",
-      "Trường Đại học Công nghệ Thông tin",
-      "UIT"
+      "cntt",
+      "khmt",
+      "ttnt",
+      "ttdpt",
+      "truong"
     ],
     "prev_chunk": "tong-quan-nganh-truyen-thong-da-phuong-tien_chunk_9",
     "next_chunk": "tong-quan-nganh-truyen-thong-da-phuong-tien_chunk_11",
@@ -210,14 +194,12 @@
     "year": null,
     "department": "Truyền thông đa phương tiện",
     "keywords": [
-      "Công nghệ thông tin",
-      "khai thác dữ liệu",
-      "AI",
-      "AI",
-      "ứng dụng AI",
-      "Trường Đại học Công nghệ Thông tin",
-      "sinh viên",
-      "giảng dạy"
+      "cntt",
+      "khdl",
+      "khmt",
+      "ttnt",
+      "truong",
+      "giang_vien_va_can_bo"
     ],
     "prev_chunk": "tong-quan-nganh-truyen-thong-da-phuong-tien_chunk_10",
     "next_chunk": "tong-quan-nganh-truyen-thong-da-phuong-tien_chunk_12",
@@ -233,13 +215,11 @@
     "year": null,
     "department": "Truyền thông đa phương tiện",
     "keywords": [
-      "Công nghệ thông tin",
-      "AI",
-      "AI",
-      "Truyền thông Đa phương tiện",
-      "đa phương tiện",
-      "UIT",
-      "sinh viên"
+      "cntt",
+      "khmt",
+      "ttnt",
+      "ttdpt",
+      "truong"
     ],
     "prev_chunk": "tong-quan-nganh-truyen-thong-da-phuong-tien_chunk_11",
     "next_chunk": "tong-quan-nganh-truyen-thong-da-phuong-tien_chunk_13",
@@ -255,11 +235,9 @@
     "year": null,
     "department": "Truyền thông đa phương tiện",
     "keywords": [
-      "Truyền thông Đa phương tiện",
-      "đa phương tiện",
-      "tiếp thị số",
-      "sinh viên",
-      "tốt nghiệp"
+      "ttdpt",
+      "truong",
+      "hoctap"
     ],
     "prev_chunk": "tong-quan-nganh-truyen-thong-da-phuong-tien_chunk_12",
     "next_chunk": "tong-quan-nganh-truyen-thong-da-phuong-tien_chunk_14",
@@ -275,15 +253,11 @@
     "year": null,
     "department": "Truyền thông đa phương tiện",
     "keywords": [
-      "Công nghệ thông tin",
-      "Khoa học dữ liệu",
-      "khai thác dữ liệu",
-      "Trí tuệ nhân tạo",
-      "AI",
-      "Trí tuệ nhân tạo",
-      "AI",
-      "sinh viên",
-      "khoa"
+      "cntt",
+      "khdl",
+      "khmt",
+      "ttnt",
+      "truong"
     ],
     "prev_chunk": "tong-quan-nganh-truyen-thong-da-phuong-tien_chunk_13",
     "next_chunk": "tong-quan-nganh-truyen-thong-da-phuong-tien_chunk_15",
@@ -299,13 +273,12 @@
     "year": null,
     "department": "Truyền thông đa phương tiện",
     "keywords": [
-      "Công nghệ thông tin",
-      "AI",
-      "AI",
-      "Truyền thông Đa phương tiện",
-      "đa phương tiện",
-      "sinh viên",
-      "tốt nghiệp"
+      "cntt",
+      "khmt",
+      "ttnt",
+      "ttdpt",
+      "truong",
+      "hoctap"
     ],
     "prev_chunk": "tong-quan-nganh-truyen-thong-da-phuong-tien_chunk_14",
     "next_chunk": "tong-quan-nganh-truyen-thong-da-phuong-tien_chunk_16",
@@ -321,14 +294,12 @@
     "year": null,
     "department": "Truyền thông đa phương tiện",
     "keywords": [
-      "xử lý dữ liệu",
-      "Khoa học dữ liệu",
-      "Trí tuệ nhân tạo",
-      "xử lý ngôn ngữ tự nhiên",
-      "Trí tuệ nhân tạo",
-      "Truyền thông Đa phương tiện",
-      "đa phương tiện",
-      "khoa"
+      "cntt",
+      "khdl",
+      "khmt",
+      "ttnt",
+      "ttdpt",
+      "truong"
     ],
     "prev_chunk": "tong-quan-nganh-truyen-thong-da-phuong-tien_chunk_15",
     "next_chunk": "tong-quan-nganh-truyen-thong-da-phuong-tien_chunk_17",
@@ -344,12 +315,11 @@
     "year": null,
     "department": "Truyền thông đa phương tiện",
     "keywords": [
-      "phân tích dữ liệu",
-      "AI",
-      "AI",
-      "Truyền thông Đa phương tiện",
-      "đa phương tiện",
-      "giảng dạy"
+      "khdl",
+      "khmt",
+      "ttnt",
+      "ttdpt",
+      "giang_vien_va_can_bo"
     ],
     "prev_chunk": "tong-quan-nganh-truyen-thong-da-phuong-tien_chunk_16",
     "next_chunk": "tong-quan-nganh-truyen-thong-da-phuong-tien_chunk_18",
@@ -365,13 +335,12 @@
     "year": null,
     "department": "Truyền thông đa phương tiện",
     "keywords": [
-      "quản lý",
-      "AI",
-      "AI",
-      "Truyền thông Đa phương tiện",
-      "đa phương tiện",
-      "giảng dạy",
-      "sự kiện"
+      "httt",
+      "khmt",
+      "ttnt",
+      "ttdpt",
+      "giang_vien_va_can_bo",
+      "ngoai_le"
     ],
     "prev_chunk": "tong-quan-nganh-truyen-thong-da-phuong-tien_chunk_17",
     "next_chunk": "tong-quan-nganh-truyen-thong-da-phuong-tien_chunk_19",
@@ -387,10 +356,9 @@
     "year": null,
     "department": "Truyền thông đa phương tiện",
     "keywords": [
-      "quản lý",
-      "phân tích dữ liệu",
-      "Truyền thông Đa phương tiện",
-      "đa phương tiện"
+      "httt",
+      "khdl",
+      "ttdpt"
     ],
     "prev_chunk": "tong-quan-nganh-truyen-thong-da-phuong-tien_chunk_18",
     "next_chunk": "tong-quan-nganh-truyen-thong-da-phuong-tien_chunk_20",
@@ -406,11 +374,10 @@
     "year": null,
     "department": "Truyền thông đa phương tiện",
     "keywords": [
-      "AI",
-      "AI",
-      "Truyền thông Đa phương tiện",
-      "đa phương tiện",
-      "giảng dạy"
+      "khmt",
+      "ttnt",
+      "ttdpt",
+      "giang_vien_va_can_bo"
     ],
     "prev_chunk": "tong-quan-nganh-truyen-thong-da-phuong-tien_chunk_19",
     "next_chunk": null,

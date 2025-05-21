@@ -8,8 +8,8 @@
     "year": null,
     "department": "Kỹ thuật phần mềm",
     "keywords": [
-      "Kỹ thuật phần mềm",
-      "UIT"
+      "ktpm",
+      "truong"
     ],
     "prev_chunk": null,
     "next_chunk": "tong-quan-nganh-ky-thuat-phan-mem_chunk_2",
@@ -25,7 +25,7 @@
     "year": null,
     "department": "Kỹ thuật phần mềm",
     "keywords": [
-      "Kỹ thuật phần mềm"
+      "ktpm"
     ],
     "prev_chunk": "tong-quan-nganh-ky-thuat-phan-mem_chunk_1",
     "next_chunk": "tong-quan-nganh-ky-thuat-phan-mem_chunk_3",
@@ -41,11 +41,9 @@
     "year": null,
     "department": "Kỹ thuật phần mềm",
     "keywords": [
-      "ERP",
-      "Kỹ thuật phần mềm",
-      "KTPM",
-      "lập trình",
-      "chuyên ngành"
+      "httt",
+      "ktpm",
+      "hoctap"
     ],
     "prev_chunk": "tong-quan-nganh-ky-thuat-phan-mem_chunk_2",
     "next_chunk": "tong-quan-nganh-ky-thuat-phan-mem_chunk_4",
@@ -75,8 +73,8 @@
     "year": null,
     "department": "Kỹ thuật phần mềm",
     "keywords": [
-      "Kỹ thuật phần mềm",
-      "sinh viên"
+      "ktpm",
+      "truong"
     ],
     "prev_chunk": "tong-quan-nganh-ky-thuat-phan-mem_chunk_4",
     "next_chunk": "tong-quan-nganh-ky-thuat-phan-mem_chunk_6",
@@ -92,8 +90,7 @@
     "year": null,
     "department": "Kỹ thuật phần mềm",
     "keywords": [
-      "Kỹ thuật phần mềm",
-      "phát triển phần mềm"
+      "ktpm"
     ],
     "prev_chunk": "tong-quan-nganh-ky-thuat-phan-mem_chunk_5",
     "next_chunk": "tong-quan-nganh-ky-thuat-phan-mem_chunk_7",
@@ -109,9 +106,9 @@
     "year": null,
     "department": "Kỹ thuật phần mềm",
     "keywords": [
-      "AI",
-      "lập trình",
-      "AI"
+      "khmt",
+      "ktpm",
+      "ttnt"
     ],
     "prev_chunk": "tong-quan-nganh-ky-thuat-phan-mem_chunk_6",
     "next_chunk": "tong-quan-nganh-ky-thuat-phan-mem_chunk_8",
@@ -127,10 +124,8 @@
     "year": null,
     "department": "Kỹ thuật phần mềm",
     "keywords": [
-      "Kỹ thuật phần mềm",
-      "phát triển phần mềm",
-      "lập trình",
-      "sinh viên"
+      "ktpm",
+      "truong"
     ],
     "prev_chunk": "tong-quan-nganh-ky-thuat-phan-mem_chunk_7",
     "next_chunk": "tong-quan-nganh-ky-thuat-phan-mem_chunk_9",
@@ -146,12 +141,12 @@
     "year": null,
     "department": "Kỹ thuật phần mềm",
     "keywords": [
-      "quản lý",
-      "AI",
-      "phát triển phần mềm",
-      "AI",
-      "bộ môn",
-      "bộ môn"
+      "httt",
+      "khmt",
+      "ktpm",
+      "ttnt",
+      "truong",
+      "giang_vien_va_can_bo"
     ],
     "prev_chunk": "tong-quan-nganh-ky-thuat-phan-mem_chunk_8",
     "next_chunk": "tong-quan-nganh-ky-thuat-phan-mem_chunk_10",
@@ -167,10 +162,10 @@
     "year": null,
     "department": "Kỹ thuật phần mềm",
     "keywords": [
-      "bảo mật",
-      "AI",
-      "phát triển phần mềm",
-      "AI"
+      "attt",
+      "khmt",
+      "ktpm",
+      "ttnt"
     ],
     "prev_chunk": "tong-quan-nganh-ky-thuat-phan-mem_chunk_9",
     "next_chunk": "tong-quan-nganh-ky-thuat-phan-mem_chunk_11",
@@ -186,9 +181,8 @@
     "year": null,
     "department": "Kỹ thuật phần mềm",
     "keywords": [
-      "quản lý",
-      "ERP",
-      "phát triển phần mềm"
+      "httt",
+      "ktpm"
     ],
     "prev_chunk": "tong-quan-nganh-ky-thuat-phan-mem_chunk_10",
     "next_chunk": "tong-quan-nganh-ky-thuat-phan-mem_chunk_12",
@@ -204,11 +198,10 @@
     "year": null,
     "department": "Kỹ thuật phần mềm",
     "keywords": [
-      "thương mại điện tử",
-      "AI",
-      "Thương mại điện tử",
-      "E-Commerce",
-      "AI"
+      "httt",
+      "khmt",
+      "tmdt",
+      "ttnt"
     ],
     "prev_chunk": "tong-quan-nganh-ky-thuat-phan-mem_chunk_11",
     "next_chunk": "tong-quan-nganh-ky-thuat-phan-mem_chunk_13",
@@ -224,11 +217,11 @@
     "year": null,
     "department": "Kỹ thuật phần mềm",
     "keywords": [
-      "AI",
-      "phát triển phần mềm",
-      "AI",
-      "bộ môn",
-      "bộ môn"
+      "khmt",
+      "ktpm",
+      "ttnt",
+      "truong",
+      "giang_vien_va_can_bo"
     ],
     "prev_chunk": "tong-quan-nganh-ky-thuat-phan-mem_chunk_12",
     "next_chunk": "tong-quan-nganh-ky-thuat-phan-mem_chunk_14",
@@ -244,8 +237,8 @@
     "year": null,
     "department": "Kỹ thuật phần mềm",
     "keywords": [
-      "AI",
-      "AI"
+      "khmt",
+      "ttnt"
     ],
     "prev_chunk": "tong-quan-nganh-ky-thuat-phan-mem_chunk_13",
     "next_chunk": "tong-quan-nganh-ky-thuat-phan-mem_chunk_15",
@@ -261,8 +254,8 @@
     "year": null,
     "department": "Kỹ thuật phần mềm",
     "keywords": [
-      "AI",
-      "AI"
+      "khmt",
+      "ttnt"
     ],
     "prev_chunk": "tong-quan-nganh-ky-thuat-phan-mem_chunk_14",
     "next_chunk": "tong-quan-nganh-ky-thuat-phan-mem_chunk_16",
@@ -278,12 +271,12 @@
     "year": null,
     "department": "Kỹ thuật phần mềm",
     "keywords": [
-      "AI",
-      "Kỹ thuật phần mềm",
-      "AI",
-      "cơ sở vật chất",
-      "đầu ra",
-      "giảng viên"
+      "khmt",
+      "ktpm",
+      "ttnt",
+      "truong",
+      "hoctap",
+      "giang_vien_va_can_bo"
     ],
     "prev_chunk": "tong-quan-nganh-ky-thuat-phan-mem_chunk_15",
     "next_chunk": "tong-quan-nganh-ky-thuat-phan-mem_chunk_17",
@@ -299,7 +292,7 @@
     "year": null,
     "department": "Kỹ thuật phần mềm",
     "keywords": [
-      "KTPM"
+      "ktpm"
     ],
     "prev_chunk": "tong-quan-nganh-ky-thuat-phan-mem_chunk_16",
     "next_chunk": "tong-quan-nganh-ky-thuat-phan-mem_chunk_18",
@@ -315,12 +308,12 @@
     "year": null,
     "department": "Kỹ thuật phần mềm",
     "keywords": [
-      "CNTT",
-      "AI",
-      "phát triển phần mềm",
-      "AI",
-      "sinh viên",
-      "tốt nghiệp"
+      "cntt",
+      "khmt",
+      "ktpm",
+      "ttnt",
+      "truong",
+      "hoctap"
     ],
     "prev_chunk": "tong-quan-nganh-ky-thuat-phan-mem_chunk_17",
     "next_chunk": "tong-quan-nganh-ky-thuat-phan-mem_chunk_19",
@@ -336,9 +329,9 @@
     "year": null,
     "department": "Kỹ thuật phần mềm",
     "keywords": [
-      "Công nghệ thông tin",
-      "AI",
-      "AI"
+      "cntt",
+      "khmt",
+      "ttnt"
     ],
     "prev_chunk": "tong-quan-nganh-ky-thuat-phan-mem_chunk_18",
     "next_chunk": "tong-quan-nganh-ky-thuat-phan-mem_chunk_20",
@@ -354,9 +347,9 @@
     "year": null,
     "department": "Kỹ thuật phần mềm",
     "keywords": [
-      "Hệ Thống Thông Tin",
-      "AI",
-      "AI"
+      "httt",
+      "khmt",
+      "ttnt"
     ],
     "prev_chunk": "tong-quan-nganh-ky-thuat-phan-mem_chunk_19",
     "next_chunk": null,

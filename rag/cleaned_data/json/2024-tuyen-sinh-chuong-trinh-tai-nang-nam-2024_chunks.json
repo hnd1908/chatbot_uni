@@ -8,11 +8,10 @@
     "year": "2024",
     "department": null,
     "keywords": [
-      "tuyển sinh",
-      "AI",
-      "AI",
-      "UIT",
-      "sinh viên"
+      "tuyensinh",
+      "khmt",
+      "ttnt",
+      "truong"
     ],
     "prev_chunk": null,
     "next_chunk": "2024-tuyen-sinh-chuong-trinh-tai-nang-nam-2024_chunk_2",
@@ -34,10 +33,9 @@
     "year": "2024",
     "department": null,
     "keywords": [
-      "AI",
-      "AI",
-      "sinh viên",
-      "khoa"
+      "khmt",
+      "ttnt",
+      "truong"
     ],
     "prev_chunk": "2024-tuyen-sinh-chuong-trinh-tai-nang-nam-2024_chunk_1",
     "next_chunk": "2024-tuyen-sinh-chuong-trinh-tai-nang-nam-2024_chunk_3",
@@ -59,16 +57,13 @@
     "year": "2024",
     "department": null,
     "keywords": [
-      "Công nghệ thông tin",
-      "AI",
-      "AI",
-      "Trường Đại học Công nghệ Thông tin",
-      "cơ sở vật chất",
-      "sinh viên",
-      "tốt nghiệp",
-      "giảng viên",
-      "giảng dạy",
-      "học bổng"
+      "cntt",
+      "khmt",
+      "ttnt",
+      "truong",
+      "hoctap",
+      "giang_vien_va_can_bo",
+      "hoc_bong"
     ],
     "prev_chunk": "2024-tuyen-sinh-chuong-trinh-tai-nang-nam-2024_chunk_2",
     "next_chunk": "2024-tuyen-sinh-chuong-trinh-tai-nang-nam-2024_chunk_4",
@@ -90,11 +85,10 @@
     "year": "2024",
     "department": null,
     "keywords": [
-      "AI",
-      "AI",
-      "UIT",
-      "sinh viên",
-      "tín chỉ"
+      "khmt",
+      "ttnt",
+      "truong",
+      "hoctap"
     ],
     "prev_chunk": "2024-tuyen-sinh-chuong-trinh-tai-nang-nam-2024_chunk_3",
     "next_chunk": "2024-tuyen-sinh-chuong-trinh-tai-nang-nam-2024_chunk_5",
@@ -116,10 +110,9 @@
     "year": "2024",
     "department": null,
     "keywords": [
-      "An toàn thông tin",
-      "Khoa học Máy tính",
-      "sinh viên",
-      "khoa"
+      "attt",
+      "khmt",
+      "truong"
     ],
     "prev_chunk": "2024-tuyen-sinh-chuong-trinh-tai-nang-nam-2024_chunk_4",
     "next_chunk": "2024-tuyen-sinh-chuong-trinh-tai-nang-nam-2024_chunk_6",
@@ -141,15 +134,11 @@
     "year": "2024",
     "department": null,
     "keywords": [
-      "tuyển sinh",
-      "xét tuyển",
-      "tuyển thẳng",
-      "Công nghệ thông tin",
-      "AI",
-      "AI",
-      "Trường Đại học Công nghệ Thông tin",
-      "sinh viên",
-      "khoa"
+      "tuyensinh",
+      "cntt",
+      "khmt",
+      "ttnt",
+      "truong"
     ],
     "prev_chunk": "2024-tuyen-sinh-chuong-trinh-tai-nang-nam-2024_chunk_5",
     "next_chunk": "2024-tuyen-sinh-chuong-trinh-tai-nang-nam-2024_chunk_7",
@@ -171,10 +160,9 @@
     "year": "2024",
     "department": null,
     "keywords": [
-      "diem trung tuyen",
-      "điểm trúng tuyển",
-      "AI",
-      "AI"
+      "diem",
+      "khmt",
+      "ttnt"
     ],
     "prev_chunk": "2024-tuyen-sinh-chuong-trinh-tai-nang-nam-2024_chunk_6",
     "next_chunk": "2024-tuyen-sinh-chuong-trinh-tai-nang-nam-2024_chunk_8",
@@ -196,9 +184,9 @@
     "year": "2024",
     "department": null,
     "keywords": [
-      "AI",
-      "AI",
-      "sinh viên"
+      "khmt",
+      "ttnt",
+      "truong"
     ],
     "prev_chunk": "2024-tuyen-sinh-chuong-trinh-tai-nang-nam-2024_chunk_7",
     "next_chunk": "2024-tuyen-sinh-chuong-trinh-tai-nang-nam-2024_chunk_9",
@@ -220,11 +208,10 @@
     "year": "2024",
     "department": null,
     "keywords": [
-      "đăng ký",
-      "nộp hồ sơ",
-      "AI",
-      "AI",
-      "sinh viên"
+      "tuyensinh",
+      "khmt",
+      "ttnt",
+      "truong"
     ],
     "prev_chunk": "2024-tuyen-sinh-chuong-trinh-tai-nang-nam-2024_chunk_8",
     "next_chunk": "2024-tuyen-sinh-chuong-trinh-tai-nang-nam-2024_chunk_10",
@@ -246,10 +233,9 @@
     "year": "2024",
     "department": null,
     "keywords": [
-      "AI",
-      "AI",
-      "UIT",
-      "sinh viên"
+      "khmt",
+      "ttnt",
+      "truong"
     ],
     "prev_chunk": "2024-tuyen-sinh-chuong-trinh-tai-nang-nam-2024_chunk_9",
     "next_chunk": null,

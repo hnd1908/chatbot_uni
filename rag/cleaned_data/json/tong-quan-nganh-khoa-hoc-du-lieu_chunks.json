@@ -8,9 +8,8 @@
     "year": null,
     "department": "Khoa học dữ liệu",
     "keywords": [
-      "Khoa học dữ liệu",
-      "UIT",
-      "khoa"
+      "khdl",
+      "truong"
     ],
     "prev_chunk": null,
     "next_chunk": "tong-quan-nganh-khoa-hoc-du-lieu_chunk_2",
@@ -26,12 +25,10 @@
     "year": null,
     "department": "Khoa học dữ liệu",
     "keywords": [
-      "Khoa học dữ liệu",
-      "KHDL",
-      "phân tích dữ liệu",
-      "AI",
-      "AI",
-      "khoa"
+      "khdl",
+      "khmt",
+      "ttnt",
+      "truong"
     ],
     "prev_chunk": "tong-quan-nganh-khoa-hoc-du-lieu_chunk_1",
     "next_chunk": "tong-quan-nganh-khoa-hoc-du-lieu_chunk_3",
@@ -47,12 +44,10 @@
     "year": null,
     "department": "Khoa học dữ liệu",
     "keywords": [
-      "Công nghệ thông tin",
-      "máy học",
-      "AI",
-      "máy học",
-      "AI",
-      "máy học"
+      "cntt",
+      "khdl",
+      "khmt",
+      "ttnt"
     ],
     "prev_chunk": "tong-quan-nganh-khoa-hoc-du-lieu_chunk_2",
     "next_chunk": "tong-quan-nganh-khoa-hoc-du-lieu_chunk_4",
@@ -68,9 +63,9 @@
     "year": null,
     "department": "Khoa học dữ liệu",
     "keywords": [
-      "phân tích dữ liệu",
-      "AI",
-      "AI"
+      "khdl",
+      "khmt",
+      "ttnt"
     ],
     "prev_chunk": "tong-quan-nganh-khoa-hoc-du-lieu_chunk_3",
     "next_chunk": "tong-quan-nganh-khoa-hoc-du-lieu_chunk_5",
@@ -86,9 +81,9 @@
     "year": null,
     "department": "Khoa học dữ liệu",
     "keywords": [
-      "KHDL",
-      "Trí tuệ nhân tạo",
-      "Trí tuệ nhân tạo"
+      "khdl",
+      "khmt",
+      "ttnt"
     ],
     "prev_chunk": "tong-quan-nganh-khoa-hoc-du-lieu_chunk_4",
     "next_chunk": "tong-quan-nganh-khoa-hoc-du-lieu_chunk_6",
@@ -118,10 +113,10 @@
     "year": null,
     "department": "Khoa học dữ liệu",
     "keywords": [
-      "Khoa học dữ liệu",
-      "AI",
-      "AI",
-      "khoa"
+      "khdl",
+      "khmt",
+      "ttnt",
+      "truong"
     ],
     "prev_chunk": "tong-quan-nganh-khoa-hoc-du-lieu_chunk_6",
     "next_chunk": "tong-quan-nganh-khoa-hoc-du-lieu_chunk_8",
@@ -137,13 +132,9 @@
     "year": null,
     "department": "Khoa học dữ liệu",
     "keywords": [
-      "máy học",
-      "Trí tuệ nhân tạo",
-      "AI",
-      "máy học",
-      "Trí tuệ nhân tạo",
-      "AI",
-      "máy học"
+      "khdl",
+      "khmt",
+      "ttnt"
     ],
     "prev_chunk": "tong-quan-nganh-khoa-hoc-du-lieu_chunk_7",
     "next_chunk": "tong-quan-nganh-khoa-hoc-du-lieu_chunk_9",
@@ -159,10 +150,10 @@
     "year": null,
     "department": "Khoa học dữ liệu",
     "keywords": [
-      "phân tích dữ liệu",
-      "AI",
-      "AI",
-      "khoa"
+      "khdl",
+      "khmt",
+      "ttnt",
+      "truong"
     ],
     "prev_chunk": "tong-quan-nganh-khoa-hoc-du-lieu_chunk_8",
     "next_chunk": "tong-quan-nganh-khoa-hoc-du-lieu_chunk_10",
@@ -178,10 +169,9 @@
     "year": null,
     "department": "Khoa học dữ liệu",
     "keywords": [
-      "Khoa học dữ liệu",
-      "phân tích dữ liệu",
-      "Khoa học Máy tính",
-      "khoa"
+      "khdl",
+      "khmt",
+      "truong"
     ],
     "prev_chunk": "tong-quan-nganh-khoa-hoc-du-lieu_chunk_9",
     "next_chunk": "tong-quan-nganh-khoa-hoc-du-lieu_chunk_11",
@@ -197,8 +187,8 @@
     "year": null,
     "department": "Khoa học dữ liệu",
     "keywords": [
-      "quản lý",
-      "lãnh đạo"
+      "httt",
+      "truong"
     ],
     "prev_chunk": "tong-quan-nganh-khoa-hoc-du-lieu_chunk_10",
     "next_chunk": "tong-quan-nganh-khoa-hoc-du-lieu_chunk_12",
@@ -214,8 +204,8 @@
     "year": null,
     "department": "Khoa học dữ liệu",
     "keywords": [
-      "AI",
-      "AI"
+      "khmt",
+      "ttnt"
     ],
     "prev_chunk": "tong-quan-nganh-khoa-hoc-du-lieu_chunk_11",
     "next_chunk": "tong-quan-nganh-khoa-hoc-du-lieu_chunk_13",
@@ -231,11 +221,10 @@
     "year": null,
     "department": "Khoa học dữ liệu",
     "keywords": [
-      "dữ liệu lớn",
-      "Khoa học Máy tính",
-      "AI",
-      "AI",
-      "khoa"
+      "khdl",
+      "khmt",
+      "ttnt",
+      "truong"
     ],
     "prev_chunk": "tong-quan-nganh-khoa-hoc-du-lieu_chunk_12",
     "next_chunk": null,

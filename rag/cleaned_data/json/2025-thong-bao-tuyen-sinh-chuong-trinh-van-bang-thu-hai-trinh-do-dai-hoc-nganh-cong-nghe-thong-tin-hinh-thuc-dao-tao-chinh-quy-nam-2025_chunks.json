@@ -8,11 +8,11 @@
     "year": "2025",
     "department": null,
     "keywords": [
-      "tuyển sinh",
-      "Công nghệ thông tin",
-      "AI",
-      "AI",
-      "UIT"
+      "tuyensinh",
+      "cntt",
+      "khmt",
+      "ttnt",
+      "truong"
     ],
     "prev_chunk": null,
     "next_chunk": "2025-thong-bao-tuyen-sinh-chuong-trinh-van-bang-thu-hai-trinh-do-dai-hoc-nganh-cong-nghe-thong-tin-hinh-thuc-dao-tao-chinh-quy-nam-2025_chunk_2",
@@ -34,11 +34,11 @@
     "year": "2025",
     "department": null,
     "keywords": [
-      "tuyển sinh",
-      "Công nghệ thông tin",
-      "AI",
-      "AI",
-      "Trường Đại học Công nghệ Thông tin"
+      "tuyensinh",
+      "cntt",
+      "khmt",
+      "ttnt",
+      "truong"
     ],
     "prev_chunk": "2025-thong-bao-tuyen-sinh-chuong-trinh-van-bang-thu-hai-trinh-do-dai-hoc-nganh-cong-nghe-thong-tin-hinh-thuc-dao-tao-chinh-quy-nam-2025_chunk_1",
     "next_chunk": "2025-thong-bao-tuyen-sinh-chuong-trinh-van-bang-thu-hai-trinh-do-dai-hoc-nganh-cong-nghe-thong-tin-hinh-thuc-dao-tao-chinh-quy-nam-2025_chunk_3",
@@ -60,9 +60,9 @@
     "year": "2025",
     "department": null,
     "keywords": [
-      "AI",
-      "AI",
-      "tốt nghiệp"
+      "khmt",
+      "ttnt",
+      "hoctap"
     ],
     "prev_chunk": "2025-thong-bao-tuyen-sinh-chuong-trinh-van-bang-thu-hai-trinh-do-dai-hoc-nganh-cong-nghe-thong-tin-hinh-thuc-dao-tao-chinh-quy-nam-2025_chunk_2",
     "next_chunk": "2025-thong-bao-tuyen-sinh-chuong-trinh-van-bang-thu-hai-trinh-do-dai-hoc-nganh-cong-nghe-thong-tin-hinh-thuc-dao-tao-chinh-quy-nam-2025_chunk_4",
@@ -104,7 +104,7 @@
     "year": "2025",
     "department": null,
     "keywords": [
-      "xét tuyển"
+      "tuyensinh"
     ],
     "prev_chunk": "2025-thong-bao-tuyen-sinh-chuong-trinh-van-bang-thu-hai-trinh-do-dai-hoc-nganh-cong-nghe-thong-tin-hinh-thuc-dao-tao-chinh-quy-nam-2025_chunk_4",
     "next_chunk": "2025-thong-bao-tuyen-sinh-chuong-trinh-van-bang-thu-hai-trinh-do-dai-hoc-nganh-cong-nghe-thong-tin-hinh-thuc-dao-tao-chinh-quy-nam-2025_chunk_6",
@@ -126,12 +126,12 @@
     "year": "2025",
     "department": null,
     "keywords": [
-      "xét tuyển",
-      "AI",
-      "AI",
-      "khoa",
-      "tốt nghiệp",
-      "điểm trung bình"
+      "tuyensinh",
+      "khmt",
+      "ttnt",
+      "truong",
+      "hoctap",
+      "giao_duc_pho_thong"
     ],
     "prev_chunk": "2025-thong-bao-tuyen-sinh-chuong-trinh-van-bang-thu-hai-trinh-do-dai-hoc-nganh-cong-nghe-thong-tin-hinh-thuc-dao-tao-chinh-quy-nam-2025_chunk_5",
     "next_chunk": "2025-thong-bao-tuyen-sinh-chuong-trinh-van-bang-thu-hai-trinh-do-dai-hoc-nganh-cong-nghe-thong-tin-hinh-thuc-dao-tao-chinh-quy-nam-2025_chunk_7",
@@ -153,7 +153,7 @@
     "year": "2025",
     "department": null,
     "keywords": [
-      "sinh viên"
+      "truong"
     ],
     "prev_chunk": "2025-thong-bao-tuyen-sinh-chuong-trinh-van-bang-thu-hai-trinh-do-dai-hoc-nganh-cong-nghe-thong-tin-hinh-thuc-dao-tao-chinh-quy-nam-2025_chunk_6",
     "next_chunk": "2025-thong-bao-tuyen-sinh-chuong-trinh-van-bang-thu-hai-trinh-do-dai-hoc-nganh-cong-nghe-thong-tin-hinh-thuc-dao-tao-chinh-quy-nam-2025_chunk_8",
@@ -175,8 +175,8 @@
     "year": "2025",
     "department": null,
     "keywords": [
-      "AI",
-      "AI"
+      "khmt",
+      "ttnt"
     ],
     "prev_chunk": "2025-thong-bao-tuyen-sinh-chuong-trinh-van-bang-thu-hai-trinh-do-dai-hoc-nganh-cong-nghe-thong-tin-hinh-thuc-dao-tao-chinh-quy-nam-2025_chunk_7",
     "next_chunk": "2025-thong-bao-tuyen-sinh-chuong-trinh-van-bang-thu-hai-trinh-do-dai-hoc-nganh-cong-nghe-thong-tin-hinh-thuc-dao-tao-chinh-quy-nam-2025_chunk_9",
@@ -198,12 +198,11 @@
     "year": "2025",
     "department": null,
     "keywords": [
-      "tuyển sinh",
-      "đăng ký",
-      "Công nghệ thông tin",
-      "AI",
-      "AI",
-      "Trường Đại học Công nghệ Thông tin"
+      "tuyensinh",
+      "cntt",
+      "khmt",
+      "ttnt",
+      "truong"
     ],
     "prev_chunk": "2025-thong-bao-tuyen-sinh-chuong-trinh-van-bang-thu-hai-trinh-do-dai-hoc-nganh-cong-nghe-thong-tin-hinh-thuc-dao-tao-chinh-quy-nam-2025_chunk_8",
     "next_chunk": "2025-thong-bao-tuyen-sinh-chuong-trinh-van-bang-thu-hai-trinh-do-dai-hoc-nganh-cong-nghe-thong-tin-hinh-thuc-dao-tao-chinh-quy-nam-2025_chunk_10",
@@ -225,15 +224,13 @@
     "year": "2025",
     "department": null,
     "keywords": [
-      "xét tuyển",
-      "đăng ký",
-      "nộp hồ sơ",
-      "điểm đại học",
-      "Công nghệ thông tin",
-      "AI",
-      "AI",
-      "Trường Đại học Công nghệ Thông tin",
-      "tốt nghiệp"
+      "tuyensinh",
+      "diem",
+      "cntt",
+      "khmt",
+      "ttnt",
+      "truong",
+      "hoctap"
     ],
     "prev_chunk": "2025-thong-bao-tuyen-sinh-chuong-trinh-van-bang-thu-hai-trinh-do-dai-hoc-nganh-cong-nghe-thong-tin-hinh-thuc-dao-tao-chinh-quy-nam-2025_chunk_9",
     "next_chunk": "2025-thong-bao-tuyen-sinh-chuong-trinh-van-bang-thu-hai-trinh-do-dai-hoc-nganh-cong-nghe-thong-tin-hinh-thuc-dao-tao-chinh-quy-nam-2025_chunk_11",
@@ -275,9 +272,9 @@
     "year": "2025",
     "department": null,
     "keywords": [
-      "AI",
-      "AI",
-      "UIT"
+      "khmt",
+      "ttnt",
+      "truong"
     ],
     "prev_chunk": "2025-thong-bao-tuyen-sinh-chuong-trinh-van-bang-thu-hai-trinh-do-dai-hoc-nganh-cong-nghe-thong-tin-hinh-thuc-dao-tao-chinh-quy-nam-2025_chunk_11",
     "next_chunk": null,

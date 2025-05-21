@@ -8,12 +8,10 @@
     "year": "2024",
     "department": null,
     "keywords": [
-      "AI",
-      "AI",
-      "UIT",
-      "sinh viên",
-      "khoa",
-      "học bổng"
+      "khmt",
+      "ttnt",
+      "truong",
+      "hoc_bong"
     ],
     "prev_chunk": null,
     "next_chunk": "2024-hoc-bong-danh-cho-sinh-vien-chuong-trinh-bcu-khoa-2024_chunk_2",
@@ -29,12 +27,10 @@
     "year": "2024",
     "department": null,
     "keywords": [
-      "Công nghệ thông tin",
-      "AI",
-      "AI",
-      "Trường Đại học Công nghệ Thông tin",
-      "sinh viên",
-      "khoa"
+      "cntt",
+      "khmt",
+      "ttnt",
+      "truong"
     ],
     "prev_chunk": "2024-hoc-bong-danh-cho-sinh-vien-chuong-trinh-bcu-khoa-2024_chunk_1",
     "next_chunk": "2024-hoc-bong-danh-cho-sinh-vien-chuong-trinh-bcu-khoa-2024_chunk_3",
@@ -50,13 +46,11 @@
     "year": "2024",
     "department": null,
     "keywords": [
-      "AI",
-      "AI",
-      "khoa",
-      "học sinh giỏi",
-      "Học sinh giỏi quốc gia",
-      "học bổng",
-      "học bổng toàn phần"
+      "khmt",
+      "ttnt",
+      "truong",
+      "giao_duc_pho_thong",
+      "hoc_bong"
     ],
     "prev_chunk": "2024-hoc-bong-danh-cho-sinh-vien-chuong-trinh-bcu-khoa-2024_chunk_2",
     "next_chunk": "2024-hoc-bong-danh-cho-sinh-vien-chuong-trinh-bcu-khoa-2024_chunk_4",
@@ -72,16 +66,13 @@
     "year": "2024",
     "department": null,
     "keywords": [
-      "thi đánh giá năng lực",
-      "điểm thi THPT",
-      "thpt",
-      "thi thpt",
-      "AI",
-      "AI",
-      "học sinh giỏi",
-      "Học sinh giỏi quốc gia",
-      "thpt",
-      "học bổng"
+      "tuyensinh",
+      "diem",
+      "khmt",
+      "ttnt",
+      "giao_duc_pho_thong",
+      "ngoai_le",
+      "hoc_bong"
     ],
     "prev_chunk": "2024-hoc-bong-danh-cho-sinh-vien-chuong-trinh-bcu-khoa-2024_chunk_3",
     "next_chunk": "2024-hoc-bong-danh-cho-sinh-vien-chuong-trinh-bcu-khoa-2024_chunk_5",
@@ -97,10 +88,9 @@
     "year": "2024",
     "department": null,
     "keywords": [
-      "xét tuyển",
-      "đăng ký",
-      "ATTT",
-      "KHMT"
+      "tuyensinh",
+      "attt",
+      "khmt"
     ],
     "prev_chunk": "2024-hoc-bong-danh-cho-sinh-vien-chuong-trinh-bcu-khoa-2024_chunk_4",
     "next_chunk": "2024-hoc-bong-danh-cho-sinh-vien-chuong-trinh-bcu-khoa-2024_chunk_6",
@@ -116,18 +106,15 @@
     "year": "2024",
     "department": null,
     "keywords": [
-      "thi đánh giá năng lực",
-      "điểm thi THPT",
-      "thpt",
-      "thi thpt",
-      "An toàn thông tin",
-      "Khoa học Máy tính",
-      "AI",
-      "Mạng máy tính",
-      "AI",
-      "khoa",
-      "thpt",
-      "học bổng"
+      "tuyensinh",
+      "diem",
+      "attt",
+      "khmt",
+      "mmtvttdl",
+      "ttnt",
+      "truong",
+      "ngoai_le",
+      "hoc_bong"
     ],
     "prev_chunk": "2024-hoc-bong-danh-cho-sinh-vien-chuong-trinh-bcu-khoa-2024_chunk_5",
     "next_chunk": "2024-hoc-bong-danh-cho-sinh-vien-chuong-trinh-bcu-khoa-2024_chunk_7",
@@ -143,9 +130,9 @@
     "year": "2024",
     "department": null,
     "keywords": [
-      "thi đánh giá năng lực",
-      "AI",
-      "AI"
+      "tuyensinh",
+      "khmt",
+      "ttnt"
     ],
     "prev_chunk": "2024-hoc-bong-danh-cho-sinh-vien-chuong-trinh-bcu-khoa-2024_chunk_6",
     "next_chunk": "2024-hoc-bong-danh-cho-sinh-vien-chuong-trinh-bcu-khoa-2024_chunk_8",
@@ -175,18 +162,15 @@
     "year": "2024",
     "department": null,
     "keywords": [
-      "thi đánh giá năng lực",
-      "điểm thi THPT",
-      "thpt",
-      "thi thpt",
-      "An toàn thông tin",
-      "Khoa học Máy tính",
-      "AI",
-      "Mạng máy tính",
-      "AI",
-      "khoa",
-      "thpt",
-      "học bổng"
+      "tuyensinh",
+      "diem",
+      "attt",
+      "khmt",
+      "mmtvttdl",
+      "ttnt",
+      "truong",
+      "ngoai_le",
+      "hoc_bong"
     ],
     "prev_chunk": "2024-hoc-bong-danh-cho-sinh-vien-chuong-trinh-bcu-khoa-2024_chunk_8",
     "next_chunk": "2024-hoc-bong-danh-cho-sinh-vien-chuong-trinh-bcu-khoa-2024_chunk_10",
@@ -202,9 +186,9 @@
     "year": "2024",
     "department": null,
     "keywords": [
-      "thi đánh giá năng lực",
-      "AI",
-      "AI"
+      "tuyensinh",
+      "khmt",
+      "ttnt"
     ],
     "prev_chunk": "2024-hoc-bong-danh-cho-sinh-vien-chuong-trinh-bcu-khoa-2024_chunk_9",
     "next_chunk": "2024-hoc-bong-danh-cho-sinh-vien-chuong-trinh-bcu-khoa-2024_chunk_11",
@@ -234,15 +218,13 @@
     "year": "2024",
     "department": null,
     "keywords": [
-      "diem trung tuyen",
-      "điểm trúng tuyển",
-      "AI",
-      "AI",
-      "sinh viên",
-      "IELTS",
-      "Ts",
-      "TS",
-      "học bổng"
+      "diem",
+      "khmt",
+      "ttnt",
+      "truong",
+      "chungchi",
+      "giang_vien_va_can_bo",
+      "hoc_bong"
     ],
     "prev_chunk": "2024-hoc-bong-danh-cho-sinh-vien-chuong-trinh-bcu-khoa-2024_chunk_11",
     "next_chunk": "2024-hoc-bong-danh-cho-sinh-vien-chuong-trinh-bcu-khoa-2024_chunk_13",
@@ -258,14 +240,10 @@
     "year": "2024",
     "department": null,
     "keywords": [
-      "nguyện vọng",
-      "đăng ký",
-      "sinh viên",
-      "ngành đào tạo",
-      "khoa",
-      "điểm trung bình",
-      "học bổng",
-      "học bổng khuyến khích"
+      "tuyensinh",
+      "truong",
+      "giao_duc_pho_thong",
+      "hoc_bong"
     ],
     "prev_chunk": "2024-hoc-bong-danh-cho-sinh-vien-chuong-trinh-bcu-khoa-2024_chunk_12",
     "next_chunk": "2024-hoc-bong-danh-cho-sinh-vien-chuong-trinh-bcu-khoa-2024_chunk_14",
@@ -281,12 +259,10 @@
     "year": "2024",
     "department": null,
     "keywords": [
-      "đăng ký",
-      "sinh viên",
-      "khoa",
-      "môn học",
-      "học bổng",
-      "học bổng khuyến khích"
+      "tuyensinh",
+      "truong",
+      "hoctap",
+      "hoc_bong"
     ],
     "prev_chunk": "2024-hoc-bong-danh-cho-sinh-vien-chuong-trinh-bcu-khoa-2024_chunk_13",
     "next_chunk": "2024-hoc-bong-danh-cho-sinh-vien-chuong-trinh-bcu-khoa-2024_chunk_15",
@@ -302,11 +278,11 @@
     "year": "2024",
     "department": null,
     "keywords": [
-      "Công nghệ thông tin",
-      "AI",
-      "AI",
-      "sinh viên",
-      "học bổng"
+      "cntt",
+      "khmt",
+      "ttnt",
+      "truong",
+      "hoc_bong"
     ],
     "prev_chunk": "2024-hoc-bong-danh-cho-sinh-vien-chuong-trinh-bcu-khoa-2024_chunk_14",
     "next_chunk": "2024-hoc-bong-danh-cho-sinh-vien-chuong-trinh-bcu-khoa-2024_chunk_16",
@@ -322,11 +298,9 @@
     "year": "2024",
     "department": null,
     "keywords": [
-      "AI",
-      "AI",
-      "UIT",
-      "sinh viên",
-      "khoa"
+      "khmt",
+      "ttnt",
+      "truong"
     ],
     "prev_chunk": "2024-hoc-bong-danh-cho-sinh-vien-chuong-trinh-bcu-khoa-2024_chunk_15",
     "next_chunk": null,

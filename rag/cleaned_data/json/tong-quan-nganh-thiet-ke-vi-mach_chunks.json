@@ -8,10 +8,9 @@
     "year": null,
     "department": "Thiết kế vi mạch",
     "keywords": [
-      "vi mạch",
-      "Thiết kế Vi Mạch",
-      "vi mạch",
-      "UIT"
+      "ktmt",
+      "tkvm",
+      "truong"
     ],
     "prev_chunk": null,
     "next_chunk": "tong-quan-nganh-thiet-ke-vi-mach_chunk_2",
@@ -27,12 +26,9 @@
     "year": null,
     "department": "Thiết kế vi mạch",
     "keywords": [
-      "vi mạch",
-      "Thiết kế Vi Mạch",
-      "vi mạch",
-      "chip điện tử",
-      "mạch tích hợp",
-      "UIT"
+      "ktmt",
+      "tkvm",
+      "truong"
     ],
     "prev_chunk": "tong-quan-nganh-thiet-ke-vi-mach_chunk_1",
     "next_chunk": "tong-quan-nganh-thiet-ke-vi-mach_chunk_3",
@@ -48,12 +44,11 @@
     "year": null,
     "department": "Thiết kế vi mạch",
     "keywords": [
-      "AI",
-      "vi mạch",
-      "Thiết kế Vi Mạch",
-      "vi mạch",
-      "AI",
-      "sinh viên"
+      "khmt",
+      "ktmt",
+      "tkvm",
+      "ttnt",
+      "truong"
     ],
     "prev_chunk": "tong-quan-nganh-thiet-ke-vi-mach_chunk_2",
     "next_chunk": "tong-quan-nganh-thiet-ke-vi-mach_chunk_4",
@@ -69,12 +64,10 @@
     "year": null,
     "department": "Thiết kế vi mạch",
     "keywords": [
-      "vi mạch",
-      "Thiết kế Vi Mạch",
-      "vi mạch",
-      "linh kiện bán dẫn",
-      "khoa",
-      "SAT"
+      "ktmt",
+      "tkvm",
+      "truong",
+      "chungchi"
     ],
     "prev_chunk": "tong-quan-nganh-thiet-ke-vi-mach_chunk_3",
     "next_chunk": "tong-quan-nganh-thiet-ke-vi-mach_chunk_5",
@@ -90,11 +83,10 @@
     "year": null,
     "department": "Thiết kế vi mạch",
     "keywords": [
-      "AI",
-      "vi mạch",
-      "Thiết kế Vi Mạch",
-      "vi mạch",
-      "AI"
+      "khmt",
+      "ktmt",
+      "tkvm",
+      "ttnt"
     ],
     "prev_chunk": "tong-quan-nganh-thiet-ke-vi-mach_chunk_4",
     "next_chunk": "tong-quan-nganh-thiet-ke-vi-mach_chunk_6",
@@ -110,11 +102,10 @@
     "year": null,
     "department": "Thiết kế vi mạch",
     "keywords": [
-      "AI",
-      "vi mạch",
-      "Thiết kế Vi Mạch",
-      "vi mạch",
-      "AI"
+      "khmt",
+      "ktmt",
+      "tkvm",
+      "ttnt"
     ],
     "prev_chunk": "tong-quan-nganh-thiet-ke-vi-mach_chunk_5",
     "next_chunk": "tong-quan-nganh-thiet-ke-vi-mach_chunk_7",
@@ -130,17 +121,13 @@
     "year": null,
     "department": "Thiết kế vi mạch",
     "keywords": [
-      "Công nghệ thông tin",
-      "AI",
-      "vi mạch",
-      "Thiết kế Vi Mạch",
-      "vi mạch",
-      "AI",
-      "Trường Đại học Công nghệ Thông tin",
-      "sinh viên",
-      "tốt nghiệp",
-      "cơ sở ngành",
-      "chuyên ngành"
+      "cntt",
+      "khmt",
+      "ktmt",
+      "tkvm",
+      "ttnt",
+      "truong",
+      "hoctap"
     ],
     "prev_chunk": "tong-quan-nganh-thiet-ke-vi-mach_chunk_6",
     "next_chunk": "tong-quan-nganh-thiet-ke-vi-mach_chunk_8",
@@ -156,13 +143,12 @@
     "year": null,
     "department": "Thiết kế vi mạch",
     "keywords": [
-      "AI",
-      "vi mạch",
-      "Thiết kế Vi Mạch",
-      "vi mạch",
-      "AI",
-      "sinh viên",
-      "tốt nghiệp"
+      "khmt",
+      "ktmt",
+      "tkvm",
+      "ttnt",
+      "truong",
+      "hoctap"
     ],
     "prev_chunk": "tong-quan-nganh-thiet-ke-vi-mach_chunk_7",
     "next_chunk": "tong-quan-nganh-thiet-ke-vi-mach_chunk_9",
@@ -178,10 +164,10 @@
     "year": null,
     "department": "Thiết kế vi mạch",
     "keywords": [
-      "AI",
-      "vi mạch",
-      "vi mạch",
-      "AI"
+      "khmt",
+      "ktmt",
+      "tkvm",
+      "ttnt"
     ],
     "prev_chunk": "tong-quan-nganh-thiet-ke-vi-mach_chunk_8",
     "next_chunk": "tong-quan-nganh-thiet-ke-vi-mach_chunk_10",
@@ -197,10 +183,10 @@
     "year": null,
     "department": "Thiết kế vi mạch",
     "keywords": [
-      "vi mạch",
-      "vi mạch",
-      "sinh viên",
-      "tốt nghiệp"
+      "ktmt",
+      "tkvm",
+      "truong",
+      "hoctap"
     ],
     "prev_chunk": "tong-quan-nganh-thiet-ke-vi-mach_chunk_9",
     "next_chunk": "tong-quan-nganh-thiet-ke-vi-mach_chunk_11",
@@ -216,8 +202,8 @@
     "year": null,
     "department": "Thiết kế vi mạch",
     "keywords": [
-      "AI",
-      "AI"
+      "khmt",
+      "ttnt"
     ],
     "prev_chunk": "tong-quan-nganh-thiet-ke-vi-mach_chunk_10",
     "next_chunk": null,

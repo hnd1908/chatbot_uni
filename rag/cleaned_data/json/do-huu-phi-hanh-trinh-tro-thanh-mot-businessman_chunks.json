@@ -8,8 +8,8 @@
     "year": null,
     "department": null,
     "keywords": [
-      "UIT",
-      "hành trình"
+      "truong",
+      "ngoai_le"
     ],
     "prev_chunk": null,
     "next_chunk": "do-huu-phi-hanh-trinh-tro-thanh-mot-businessman_chunk_2",
@@ -25,14 +25,13 @@
     "year": null,
     "department": null,
     "keywords": [
-      "Công nghệ thông tin",
-      "thương mại điện tử",
-      "AI",
-      "Thương mại điện tử",
-      "AI",
-      "Trường Đại học Công nghệ Thông tin",
-      "sinh viên",
-      "hành trình"
+      "cntt",
+      "httt",
+      "khmt",
+      "tmdt",
+      "ttnt",
+      "truong",
+      "ngoai_le"
     ],
     "prev_chunk": "do-huu-phi-hanh-trinh-tro-thanh-mot-businessman_chunk_1",
     "next_chunk": "do-huu-phi-hanh-trinh-tro-thanh-mot-businessman_chunk_3",
@@ -48,14 +47,13 @@
     "year": null,
     "department": null,
     "keywords": [
-      "Công nghệ thông tin",
-      "thương mại điện tử",
-      "AI",
-      "Kỹ thuật phần mềm",
-      "Thương mại điện tử",
-      "AI",
-      "Trường Đại học Công nghệ Thông tin",
-      "sinh viên"
+      "cntt",
+      "httt",
+      "khmt",
+      "ktpm",
+      "tmdt",
+      "ttnt",
+      "truong"
     ],
     "prev_chunk": "do-huu-phi-hanh-trinh-tro-thanh-mot-businessman_chunk_2",
     "next_chunk": "do-huu-phi-hanh-trinh-tro-thanh-mot-businessman_chunk_4",
@@ -71,7 +69,7 @@
     "year": null,
     "department": null,
     "keywords": [
-      "hành trình"
+      "ngoai_le"
     ],
     "prev_chunk": "do-huu-phi-hanh-trinh-tro-thanh-mot-businessman_chunk_3",
     "next_chunk": "do-huu-phi-hanh-trinh-tro-thanh-mot-businessman_chunk_5",
@@ -87,7 +85,7 @@
     "year": null,
     "department": null,
     "keywords": [
-      "giảng viên"
+      "giang_vien_va_can_bo"
     ],
     "prev_chunk": "do-huu-phi-hanh-trinh-tro-thanh-mot-businessman_chunk_4",
     "next_chunk": "do-huu-phi-hanh-trinh-tro-thanh-mot-businessman_chunk_6",
@@ -103,11 +101,11 @@
     "year": null,
     "department": null,
     "keywords": [
-      "thương mại điện tử",
-      "AI",
-      "Thương mại điện tử",
-      "AI",
-      "sinh viên"
+      "httt",
+      "khmt",
+      "tmdt",
+      "ttnt",
+      "truong"
     ],
     "prev_chunk": "do-huu-phi-hanh-trinh-tro-thanh-mot-businessman_chunk_5",
     "next_chunk": "do-huu-phi-hanh-trinh-tro-thanh-mot-businessman_chunk_7",
@@ -123,10 +121,9 @@
     "year": null,
     "department": null,
     "keywords": [
-      "AI",
-      "AI",
-      "UIT",
-      "sinh viên"
+      "khmt",
+      "ttnt",
+      "truong"
     ],
     "prev_chunk": "do-huu-phi-hanh-trinh-tro-thanh-mot-businessman_chunk_6",
     "next_chunk": "do-huu-phi-hanh-trinh-tro-thanh-mot-businessman_chunk_8",
@@ -142,9 +139,9 @@
     "year": null,
     "department": null,
     "keywords": [
-      "AI",
-      "AI",
-      "khoa"
+      "khmt",
+      "ttnt",
+      "truong"
     ],
     "prev_chunk": "do-huu-phi-hanh-trinh-tro-thanh-mot-businessman_chunk_7",
     "next_chunk": "do-huu-phi-hanh-trinh-tro-thanh-mot-businessman_chunk_9",
@@ -160,8 +157,8 @@
     "year": null,
     "department": null,
     "keywords": [
-      "AI",
-      "AI"
+      "khmt",
+      "ttnt"
     ],
     "prev_chunk": "do-huu-phi-hanh-trinh-tro-thanh-mot-businessman_chunk_8",
     "next_chunk": "do-huu-phi-hanh-trinh-tro-thanh-mot-businessman_chunk_10",
@@ -177,9 +174,9 @@
     "year": null,
     "department": null,
     "keywords": [
-      "AI",
-      "AI",
-      "sinh viên"
+      "khmt",
+      "ttnt",
+      "truong"
     ],
     "prev_chunk": "do-huu-phi-hanh-trinh-tro-thanh-mot-businessman_chunk_9",
     "next_chunk": "do-huu-phi-hanh-trinh-tro-thanh-mot-businessman_chunk_11",
@@ -195,10 +192,9 @@
     "year": null,
     "department": null,
     "keywords": [
-      "AI",
-      "AI",
-      "UIT",
-      "sinh viên"
+      "khmt",
+      "ttnt",
+      "truong"
     ],
     "prev_chunk": "do-huu-phi-hanh-trinh-tro-thanh-mot-businessman_chunk_10",
     "next_chunk": null,

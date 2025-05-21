@@ -8,11 +8,10 @@
     "year": null,
     "department": null,
     "keywords": [
-      "tuyển sinh",
-      "AI",
-      "AI",
-      "UIT",
-      "ngành đào tạo"
+      "tuyensinh",
+      "khmt",
+      "ttnt",
+      "truong"
     ],
     "prev_chunk": null,
     "next_chunk": "nganh-dao-tao_chunk_2",
@@ -28,12 +27,12 @@
     "year": null,
     "department": null,
     "keywords": [
-      "Công nghệ thông tin",
-      "Hệ Thống Thông Tin",
-      "AI",
-      "AI",
-      "UIT",
-      "SAT"
+      "cntt",
+      "httt",
+      "khmt",
+      "ttnt",
+      "truong",
+      "chungchi"
     ],
     "prev_chunk": "nganh-dao-tao_chunk_1",
     "next_chunk": "nganh-dao-tao_chunk_3",
@@ -49,11 +48,10 @@
     "year": null,
     "department": null,
     "keywords": [
-      "Khoa học Máy tính",
-      "Kỹ thuật Máy tính",
-      "Kỹ thuật phần mềm",
-      "UIT",
-      "khoa"
+      "khmt",
+      "ktmt",
+      "ktpm",
+      "truong"
     ],
     "prev_chunk": "nganh-dao-tao_chunk_2",
     "next_chunk": "nganh-dao-tao_chunk_4",
@@ -69,12 +67,11 @@
     "year": null,
     "department": null,
     "keywords": [
-      "An toàn thông tin",
-      "AI",
-      "Mạng máy tính",
-      "truyền thông dữ liệu",
-      "AI",
-      "UIT"
+      "attt",
+      "khmt",
+      "mmtvttdl",
+      "ttnt",
+      "truong"
     ],
     "prev_chunk": "nganh-dao-tao_chunk_3",
     "next_chunk": "nganh-dao-tao_chunk_5",
@@ -90,15 +87,12 @@
     "year": null,
     "department": null,
     "keywords": [
-      "thương mại điện tử",
-      "Khoa học dữ liệu",
-      "Trí tuệ nhân tạo",
-      "AI",
-      "Thương mại điện tử",
-      "Trí tuệ nhân tạo",
-      "AI",
-      "UIT",
-      "khoa"
+      "httt",
+      "khdl",
+      "khmt",
+      "tmdt",
+      "ttnt",
+      "truong"
     ],
     "prev_chunk": "nganh-dao-tao_chunk_4",
     "next_chunk": "nganh-dao-tao_chunk_6",
@@ -114,10 +108,9 @@
     "year": null,
     "department": null,
     "keywords": [
-      "vi mạch",
-      "Thiết kế Vi Mạch",
-      "vi mạch",
-      "UIT"
+      "ktmt",
+      "tkvm",
+      "truong"
     ],
     "prev_chunk": "nganh-dao-tao_chunk_5",
     "next_chunk": null,

@@ -8,8 +8,8 @@
     "year": null,
     "department": null,
     "keywords": [
-      "UIT",
-      "hành trình"
+      "truong",
+      "ngoai_le"
     ],
     "prev_chunk": null,
     "next_chunk": "uiter-luong-dac-nguyen-hanh-trinh-chinh-phuc-san-choi-cong-nghe-quoc-gia_chunk_2",
@@ -25,16 +25,12 @@
     "year": null,
     "department": null,
     "keywords": [
-      "Công nghệ thông tin",
-      "Khoa học dữ liệu",
-      "AI",
-      "AI",
-      "Trường Đại học Công nghệ Thông tin",
-      "UIT",
-      "ĐHQG-HCM",
-      "sinh viên",
-      "khoa",
-      "hoạt động ngoại khóa"
+      "cntt",
+      "khdl",
+      "khmt",
+      "ttnt",
+      "truong",
+      "ngoai_le"
     ],
     "prev_chunk": "uiter-luong-dac-nguyen-hanh-trinh-chinh-phuc-san-choi-cong-nghe-quoc-gia_chunk_1",
     "next_chunk": "uiter-luong-dac-nguyen-hanh-trinh-chinh-phuc-san-choi-cong-nghe-quoc-gia_chunk_3",
@@ -50,8 +46,8 @@
     "year": null,
     "department": null,
     "keywords": [
-      "AI",
-      "AI"
+      "khmt",
+      "ttnt"
     ],
     "prev_chunk": "uiter-luong-dac-nguyen-hanh-trinh-chinh-phuc-san-choi-cong-nghe-quoc-gia_chunk_2",
     "next_chunk": "uiter-luong-dac-nguyen-hanh-trinh-chinh-phuc-san-choi-cong-nghe-quoc-gia_chunk_4",
@@ -67,9 +63,9 @@
     "year": null,
     "department": null,
     "keywords": [
-      "AI",
-      "AI",
-      "hành trình"
+      "khmt",
+      "ttnt",
+      "ngoai_le"
     ],
     "prev_chunk": "uiter-luong-dac-nguyen-hanh-trinh-chinh-phuc-san-choi-cong-nghe-quoc-gia_chunk_3",
     "next_chunk": "uiter-luong-dac-nguyen-hanh-trinh-chinh-phuc-san-choi-cong-nghe-quoc-gia_chunk_5",
@@ -85,10 +81,10 @@
     "year": null,
     "department": null,
     "keywords": [
-      "phát triển công nghệ",
-      "AI",
-      "AI",
-      "khoa"
+      "cntt",
+      "khmt",
+      "ttnt",
+      "truong"
     ],
     "prev_chunk": "uiter-luong-dac-nguyen-hanh-trinh-chinh-phuc-san-choi-cong-nghe-quoc-gia_chunk_4",
     "next_chunk": "uiter-luong-dac-nguyen-hanh-trinh-chinh-phuc-san-choi-cong-nghe-quoc-gia_chunk_6",
@@ -104,8 +100,8 @@
     "year": null,
     "department": null,
     "keywords": [
-      "AI",
-      "AI"
+      "khmt",
+      "ttnt"
     ],
     "prev_chunk": "uiter-luong-dac-nguyen-hanh-trinh-chinh-phuc-san-choi-cong-nghe-quoc-gia_chunk_5",
     "next_chunk": "uiter-luong-dac-nguyen-hanh-trinh-chinh-phuc-san-choi-cong-nghe-quoc-gia_chunk_7",
@@ -121,10 +117,9 @@
     "year": null,
     "department": null,
     "keywords": [
-      "AI",
-      "AI",
-      "UIT",
-      "sinh viên"
+      "khmt",
+      "ttnt",
+      "truong"
     ],
     "prev_chunk": "uiter-luong-dac-nguyen-hanh-trinh-chinh-phuc-san-choi-cong-nghe-quoc-gia_chunk_6",
     "next_chunk": "uiter-luong-dac-nguyen-hanh-trinh-chinh-phuc-san-choi-cong-nghe-quoc-gia_chunk_8",
@@ -154,8 +149,8 @@
     "year": null,
     "department": null,
     "keywords": [
-      "AI",
-      "AI"
+      "khmt",
+      "ttnt"
     ],
     "prev_chunk": "uiter-luong-dac-nguyen-hanh-trinh-chinh-phuc-san-choi-cong-nghe-quoc-gia_chunk_8",
     "next_chunk": "uiter-luong-dac-nguyen-hanh-trinh-chinh-phuc-san-choi-cong-nghe-quoc-gia_chunk_10",
@@ -171,12 +166,12 @@
     "year": null,
     "department": null,
     "keywords": [
-      "thiết kế hệ thống",
-      "Khoa học dữ liệu",
-      "AI",
-      "lập trình",
-      "AI",
-      "khoa"
+      "httt",
+      "khdl",
+      "khmt",
+      "ktpm",
+      "ttnt",
+      "truong"
     ],
     "prev_chunk": "uiter-luong-dac-nguyen-hanh-trinh-chinh-phuc-san-choi-cong-nghe-quoc-gia_chunk_9",
     "next_chunk": "uiter-luong-dac-nguyen-hanh-trinh-chinh-phuc-san-choi-cong-nghe-quoc-gia_chunk_11",
@@ -192,7 +187,7 @@
     "year": null,
     "department": null,
     "keywords": [
-      "hành trình"
+      "ngoai_le"
     ],
     "prev_chunk": "uiter-luong-dac-nguyen-hanh-trinh-chinh-phuc-san-choi-cong-nghe-quoc-gia_chunk_10",
     "next_chunk": "uiter-luong-dac-nguyen-hanh-trinh-chinh-phuc-san-choi-cong-nghe-quoc-gia_chunk_12",
@@ -208,10 +203,10 @@
     "year": null,
     "department": null,
     "keywords": [
-      "Khoa học dữ liệu",
-      "AI",
-      "AI",
-      "khoa"
+      "khdl",
+      "khmt",
+      "ttnt",
+      "truong"
     ],
     "prev_chunk": "uiter-luong-dac-nguyen-hanh-trinh-chinh-phuc-san-choi-cong-nghe-quoc-gia_chunk_11",
     "next_chunk": "uiter-luong-dac-nguyen-hanh-trinh-chinh-phuc-san-choi-cong-nghe-quoc-gia_chunk_13",
@@ -227,8 +222,7 @@
     "year": null,
     "department": null,
     "keywords": [
-      "sinh viên",
-      "khoa"
+      "truong"
     ],
     "prev_chunk": "uiter-luong-dac-nguyen-hanh-trinh-chinh-phuc-san-choi-cong-nghe-quoc-gia_chunk_12",
     "next_chunk": "uiter-luong-dac-nguyen-hanh-trinh-chinh-phuc-san-choi-cong-nghe-quoc-gia_chunk_14",
@@ -244,8 +238,7 @@
     "year": null,
     "department": null,
     "keywords": [
-      "UIT",
-      "sinh viên"
+      "truong"
     ],
     "prev_chunk": "uiter-luong-dac-nguyen-hanh-trinh-chinh-phuc-san-choi-cong-nghe-quoc-gia_chunk_13",
     "next_chunk": "uiter-luong-dac-nguyen-hanh-trinh-chinh-phuc-san-choi-cong-nghe-quoc-gia_chunk_15",
@@ -261,9 +254,9 @@
     "year": null,
     "department": null,
     "keywords": [
-      "AI",
-      "AI",
-      "khoa"
+      "khmt",
+      "ttnt",
+      "truong"
     ],
     "prev_chunk": "uiter-luong-dac-nguyen-hanh-trinh-chinh-phuc-san-choi-cong-nghe-quoc-gia_chunk_14",
     "next_chunk": "uiter-luong-dac-nguyen-hanh-trinh-chinh-phuc-san-choi-cong-nghe-quoc-gia_chunk_16",
@@ -293,8 +286,8 @@
     "year": null,
     "department": null,
     "keywords": [
-      "UIT",
-      "hành trình"
+      "truong",
+      "ngoai_le"
     ],
     "prev_chunk": "uiter-luong-dac-nguyen-hanh-trinh-chinh-phuc-san-choi-cong-nghe-quoc-gia_chunk_16",
     "next_chunk": "uiter-luong-dac-nguyen-hanh-trinh-chinh-phuc-san-choi-cong-nghe-quoc-gia_chunk_18",
@@ -310,12 +303,11 @@
     "year": null,
     "department": null,
     "keywords": [
-      "AI",
-      "AI",
-      "UIT",
-      "sinh viên",
-      "môn học",
-      "hành trình"
+      "khmt",
+      "ttnt",
+      "truong",
+      "hoctap",
+      "ngoai_le"
     ],
     "prev_chunk": "uiter-luong-dac-nguyen-hanh-trinh-chinh-phuc-san-choi-cong-nghe-quoc-gia_chunk_17",
     "next_chunk": "uiter-luong-dac-nguyen-hanh-trinh-chinh-phuc-san-choi-cong-nghe-quoc-gia_chunk_19",
@@ -331,9 +323,9 @@
     "year": null,
     "department": null,
     "keywords": [
-      "AI",
-      "AI",
-      "môn học"
+      "khmt",
+      "ttnt",
+      "hoctap"
     ],
     "prev_chunk": "uiter-luong-dac-nguyen-hanh-trinh-chinh-phuc-san-choi-cong-nghe-quoc-gia_chunk_18",
     "next_chunk": "uiter-luong-dac-nguyen-hanh-trinh-chinh-phuc-san-choi-cong-nghe-quoc-gia_chunk_20",
@@ -349,8 +341,7 @@
     "year": null,
     "department": null,
     "keywords": [
-      "UIT",
-      "sinh viên"
+      "truong"
     ],
     "prev_chunk": "uiter-luong-dac-nguyen-hanh-trinh-chinh-phuc-san-choi-cong-nghe-quoc-gia_chunk_19",
     "next_chunk": "uiter-luong-dac-nguyen-hanh-trinh-chinh-phuc-san-choi-cong-nghe-quoc-gia_chunk_21",
@@ -366,8 +357,8 @@
     "year": null,
     "department": null,
     "keywords": [
-      "Công nghệ thông tin",
-      "UIT"
+      "cntt",
+      "truong"
     ],
     "prev_chunk": "uiter-luong-dac-nguyen-hanh-trinh-chinh-phuc-san-choi-cong-nghe-quoc-gia_chunk_20",
     "next_chunk": null,

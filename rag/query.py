@@ -75,8 +75,12 @@ class QdrantSearchSystem:
         norm_question = self.normalize(question)
 
         # Từ khóa
-        all_keywords = {kw: self.normalize(kw) for kws in keywords_dict.values() for kw in kws}
-        matched_keywords = {kw for kw, norm_kw in all_keywords.items() if norm_kw in norm_question}
+        matched_keys = set()
+        for key, kws in keywords_dict.items():
+            for kw in kws:
+                if self.normalize(kw) in norm_question:
+                    matched_keys.add(key)
+                    break  # Nếu đã match 1 từ khóa của key này thì không cần kiểm tra tiếp
 
         # Năm
         year_match = re.search(r"20\d{2}", question)
@@ -87,7 +91,6 @@ class QdrantSearchSystem:
         field_match = next((f for f in fields if f in norm_question), None)
 
         # Department (ngành/khoa)
-        # Dùng lại dict ngành như trong chunking.py
         nganh_name_map = {
             "attt": "An toàn thông tin",
             "cntt": "Công nghệ thông tin",
@@ -109,7 +112,7 @@ class QdrantSearchSystem:
                 break
 
         return {
-            "filter_keywords": list(matched_keywords),
+            "filter_keywords": list(matched_keys),
             "year": year,
             "field": field_match,
             "department": department,

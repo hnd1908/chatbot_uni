@@ -8,14 +8,9 @@
     "year": "2025",
     "department": null,
     "keywords": [
-      "thpt",
-      "UIT",
-      "uni-tour",
-      "tour",
-      "hành trình",
-      "khám phá",
-      "thcs",
-      "thpt"
+      "diem",
+      "truong",
+      "ngoai_le"
     ],
     "prev_chunk": null,
     "next_chunk": "uit-uni-tour-2025-hanh-trinh-kham-pha-uit-cua-hon-600-ban-hoc-sinh-den-tu-cac-truong-thcs-thpt_chunk_2",
@@ -31,17 +26,12 @@
     "year": "2025",
     "department": null,
     "keywords": [
-      "thpt",
-      "Công nghệ thông tin",
-      "AI",
-      "AI",
-      "Trường Đại học Công nghệ Thông tin",
-      "UIT",
-      "ĐHQG-HCM",
-      "cơ sở vật chất",
-      "tour",
-      "thcs",
-      "thpt"
+      "diem",
+      "cntt",
+      "khmt",
+      "ttnt",
+      "truong",
+      "ngoai_le"
     ],
     "prev_chunk": "uit-uni-tour-2025-hanh-trinh-kham-pha-uit-cua-hon-600-ban-hoc-sinh-den-tu-cac-truong-thcs-thpt_chunk_1",
     "next_chunk": "uit-uni-tour-2025-hanh-trinh-kham-pha-uit-cua-hon-600-ban-hoc-sinh-den-tu-cac-truong-thcs-thpt_chunk_3",
@@ -57,15 +47,11 @@
     "year": "2025",
     "department": null,
     "keywords": [
-      "AI",
-      "AI",
-      "UIT",
-      "cơ sở vật chất",
-      "Thư viện",
-      "sinh viên",
-      "giảng dạy",
-      "hành trình",
-      "khám phá"
+      "khmt",
+      "ttnt",
+      "truong",
+      "giang_vien_va_can_bo",
+      "ngoai_le"
     ],
     "prev_chunk": "uit-uni-tour-2025-hanh-trinh-kham-pha-uit-cua-hon-600-ban-hoc-sinh-den-tu-cac-truong-thcs-thpt_chunk_2",
     "next_chunk": "uit-uni-tour-2025-hanh-trinh-kham-pha-uit-cua-hon-600-ban-hoc-sinh-den-tu-cac-truong-thcs-thpt_chunk_4",
@@ -81,9 +67,9 @@
     "year": "2025",
     "department": null,
     "keywords": [
-      "thpt",
-      "trường THPT",
-      "thpt"
+      "diem",
+      "giao_duc_pho_thong",
+      "ngoai_le"
     ],
     "prev_chunk": "uit-uni-tour-2025-hanh-trinh-kham-pha-uit-cua-hon-600-ban-hoc-sinh-den-tu-cac-truong-thcs-thpt_chunk_3",
     "next_chunk": "uit-uni-tour-2025-hanh-trinh-kham-pha-uit-cua-hon-600-ban-hoc-sinh-den-tu-cac-truong-thcs-thpt_chunk_5",
@@ -99,20 +85,17 @@
     "year": "2025",
     "department": null,
     "keywords": [
-      "An toàn thông tin",
-      "Công nghệ thông tin",
-      "Hệ Thống Thông Tin",
-      "AI",
-      "IoT",
-      "vi mạch",
-      "IoT",
-      "vi mạch",
-      "mạch tích hợp",
-      "AI",
-      "Truyền thông Đa phương tiện",
-      "đa phương tiện",
-      "UIT",
-      "hành trình"
+      "attt",
+      "cntt",
+      "httt",
+      "khmt",
+      "ktmt",
+      "mmtvttdl",
+      "tkvm",
+      "ttnt",
+      "ttdpt",
+      "truong",
+      "ngoai_le"
     ],
     "prev_chunk": "uit-uni-tour-2025-hanh-trinh-kham-pha-uit-cua-hon-600-ban-hoc-sinh-den-tu-cac-truong-thcs-thpt_chunk_4",
     "next_chunk": "uit-uni-tour-2025-hanh-trinh-kham-pha-uit-cua-hon-600-ban-hoc-sinh-den-tu-cac-truong-thcs-thpt_chunk_6",
@@ -128,9 +111,9 @@
     "year": "2025",
     "department": null,
     "keywords": [
-      "AI",
-      "AI",
-      "định hướng nghề nghiệp"
+      "khmt",
+      "ttnt",
+      "ngoai_le"
     ],
     "prev_chunk": "uit-uni-tour-2025-hanh-trinh-kham-pha-uit-cua-hon-600-ban-hoc-sinh-den-tu-cac-truong-thcs-thpt_chunk_5",
     "next_chunk": "uit-uni-tour-2025-hanh-trinh-kham-pha-uit-cua-hon-600-ban-hoc-sinh-den-tu-cac-truong-thcs-thpt_chunk_7",
@@ -146,15 +129,12 @@
     "year": "2025",
     "department": null,
     "keywords": [
-      "AI",
-      "IoT",
-      "vi mạch",
-      "IoT",
-      "Thiết kế Vi Mạch",
-      "vi mạch",
-      "AI",
-      "ứng dụng AI",
-      "workshop"
+      "khmt",
+      "ktmt",
+      "mmtvttdl",
+      "tkvm",
+      "ttnt",
+      "ngoai_le"
     ],
     "prev_chunk": "uit-uni-tour-2025-hanh-trinh-kham-pha-uit-cua-hon-600-ban-hoc-sinh-den-tu-cac-truong-thcs-thpt_chunk_6",
     "next_chunk": "uit-uni-tour-2025-hanh-trinh-kham-pha-uit-cua-hon-600-ban-hoc-sinh-den-tu-cac-truong-thcs-thpt_chunk_8",
@@ -170,10 +150,10 @@
     "year": "2025",
     "department": null,
     "keywords": [
-      "AI",
-      "IoT",
-      "IoT",
-      "AI"
+      "khmt",
+      "ktmt",
+      "mmtvttdl",
+      "ttnt"
     ],
     "prev_chunk": "uit-uni-tour-2025-hanh-trinh-kham-pha-uit-cua-hon-600-ban-hoc-sinh-den-tu-cac-truong-thcs-thpt_chunk_7",
     "next_chunk": "uit-uni-tour-2025-hanh-trinh-kham-pha-uit-cua-hon-600-ban-hoc-sinh-den-tu-cac-truong-thcs-thpt_chunk_9",
@@ -189,22 +169,12 @@
     "year": "2025",
     "department": null,
     "keywords": [
-      "AI",
-      "IoT",
-      "Mạng máy tính",
-      "IoT",
-      "AI",
-      "sinh viên",
-      "khoa",
-      "bộ môn",
-      "giảng viên",
-      "Ths",
-      "Ts.",
-      "Ts",
-      "TS.",
-      "TS",
-      "bộ môn",
-      "trưởng bộ môn"
+      "khmt",
+      "ktmt",
+      "mmtvttdl",
+      "ttnt",
+      "truong",
+      "giang_vien_va_can_bo"
     ],
     "prev_chunk": "uit-uni-tour-2025-hanh-trinh-kham-pha-uit-cua-hon-600-ban-hoc-sinh-den-tu-cac-truong-thcs-thpt_chunk_8",
     "next_chunk": "uit-uni-tour-2025-hanh-trinh-kham-pha-uit-cua-hon-600-ban-hoc-sinh-den-tu-cac-truong-thcs-thpt_chunk_10",
@@ -220,10 +190,10 @@
     "year": "2025",
     "department": null,
     "keywords": [
-      "AI",
-      "IoT",
-      "IoT",
-      "AI"
+      "khmt",
+      "ktmt",
+      "mmtvttdl",
+      "ttnt"
     ],
     "prev_chunk": "uit-uni-tour-2025-hanh-trinh-kham-pha-uit-cua-hon-600-ban-hoc-sinh-den-tu-cac-truong-thcs-thpt_chunk_9",
     "next_chunk": "uit-uni-tour-2025-hanh-trinh-kham-pha-uit-cua-hon-600-ban-hoc-sinh-den-tu-cac-truong-thcs-thpt_chunk_11",
@@ -239,14 +209,12 @@
     "year": "2025",
     "department": null,
     "keywords": [
-      "thpt",
-      "vi mạch",
-      "Thiết kế Vi Mạch",
-      "vi mạch",
-      "trường THPT",
-      "Ths.",
-      "Ths",
-      "thpt"
+      "diem",
+      "ktmt",
+      "tkvm",
+      "giao_duc_pho_thong",
+      "giang_vien_va_can_bo",
+      "ngoai_le"
     ],
     "prev_chunk": "uit-uni-tour-2025-hanh-trinh-kham-pha-uit-cua-hon-600-ban-hoc-sinh-den-tu-cac-truong-thcs-thpt_chunk_10",
     "next_chunk": "uit-uni-tour-2025-hanh-trinh-kham-pha-uit-cua-hon-600-ban-hoc-sinh-den-tu-cac-truong-thcs-thpt_chunk_12",
@@ -262,10 +230,10 @@
     "year": "2025",
     "department": null,
     "keywords": [
-      "AI",
-      "AI",
-      "ACT",
-      "workshop"
+      "khmt",
+      "ttnt",
+      "chungchi",
+      "ngoai_le"
     ],
     "prev_chunk": "uit-uni-tour-2025-hanh-trinh-kham-pha-uit-cua-hon-600-ban-hoc-sinh-den-tu-cac-truong-thcs-thpt_chunk_11",
     "next_chunk": "uit-uni-tour-2025-hanh-trinh-kham-pha-uit-cua-hon-600-ban-hoc-sinh-den-tu-cac-truong-thcs-thpt_chunk_13",
@@ -281,12 +249,11 @@
     "year": "2025",
     "department": null,
     "keywords": [
-      "AI",
-      "vi mạch",
-      "Thiết kế Vi Mạch",
-      "vi mạch",
-      "AI",
-      "workshop"
+      "khmt",
+      "ktmt",
+      "tkvm",
+      "ttnt",
+      "ngoai_le"
     ],
     "prev_chunk": "uit-uni-tour-2025-hanh-trinh-kham-pha-uit-cua-hon-600-ban-hoc-sinh-den-tu-cac-truong-thcs-thpt_chunk_12",
     "next_chunk": "uit-uni-tour-2025-hanh-trinh-kham-pha-uit-cua-hon-600-ban-hoc-sinh-den-tu-cac-truong-thcs-thpt_chunk_14",
@@ -302,16 +269,12 @@
     "year": "2025",
     "department": null,
     "keywords": [
-      "tuyển sinh",
-      "Công nghệ thông tin",
-      "AI",
-      "AI",
-      "Trường Đại học Công nghệ Thông tin",
-      "UIT",
-      "ĐHQG-HCM",
-      "hiệu trưởng",
-      "tour",
-      "tư vấn tuyển sinh"
+      "tuyensinh",
+      "cntt",
+      "khmt",
+      "ttnt",
+      "truong",
+      "ngoai_le"
     ],
     "prev_chunk": "uit-uni-tour-2025-hanh-trinh-kham-pha-uit-cua-hon-600-ban-hoc-sinh-den-tu-cac-truong-thcs-thpt_chunk_13",
     "next_chunk": "uit-uni-tour-2025-hanh-trinh-kham-pha-uit-cua-hon-600-ban-hoc-sinh-den-tu-cac-truong-thcs-thpt_chunk_15",
@@ -327,10 +290,10 @@
     "year": "2025",
     "department": null,
     "keywords": [
-      "tuyển sinh",
-      "AI",
-      "AI",
-      "hành trình"
+      "tuyensinh",
+      "khmt",
+      "ttnt",
+      "ngoai_le"
     ],
     "prev_chunk": "uit-uni-tour-2025-hanh-trinh-kham-pha-uit-cua-hon-600-ban-hoc-sinh-den-tu-cac-truong-thcs-thpt_chunk_14",
     "next_chunk": "uit-uni-tour-2025-hanh-trinh-kham-pha-uit-cua-hon-600-ban-hoc-sinh-den-tu-cac-truong-thcs-thpt_chunk_16",
@@ -346,8 +309,8 @@
     "year": "2025",
     "department": null,
     "keywords": [
-      "tuyển sinh",
-      "tư vấn tuyển sinh"
+      "tuyensinh",
+      "ngoai_le"
     ],
     "prev_chunk": "uit-uni-tour-2025-hanh-trinh-kham-pha-uit-cua-hon-600-ban-hoc-sinh-den-tu-cac-truong-thcs-thpt_chunk_15",
     "next_chunk": "uit-uni-tour-2025-hanh-trinh-kham-pha-uit-cua-hon-600-ban-hoc-sinh-den-tu-cac-truong-thcs-thpt_chunk_17",
@@ -363,13 +326,11 @@
     "year": "2025",
     "department": null,
     "keywords": [
-      "AI",
-      "AI",
-      "UIT",
-      "sinh viên",
-      "giảng viên",
-      "tour",
-      "giao lưu"
+      "khmt",
+      "ttnt",
+      "truong",
+      "giang_vien_va_can_bo",
+      "ngoai_le"
     ],
     "prev_chunk": "uit-uni-tour-2025-hanh-trinh-kham-pha-uit-cua-hon-600-ban-hoc-sinh-den-tu-cac-truong-thcs-thpt_chunk_16",
     "next_chunk": "uit-uni-tour-2025-hanh-trinh-kham-pha-uit-cua-hon-600-ban-hoc-sinh-den-tu-cac-truong-thcs-thpt_chunk_18",
@@ -385,19 +346,12 @@
     "year": "2025",
     "department": null,
     "keywords": [
-      "thpt",
-      "Công nghệ thông tin",
-      "AI",
-      "AI",
-      "Trường Đại học Công nghệ Thông tin",
-      "UIT",
-      "ĐHQG-HCM",
-      "cơ sở vật chất",
-      "sinh viên",
-      "tour",
-      "hành trình",
-      "khám phá",
-      "thpt"
+      "diem",
+      "cntt",
+      "khmt",
+      "ttnt",
+      "truong",
+      "ngoai_le"
     ],
     "prev_chunk": "uit-uni-tour-2025-hanh-trinh-kham-pha-uit-cua-hon-600-ban-hoc-sinh-den-tu-cac-truong-thcs-thpt_chunk_17",
     "next_chunk": null,

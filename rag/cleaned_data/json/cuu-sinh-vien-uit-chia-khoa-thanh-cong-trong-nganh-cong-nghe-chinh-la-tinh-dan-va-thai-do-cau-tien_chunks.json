@@ -8,11 +8,9 @@
     "year": null,
     "department": null,
     "keywords": [
-      "AI",
-      "AI",
-      "UIT",
-      "sinh viên",
-      "khoa"
+      "khmt",
+      "ttnt",
+      "truong"
     ],
     "prev_chunk": null,
     "next_chunk": "cuu-sinh-vien-uit-chia-khoa-thanh-cong-trong-nganh-cong-nghe-chinh-la-tinh-dan-va-thai-do-cau-tien_chunk_2",
@@ -28,14 +26,11 @@
     "year": null,
     "department": null,
     "keywords": [
-      "Công nghệ thông tin",
-      "Hệ Thống Thông Tin",
-      "AI",
-      "AI",
-      "Trường Đại học Công nghệ Thông tin",
-      "ĐHQG-HCM",
-      "sinh viên",
-      "khoa"
+      "cntt",
+      "httt",
+      "khmt",
+      "ttnt",
+      "truong"
     ],
     "prev_chunk": "cuu-sinh-vien-uit-chia-khoa-thanh-cong-trong-nganh-cong-nghe-chinh-la-tinh-dan-va-thai-do-cau-tien_chunk_1",
     "next_chunk": "cuu-sinh-vien-uit-chia-khoa-thanh-cong-trong-nganh-cong-nghe-chinh-la-tinh-dan-va-thai-do-cau-tien_chunk_3",
@@ -51,9 +46,9 @@
     "year": null,
     "department": null,
     "keywords": [
-      "AI",
-      "AI",
-      "hành trình"
+      "khmt",
+      "ttnt",
+      "ngoai_le"
     ],
     "prev_chunk": "cuu-sinh-vien-uit-chia-khoa-thanh-cong-trong-nganh-cong-nghe-chinh-la-tinh-dan-va-thai-do-cau-tien_chunk_2",
     "next_chunk": "cuu-sinh-vien-uit-chia-khoa-thanh-cong-trong-nganh-cong-nghe-chinh-la-tinh-dan-va-thai-do-cau-tien_chunk_4",
@@ -69,10 +64,10 @@
     "year": null,
     "department": null,
     "keywords": [
-      "AI",
-      "AI",
-      "khoa",
-      "thực tập"
+      "khmt",
+      "ttnt",
+      "truong",
+      "hoctap"
     ],
     "prev_chunk": "cuu-sinh-vien-uit-chia-khoa-thanh-cong-trong-nganh-cong-nghe-chinh-la-tinh-dan-va-thai-do-cau-tien_chunk_3",
     "next_chunk": "cuu-sinh-vien-uit-chia-khoa-thanh-cong-trong-nganh-cong-nghe-chinh-la-tinh-dan-va-thai-do-cau-tien_chunk_5",
@@ -88,10 +83,10 @@
     "year": null,
     "department": null,
     "keywords": [
-      "AI",
-      "lập trình",
-      "AI",
-      "sinh viên"
+      "khmt",
+      "ktpm",
+      "ttnt",
+      "truong"
     ],
     "prev_chunk": "cuu-sinh-vien-uit-chia-khoa-thanh-cong-trong-nganh-cong-nghe-chinh-la-tinh-dan-va-thai-do-cau-tien_chunk_4",
     "next_chunk": "cuu-sinh-vien-uit-chia-khoa-thanh-cong-trong-nganh-cong-nghe-chinh-la-tinh-dan-va-thai-do-cau-tien_chunk_6",
@@ -107,15 +102,13 @@
     "year": null,
     "department": null,
     "keywords": [
-      "Hệ Thống Thông Tin",
-      "phân tích hệ thống",
-      "AI",
-      "lập trình",
-      "AI",
-      "sinh viên",
-      "khoa",
-      "thực tập",
-      "hành trình"
+      "httt",
+      "khmt",
+      "ktpm",
+      "ttnt",
+      "truong",
+      "hoctap",
+      "ngoai_le"
     ],
     "prev_chunk": "cuu-sinh-vien-uit-chia-khoa-thanh-cong-trong-nganh-cong-nghe-chinh-la-tinh-dan-va-thai-do-cau-tien_chunk_5",
     "next_chunk": "cuu-sinh-vien-uit-chia-khoa-thanh-cong-trong-nganh-cong-nghe-chinh-la-tinh-dan-va-thai-do-cau-tien_chunk_7",
@@ -131,8 +124,8 @@
     "year": null,
     "department": null,
     "keywords": [
-      "AI",
-      "AI"
+      "khmt",
+      "ttnt"
     ],
     "prev_chunk": "cuu-sinh-vien-uit-chia-khoa-thanh-cong-trong-nganh-cong-nghe-chinh-la-tinh-dan-va-thai-do-cau-tien_chunk_6",
     "next_chunk": "cuu-sinh-vien-uit-chia-khoa-thanh-cong-trong-nganh-cong-nghe-chinh-la-tinh-dan-va-thai-do-cau-tien_chunk_8",
@@ -148,11 +141,11 @@
     "year": null,
     "department": null,
     "keywords": [
-      "AI",
-      "AI",
-      "khoa",
-      "thực tập",
-      "hành trình"
+      "khmt",
+      "ttnt",
+      "truong",
+      "hoctap",
+      "ngoai_le"
     ],
     "prev_chunk": "cuu-sinh-vien-uit-chia-khoa-thanh-cong-trong-nganh-cong-nghe-chinh-la-tinh-dan-va-thai-do-cau-tien_chunk_7",
     "next_chunk": "cuu-sinh-vien-uit-chia-khoa-thanh-cong-trong-nganh-cong-nghe-chinh-la-tinh-dan-va-thai-do-cau-tien_chunk_9",
@@ -168,8 +161,8 @@
     "year": null,
     "department": null,
     "keywords": [
-      "Hệ Thống Thông Tin",
-      "khoa"
+      "httt",
+      "truong"
     ],
     "prev_chunk": "cuu-sinh-vien-uit-chia-khoa-thanh-cong-trong-nganh-cong-nghe-chinh-la-tinh-dan-va-thai-do-cau-tien_chunk_8",
     "next_chunk": "cuu-sinh-vien-uit-chia-khoa-thanh-cong-trong-nganh-cong-nghe-chinh-la-tinh-dan-va-thai-do-cau-tien_chunk_10",
@@ -185,10 +178,10 @@
     "year": null,
     "department": null,
     "keywords": [
-      "quản lý",
-      "AI",
-      "lập trình",
-      "AI"
+      "httt",
+      "khmt",
+      "ktpm",
+      "ttnt"
     ],
     "prev_chunk": "cuu-sinh-vien-uit-chia-khoa-thanh-cong-trong-nganh-cong-nghe-chinh-la-tinh-dan-va-thai-do-cau-tien_chunk_9",
     "next_chunk": "cuu-sinh-vien-uit-chia-khoa-thanh-cong-trong-nganh-cong-nghe-chinh-la-tinh-dan-va-thai-do-cau-tien_chunk_11",
@@ -204,8 +197,8 @@
     "year": null,
     "department": null,
     "keywords": [
-      "AI",
-      "AI"
+      "khmt",
+      "ttnt"
     ],
     "prev_chunk": "cuu-sinh-vien-uit-chia-khoa-thanh-cong-trong-nganh-cong-nghe-chinh-la-tinh-dan-va-thai-do-cau-tien_chunk_10",
     "next_chunk": "cuu-sinh-vien-uit-chia-khoa-thanh-cong-trong-nganh-cong-nghe-chinh-la-tinh-dan-va-thai-do-cau-tien_chunk_12",
@@ -221,10 +214,10 @@
     "year": null,
     "department": null,
     "keywords": [
-      "bảo mật",
-      "AI",
-      "AI",
-      "sự kiện"
+      "attt",
+      "khmt",
+      "ttnt",
+      "ngoai_le"
     ],
     "prev_chunk": "cuu-sinh-vien-uit-chia-khoa-thanh-cong-trong-nganh-cong-nghe-chinh-la-tinh-dan-va-thai-do-cau-tien_chunk_11",
     "next_chunk": "cuu-sinh-vien-uit-chia-khoa-thanh-cong-trong-nganh-cong-nghe-chinh-la-tinh-dan-va-thai-do-cau-tien_chunk_13",
@@ -254,9 +247,9 @@
     "year": null,
     "department": null,
     "keywords": [
-      "AI",
-      "AI",
-      "UIT"
+      "khmt",
+      "ttnt",
+      "truong"
     ],
     "prev_chunk": "cuu-sinh-vien-uit-chia-khoa-thanh-cong-trong-nganh-cong-nghe-chinh-la-tinh-dan-va-thai-do-cau-tien_chunk_13",
     "next_chunk": "cuu-sinh-vien-uit-chia-khoa-thanh-cong-trong-nganh-cong-nghe-chinh-la-tinh-dan-va-thai-do-cau-tien_chunk_15",
@@ -272,10 +265,10 @@
     "year": null,
     "department": null,
     "keywords": [
-      "Công nghệ thông tin",
-      "AI",
-      "AI",
-      "UIT"
+      "cntt",
+      "khmt",
+      "ttnt",
+      "truong"
     ],
     "prev_chunk": "cuu-sinh-vien-uit-chia-khoa-thanh-cong-trong-nganh-cong-nghe-chinh-la-tinh-dan-va-thai-do-cau-tien_chunk_14",
     "next_chunk": "cuu-sinh-vien-uit-chia-khoa-thanh-cong-trong-nganh-cong-nghe-chinh-la-tinh-dan-va-thai-do-cau-tien_chunk_16",
@@ -291,13 +284,12 @@
     "year": null,
     "department": null,
     "keywords": [
-      "thiết kế hệ thống",
-      "ERP",
-      "AI",
-      "lập trình",
-      "AI",
-      "sinh viên",
-      "chuyên ngành"
+      "httt",
+      "khmt",
+      "ktpm",
+      "ttnt",
+      "truong",
+      "hoctap"
     ],
     "prev_chunk": "cuu-sinh-vien-uit-chia-khoa-thanh-cong-trong-nganh-cong-nghe-chinh-la-tinh-dan-va-thai-do-cau-tien_chunk_15",
     "next_chunk": "cuu-sinh-vien-uit-chia-khoa-thanh-cong-trong-nganh-cong-nghe-chinh-la-tinh-dan-va-thai-do-cau-tien_chunk_17",
@@ -313,7 +305,7 @@
     "year": null,
     "department": null,
     "keywords": [
-      "sinh viên"
+      "truong"
     ],
     "prev_chunk": "cuu-sinh-vien-uit-chia-khoa-thanh-cong-trong-nganh-cong-nghe-chinh-la-tinh-dan-va-thai-do-cau-tien_chunk_16",
     "next_chunk": "cuu-sinh-vien-uit-chia-khoa-thanh-cong-trong-nganh-cong-nghe-chinh-la-tinh-dan-va-thai-do-cau-tien_chunk_18",
@@ -329,8 +321,8 @@
     "year": null,
     "department": null,
     "keywords": [
-      "AI",
-      "AI"
+      "khmt",
+      "ttnt"
     ],
     "prev_chunk": "cuu-sinh-vien-uit-chia-khoa-thanh-cong-trong-nganh-cong-nghe-chinh-la-tinh-dan-va-thai-do-cau-tien_chunk_17",
     "next_chunk": "cuu-sinh-vien-uit-chia-khoa-thanh-cong-trong-nganh-cong-nghe-chinh-la-tinh-dan-va-thai-do-cau-tien_chunk_19",
@@ -346,10 +338,9 @@
     "year": null,
     "department": null,
     "keywords": [
-      "AI",
-      "AI",
-      "UIT",
-      "sinh viên"
+      "khmt",
+      "ttnt",
+      "truong"
     ],
     "prev_chunk": "cuu-sinh-vien-uit-chia-khoa-thanh-cong-trong-nganh-cong-nghe-chinh-la-tinh-dan-va-thai-do-cau-tien_chunk_18",
     "next_chunk": "cuu-sinh-vien-uit-chia-khoa-thanh-cong-trong-nganh-cong-nghe-chinh-la-tinh-dan-va-thai-do-cau-tien_chunk_20",
@@ -365,9 +356,9 @@
     "year": null,
     "department": null,
     "keywords": [
-      "AI",
-      "AI",
-      "sinh viên"
+      "khmt",
+      "ttnt",
+      "truong"
     ],
     "prev_chunk": "cuu-sinh-vien-uit-chia-khoa-thanh-cong-trong-nganh-cong-nghe-chinh-la-tinh-dan-va-thai-do-cau-tien_chunk_19",
     "next_chunk": "cuu-sinh-vien-uit-chia-khoa-thanh-cong-trong-nganh-cong-nghe-chinh-la-tinh-dan-va-thai-do-cau-tien_chunk_21",
@@ -383,11 +374,11 @@
     "year": null,
     "department": null,
     "keywords": [
-      "Công nghệ thông tin",
-      "AI",
-      "AI",
-      "UIT",
-      "hành trình"
+      "cntt",
+      "khmt",
+      "ttnt",
+      "truong",
+      "ngoai_le"
     ],
     "prev_chunk": "cuu-sinh-vien-uit-chia-khoa-thanh-cong-trong-nganh-cong-nghe-chinh-la-tinh-dan-va-thai-do-cau-tien_chunk_20",
     "next_chunk": "cuu-sinh-vien-uit-chia-khoa-thanh-cong-trong-nganh-cong-nghe-chinh-la-tinh-dan-va-thai-do-cau-tien_chunk_22",
@@ -403,14 +394,11 @@
     "year": null,
     "department": null,
     "keywords": [
-      "Hệ Thống Thông Tin",
-      "AI",
-      "AI",
-      "UIT",
-      "sinh viên",
-      "khoa",
-      "hành trình",
-      "giao lưu"
+      "httt",
+      "khmt",
+      "ttnt",
+      "truong",
+      "ngoai_le"
     ],
     "prev_chunk": "cuu-sinh-vien-uit-chia-khoa-thanh-cong-trong-nganh-cong-nghe-chinh-la-tinh-dan-va-thai-do-cau-tien_chunk_21",
     "next_chunk": "cuu-sinh-vien-uit-chia-khoa-thanh-cong-trong-nganh-cong-nghe-chinh-la-tinh-dan-va-thai-do-cau-tien_chunk_23",
@@ -426,10 +414,9 @@
     "year": null,
     "department": null,
     "keywords": [
-      "AI",
-      "AI",
-      "UIT",
-      "khoa"
+      "khmt",
+      "ttnt",
+      "truong"
     ],
     "prev_chunk": "cuu-sinh-vien-uit-chia-khoa-thanh-cong-trong-nganh-cong-nghe-chinh-la-tinh-dan-va-thai-do-cau-tien_chunk_22",
     "next_chunk": null,

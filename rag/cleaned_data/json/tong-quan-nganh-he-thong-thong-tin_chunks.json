@@ -8,13 +8,11 @@
     "year": null,
     "department": "Hệ thống thông tin",
     "keywords": [
-      "Hệ Thống Thông Tin",
-      "quản lý",
-      "thương mại điện tử",
-      "AI",
-      "Thương mại điện tử",
-      "AI",
-      "UIT"
+      "httt",
+      "khmt",
+      "tmdt",
+      "ttnt",
+      "truong"
     ],
     "prev_chunk": null,
     "next_chunk": "tong-quan-nganh-he-thong-thong-tin_chunk_2",
@@ -30,13 +28,11 @@
     "year": null,
     "department": "Hệ thống thông tin",
     "keywords": [
-      "Công nghệ thông tin",
-      "Hệ Thống Thông Tin",
-      "quản lý",
-      "Khoa học Máy tính",
-      "AI",
-      "AI",
-      "khoa"
+      "cntt",
+      "httt",
+      "khmt",
+      "ttnt",
+      "truong"
     ],
     "prev_chunk": "tong-quan-nganh-he-thong-thong-tin_chunk_1",
     "next_chunk": "tong-quan-nganh-he-thong-thong-tin_chunk_3",
@@ -52,12 +48,11 @@
     "year": null,
     "department": "Hệ thống thông tin",
     "keywords": [
-      "Công nghệ thông tin",
-      "quản lý",
-      "Khoa học Máy tính",
-      "AI",
-      "AI",
-      "khoa"
+      "cntt",
+      "httt",
+      "khmt",
+      "ttnt",
+      "truong"
     ],
     "prev_chunk": "tong-quan-nganh-he-thong-thong-tin_chunk_2",
     "next_chunk": "tong-quan-nganh-he-thong-thong-tin_chunk_4",
@@ -73,12 +68,10 @@
     "year": null,
     "department": "Hệ thống thông tin",
     "keywords": [
-      "Hệ Thống Thông Tin",
-      "quản lý",
-      "thương mại điện tử",
-      "AI",
-      "Thương mại điện tử",
-      "AI"
+      "httt",
+      "khmt",
+      "tmdt",
+      "ttnt"
     ],
     "prev_chunk": "tong-quan-nganh-he-thong-thong-tin_chunk_3",
     "next_chunk": "tong-quan-nganh-he-thong-thong-tin_chunk_5",
@@ -94,15 +87,12 @@
     "year": null,
     "department": "Hệ thống thông tin",
     "keywords": [
-      "Công nghệ thông tin",
-      "Hệ Thống Thông Tin",
-      "quản lý",
-      "thương mại điện tử",
-      "AI",
-      "Thương mại điện tử",
-      "AI",
-      "Trường Đại học Công nghệ Thông tin",
-      "khoa"
+      "cntt",
+      "httt",
+      "khmt",
+      "tmdt",
+      "ttnt",
+      "truong"
     ],
     "prev_chunk": "tong-quan-nganh-he-thong-thong-tin_chunk_4",
     "next_chunk": "tong-quan-nganh-he-thong-thong-tin_chunk_6",
@@ -132,16 +122,13 @@
     "year": null,
     "department": "Hệ thống thông tin",
     "keywords": [
-      "Công nghệ thông tin",
-      "Hệ Thống Thông Tin",
-      "quản lý",
-      "thương mại điện tử",
-      "AI",
-      "Thương mại điện tử",
-      "AI",
-      "sinh viên",
-      "khoa",
-      "chuyên ngành"
+      "cntt",
+      "httt",
+      "khmt",
+      "tmdt",
+      "ttnt",
+      "truong",
+      "hoctap"
     ],
     "prev_chunk": "tong-quan-nganh-he-thong-thong-tin_chunk_6",
     "next_chunk": "tong-quan-nganh-he-thong-thong-tin_chunk_8",
@@ -157,16 +144,13 @@
     "year": null,
     "department": "Hệ thống thông tin",
     "keywords": [
-      "Hệ Thống Thông Tin",
-      "thương mại điện tử",
-      "AI",
-      "Thương mại điện tử",
-      "AI",
-      "khoa",
-      "thạc sĩ",
-      "tốt nghiệp",
-      "chuyên ngành",
-      "thạc sĩ"
+      "httt",
+      "khmt",
+      "tmdt",
+      "ttnt",
+      "truong",
+      "hoctap",
+      "giang_vien_va_can_bo"
     ],
     "prev_chunk": "tong-quan-nganh-he-thong-thong-tin_chunk_7",
     "next_chunk": "tong-quan-nganh-he-thong-thong-tin_chunk_9",
@@ -182,13 +166,11 @@
     "year": null,
     "department": "Hệ thống thông tin",
     "keywords": [
-      "Hệ Thống Thông Tin",
-      "ERP",
-      "AI",
-      "AI",
-      "ĐHQG-HCM",
-      "khoa",
-      "cán bộ"
+      "httt",
+      "khmt",
+      "ttnt",
+      "truong",
+      "giang_vien_va_can_bo"
     ],
     "prev_chunk": "tong-quan-nganh-he-thong-thong-tin_chunk_8",
     "next_chunk": "tong-quan-nganh-he-thong-thong-tin_chunk_10",
@@ -204,14 +186,12 @@
     "year": null,
     "department": "Hệ thống thông tin",
     "keywords": [
-      "Hệ Thống Thông Tin",
-      "thương mại điện tử",
-      "dữ liệu lớn",
-      "AI",
-      "xử lý ngôn ngữ tự nhiên",
-      "Thương mại điện tử",
-      "AI",
-      "khoa"
+      "httt",
+      "khdl",
+      "khmt",
+      "tmdt",
+      "ttnt",
+      "truong"
     ],
     "prev_chunk": "tong-quan-nganh-he-thong-thong-tin_chunk_9",
     "next_chunk": "tong-quan-nganh-he-thong-thong-tin_chunk_11",
@@ -227,11 +207,10 @@
     "year": null,
     "department": "Hệ thống thông tin",
     "keywords": [
-      "Hệ Thống Thông Tin",
-      "AI",
-      "AI",
-      "Truyền thông Đa phương tiện",
-      "đa phương tiện"
+      "httt",
+      "khmt",
+      "ttnt",
+      "ttdpt"
     ],
     "prev_chunk": "tong-quan-nganh-he-thong-thong-tin_chunk_10",
     "next_chunk": "tong-quan-nganh-he-thong-thong-tin_chunk_12",
@@ -247,13 +226,11 @@
     "year": null,
     "department": "Hệ thống thông tin",
     "keywords": [
-      "Hệ Thống Thông Tin",
-      "quản lý",
-      "AI",
-      "AI",
-      "cơ sở vật chất",
-      "khoa",
-      "giảng dạy"
+      "httt",
+      "khmt",
+      "ttnt",
+      "truong",
+      "giang_vien_va_can_bo"
     ],
     "prev_chunk": "tong-quan-nganh-he-thong-thong-tin_chunk_11",
     "next_chunk": "tong-quan-nganh-he-thong-thong-tin_chunk_13",
@@ -269,12 +246,11 @@
     "year": null,
     "department": "Hệ thống thông tin",
     "keywords": [
-      "HTTT",
-      "AI",
-      "AI",
-      "Thư viện",
-      "khoa",
-      "giảng dạy"
+      "httt",
+      "khmt",
+      "ttnt",
+      "truong",
+      "giang_vien_va_can_bo"
     ],
     "prev_chunk": "tong-quan-nganh-he-thong-thong-tin_chunk_12",
     "next_chunk": "tong-quan-nganh-he-thong-thong-tin_chunk_14",
@@ -290,11 +266,11 @@
     "year": null,
     "department": "Hệ thống thông tin",
     "keywords": [
-      "Hệ Thống Thông Tin",
-      "AI",
-      "AI",
-      "khoa",
-      "chuyên ngành"
+      "httt",
+      "khmt",
+      "ttnt",
+      "truong",
+      "hoctap"
     ],
     "prev_chunk": "tong-quan-nganh-he-thong-thong-tin_chunk_13",
     "next_chunk": "tong-quan-nganh-he-thong-thong-tin_chunk_15",
@@ -310,17 +286,12 @@
     "year": null,
     "department": "Hệ thống thông tin",
     "keywords": [
-      "Hệ Thống Thông Tin",
-      "quản lý",
-      "ERP",
-      "thương mại điện tử",
-      "AI",
-      "Thương mại điện tử",
-      "kinh doanh trực tuyến",
-      "AI",
-      "UIT",
-      "sinh viên",
-      "tốt nghiệp"
+      "httt",
+      "khmt",
+      "tmdt",
+      "ttnt",
+      "truong",
+      "hoctap"
     ],
     "prev_chunk": "tong-quan-nganh-he-thong-thong-tin_chunk_14",
     "next_chunk": "tong-quan-nganh-he-thong-thong-tin_chunk_16",
@@ -336,12 +307,11 @@
     "year": null,
     "department": "Hệ thống thông tin",
     "keywords": [
-      "Công nghệ thông tin",
-      "AI",
-      "AI",
-      "khoa",
-      "cán bộ",
-      "giảng dạy"
+      "cntt",
+      "khmt",
+      "ttnt",
+      "truong",
+      "giang_vien_va_can_bo"
     ],
     "prev_chunk": "tong-quan-nganh-he-thong-thong-tin_chunk_15",
     "next_chunk": "tong-quan-nganh-he-thong-thong-tin_chunk_17",
@@ -357,13 +327,12 @@
     "year": null,
     "department": "Hệ thống thông tin",
     "keywords": [
-      "Công nghệ thông tin",
-      "CNTT",
-      "thương mại điện tử",
-      "AI",
-      "lập trình",
-      "Thương mại điện tử",
-      "AI"
+      "cntt",
+      "httt",
+      "khmt",
+      "ktpm",
+      "tmdt",
+      "ttnt"
     ],
     "prev_chunk": "tong-quan-nganh-he-thong-thong-tin_chunk_16",
     "next_chunk": "tong-quan-nganh-he-thong-thong-tin_chunk_18",
@@ -379,15 +348,13 @@
     "year": null,
     "department": "Hệ thống thông tin",
     "keywords": [
-      "Hệ Thống Thông Tin",
-      "thương mại điện tử",
-      "AI",
-      "Thương mại điện tử",
-      "AI",
-      "sinh viên",
-      "khoa",
-      "tốt nghiệp",
-      "SAT"
+      "httt",
+      "khmt",
+      "tmdt",
+      "ttnt",
+      "truong",
+      "hoctap",
+      "chungchi"
     ],
     "prev_chunk": "tong-quan-nganh-he-thong-thong-tin_chunk_17",
     "next_chunk": "tong-quan-nganh-he-thong-thong-tin_chunk_19",
@@ -403,9 +370,8 @@
     "year": null,
     "department": "Hệ thống thông tin",
     "keywords": [
-      "Hệ Thống Thông Tin",
-      "sinh viên",
-      "khoa"
+      "httt",
+      "truong"
     ],
     "prev_chunk": "tong-quan-nganh-he-thong-thong-tin_chunk_18",
     "next_chunk": "tong-quan-nganh-he-thong-thong-tin_chunk_20",
@@ -421,11 +387,10 @@
     "year": null,
     "department": "Hệ thống thông tin",
     "keywords": [
-      "AI",
-      "AI",
-      "sinh viên",
-      "tốt nghiệp",
-      "tự chọn"
+      "khmt",
+      "ttnt",
+      "truong",
+      "hoctap"
     ],
     "prev_chunk": "tong-quan-nganh-he-thong-thong-tin_chunk_19",
     "next_chunk": "tong-quan-nganh-he-thong-thong-tin_chunk_21",
@@ -441,9 +406,9 @@
     "year": null,
     "department": "Hệ thống thông tin",
     "keywords": [
-      "AI",
-      "AI",
-      "sinh viên"
+      "khmt",
+      "ttnt",
+      "truong"
     ],
     "prev_chunk": "tong-quan-nganh-he-thong-thong-tin_chunk_20",
     "next_chunk": "tong-quan-nganh-he-thong-thong-tin_chunk_22",
@@ -459,13 +424,10 @@
     "year": null,
     "department": "Hệ thống thông tin",
     "keywords": [
-      "Hệ Thống Thông Tin",
-      "HTTT",
-      "quản lý",
-      "AI",
-      "AI",
-      "UIT",
-      "khoa"
+      "httt",
+      "khmt",
+      "ttnt",
+      "truong"
     ],
     "prev_chunk": "tong-quan-nganh-he-thong-thong-tin_chunk_21",
     "next_chunk": null,

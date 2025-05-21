@@ -8,9 +8,8 @@
     "year": null,
     "department": "Mạng máy tính và truyền thông dữ liệu",
     "keywords": [
-      "Mạng máy tính",
-      "truyền thông dữ liệu",
-      "UIT"
+      "mmtvttdl",
+      "truong"
     ],
     "prev_chunk": null,
     "next_chunk": "tong-quan-nganh-mang-may-tinh-va-truyen-thong-du-lieu_chunk_2",
@@ -26,12 +25,10 @@
     "year": null,
     "department": "Mạng máy tính và truyền thông dữ liệu",
     "keywords": [
-      "AI",
-      "IoT",
-      "Mạng máy tính",
-      "Internet of Things",
-      "IoT",
-      "AI"
+      "khmt",
+      "ktmt",
+      "mmtvttdl",
+      "ttnt"
     ],
     "prev_chunk": "tong-quan-nganh-mang-may-tinh-va-truyen-thong-du-lieu_chunk_1",
     "next_chunk": "tong-quan-nganh-mang-may-tinh-va-truyen-thong-du-lieu_chunk_3",
@@ -47,12 +44,10 @@
     "year": null,
     "department": "Mạng máy tính và truyền thông dữ liệu",
     "keywords": [
-      "AI",
-      "IoT",
-      "Mạng máy tính",
-      "truyền thông dữ liệu",
-      "IoT",
-      "AI"
+      "khmt",
+      "ktmt",
+      "mmtvttdl",
+      "ttnt"
     ],
     "prev_chunk": "tong-quan-nganh-mang-may-tinh-va-truyen-thong-du-lieu_chunk_2",
     "next_chunk": "tong-quan-nganh-mang-may-tinh-va-truyen-thong-du-lieu_chunk_4",
@@ -68,10 +63,9 @@
     "year": null,
     "department": "Mạng máy tính và truyền thông dữ liệu",
     "keywords": [
-      "bảo mật",
-      "bảo mật thông tin",
-      "AI",
-      "AI"
+      "attt",
+      "khmt",
+      "ttnt"
     ],
     "prev_chunk": "tong-quan-nganh-mang-may-tinh-va-truyen-thong-du-lieu_chunk_3",
     "next_chunk": "tong-quan-nganh-mang-may-tinh-va-truyen-thong-du-lieu_chunk_5",
@@ -87,10 +81,8 @@
     "year": null,
     "department": "Mạng máy tính và truyền thông dữ liệu",
     "keywords": [
-      "Mạng máy tính",
-      "truyền thông dữ liệu",
-      "kết nối mạng",
-      "khám phá"
+      "mmtvttdl",
+      "ngoai_le"
     ],
     "prev_chunk": "tong-quan-nganh-mang-may-tinh-va-truyen-thong-du-lieu_chunk_4",
     "next_chunk": "tong-quan-nganh-mang-may-tinh-va-truyen-thong-du-lieu_chunk_6",
@@ -106,12 +98,10 @@
     "year": null,
     "department": "Mạng máy tính và truyền thông dữ liệu",
     "keywords": [
-      "AI",
-      "Mạng máy tính",
-      "truyền thông dữ liệu",
-      "kết nối mạng",
-      "AI",
-      "tốt nghiệp"
+      "khmt",
+      "mmtvttdl",
+      "ttnt",
+      "hoctap"
     ],
     "prev_chunk": "tong-quan-nganh-mang-may-tinh-va-truyen-thong-du-lieu_chunk_5",
     "next_chunk": "tong-quan-nganh-mang-may-tinh-va-truyen-thong-du-lieu_chunk_7",
@@ -127,8 +117,8 @@
     "year": null,
     "department": "Mạng máy tính và truyền thông dữ liệu",
     "keywords": [
-      "phát triển phần mềm",
-      "Mạng máy tính"
+      "ktpm",
+      "mmtvttdl"
     ],
     "prev_chunk": "tong-quan-nganh-mang-may-tinh-va-truyen-thong-du-lieu_chunk_6",
     "next_chunk": null,

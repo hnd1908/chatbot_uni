@@ -93,5 +93,10 @@ keywords_dict = {
         "khám phá", "thcs", "thpt", "hoạt động ngoại khóa",
         "trại hè", "định hướng nghề nghiệp", "talkshow", "workshop",
         "chuỗi sự kiện", "giao lưu", "tư vấn tuyển sinh", "triển lãm giáo dục"
+    ],
+    "hoc_bong": [
+        "học bổng", "học bổng toàn phần", "học bổng bán phần", "học bổng khuyến khích",
+        "học bổng tài năng", "học bổng quốc tế", "học bổng nội trú", "học bổng ngoại trú",
+        "học bổng du học", "học bổng nghiên cứu"
     ]
 }

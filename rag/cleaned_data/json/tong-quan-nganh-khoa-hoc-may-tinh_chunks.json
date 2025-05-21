@@ -8,9 +8,8 @@
     "year": null,
     "department": "Khoa học máy tính",
     "keywords": [
-      "Khoa học Máy tính",
-      "UIT",
-      "khoa"
+      "khmt",
+      "truong"
     ],
     "prev_chunk": null,
     "next_chunk": "tong-quan-nganh-khoa-hoc-may-tinh_chunk_2",
@@ -26,16 +25,10 @@
     "year": null,
     "department": "Khoa học máy tính",
     "keywords": [
-      "Khoa học Máy tính",
-      "Trí tuệ nhân tạo",
-      "AI",
-      "thị giác máy tính",
-      "xử lý ngôn ngữ tự nhiên",
-      "Trí tuệ nhân tạo",
-      "AI",
-      "sinh viên",
-      "khoa",
-      "định hướng nghề nghiệp"
+      "khmt",
+      "ttnt",
+      "truong",
+      "ngoai_le"
     ],
     "prev_chunk": "tong-quan-nganh-khoa-hoc-may-tinh_chunk_1",
     "next_chunk": "tong-quan-nganh-khoa-hoc-may-tinh_chunk_3",
@@ -51,8 +44,8 @@
     "year": null,
     "department": "Khoa học máy tính",
     "keywords": [
-      "ứng dụng thông minh",
-      "sinh viên"
+      "khmt",
+      "truong"
     ],
     "prev_chunk": "tong-quan-nganh-khoa-hoc-may-tinh_chunk_2",
     "next_chunk": "tong-quan-nganh-khoa-hoc-may-tinh_chunk_4",
@@ -68,8 +61,8 @@
     "year": null,
     "department": "Khoa học máy tính",
     "keywords": [
-      "AI",
-      "AI"
+      "khmt",
+      "ttnt"
     ],
     "prev_chunk": "tong-quan-nganh-khoa-hoc-may-tinh_chunk_3",
     "next_chunk": "tong-quan-nganh-khoa-hoc-may-tinh_chunk_5",
@@ -85,12 +78,9 @@
     "year": null,
     "department": "Khoa học máy tính",
     "keywords": [
-      "Khoa học Máy tính",
-      "AI",
-      "ứng dụng thông minh",
-      "AI",
-      "sinh viên",
-      "khoa"
+      "khmt",
+      "ttnt",
+      "truong"
     ],
     "prev_chunk": "tong-quan-nganh-khoa-hoc-may-tinh_chunk_4",
     "next_chunk": "tong-quan-nganh-khoa-hoc-may-tinh_chunk_6",
@@ -106,11 +96,10 @@
     "year": null,
     "department": "Khoa học máy tính",
     "keywords": [
-      "AI",
-      "AI",
-      "sinh viên",
-      "khoa",
-      "chuyên ngành"
+      "khmt",
+      "ttnt",
+      "truong",
+      "hoctap"
     ],
     "prev_chunk": "tong-quan-nganh-khoa-hoc-may-tinh_chunk_5",
     "next_chunk": "tong-quan-nganh-khoa-hoc-may-tinh_chunk_7",
@@ -126,15 +115,12 @@
     "year": null,
     "department": "Khoa học máy tính",
     "keywords": [
-      "Khoa học Máy tính",
-      "Trí tuệ nhân tạo",
-      "Trí tuệ nhân tạo",
-      "đa phương tiện",
-      "sinh viên",
-      "khoa",
-      "bộ môn",
-      "bộ môn",
-      "định hướng nghề nghiệp"
+      "khmt",
+      "ttnt",
+      "ttdpt",
+      "truong",
+      "giang_vien_va_can_bo",
+      "ngoai_le"
     ],
     "prev_chunk": "tong-quan-nganh-khoa-hoc-may-tinh_chunk_6",
     "next_chunk": "tong-quan-nganh-khoa-hoc-may-tinh_chunk_8",
@@ -150,20 +136,12 @@
     "year": null,
     "department": "Khoa học máy tính",
     "keywords": [
-      "máy học",
-      "dữ liệu lớn",
-      "Trí tuệ nhân tạo",
-      "AI",
-      "máy học",
-      "Trí tuệ nhân tạo",
-      "AI",
-      "máy học",
-      "sinh viên",
-      "khoa",
-      "bộ môn",
-      "môn học",
-      "bộ môn",
-      "giảng dạy"
+      "khdl",
+      "khmt",
+      "ttnt",
+      "truong",
+      "hoctap",
+      "giang_vien_va_can_bo"
     ],
     "prev_chunk": "tong-quan-nganh-khoa-hoc-may-tinh_chunk_7",
     "next_chunk": "tong-quan-nganh-khoa-hoc-may-tinh_chunk_9",
@@ -179,16 +157,14 @@
     "year": null,
     "department": "Khoa học máy tính",
     "keywords": [
-      "quản lý",
-      "khai thác dữ liệu",
-      "AI",
-      "AI",
-      "đa phương tiện",
-      "sinh viên",
-      "bộ môn",
-      "môn học",
-      "bộ môn",
-      "giảng dạy"
+      "httt",
+      "khdl",
+      "khmt",
+      "ttnt",
+      "ttdpt",
+      "truong",
+      "hoctap",
+      "giang_vien_va_can_bo"
     ],
     "prev_chunk": "tong-quan-nganh-khoa-hoc-may-tinh_chunk_8",
     "next_chunk": "tong-quan-nganh-khoa-hoc-may-tinh_chunk_10",
@@ -218,12 +194,10 @@
     "year": null,
     "department": "Khoa học máy tính",
     "keywords": [
-      "xử lý dữ liệu",
-      "AI",
-      "thị giác máy tính",
-      "xử lý ngôn ngữ tự nhiên",
-      "AI",
-      "đa phương tiện"
+      "cntt",
+      "khmt",
+      "ttnt",
+      "ttdpt"
     ],
     "prev_chunk": "tong-quan-nganh-khoa-hoc-may-tinh_chunk_10",
     "next_chunk": "tong-quan-nganh-khoa-hoc-may-tinh_chunk_12",
@@ -239,15 +213,11 @@
     "year": null,
     "department": "Khoa học máy tính",
     "keywords": [
-      "Khoa học Máy tính",
-      "Trí tuệ nhân tạo",
-      "AI",
-      "lập trình",
-      "Trí tuệ nhân tạo",
-      "AI",
-      "sinh viên",
-      "khoa",
-      "tốt nghiệp"
+      "khmt",
+      "ktpm",
+      "ttnt",
+      "truong",
+      "hoctap"
     ],
     "prev_chunk": "tong-quan-nganh-khoa-hoc-may-tinh_chunk_11",
     "next_chunk": "tong-quan-nganh-khoa-hoc-may-tinh_chunk_13",
@@ -263,13 +233,10 @@
     "year": null,
     "department": "Khoa học máy tính",
     "keywords": [
-      "Khoa học Máy tính",
-      "Trí tuệ nhân tạo",
-      "AI",
-      "Trí tuệ nhân tạo",
-      "AI",
-      "khoa",
-      "giảng dạy"
+      "khmt",
+      "ttnt",
+      "truong",
+      "giang_vien_va_can_bo"
     ],
     "prev_chunk": "tong-quan-nganh-khoa-hoc-may-tinh_chunk_12",
     "next_chunk": null,

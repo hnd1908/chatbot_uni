@@ -8,8 +8,8 @@
     "year": null,
     "department": "Công nghệ thông tin",
     "keywords": [
-      "Công nghệ thông tin",
-      "UIT"
+      "cntt",
+      "truong"
     ],
     "prev_chunk": null,
     "next_chunk": "tong-quan-nganh-cong-nghe-thong-tin_chunk_2",
@@ -25,12 +25,10 @@
     "year": null,
     "department": "Công nghệ thông tin",
     "keywords": [
-      "Công nghệ thông tin",
-      "AI",
-      "AI",
-      "Trường Đại học Công nghệ Thông tin",
-      "ngành đào tạo",
-      "khoa"
+      "cntt",
+      "khmt",
+      "ttnt",
+      "truong"
     ],
     "prev_chunk": "tong-quan-nganh-cong-nghe-thong-tin_chunk_1",
     "next_chunk": "tong-quan-nganh-cong-nghe-thong-tin_chunk_3",
@@ -46,7 +44,7 @@
     "year": null,
     "department": "Công nghệ thông tin",
     "keywords": [
-      "Công nghệ thông tin"
+      "cntt"
     ],
     "prev_chunk": "tong-quan-nganh-cong-nghe-thong-tin_chunk_2",
     "next_chunk": "tong-quan-nganh-cong-nghe-thong-tin_chunk_4",
@@ -62,13 +60,11 @@
     "year": null,
     "department": "Công nghệ thông tin",
     "keywords": [
-      "bảo mật",
-      "bảo mật thông tin",
-      "Công nghệ thông tin",
-      "ứng dụng phần mềm",
-      "AI",
-      "AI",
-      "sinh viên"
+      "attt",
+      "cntt",
+      "khmt",
+      "ttnt",
+      "truong"
     ],
     "prev_chunk": "tong-quan-nganh-cong-nghe-thong-tin_chunk_3",
     "next_chunk": "tong-quan-nganh-cong-nghe-thong-tin_chunk_5",
@@ -84,12 +80,12 @@
     "year": null,
     "department": "Công nghệ thông tin",
     "keywords": [
-      "Công nghệ thông tin",
-      "quản lý",
-      "AI",
-      "AI",
-      "sinh viên",
-      "SAT"
+      "cntt",
+      "httt",
+      "khmt",
+      "ttnt",
+      "truong",
+      "chungchi"
     ],
     "prev_chunk": "tong-quan-nganh-cong-nghe-thong-tin_chunk_4",
     "next_chunk": "tong-quan-nganh-cong-nghe-thong-tin_chunk_6",
@@ -105,11 +101,11 @@
     "year": null,
     "department": "Công nghệ thông tin",
     "keywords": [
-      "Công nghệ thông tin",
-      "quản lý",
-      "AI",
-      "AI",
-      "SAT"
+      "cntt",
+      "httt",
+      "khmt",
+      "ttnt",
+      "chungchi"
     ],
     "prev_chunk": "tong-quan-nganh-cong-nghe-thong-tin_chunk_5",
     "next_chunk": "tong-quan-nganh-cong-nghe-thong-tin_chunk_7",
@@ -125,12 +121,12 @@
     "year": null,
     "department": "Công nghệ thông tin",
     "keywords": [
-      "CNTT",
-      "quản lý",
-      "AI",
-      "AI",
-      "sinh viên",
-      "tốt nghiệp"
+      "cntt",
+      "httt",
+      "khmt",
+      "ttnt",
+      "truong",
+      "hoctap"
     ],
     "prev_chunk": "tong-quan-nganh-cong-nghe-thong-tin_chunk_6",
     "next_chunk": "tong-quan-nganh-cong-nghe-thong-tin_chunk_8",
@@ -146,12 +142,12 @@
     "year": null,
     "department": "Công nghệ thông tin",
     "keywords": [
-      "CNTT",
-      "quản lý",
-      "khai thác dữ liệu",
-      "AI",
-      "AI",
-      "SAT"
+      "cntt",
+      "httt",
+      "khdl",
+      "khmt",
+      "ttnt",
+      "chungchi"
     ],
     "prev_chunk": "tong-quan-nganh-cong-nghe-thong-tin_chunk_7",
     "next_chunk": "tong-quan-nganh-cong-nghe-thong-tin_chunk_9",
@@ -167,8 +163,8 @@
     "year": null,
     "department": "Công nghệ thông tin",
     "keywords": [
-      "CNTT",
-      "phát triển phần mềm"
+      "cntt",
+      "ktpm"
     ],
     "prev_chunk": "tong-quan-nganh-cong-nghe-thong-tin_chunk_8",
     "next_chunk": null,

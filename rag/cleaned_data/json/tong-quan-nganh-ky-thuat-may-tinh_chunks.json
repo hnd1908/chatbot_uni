@@ -8,8 +8,8 @@
     "year": null,
     "department": "Kỹ thuật máy tính",
     "keywords": [
-      "Kỹ thuật Máy tính",
-      "UIT"
+      "ktmt",
+      "truong"
     ],
     "prev_chunk": null,
     "next_chunk": "tong-quan-nganh-ky-thuat-may-tinh_chunk_2",
@@ -25,11 +25,10 @@
     "year": null,
     "department": "Kỹ thuật máy tính",
     "keywords": [
-      "Khoa học Máy tính",
-      "Kỹ thuật Máy tính",
-      "KTMT",
-      "hệ thống thông minh",
-      "khoa"
+      "khmt",
+      "ktmt",
+      "ttnt",
+      "truong"
     ],
     "prev_chunk": "tong-quan-nganh-ky-thuat-may-tinh_chunk_1",
     "next_chunk": "tong-quan-nganh-ky-thuat-may-tinh_chunk_3",
@@ -45,11 +44,9 @@
     "year": null,
     "department": "Kỹ thuật máy tính",
     "keywords": [
-      "Công nghệ thông tin",
-      "CNTT",
-      "KTMT",
-      "ngành đào tạo",
-      "khoa"
+      "cntt",
+      "ktmt",
+      "truong"
     ],
     "prev_chunk": "tong-quan-nganh-ky-thuat-may-tinh_chunk_2",
     "next_chunk": "tong-quan-nganh-ky-thuat-may-tinh_chunk_4",
@@ -65,10 +62,8 @@
     "year": null,
     "department": "Kỹ thuật máy tính",
     "keywords": [
-      "KTMT",
-      "IoT",
-      "Internet of Things",
-      "IoT"
+      "ktmt",
+      "mmtvttdl"
     ],
     "prev_chunk": "tong-quan-nganh-ky-thuat-may-tinh_chunk_3",
     "next_chunk": "tong-quan-nganh-ky-thuat-may-tinh_chunk_5",
@@ -84,10 +79,9 @@
     "year": null,
     "department": "Kỹ thuật máy tính",
     "keywords": [
-      "Công nghệ thông tin",
-      "Kỹ thuật Máy tính",
-      "KTMT",
-      "SAT"
+      "cntt",
+      "ktmt",
+      "chungchi"
     ],
     "prev_chunk": "tong-quan-nganh-ky-thuat-may-tinh_chunk_4",
     "next_chunk": "tong-quan-nganh-ky-thuat-may-tinh_chunk_6",
@@ -103,15 +97,11 @@
     "year": null,
     "department": "Kỹ thuật máy tính",
     "keywords": [
-      "Kỹ thuật Máy tính",
-      "hệ thống nhúng",
-      "IoT",
-      "vi mạch",
-      "IoT",
-      "Thiết kế Vi Mạch",
-      "vi mạch",
-      "khoa",
-      "chuyên ngành"
+      "ktmt",
+      "mmtvttdl",
+      "tkvm",
+      "truong",
+      "hoctap"
     ],
     "prev_chunk": "tong-quan-nganh-ky-thuat-may-tinh_chunk_5",
     "next_chunk": "tong-quan-nganh-ky-thuat-may-tinh_chunk_7",
@@ -127,14 +117,10 @@
     "year": null,
     "department": "Kỹ thuật máy tính",
     "keywords": [
-      "KTMT",
-      "vi mạch",
-      "Thiết kế Vi Mạch",
-      "vi mạch",
-      "mạch tích hợp",
-      "khoa",
-      "bộ môn",
-      "bộ môn"
+      "ktmt",
+      "tkvm",
+      "truong",
+      "giang_vien_va_can_bo"
     ],
     "prev_chunk": "tong-quan-nganh-ky-thuat-may-tinh_chunk_6",
     "next_chunk": "tong-quan-nganh-ky-thuat-may-tinh_chunk_8",
@@ -150,10 +136,8 @@
     "year": null,
     "department": "Kỹ thuật máy tính",
     "keywords": [
-      "thiết kế phần cứng",
-      "vi mạch",
-      "Thiết kế Vi Mạch",
-      "vi mạch"
+      "ktmt",
+      "tkvm"
     ],
     "prev_chunk": "tong-quan-nganh-ky-thuat-may-tinh_chunk_7",
     "next_chunk": "tong-quan-nganh-ky-thuat-may-tinh_chunk_9",
@@ -169,10 +153,10 @@
     "year": null,
     "department": "Kỹ thuật máy tính",
     "keywords": [
-      "hệ thống nhúng",
-      "bộ môn",
-      "chuyên ngành",
-      "bộ môn"
+      "ktmt",
+      "truong",
+      "hoctap",
+      "giang_vien_va_can_bo"
     ],
     "prev_chunk": "tong-quan-nganh-ky-thuat-may-tinh_chunk_8",
     "next_chunk": "tong-quan-nganh-ky-thuat-may-tinh_chunk_10",
@@ -188,17 +172,12 @@
     "year": null,
     "department": "Kỹ thuật máy tính",
     "keywords": [
-      "thiết kế hệ thống",
-      "máy học",
-      "Trí tuệ nhân tạo",
-      "AI",
-      "máy học",
-      "hệ thống nhúng",
-      "IoT",
-      "IoT",
-      "Trí tuệ nhân tạo",
-      "AI",
-      "máy học"
+      "httt",
+      "khdl",
+      "khmt",
+      "ktmt",
+      "mmtvttdl",
+      "ttnt"
     ],
     "prev_chunk": "tong-quan-nganh-ky-thuat-may-tinh_chunk_9",
     "next_chunk": "tong-quan-nganh-ky-thuat-may-tinh_chunk_11",
@@ -214,12 +193,11 @@
     "year": null,
     "department": "Kỹ thuật máy tính",
     "keywords": [
-      "AI",
-      "KTMT",
-      "AI",
-      "sinh viên",
-      "khoa",
-      "SAT"
+      "khmt",
+      "ktmt",
+      "ttnt",
+      "truong",
+      "chungchi"
     ],
     "prev_chunk": "tong-quan-nganh-ky-thuat-may-tinh_chunk_10",
     "next_chunk": "tong-quan-nganh-ky-thuat-may-tinh_chunk_12",
@@ -235,14 +213,12 @@
     "year": null,
     "department": "Kỹ thuật máy tính",
     "keywords": [
-      "Trí tuệ nhân tạo",
-      "AI",
-      "robotics",
-      "Trí tuệ nhân tạo",
-      "AI",
-      "bộ môn",
-      "chuyên ngành",
-      "bộ môn"
+      "khmt",
+      "ktmt",
+      "ttnt",
+      "truong",
+      "hoctap",
+      "giang_vien_va_can_bo"
     ],
     "prev_chunk": "tong-quan-nganh-ky-thuat-may-tinh_chunk_11",
     "next_chunk": "tong-quan-nganh-ky-thuat-may-tinh_chunk_13",
@@ -258,9 +234,9 @@
     "year": null,
     "department": "Kỹ thuật máy tính",
     "keywords": [
-      "AI",
-      "lập trình",
-      "AI"
+      "khmt",
+      "ktpm",
+      "ttnt"
     ],
     "prev_chunk": "tong-quan-nganh-ky-thuat-may-tinh_chunk_12",
     "next_chunk": "tong-quan-nganh-ky-thuat-may-tinh_chunk_14",
@@ -276,16 +252,12 @@
     "year": null,
     "department": "Kỹ thuật máy tính",
     "keywords": [
-      "Trí tuệ nhân tạo",
-      "AI",
-      "KTMT",
-      "robotics",
-      "Trí tuệ nhân tạo",
-      "AI",
-      "khoa",
-      "bộ môn",
-      "chuyên ngành",
-      "bộ môn"
+      "khmt",
+      "ktmt",
+      "ttnt",
+      "truong",
+      "hoctap",
+      "giang_vien_va_can_bo"
     ],
     "prev_chunk": "tong-quan-nganh-ky-thuat-may-tinh_chunk_13",
     "next_chunk": "tong-quan-nganh-ky-thuat-may-tinh_chunk_15",
@@ -301,8 +273,8 @@
     "year": null,
     "department": "Kỹ thuật máy tính",
     "keywords": [
-      "Kỹ thuật Máy tính",
-      "sinh viên"
+      "ktmt",
+      "truong"
     ],
     "prev_chunk": "tong-quan-nganh-ky-thuat-may-tinh_chunk_14",
     "next_chunk": "tong-quan-nganh-ky-thuat-may-tinh_chunk_16",
@@ -318,14 +290,11 @@
     "year": null,
     "department": "Kỹ thuật máy tính",
     "keywords": [
-      "hệ thống nhúng",
-      "IoT",
-      "vi mạch",
-      "lập trình",
-      "IoT",
-      "Thiết kế Vi Mạch",
-      "vi mạch",
-      "chuyên ngành"
+      "ktmt",
+      "ktpm",
+      "mmtvttdl",
+      "tkvm",
+      "hoctap"
     ],
     "prev_chunk": "tong-quan-nganh-ky-thuat-may-tinh_chunk_15",
     "next_chunk": "tong-quan-nganh-ky-thuat-may-tinh_chunk_17",
@@ -341,13 +310,11 @@
     "year": null,
     "department": "Kỹ thuật máy tính",
     "keywords": [
-      "Công nghệ thông tin",
-      "AI",
-      "AI",
-      "sinh viên",
-      "khoa",
-      "tiến sĩ",
-      "tiến sĩ"
+      "cntt",
+      "khmt",
+      "ttnt",
+      "truong",
+      "giang_vien_va_can_bo"
     ],
     "prev_chunk": "tong-quan-nganh-ky-thuat-may-tinh_chunk_16",
     "next_chunk": null,

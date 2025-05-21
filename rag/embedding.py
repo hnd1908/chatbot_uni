@@ -55,7 +55,7 @@ class DocEmbedder:
         text = []
         for doc in document:
             combined_text = "\n".join(
-                [doc.get("title", ""), doc.get("header", ""), doc.get("content", "")]
+                [doc.get("title", ""), doc.get("title", ""), doc.get("header", ""), doc.get("header", ""), doc.get("header", ""), doc.get("header", ""), doc.get("content", "")]
             )
             text.append(combined_text)
         

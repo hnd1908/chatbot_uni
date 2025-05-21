@@ -8,8 +8,8 @@
     "year": null,
     "department": "An toàn thông tin",
     "keywords": [
-      "An toàn thông tin",
-      "UIT"
+      "attt",
+      "truong"
     ],
     "prev_chunk": null,
     "next_chunk": "tong-quan-nganh-an-toan-thong-tin_chunk_2",
@@ -25,10 +25,10 @@
     "year": null,
     "department": "An toàn thông tin",
     "keywords": [
-      "An toàn thông tin",
-      "AI",
-      "AI",
-      "hành trình"
+      "attt",
+      "khmt",
+      "ttnt",
+      "ngoai_le"
     ],
     "prev_chunk": "tong-quan-nganh-an-toan-thong-tin_chunk_1",
     "next_chunk": "tong-quan-nganh-an-toan-thong-tin_chunk_3",
@@ -44,10 +44,10 @@
     "year": null,
     "department": "An toàn thông tin",
     "keywords": [
-      "an ninh mạng",
-      "AI",
-      "AI",
-      "khoa"
+      "attt",
+      "khmt",
+      "ttnt",
+      "truong"
     ],
     "prev_chunk": "tong-quan-nganh-an-toan-thong-tin_chunk_2",
     "next_chunk": "tong-quan-nganh-an-toan-thong-tin_chunk_4",
@@ -63,10 +63,10 @@
     "year": null,
     "department": "An toàn thông tin",
     "keywords": [
-      "An toàn thông tin",
-      "AI",
-      "AI",
-      "tốt nghiệp"
+      "attt",
+      "khmt",
+      "ttnt",
+      "hoctap"
     ],
     "prev_chunk": "tong-quan-nganh-an-toan-thong-tin_chunk_3",
     "next_chunk": "tong-quan-nganh-an-toan-thong-tin_chunk_5",
@@ -82,11 +82,10 @@
     "year": null,
     "department": "An toàn thông tin",
     "keywords": [
-      "An toàn thông tin",
-      "ATTT",
-      "AI",
-      "Mạng máy tính",
-      "AI"
+      "attt",
+      "khmt",
+      "mmtvttdl",
+      "ttnt"
     ],
     "prev_chunk": "tong-quan-nganh-an-toan-thong-tin_chunk_4",
     "next_chunk": "tong-quan-nganh-an-toan-thong-tin_chunk_6",
@@ -102,12 +101,9 @@
     "year": null,
     "department": "An toàn thông tin",
     "keywords": [
-      "An toàn thông tin",
-      "bảo mật",
-      "phần mềm độc hại",
-      "phòng tránh",
-      "AI",
-      "AI"
+      "attt",
+      "khmt",
+      "ttnt"
     ],
     "prev_chunk": "tong-quan-nganh-an-toan-thong-tin_chunk_5",
     "next_chunk": "tong-quan-nganh-an-toan-thong-tin_chunk_7",
@@ -123,8 +119,8 @@
     "year": null,
     "department": "An toàn thông tin",
     "keywords": [
-      "An toàn thông tin",
-      "sinh viên"
+      "attt",
+      "truong"
     ],
     "prev_chunk": "tong-quan-nganh-an-toan-thong-tin_chunk_6",
     "next_chunk": "tong-quan-nganh-an-toan-thong-tin_chunk_8",
@@ -140,16 +136,13 @@
     "year": null,
     "department": "An toàn thông tin",
     "keywords": [
-      "An toàn thông tin",
-      "ATTT",
-      "bảo mật",
-      "AI",
-      "phát triển phần mềm",
-      "kết nối mạng",
-      "AI",
-      "UIT",
-      "sinh viên",
-      "tốt nghiệp"
+      "attt",
+      "khmt",
+      "ktpm",
+      "mmtvttdl",
+      "ttnt",
+      "truong",
+      "hoctap"
     ],
     "prev_chunk": "tong-quan-nganh-an-toan-thong-tin_chunk_7",
     "next_chunk": "tong-quan-nganh-an-toan-thong-tin_chunk_9",
