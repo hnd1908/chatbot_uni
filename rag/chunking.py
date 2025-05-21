@@ -5,6 +5,7 @@ import json
 from pathlib import Path
 from langchain.text_splitter import RecursiveCharacterTextSplitter
 from datetime import datetime
+from unidecode import unidecode
 
 def extract_year_from_filename(filename):
     """
@@ -19,141 +20,119 @@ def extract_year_from_filename(filename):
     match = re.search(r'20\d{2}', filename)
     return match.group(0) if match else None
 
-def extract_department_from_filename(filename):
-    """
-    Trích xuất tên khoa/ngành từ tên file Markdown (giả định tên file có chứa tên khoa/ngành).
-
-    Args:
-        filename (str): Tên file Markdown.
-
-    Returns:
-        str: Tên khoa/ngành được trích xuất, hoặc None nếu không tìm thấy.
-    """
-    parts = filename.lower().replace("_", " ").replace("-", " ").split()
-    department_keywords = ["nganh", "khoa"]
-    for i, part in enumerate(parts):
-        if part in department_keywords and i + 1 < len(parts):
-            return " ".join(parts[i+1:]).title().strip()
-        elif part not in department_keywords:
-            # Thử tìm các từ khóa có thể là tên ngành/khoa
-            potential_department = " ".join(p.title() for p in parts[i:] if p not in ['thong', 'tin', 'dai', 'hoc', 'nam'])
-            if potential_department:
-                return potential_department.strip()
-    return None
-
 def count_keywords_by_category(text, keywords_dict):
     """
-    Đếm số lượng từ khóa xuất hiện trong văn bản cho mỗi danh mục.
+    Đếm số từ khóa theo từng danh mục trong văn bản. Hỗ trợ so khớp không dấu.
     
-    Args:
-        text (str): Chuỗi văn bản để tìm kiếm từ khóa.
-        keywords_dict (dict): Từ điển chứa các từ khóa theo danh mục.
-        
     Returns:
-        dict: Từ điển với khóa là danh mục và giá trị là số lượng từ khóa tìm thấy.
+        category_counts (dict): Số từ khóa theo danh mục.
+        found_keywords (dict): Từ khóa đã tìm thấy theo danh mục.
     """
-    text_lower = text.lower()
     category_counts = {}
     found_keywords = {}
     
-    # Khởi tạo đếm cho mỗi danh mục
-    for category in keywords_dict:
-        category_counts[category] = 0
-        found_keywords[category] = []
+    text_no_accent = unidecode(text.lower())
     
-    # Đếm số lượng từ khóa cho mỗi danh mục
     for category, keywords in keywords_dict.items():
+        count = 0
+        matched_keywords = []
         for kw in keywords:
-            if kw.lower() in text_lower:
-                category_counts[category] += 1
-                found_keywords[category].append(kw)
-                
+            kw_lower = kw.lower()
+            kw_no_accent = unidecode(kw_lower)
+            
+            if kw_lower in text.lower() or kw_no_accent in text_no_accent:
+                count += 1
+                matched_keywords.append(kw)
+        
+        if count > 0:
+            category_counts[category] = count
+            found_keywords[category] = matched_keywords
+            
     return category_counts, found_keywords
 
 def determine_field_from_keywords(text, keywords_dict):
     """
-    Xác định lĩnh vực của văn bản dựa trên số lượng từ khóa tìm thấy.
-    
-    Args:
-        text (str): Chuỗi văn bản để tìm kiếm từ khóa.
-        keywords_dict (dict): Từ điển chứa các từ khóa theo danh mục.
-        
+    Xác định lĩnh vực của văn bản dựa trên vị trí xuất hiện đầu tiên của từ khóa trong text.
+
     Returns:
         tuple: (field, category_counts, all_found_keywords, department)
-            - field: Lĩnh vực được xác định
-            - category_counts: Từ điển với khóa là danh mục và giá trị là số lượng từ khóa tìm thấy
-            - all_found_keywords: Danh sách tất cả các từ khóa được tìm thấy
-            - department: Tên khoa/ngành cụ thể (nếu field là "ngành")
     """
-    # Các ngành học
     nganh_categories = ["attt", "cntt", "httt", "khdl", "khmt", "ktmt", "ktpm", 
-                         "mmtvttdl", "tkvm", "tmdt", "ttnt", "ttdpt"]
-    
+                        "mmtvttdl", "tkvm", "tmdt", "ttnt", "ttdpt"]
+
+    nganh_name_map = {
+        "attt": "An toàn thông tin",
+        "cntt": "Công nghệ thông tin",
+        "httt": "Hệ thống thông tin",
+        "khdl": "Khoa học dữ liệu",
+        "khmt": "Khoa học máy tính",
+        "ktmt": "Kỹ thuật máy tính",
+        "ktpm": "Kỹ thuật phần mềm",
+        "mmtvttdl": "Mạng máy tính và truyền thông dữ liệu",
+        "tkvm": "Thiết kế vi mạch",
+        "tmdt": "Thương mại điện tử",
+        "ttnt": "Trí tuệ nhân tạo",
+        "ttdpt": "Truyền thông đa phương tiện"
+    }
+
+    # Chuẩn hóa văn bản: bỏ dấu để khớp với từ khóa không dấu
+    text_no_accent = unidecode(text.lower())
+
     category_counts, found_keywords = count_keywords_by_category(text, keywords_dict)
-    
-    # Tính tổng số từ khóa ngành học để xác định field (gộp tạm thời)
-    nganh_count = sum(category_counts[cat] for cat in nganh_categories if cat in category_counts)
-    
-    # Tạo từ điển mới với "ngành học" gộp chung chỉ để xác định field
+
+    # Gộp ngành học
+    nganh_count = sum(category_counts.get(cat, 0) for cat in nganh_categories)
     grouped_counts = category_counts.copy()
     for cat in nganh_categories:
-        if cat in grouped_counts:
-            del grouped_counts[cat]
+        grouped_counts.pop(cat, None)
     grouped_counts["ngành học"] = nganh_count
-    
-    # Lấy danh mục có nhiều từ khóa nhất
-    sorted_categories = sorted(grouped_counts.items(), key=lambda x: x[1], reverse=True)
-    
-    # Tổng hợp tất cả các từ khóa tìm thấy
+
     all_found_keywords = []
-    for cat, keywords_list in found_keywords.items():
-        all_found_keywords.extend(keywords_list)
-    
-    # Biến lưu tên khoa/ngành cụ thể
+    for kw_list in found_keywords.values():
+        all_found_keywords.extend(kw_list)
+
+    # Tìm vị trí xuất hiện đầu tiên của bất kỳ từ khóa nào trong text
+    first_pos = len(text_no_accent) + 1
+    selected_category = None
+    selected_nganh = None
+
+    # Kiểm tra các ngành học trước
+    for cat in nganh_categories:
+        for kw in keywords_dict.get(cat, []):
+            idx = text_no_accent.find(unidecode(kw.lower()))
+            if idx != -1 and idx < first_pos:
+                first_pos = idx
+                selected_category = "ngành học"
+                selected_nganh = cat
+
+    # Kiểm tra các category còn lại
+    for category, keywords in keywords_dict.items():
+        if category in nganh_categories:
+            continue
+        for kw in keywords:
+            idx = text_no_accent.find(unidecode(kw.lower()))
+            if idx != -1 and idx < first_pos:
+                first_pos = idx
+                selected_category = category
+                selected_nganh = None
+
+    # Luôn trả về department nếu xác định được ngành/khoa
     department = None
-    
-    # Xác định field dựa trên danh mục hàng đầu
-    if len(sorted_categories) > 0 and sorted_categories[0][1] > 0:
-        top_category = sorted_categories[0][0]
-        
-        # Nếu danh mục hàng đầu là tuyensinh hoặc diem
-        if top_category in ["tuyensinh", "diem"]:
-            return "tuyển sinh", category_counts, all_found_keywords, None
-        # Nếu danh mục hàng đầu là ngành học
-        elif top_category == "ngành học":
-            # Tìm ngành cụ thể có số lượng từ khóa cao nhất
-            nganh_counts = {cat: category_counts[cat] for cat in nganh_categories if cat in category_counts}
-            if nganh_counts:
-                top_nganh = max(nganh_counts.items(), key=lambda x: x[1])
-                
-                # Chuyển đổi tên viết tắt thành tên đầy đủ
-                nganh_name_map = {
-                    "attt": "An toàn thông tin",
-                    "cntt": "Công nghệ thông tin",
-                    "httt": "Hệ thống thông tin",
-                    "khdl": "Khoa học dữ liệu",
-                    "khmt": "Khoa học máy tính",
-                    "ktmt": "Kỹ thuật máy tính",
-                    "ktpm": "Kỹ thuật phần mềm",
-                    "mmtvttdl": "Mạng máy tính và truyền thông dữ liệu",
-                    "tkvm": "Thiết kế vi mạch",
-                    "tmdt": "Thương mại điện tử",
-                    "ttnt": "Trí tuệ nhân tạo",
-                    "ttdpt": "Truyền thông đa phương tiện"
-                }
-                
-                department = nganh_name_map.get(top_nganh[0], top_nganh[0])
-            
-            return "ngành", category_counts, all_found_keywords, department
-        # Nếu danh mục hàng đầu là truong
-        elif top_category == "truong":
-            return "trường", category_counts, all_found_keywords, None
-        # Nếu danh mục hàng đầu là ngoai_le
-        elif top_category == "ngoai_le":
-            return "ngoài lề", category_counts, all_found_keywords, None
-    
-    # Mặc định
-    return "ngoài lề", category_counts, all_found_keywords, None
+    if selected_nganh:
+        department = nganh_name_map.get(selected_nganh, selected_nganh)
+
+    if selected_category == "ngành học" and nganh_count > 0:
+        return "ngành", category_counts, all_found_keywords, department
+
+    elif selected_category:
+        field_name = "học bổng" if selected_category == "hoc_bong" else (
+            "tuyển sinh" if selected_category in ["tuyensinh", "diem"] else
+            "trường" if selected_category == "truong" else
+            "ngoài lề"
+        )
+        return field_name, category_counts, all_found_keywords, department
+
+    return "ngoài lề", category_counts, all_found_keywords, department
 
 def get_keywords(text, keywords_dict):
     """
@@ -176,6 +155,22 @@ def get_keywords(text, keywords_dict):
 
     return list(found_keywords)
 
+def determine_field_from_filename(filename, keywords_dict):
+    """
+    Xác định field dựa trên tên file (basename).
+
+    Args:
+        filename (str): Tên file Markdown.
+        keywords_dict (dict): Từ điển chứa các từ khóa theo danh mục.
+
+    Returns:
+        tuple: (field, category_counts, all_found_keywords, department)
+    """
+    text = filename.lower().replace("_", " ").replace("-", " ")
+    print(text)
+    return determine_field_from_keywords(text, keywords_dict)
+
+
 def chunk_markdown(content, source_file, keywords_dict, output_dir):
     """
     Chia nội dung Markdown thành các đoạn nhỏ (chunks) và tạo metadata,
@@ -193,12 +188,10 @@ def chunk_markdown(content, source_file, keywords_dict, output_dir):
     filename = Path(source_file).name
     title_line = Path(source_file).stem.replace("_", " ").title() # Lấy title từ tên file mặc định
     year = extract_year_from_filename(filename)
-    
-    # Phân tích filename để lấy department nếu có
-    filename_department = extract_department_from_filename(filename)
 
     # Xác định field cho toàn bộ văn bản
-    field, category_counts, _, _ = determine_field_from_keywords(content, keywords_dict)
+    field, category_counts, _, filename_department = determine_field_from_filename(filename, keywords_dict)
+
     
     lines = content.splitlines()
 
@@ -228,7 +221,7 @@ def chunk_markdown(content, source_file, keywords_dict, output_dir):
         admission_info["diem_chuan"] = float(diem_chuan_match.group(1)) if diem_chuan_match else None
         admission_info["nguong_xet"] = re.search(r"ngưỡng\s+xét\s+tuyển\s*:\s*(.*)", content, re.IGNORECASE).group(1).strip() if re.search(r"ngưỡng\s+xét\s+tuyển\s*:\s*(.*)", content, re.IGNORECASE) else None
 
-    header_pattern = re.compile(r"^#{2,5}\s+(.*)")
+    header_pattern = re.compile(r"^#{2,6}\s+(.*)")
     chunks = []
     current_header = ""
     current_chunk_lines = []
@@ -248,7 +241,7 @@ def chunk_markdown(content, source_file, keywords_dict, output_dir):
 
     splitter = RecursiveCharacterTextSplitter(
         chunk_size=500,
-        chunk_overlap=20,
+        chunk_overlap=50,
         separators=["\n\n", "\n", ". ", "! ", "? ", ", ", " ", ""]
     )
 
@@ -261,16 +254,16 @@ def chunk_markdown(content, source_file, keywords_dict, output_dir):
             chunk_counter += 1
             chunk_id = f"{Path(source_file).stem}_chunk_{chunk_counter}"
         
-            sub_field, sub_category_counts, found_keywords, chunk_department = determine_field_from_keywords(sub_text, keywords_dict)
+            _, _, found_keywords, _ = determine_field_from_keywords(sub_text, keywords_dict)
             
-            department = chunk_department if chunk_department else filename_department
+            department = filename_department
 
             metadata = {
                 "title": title_line,
                 "header": header,
                 "content": sub_text,
                 "chunk_id": chunk_id,
-                "field": sub_field,
+                "field": field,
                 "year": year,
                 "department": department,
                 "keywords": found_keywords,
