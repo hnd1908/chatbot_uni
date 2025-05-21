@@ -1,21 +1,19 @@
-T3, 07/05/2024 - 11:22
+# [2024] Thông báo tuyển sinh cử nhân liên thông Ngành Công nghệ Thông tin năm 2024
+_Nguồn: [https://tuyensinh.uit.edu.vn/2024-thong-bao-tuyen-sinh-cu-nhan-lien-thong-nganh-cong-nghe-thong-tin-nam-2024](https://tuyensinh.uit.edu.vn/2024-thong-bao-tuyen-sinh-cu-nhan-lien-thong-nganh-cong-nghe-thong-tin-nam-2024)_
 Trường Đại học Công nghệ Thông tin thông báo tuyển sinh lớp Cử nhân liên thông ngành Công nghệ Thông tin (CNTT) hệ chính quy năm 2024 như sau:
-## I. ĐỐI
-TƯỢNG TUYỂN SINH
+## I. ĐỐI TƯỢNG TUYỂN SINH
 - Là công dân Việt Nam có đủ sức khỏe và không trong thời gian can án hoặc bị truy cứu trách nhiệm hình sự.
 - Đã có bằng tốt nghiệp cao đẳng cùng ngành, nhóm ngành hoặc ngành gần với ngành đào tạo. Trường hợp văn bằng do cơ sở giáo dục nước ngoài hoạt động hợp pháp tại Việt Nam hoặc cơ sở giáo dục hoạt động hợp pháp ở nước ngoài cấp thì văn bằng phải được công nhận theo quy định của Bộ Giáo dục và Đào tạo.
 ## II. NGÀNH TUYỂN SINH
 Công nghệ Thông tin. Mã ngành: 7480201.
 ## III. CHỈ TIÊU TUYỂN SINH
-30
-chỉ tiêu.
-## IV. HÌNH
-THỨC
-TUYỂN SINH:
+30 chỉ tiêu.
+## IV. HÌNHTHỨCTUYỂN SINH
 Xét tuyển dựa trên bằng tốt nghiệp cao đẳng theo danh mục ngành cấp 4 hiện hành, gồm:
 ### 1. Ngành đúng
-| STT | Mã ngành | Tên ngành |
+|  |  |  |
 | --- | --- | --- |
+| STT | Mã ngành | Tên ngành |
 | 1 | 6480201 | Công nghệ thông tin |
 | 2 | 6480202 | Công nghệ thông tin (ứng dụng phần mềm) |
 | 3 | 6480104 | Truyền thông và mạng máy tính |
@@ -51,36 +49,25 @@ Bằng cử nhân đại học chính quy ngành CNTT.
 ## VIII. HỌC PHÍ
 - Năm 1 : 40.000.000 đồng/năm.
 - Học kỳ cuối : 20.000.000 đồng/học kỳ.
-## IX. ĐĂNG
-KÝ
-VÀ NỘP HỒ SƠ DỰ TUYỂN
-### 1. Thí sinh đăng ký dự tuyển tại cổng tuyển sinh Trường Đại học Công nghệ Thông tin
-https://forms.gle/rfncC5bKTXoedJwH7
+## IX. ĐĂNGKÝ VÀ NỘP HỒ SƠ DỰ TUYỂN
+1.Thí sinh đăng ký dự tuyển tại cổng tuyển sinh Trường Đại học Công nghệ Thông tin: 
 ### 2. Hồ sơ dự tuyển
 - Đơn đăng ký dự tuyển (theo mẫu).
 - 01 bản sao hoặc photo công chứng bằng tốt nghiệp cao đẳng.
 - 01 bản sao hoặc photo công chứng bảng điểm cao đẳng.
 - Sơ yếu lý lịch có xác nhận của địa phương (đóng dấu giáp lai ảnh 3x4).
-### 3. Hình thức nộp hồ sơ
+3.Hình thức nộp hồ sơ:
 Thí sinh nộp hồ sơ trực tiếp hoặc gửi chuyển phát nhanh qua đường bưu điện về địa chỉ:
 Phòng Tuyển sinh và Truyền thông - Trường Cao đẳng Công nghệ Thông tin TP. HCM, 12 Trịnh Đình Thảo, Phường Hòa Thạnh, Quận Tân Phú, TP HCM.
-### 4. Thời gian nộp hồ sơ
-từ ngày ra thông báo đến hết ngày 10/7/2024.
-### 5. Lệ phí xét tuyển
-#### 100.000 đồng.
+4.Thời gian nộp hồ sơ:từ ngày ra thông báo đến hết ngày 10/7/2024.
+5.Lệ phí xét tuyển:100.000 đồng.
 Cách nộp lệ phí: Nộp tiền hoặc chuyển khoản qua tài khoản ngân hàng của Trường. Nội dung nộp tiền thí sinh ghi rõ: “CCCD, Họ và tên, LPXT-LTCQ2024”.
 - Tên tài khoản: TRƯỜNG ĐẠI HỌC CÔNG NGHỆ THÔNG TIN
 - Số tài khoản: 314.100.01210304
 - Tại ngân hàng: TMCP Đầu tư và Phát triển Việt Nam (BIDV)
 - Chi nhánh mở tài khoản: Chi nhánh Đông Sài Gòn.
 - VD: 079012345678, Nguyen Nhat Minh, LPXT-LTCQ2024
-## X. K HAI
-GIẢNG
-(dự kiến):
+## X. K HAIGIẢNG(dự kiến)
 tháng 8/2024.
-## XI. LIÊN
-HỆ:
+## XI. LIÊN HỆ
 Hotline tư vấn tuyển sinh: 0938.861.080.
-File đính kèm:
-02_mau_don_du_tuyen_lt_cq.docx
-Source: https://tuyensinh.uit.edu.vn/2024-thong-bao-tuyen-sinh-cu-nhan-lien-thong-nganh-cong-nghe-thong-tin-nam-2024

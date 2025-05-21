@@ -1,0 +1,127 @@
+[
+  {
+    "title": "Ngành đào tạo | Thông tin tuyển sinh Đại học",
+    "header": "",
+    "content": "# Ngành đào tạo | Thông tin tuyển sinh Đại học\n_Nguồn: [https://tuyensinh.uit.edu.vn/nganh-dao-tao](https://tuyensinh.uit.edu.vn/nganh-dao-tao)_\n# Ngành đào tạo",
+    "chunk_id": "nganh-dao-tao_chunk_1",
+    "field": "trường",
+    "year": null,
+    "department": null,
+    "keywords": [
+      "tuyển sinh",
+      "AI",
+      "AI",
+      "UIT",
+      "ngành đào tạo"
+    ],
+    "prev_chunk": null,
+    "next_chunk": "nganh-dao-tao_chunk_2",
+    "source": "Source: cleaned_data/markdown\\nganh-dao-tao.md",
+    "admission_info": {}
+  },
+  {
+    "title": "Ngành đào tạo | Thông tin tuyển sinh Đại học",
+    "header": "Ngành đào tạo",
+    "content": "Chương trình đào tạo luôn cập nhật, bám sát thực tiễn, lấy người học làm trung tâm hướng tới các chuẩn mực Quốc tế. Thực tiễn công việc chính là bài học tại Trường.\n---\n[](https://tuyensinh.uit.edu.vn/tong-quan-nganh-cong-nghe-thong-tin)\n[Ngành Công nghệ Thông tin](https://tuyensinh.uit.edu.vn/tong-quan-nganh-cong-nghe-thong-tin)\n[](https://tuyensinh.uit.edu.vn/tong-quan-nganh-he-thong-thong-tin)\n[Ngành Hệ thống Thông tin](https://tuyensinh.uit.edu.vn/tong-quan-nganh-he-thong-thong-tin)",
+    "chunk_id": "nganh-dao-tao_chunk_2",
+    "field": "trường",
+    "year": null,
+    "department": null,
+    "keywords": [
+      "Công nghệ thông tin",
+      "Hệ Thống Thông Tin",
+      "AI",
+      "AI",
+      "UIT",
+      "SAT"
+    ],
+    "prev_chunk": "nganh-dao-tao_chunk_1",
+    "next_chunk": "nganh-dao-tao_chunk_3",
+    "source": "Source: cleaned_data/markdown\\nganh-dao-tao.md",
+    "admission_info": {}
+  },
+  {
+    "title": "Ngành đào tạo | Thông tin tuyển sinh Đại học",
+    "header": "Ngành đào tạo",
+    "content": "[](https://tuyensinh.uit.edu.vn/tong-quan-nganh-khoa-hoc-may-tinh)\n[Ngành Khoa học Máy tính](https://tuyensinh.uit.edu.vn/tong-quan-nganh-khoa-hoc-may-tinh)\n[](https://tuyensinh.uit.edu.vn/tong-quan-nganh-ky-thuat-phan-mem)\n[Ngành Kỹ thuật Phần mềm](https://tuyensinh.uit.edu.vn/tong-quan-nganh-ky-thuat-phan-mem)\n[](https://tuyensinh.uit.edu.vn/tong-quan-nganh-ky-thuat-may-tinh)\n[Ngành Kỹ thuật Máy tính](https://tuyensinh.uit.edu.vn/tong-quan-nganh-ky-thuat-may-tinh)",
+    "chunk_id": "nganh-dao-tao_chunk_3",
+    "field": "trường",
+    "year": null,
+    "department": null,
+    "keywords": [
+      "Khoa học Máy tính",
+      "Kỹ thuật Máy tính",
+      "Kỹ thuật phần mềm",
+      "UIT",
+      "khoa"
+    ],
+    "prev_chunk": "nganh-dao-tao_chunk_2",
+    "next_chunk": "nganh-dao-tao_chunk_4",
+    "source": "Source: cleaned_data/markdown\\nganh-dao-tao.md",
+    "admission_info": {}
+  },
+  {
+    "title": "Ngành đào tạo | Thông tin tuyển sinh Đại học",
+    "header": "Ngành đào tạo",
+    "content": "[](https://tuyensinh.uit.edu.vn/tong-quan-nganh-mang-may-tinh-va-truyen-thong-du-lieu)\n[Ngành Mạng máy tính & Truyền thông Dữ liệu](https://tuyensinh.uit.edu.vn/tong-quan-nganh-mang-may-tinh-va-truyen-thong-du-lieu)\n[](https://tuyensinh.uit.edu.vn/tong-quan-nganh-an-toan-thong-tin)\n[Ngành An toàn Thông tin](https://tuyensinh.uit.edu.vn/tong-quan-nganh-an-toan-thong-tin)\n[](https://tuyensinh.uit.edu.vn/tong-quan-nganh-thuong-mai-dien-tu)",
+    "chunk_id": "nganh-dao-tao_chunk_4",
+    "field": "trường",
+    "year": null,
+    "department": null,
+    "keywords": [
+      "An toàn thông tin",
+      "AI",
+      "Mạng máy tính",
+      "truyền thông dữ liệu",
+      "AI",
+      "UIT"
+    ],
+    "prev_chunk": "nganh-dao-tao_chunk_3",
+    "next_chunk": "nganh-dao-tao_chunk_5",
+    "source": "Source: cleaned_data/markdown\\nganh-dao-tao.md",
+    "admission_info": {}
+  },
+  {
+    "title": "Ngành đào tạo | Thông tin tuyển sinh Đại học",
+    "header": "Ngành đào tạo",
+    "content": "[Ngành Thương mại Điện tử](https://tuyensinh.uit.edu.vn/tong-quan-nganh-thuong-mai-dien-tu)\n[](https://tuyensinh.uit.edu.vn/tong-quan-nganh-khoa-hoc-du-lieu)\n[Ngành Khoa học Dữ liệu](https://tuyensinh.uit.edu.vn/tong-quan-nganh-khoa-hoc-du-lieu)\n[](https://tuyensinh.uit.edu.vn/tong-quan-nganh-tri-tue-nhan-tao)\n[Ngành Trí tuệ Nhân tạo](https://tuyensinh.uit.edu.vn/tong-quan-nganh-tri-tue-nhan-tao)\n[](https://tuyensinh.uit.edu.vn/tong-quan-nganh-thiet-ke-vi-mach)",
+    "chunk_id": "nganh-dao-tao_chunk_5",
+    "field": "trường",
+    "year": null,
+    "department": null,
+    "keywords": [
+      "thương mại điện tử",
+      "Khoa học dữ liệu",
+      "Trí tuệ nhân tạo",
+      "AI",
+      "Thương mại điện tử",
+      "Trí tuệ nhân tạo",
+      "AI",
+      "UIT",
+      "khoa"
+    ],
+    "prev_chunk": "nganh-dao-tao_chunk_4",
+    "next_chunk": "nganh-dao-tao_chunk_6",
+    "source": "Source: cleaned_data/markdown\\nganh-dao-tao.md",
+    "admission_info": {}
+  },
+  {
+    "title": "Ngành đào tạo | Thông tin tuyển sinh Đại học",
+    "header": "Ngành đào tạo",
+    "content": "[Ngành Thiết kế Vi mạch](https://tuyensinh.uit.edu.vn/tong-quan-nganh-thiet-ke-vi-mach)\n[](https://tuyensinh.uit.edu.vn/tong-quan-nganh-truyen-thong-da-phuong-tien)",
+    "chunk_id": "nganh-dao-tao_chunk_6",
+    "field": "trường",
+    "year": null,
+    "department": null,
+    "keywords": [
+      "vi mạch",
+      "Thiết kế Vi Mạch",
+      "vi mạch",
+      "UIT"
+    ],
+    "prev_chunk": "nganh-dao-tao_chunk_5",
+    "next_chunk": null,
+    "source": "Source: cleaned_data/markdown\\nganh-dao-tao.md",
+    "admission_info": {}
+  }
+]

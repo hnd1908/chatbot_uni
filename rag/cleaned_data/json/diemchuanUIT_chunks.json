@@ -1,0 +1,1960 @@
+[
+  {
+    "title": "Ngành Thương Mại Điện Tử",
+    "header": "Năm 2023 - Mã ngành: 7340122",
+    "content": "Mã ngành: 7340122\nTên ngành: Thương Mại Điện Tử\nTổ hợp: A00;A01;D01;D07\nĐiểm chuẩn: 25.8\nĐiểm ĐGNL: 860.0",
+    "chunk_id": "38b6ed84-5f81-405f-bb40-56d60611720f",
+    "field": "tmdt",
+    "year": "2023",
+    "department": "UIT",
+    "keywords": [
+      "thương mại điện tử",
+      "7340122",
+      "A00;A01;D01;D07"
+    ],
+    "prev_chunk": null,
+    "next_chunk": "a898047a-05e7-46f2-85e9-e40ac44fd7e0",
+    "source": "https://tuyensinh.uit.edu.vn/diem-chuan-cua-truong-dh-cong-nghe-thong-tin-qua-cac-nam",
+    "admission_info": {
+      "phuong_thuc_xet_tuyen": "Điểm thi THPT + ĐGNL",
+      "diem_chuan": 25.8,
+      "diem_dgnl": 860.0,
+      "to_hop_mon": "A00;A01;D01;D07"
+    }
+  },
+  {
+    "title": "Ngành Khoa Học Dữ Liệu",
+    "header": "Năm 2023 - Mã ngành: 7460108",
+    "content": "Mã ngành: 7460108\nTên ngành: Khoa Học Dữ Liệu\nTổ hợp: A00;A01;D01;D07\nĐiểm chuẩn: 27.1\nĐiểm ĐGNL: 915.0",
+    "chunk_id": "a898047a-05e7-46f2-85e9-e40ac44fd7e0",
+    "field": "khdl",
+    "year": "2023",
+    "department": "UIT",
+    "keywords": [
+      "khoa học dữ liệu",
+      "7460108",
+      "A00;A01;D01;D07"
+    ],
+    "prev_chunk": "38b6ed84-5f81-405f-bb40-56d60611720f",
+    "next_chunk": "81bea1f4-a160-4115-97f4-1965f7a817f3",
+    "source": "https://tuyensinh.uit.edu.vn/diem-chuan-cua-truong-dh-cong-nghe-thong-tin-qua-cac-nam",
+    "admission_info": {
+      "phuong_thuc_xet_tuyen": "Điểm thi THPT + ĐGNL",
+      "diem_chuan": 27.1,
+      "diem_dgnl": 915.0,
+      "to_hop_mon": "A00;A01;D01;D07"
+    }
+  },
+  {
+    "title": "Ngành Khoa Học Máy Tính",
+    "header": "Năm 2023 - Mã ngành: 7480101",
+    "content": "Mã ngành: 7480101\nTên ngành: Khoa Học Máy Tính\nTổ hợp: A00;A01;D01;D07\nĐiểm chuẩn: 26.9\nĐiểm ĐGNL: 915.0",
+    "chunk_id": "81bea1f4-a160-4115-97f4-1965f7a817f3",
+    "field": "khmt",
+    "year": "2023",
+    "department": "UIT",
+    "keywords": [
+      "khoa học máy tính",
+      "7480101",
+      "A00;A01;D01;D07"
+    ],
+    "prev_chunk": "a898047a-05e7-46f2-85e9-e40ac44fd7e0",
+    "next_chunk": "bed21cf0-e55c-4ff9-829e-9e3f3862ca36",
+    "source": "https://tuyensinh.uit.edu.vn/diem-chuan-cua-truong-dh-cong-nghe-thong-tin-qua-cac-nam",
+    "admission_info": {
+      "phuong_thuc_xet_tuyen": "Điểm thi THPT + ĐGNL",
+      "diem_chuan": 26.9,
+      "diem_dgnl": 915.0,
+      "to_hop_mon": "A00;A01;D01;D07"
+    }
+  },
+  {
+    "title": "Ngành Mạng Máy Tính Và Truyền Thông Dữ Liệu",
+    "header": "Năm 2023 - Mã ngành: 7480102",
+    "content": "Mã ngành: 7480102\nTên ngành: Mạng Máy Tính Và Truyền Thông Dữ Liệu\nTổ hợp: A00;A01;D01;D07\nĐiểm chuẩn: 25.4\nĐiểm ĐGNL: 845.0",
+    "chunk_id": "bed21cf0-e55c-4ff9-829e-9e3f3862ca36",
+    "field": "ngành",
+    "year": "2023",
+    "department": "UIT",
+    "keywords": [
+      "mạng máy tính và truyền thông dữ liệu",
+      "7480102",
+      "A00;A01;D01;D07"
+    ],
+    "prev_chunk": "81bea1f4-a160-4115-97f4-1965f7a817f3",
+    "next_chunk": "c9d8d6d6-fc8a-4277-90a1-c46e31178553",
+    "source": "https://tuyensinh.uit.edu.vn/diem-chuan-cua-truong-dh-cong-nghe-thong-tin-qua-cac-nam",
+    "admission_info": {
+      "phuong_thuc_xet_tuyen": "Điểm thi THPT + ĐGNL",
+      "diem_chuan": 25.4,
+      "diem_dgnl": 845.0,
+      "to_hop_mon": "A00;A01;D01;D07"
+    }
+  },
+  {
+    "title": "Ngành Kỹ Thuật Phần Mềm",
+    "header": "Năm 2023 - Mã ngành: 7480103",
+    "content": "Mã ngành: 7480103\nTên ngành: Kỹ Thuật Phần Mềm\nTổ hợp: A00;A01;D01;D07\nĐiểm chuẩn: 26.9\nĐiểm ĐGNL: 925.0",
+    "chunk_id": "c9d8d6d6-fc8a-4277-90a1-c46e31178553",
+    "field": "ktpm",
+    "year": "2023",
+    "department": "UIT",
+    "keywords": [
+      "kỹ thuật phần mềm",
+      "7480103",
+      "A00;A01;D01;D07"
+    ],
+    "prev_chunk": "bed21cf0-e55c-4ff9-829e-9e3f3862ca36",
+    "next_chunk": "788544a9-00b0-4f36-acb2-ca5c9bc46b25",
+    "source": "https://tuyensinh.uit.edu.vn/diem-chuan-cua-truong-dh-cong-nghe-thong-tin-qua-cac-nam",
+    "admission_info": {
+      "phuong_thuc_xet_tuyen": "Điểm thi THPT + ĐGNL",
+      "diem_chuan": 26.9,
+      "diem_dgnl": 925.0,
+      "to_hop_mon": "A00;A01;D01;D07"
+    }
+  },
+  {
+    "title": "Ngành Hệ Thống Thông Tin",
+    "header": "Năm 2023 - Mã ngành: 7480104",
+    "content": "Mã ngành: 7480104\nTên ngành: Hệ Thống Thông Tin\nTổ hợp: A00;A01;D01;D07\nĐiểm chuẩn: 26.1\nĐiểm ĐGNL: 855.0",
+    "chunk_id": "788544a9-00b0-4f36-acb2-ca5c9bc46b25",
+    "field": "httt",
+    "year": "2023",
+    "department": "UIT",
+    "keywords": [
+      "hệ thống thông tin",
+      "7480104",
+      "A00;A01;D01;D07"
+    ],
+    "prev_chunk": "c9d8d6d6-fc8a-4277-90a1-c46e31178553",
+    "next_chunk": "3d5c83e2-5a39-42a0-b001-8ad71eb5c603",
+    "source": "https://tuyensinh.uit.edu.vn/diem-chuan-cua-truong-dh-cong-nghe-thong-tin-qua-cac-nam",
+    "admission_info": {
+      "phuong_thuc_xet_tuyen": "Điểm thi THPT + ĐGNL",
+      "diem_chuan": 26.1,
+      "diem_dgnl": 855.0,
+      "to_hop_mon": "A00;A01;D01;D07"
+    }
+  },
+  {
+    "title": "Ngành Hệ Thống Thông Tin (Tiên Tiến)",
+    "header": "Năm 2023 - Mã ngành: 7480104_TT",
+    "content": "Mã ngành: 7480104_TT\nTên ngành: Hệ Thống Thông Tin (Tiên Tiến)\nTổ hợp: A00;A01;D07\nĐiểm chuẩn: 25.4\nĐiểm ĐGNL: 825.0",
+    "chunk_id": "3d5c83e2-5a39-42a0-b001-8ad71eb5c603",
+    "field": "httt",
+    "year": "2023",
+    "department": "UIT",
+    "keywords": [
+      "hệ thống thông tin (tiên tiến)",
+      "7480104_TT",
+      "A00;A01;D07"
+    ],
+    "prev_chunk": "788544a9-00b0-4f36-acb2-ca5c9bc46b25",
+    "next_chunk": "d6509917-a539-4637-8d2b-c61c09d313a5",
+    "source": "https://tuyensinh.uit.edu.vn/diem-chuan-cua-truong-dh-cong-nghe-thong-tin-qua-cac-nam",
+    "admission_info": {
+      "phuong_thuc_xet_tuyen": "Điểm thi THPT + ĐGNL",
+      "diem_chuan": 25.4,
+      "diem_dgnl": 825.0,
+      "to_hop_mon": "A00;A01;D07"
+    }
+  },
+  {
+    "title": "Ngành Kỹ Thuật Máy Tính",
+    "header": "Năm 2023 - Mã ngành: 7480106",
+    "content": "Mã ngành: 7480106\nTên ngành: Kỹ Thuật Máy Tính\nTổ hợp: A00;A01\nĐiểm chuẩn: 25.6\nĐiểm ĐGNL: 870.0",
+    "chunk_id": "d6509917-a539-4637-8d2b-c61c09d313a5",
+    "field": "ktmt",
+    "year": "2023",
+    "department": "UIT",
+    "keywords": [
+      "kỹ thuật máy tính",
+      "7480106",
+      "A00;A01"
+    ],
+    "prev_chunk": "3d5c83e2-5a39-42a0-b001-8ad71eb5c603",
+    "next_chunk": "915788ef-e3ac-4523-b8b1-3fadb234f26c",
+    "source": "https://tuyensinh.uit.edu.vn/diem-chuan-cua-truong-dh-cong-nghe-thong-tin-qua-cac-nam",
+    "admission_info": {
+      "phuong_thuc_xet_tuyen": "Điểm thi THPT + ĐGNL",
+      "diem_chuan": 25.6,
+      "diem_dgnl": 870.0,
+      "to_hop_mon": "A00;A01"
+    }
+  },
+  {
+    "title": "Ngành Kỹ Thuật Máy Tính (Hướng Hệ Thống Nhúng Và Iot)",
+    "header": "Năm 2023 - Mã ngành: 7480106-IOT",
+    "content": "Mã ngành: 7480106-IOT\nTên ngành: Kỹ Thuật Máy Tính (Hướng Hệ Thống Nhúng Và Iot)\nTổ hợp: A00;A01\nĐiểm chuẩn: 25.6\nĐiểm ĐGNL: 870.0",
+    "chunk_id": "915788ef-e3ac-4523-b8b1-3fadb234f26c",
+    "field": "ktmt",
+    "year": "2023",
+    "department": "UIT",
+    "keywords": [
+      "kỹ thuật máy tính (hướng hệ thống nhúng và iot)",
+      "7480106-IOT",
+      "A00;A01"
+    ],
+    "prev_chunk": "d6509917-a539-4637-8d2b-c61c09d313a5",
+    "next_chunk": "dc487890-7127-4ded-acc7-bf732bfcf17b",
+    "source": "https://tuyensinh.uit.edu.vn/diem-chuan-cua-truong-dh-cong-nghe-thong-tin-qua-cac-nam",
+    "admission_info": {
+      "phuong_thuc_xet_tuyen": "Điểm thi THPT + ĐGNL",
+      "diem_chuan": 25.6,
+      "diem_dgnl": 870.0,
+      "to_hop_mon": "A00;A01"
+    }
+  },
+  {
+    "title": "Ngành Kỹ Thuật Máy Tính (Chuyên Ngành Thiết Kế Vi Mạch)",
+    "header": "Năm 2023 - Mã ngành: 7480106-TKVM",
+    "content": "Mã ngành: 7480106-TKVM\nTên ngành: Kỹ Thuật Máy Tính (Chuyên Ngành Thiết Kế Vi Mạch)\nTổ hợp: A00;A01\nĐiểm chuẩn: 25.4\nĐiểm ĐGNL: 810.0",
+    "chunk_id": "dc487890-7127-4ded-acc7-bf732bfcf17b",
+    "field": "ktmt",
+    "year": "2023",
+    "department": "UIT",
+    "keywords": [
+      "kỹ thuật máy tính (chuyên ngành thiết kế vi mạch)",
+      "7480106-TKVM",
+      "A00;A01"
+    ],
+    "prev_chunk": "915788ef-e3ac-4523-b8b1-3fadb234f26c",
+    "next_chunk": "251534a8-7b70-430d-b590-c8957f441b38",
+    "source": "https://tuyensinh.uit.edu.vn/diem-chuan-cua-truong-dh-cong-nghe-thong-tin-qua-cac-nam",
+    "admission_info": {
+      "phuong_thuc_xet_tuyen": "Điểm thi THPT + ĐGNL",
+      "diem_chuan": 25.4,
+      "diem_dgnl": 810.0,
+      "to_hop_mon": "A00;A01"
+    }
+  },
+  {
+    "title": "Ngành Trí Tuệ Nhân Tạo",
+    "header": "Năm 2023 - Mã ngành: 7480107",
+    "content": "Mã ngành: 7480107\nTên ngành: Trí Tuệ Nhân Tạo\nTổ hợp: A00;A01;D01;D07\nĐiểm chuẩn: 27.8\nĐiểm ĐGNL: 970.0",
+    "chunk_id": "251534a8-7b70-430d-b590-c8957f441b38",
+    "field": "ttnt",
+    "year": "2023",
+    "department": "UIT",
+    "keywords": [
+      "trí tuệ nhân tạo",
+      "7480107",
+      "A00;A01;D01;D07"
+    ],
+    "prev_chunk": "dc487890-7127-4ded-acc7-bf732bfcf17b",
+    "next_chunk": "0237ac82-ca94-40d8-a349-38956f7e7218",
+    "source": "https://tuyensinh.uit.edu.vn/diem-chuan-cua-truong-dh-cong-nghe-thong-tin-qua-cac-nam",
+    "admission_info": {
+      "phuong_thuc_xet_tuyen": "Điểm thi THPT + ĐGNL",
+      "diem_chuan": 27.8,
+      "diem_dgnl": 970.0,
+      "to_hop_mon": "A00;A01;D01;D07"
+    }
+  },
+  {
+    "title": "Ngành Công Nghệ Thông Tin",
+    "header": "Năm 2023 - Mã ngành: 7480201",
+    "content": "Mã ngành: 7480201\nTên ngành: Công Nghệ Thông Tin\nTổ hợp: A00;A01;D01;D07\nĐiểm chuẩn: 26.9\nĐiểm ĐGNL: 920.0",
+    "chunk_id": "0237ac82-ca94-40d8-a349-38956f7e7218",
+    "field": "cntt",
+    "year": "2023",
+    "department": "UIT",
+    "keywords": [
+      "công nghệ thông tin",
+      "7480201",
+      "A00;A01;D01;D07"
+    ],
+    "prev_chunk": "251534a8-7b70-430d-b590-c8957f441b38",
+    "next_chunk": "793f80d3-bca7-4920-b6a6-6da87deedd4f",
+    "source": "https://tuyensinh.uit.edu.vn/diem-chuan-cua-truong-dh-cong-nghe-thong-tin-qua-cac-nam",
+    "admission_info": {
+      "phuong_thuc_xet_tuyen": "Điểm thi THPT + ĐGNL",
+      "diem_chuan": 26.9,
+      "diem_dgnl": 920.0,
+      "to_hop_mon": "A00;A01;D01;D07"
+    }
+  },
+  {
+    "title": "Ngành Công Nghệ Thông Tin (Việt - Nhật)",
+    "header": "Năm 2023 - Mã ngành: 7480201_N",
+    "content": "Mã ngành: 7480201_N\nTên ngành: Công Nghệ Thông Tin (Việt - Nhật)\nTổ hợp: A00;A01;D01;D06;D07\nĐiểm chuẩn: 25.9\nĐiểm ĐGNL: 845.0",
+    "chunk_id": "793f80d3-bca7-4920-b6a6-6da87deedd4f",
+    "field": "cntt",
+    "year": "2023",
+    "department": "UIT",
+    "keywords": [
+      "công nghệ thông tin (việt - nhật)",
+      "7480201_N",
+      "A00;A01;D01;D06;D07"
+    ],
+    "prev_chunk": "0237ac82-ca94-40d8-a349-38956f7e7218",
+    "next_chunk": "669d3163-6f90-4db3-a83d-6ed6f99606cf",
+    "source": "https://tuyensinh.uit.edu.vn/diem-chuan-cua-truong-dh-cong-nghe-thong-tin-qua-cac-nam",
+    "admission_info": {
+      "phuong_thuc_xet_tuyen": "Điểm thi THPT + ĐGNL",
+      "diem_chuan": 25.9,
+      "diem_dgnl": 845.0,
+      "to_hop_mon": "A00;A01;D01;D06;D07"
+    }
+  },
+  {
+    "title": "Ngành An Toàn Thông Tin",
+    "header": "Năm 2023 - Mã ngành: 7480202",
+    "content": "Mã ngành: 7480202\nTên ngành: An Toàn Thông Tin\nTổ hợp: A00;A01;D01;D07\nĐiểm chuẩn: 26.3\nĐiểm ĐGNL: 890.0",
+    "chunk_id": "669d3163-6f90-4db3-a83d-6ed6f99606cf",
+    "field": "attt",
+    "year": "2023",
+    "department": "UIT",
+    "keywords": [
+      "an toàn thông tin",
+      "7480202",
+      "A00;A01;D01;D07"
+    ],
+    "prev_chunk": "793f80d3-bca7-4920-b6a6-6da87deedd4f",
+    "next_chunk": "1e32efba-92ba-44a1-8520-91a861beddf2",
+    "source": "https://tuyensinh.uit.edu.vn/diem-chuan-cua-truong-dh-cong-nghe-thong-tin-qua-cac-nam",
+    "admission_info": {
+      "phuong_thuc_xet_tuyen": "Điểm thi THPT + ĐGNL",
+      "diem_chuan": 26.3,
+      "diem_dgnl": 890.0,
+      "to_hop_mon": "A00;A01;D01;D07"
+    }
+  },
+  {
+    "title": "Ngành Thương Mại Điện Tử",
+    "header": "Năm 2022 - Mã ngành: 7340122",
+    "content": "Mã ngành: 7340122\nTên ngành: Thương Mại Điện Tử\nTổ hợp: A00;A01;D01;D07\nĐiểm chuẩn: 27.05\nĐiểm ĐGNL: 852.0",
+    "chunk_id": "1e32efba-92ba-44a1-8520-91a861beddf2",
+    "field": "tmdt",
+    "year": "2022",
+    "department": "UIT",
+    "keywords": [
+      "thương mại điện tử",
+      "7340122",
+      "A00;A01;D01;D07"
+    ],
+    "prev_chunk": "669d3163-6f90-4db3-a83d-6ed6f99606cf",
+    "next_chunk": "7a7e9865-aaca-449f-872f-8e729cdd0fde",
+    "source": "https://tuyensinh.uit.edu.vn/diem-chuan-cua-truong-dh-cong-nghe-thong-tin-qua-cac-nam",
+    "admission_info": {
+      "phuong_thuc_xet_tuyen": "Điểm thi THPT + ĐGNL",
+      "diem_chuan": 27.05,
+      "diem_dgnl": 852.0,
+      "to_hop_mon": "A00;A01;D01;D07"
+    }
+  },
+  {
+    "title": "Ngành Khoa Học Máy Tính",
+    "header": "Năm 2022 - Mã ngành: 7480101",
+    "content": "Mã ngành: 7480101\nTên ngành: Khoa Học Máy Tính\nTổ hợp: A00;A01;D01;D07\nĐiểm chuẩn: 27.1\nĐiểm ĐGNL: 888.0",
+    "chunk_id": "7a7e9865-aaca-449f-872f-8e729cdd0fde",
+    "field": "khmt",
+    "year": "2022",
+    "department": "UIT",
+    "keywords": [
+      "khoa học máy tính",
+      "7480101",
+      "A00;A01;D01;D07"
+    ],
+    "prev_chunk": "1e32efba-92ba-44a1-8520-91a861beddf2",
+    "next_chunk": "1e18dab2-86d6-417c-aa96-9742f6373a73",
+    "source": "https://tuyensinh.uit.edu.vn/diem-chuan-cua-truong-dh-cong-nghe-thong-tin-qua-cac-nam",
+    "admission_info": {
+      "phuong_thuc_xet_tuyen": "Điểm thi THPT + ĐGNL",
+      "diem_chuan": 27.1,
+      "diem_dgnl": 888.0,
+      "to_hop_mon": "A00;A01;D01;D07"
+    }
+  },
+  {
+    "title": "Ngành Mạng Máy Tính Và Truyền Thông Dữ Liệu",
+    "header": "Năm 2022 - Mã ngành: 7480102",
+    "content": "Mã ngành: 7480102\nTên ngành: Mạng Máy Tính Và Truyền Thông Dữ Liệu\nTổ hợp: A00;A01;D01;D07\nĐiểm chuẩn: 26.3\nĐiểm ĐGNL: 810.0",
+    "chunk_id": "1e18dab2-86d6-417c-aa96-9742f6373a73",
+    "field": "ngành",
+    "year": "2022",
+    "department": "UIT",
+    "keywords": [
+      "mạng máy tính và truyền thông dữ liệu",
+      "7480102",
+      "A00;A01;D01;D07"
+    ],
+    "prev_chunk": "7a7e9865-aaca-449f-872f-8e729cdd0fde",
+    "next_chunk": "4c64790d-dbf5-4aac-9198-277da5aeda13",
+    "source": "https://tuyensinh.uit.edu.vn/diem-chuan-cua-truong-dh-cong-nghe-thong-tin-qua-cac-nam",
+    "admission_info": {
+      "phuong_thuc_xet_tuyen": "Điểm thi THPT + ĐGNL",
+      "diem_chuan": 26.3,
+      "diem_dgnl": 810.0,
+      "to_hop_mon": "A00;A01;D01;D07"
+    }
+  },
+  {
+    "title": "Ngành Kỹ Thuật Phần Mềm",
+    "header": "Năm 2022 - Mã ngành: 7480103",
+    "content": "Mã ngành: 7480103\nTên ngành: Kỹ Thuật Phần Mềm\nTổ hợp: A00;A01;D01;D07\nĐiểm chuẩn: 28.05\nĐiểm ĐGNL: 895.0",
+    "chunk_id": "4c64790d-dbf5-4aac-9198-277da5aeda13",
+    "field": "ktpm",
+    "year": "2022",
+    "department": "UIT",
+    "keywords": [
+      "kỹ thuật phần mềm",
+      "7480103",
+      "A00;A01;D01;D07"
+    ],
+    "prev_chunk": "1e18dab2-86d6-417c-aa96-9742f6373a73",
+    "next_chunk": "7f53fc90-aaa9-4a78-823e-b052f0da2159",
+    "source": "https://tuyensinh.uit.edu.vn/diem-chuan-cua-truong-dh-cong-nghe-thong-tin-qua-cac-nam",
+    "admission_info": {
+      "phuong_thuc_xet_tuyen": "Điểm thi THPT + ĐGNL",
+      "diem_chuan": 28.05,
+      "diem_dgnl": 895.0,
+      "to_hop_mon": "A00;A01;D01;D07"
+    }
+  },
+  {
+    "title": "Ngành Hệ Thống Thông Tin",
+    "header": "Năm 2022 - Mã ngành: 7480104",
+    "content": "Mã ngành: 7480104\nTên ngành: Hệ Thống Thông Tin\nTổ hợp: A00;A01;D01;D07\nĐiểm chuẩn: 26.7\nĐiểm ĐGNL: 825.0",
+    "chunk_id": "7f53fc90-aaa9-4a78-823e-b052f0da2159",
+    "field": "httt",
+    "year": "2022",
+    "department": "UIT",
+    "keywords": [
+      "hệ thống thông tin",
+      "7480104",
+      "A00;A01;D01;D07"
+    ],
+    "prev_chunk": "4c64790d-dbf5-4aac-9198-277da5aeda13",
+    "next_chunk": "8aad6ed6-29aa-4806-bcec-2f2876cd9013",
+    "source": "https://tuyensinh.uit.edu.vn/diem-chuan-cua-truong-dh-cong-nghe-thong-tin-qua-cac-nam",
+    "admission_info": {
+      "phuong_thuc_xet_tuyen": "Điểm thi THPT + ĐGNL",
+      "diem_chuan": 26.7,
+      "diem_dgnl": 825.0,
+      "to_hop_mon": "A00;A01;D01;D07"
+    }
+  },
+  {
+    "title": "Ngành Hệ Thống Thông Tin (Tiên Tiến)",
+    "header": "Năm 2022 - Mã ngành: 7480104_TT",
+    "content": "Mã ngành: 7480104_TT\nTên ngành: Hệ Thống Thông Tin (Tiên Tiến)\nTổ hợp: A00;A01;D07\nĐiểm chuẩn: 26.2\nĐiểm ĐGNL: 800.0",
+    "chunk_id": "8aad6ed6-29aa-4806-bcec-2f2876cd9013",
+    "field": "httt",
+    "year": "2022",
+    "department": "UIT",
+    "keywords": [
+      "hệ thống thông tin (tiên tiến)",
+      "7480104_TT",
+      "A00;A01;D07"
+    ],
+    "prev_chunk": "7f53fc90-aaa9-4a78-823e-b052f0da2159",
+    "next_chunk": "59093532-1692-4d68-a30f-daf46780eae0",
+    "source": "https://tuyensinh.uit.edu.vn/diem-chuan-cua-truong-dh-cong-nghe-thong-tin-qua-cac-nam",
+    "admission_info": {
+      "phuong_thuc_xet_tuyen": "Điểm thi THPT + ĐGNL",
+      "diem_chuan": 26.2,
+      "diem_dgnl": 800.0,
+      "to_hop_mon": "A00;A01;D07"
+    }
+  },
+  {
+    "title": "Ngành Kỹ Thuật Máy Tính",
+    "header": "Năm 2022 - Mã ngành: 7480106",
+    "content": "Mã ngành: 7480106\nTên ngành: Kỹ Thuật Máy Tính\nTổ hợp: A00;A01;D01;D07\nĐiểm chuẩn: 26.55\nĐiểm ĐGNL: 843.0",
+    "chunk_id": "59093532-1692-4d68-a30f-daf46780eae0",
+    "field": "ktmt",
+    "year": "2022",
+    "department": "UIT",
+    "keywords": [
+      "kỹ thuật máy tính",
+      "7480106",
+      "A00;A01;D01;D07"
+    ],
+    "prev_chunk": "8aad6ed6-29aa-4806-bcec-2f2876cd9013",
+    "next_chunk": "f7b4f88c-0ebd-4c2f-b0ca-7a0b5190767c",
+    "source": "https://tuyensinh.uit.edu.vn/diem-chuan-cua-truong-dh-cong-nghe-thong-tin-qua-cac-nam",
+    "admission_info": {
+      "phuong_thuc_xet_tuyen": "Điểm thi THPT + ĐGNL",
+      "diem_chuan": 26.55,
+      "diem_dgnl": 843.0,
+      "to_hop_mon": "A00;A01;D01;D07"
+    }
+  },
+  {
+    "title": "Ngành Kỹ Thuật Máy Tính (Hướng Hệ Thống Nhúng Và Iot",
+    "header": "Năm 2022 - Mã ngành: 7480106_IOT",
+    "content": "Mã ngành: 7480106_IOT\nTên ngành: Kỹ Thuật Máy Tính (Hướng Hệ Thống Nhúng Và Iot\nTổ hợp: A00;A01;D01;D07\nĐiểm chuẩn: 26.5\nĐiểm ĐGNL: 842.0",
+    "chunk_id": "f7b4f88c-0ebd-4c2f-b0ca-7a0b5190767c",
+    "field": "ktmt",
+    "year": "2022",
+    "department": "UIT",
+    "keywords": [
+      "kỹ thuật máy tính (hướng hệ thống nhúng và iot",
+      "7480106_IOT",
+      "A00;A01;D01;D07"
+    ],
+    "prev_chunk": "59093532-1692-4d68-a30f-daf46780eae0",
+    "next_chunk": "df63e71a-da3c-4cbd-8129-8147debcf118",
+    "source": "https://tuyensinh.uit.edu.vn/diem-chuan-cua-truong-dh-cong-nghe-thong-tin-qua-cac-nam",
+    "admission_info": {
+      "phuong_thuc_xet_tuyen": "Điểm thi THPT + ĐGNL",
+      "diem_chuan": 26.5,
+      "diem_dgnl": 842.0,
+      "to_hop_mon": "A00;A01;D01;D07"
+    }
+  },
+  {
+    "title": "Ngành Trí Tuệ Nhân Tạo",
+    "header": "Năm 2022 - Mã ngành: 7480107",
+    "content": "Mã ngành: 7480107\nTên ngành: Trí Tuệ Nhân Tạo\nTổ hợp: A00;A01;D01;D07\nĐiểm chuẩn: 28.0\nĐiểm ĐGNL: 940.0",
+    "chunk_id": "df63e71a-da3c-4cbd-8129-8147debcf118",
+    "field": "ttnt",
+    "year": "2022",
+    "department": "UIT",
+    "keywords": [
+      "trí tuệ nhân tạo",
+      "7480107",
+      "A00;A01;D01;D07"
+    ],
+    "prev_chunk": "f7b4f88c-0ebd-4c2f-b0ca-7a0b5190767c",
+    "next_chunk": "4db180e0-6edf-467a-af56-bda1fd74569c",
+    "source": "https://tuyensinh.uit.edu.vn/diem-chuan-cua-truong-dh-cong-nghe-thong-tin-qua-cac-nam",
+    "admission_info": {
+      "phuong_thuc_xet_tuyen": "Điểm thi THPT + ĐGNL",
+      "diem_chuan": 28.0,
+      "diem_dgnl": 940.0,
+      "to_hop_mon": "A00;A01;D01;D07"
+    }
+  },
+  {
+    "title": "Ngành Khoa Học Dữ Liệu",
+    "header": "Năm 2022 - Mã ngành: 7480109",
+    "content": "Mã ngành: 7480109\nTên ngành: Khoa Học Dữ Liệu\nTổ hợp: A00;A01;D01;D07\nĐiểm chuẩn: 27.05\nĐiểm ĐGNL: 880.0",
+    "chunk_id": "4db180e0-6edf-467a-af56-bda1fd74569c",
+    "field": "khdl",
+    "year": "2022",
+    "department": "UIT",
+    "keywords": [
+      "khoa học dữ liệu",
+      "7480109",
+      "A00;A01;D01;D07"
+    ],
+    "prev_chunk": "df63e71a-da3c-4cbd-8129-8147debcf118",
+    "next_chunk": "5475b9ac-13b4-4c58-bbda-1a4b64432242",
+    "source": "https://tuyensinh.uit.edu.vn/diem-chuan-cua-truong-dh-cong-nghe-thong-tin-qua-cac-nam",
+    "admission_info": {
+      "phuong_thuc_xet_tuyen": "Điểm thi THPT + ĐGNL",
+      "diem_chuan": 27.05,
+      "diem_dgnl": 880.0,
+      "to_hop_mon": "A00;A01;D01;D07"
+    }
+  },
+  {
+    "title": "Ngành Công Nghệ Thông Tin",
+    "header": "Năm 2022 - Mã ngành: 7480201",
+    "content": "Mã ngành: 7480201\nTên ngành: Công Nghệ Thông Tin\nTổ hợp: A00;A01;D01;D07\nĐiểm chuẩn: 27.9\nĐiểm ĐGNL: 892.0",
+    "chunk_id": "5475b9ac-13b4-4c58-bbda-1a4b64432242",
+    "field": "cntt",
+    "year": "2022",
+    "department": "UIT",
+    "keywords": [
+      "công nghệ thông tin",
+      "7480201",
+      "A00;A01;D01;D07"
+    ],
+    "prev_chunk": "4db180e0-6edf-467a-af56-bda1fd74569c",
+    "next_chunk": "35d6b8cb-2eb6-4de9-801d-665e660a0557",
+    "source": "https://tuyensinh.uit.edu.vn/diem-chuan-cua-truong-dh-cong-nghe-thong-tin-qua-cac-nam",
+    "admission_info": {
+      "phuong_thuc_xet_tuyen": "Điểm thi THPT + ĐGNL",
+      "diem_chuan": 27.9,
+      "diem_dgnl": 892.0,
+      "to_hop_mon": "A00;A01;D01;D07"
+    }
+  },
+  {
+    "title": "Ngành Công Nghệ Thông Tin (Việt - Nhật)",
+    "header": "Năm 2022 - Mã ngành: 7480201_N",
+    "content": "Mã ngành: 7480201_N\nTên ngành: Công Nghệ Thông Tin (Việt - Nhật)\nTổ hợp: A00;A01;D01;D06;D07\nĐiểm chuẩn: 26.3\nĐiểm ĐGNL: 805.0",
+    "chunk_id": "35d6b8cb-2eb6-4de9-801d-665e660a0557",
+    "field": "cntt",
+    "year": "2022",
+    "department": "UIT",
+    "keywords": [
+      "công nghệ thông tin (việt - nhật)",
+      "7480201_N",
+      "A00;A01;D01;D06;D07"
+    ],
+    "prev_chunk": "5475b9ac-13b4-4c58-bbda-1a4b64432242",
+    "next_chunk": "ded9cb0f-4cff-47c7-9e7e-4e9349e23409",
+    "source": "https://tuyensinh.uit.edu.vn/diem-chuan-cua-truong-dh-cong-nghe-thong-tin-qua-cac-nam",
+    "admission_info": {
+      "phuong_thuc_xet_tuyen": "Điểm thi THPT + ĐGNL",
+      "diem_chuan": 26.3,
+      "diem_dgnl": 805.0,
+      "to_hop_mon": "A00;A01;D01;D06;D07"
+    }
+  },
+  {
+    "title": "Ngành An Toàn Thông Tin",
+    "header": "Năm 2022 - Mã ngành: 7480202",
+    "content": "Mã ngành: 7480202\nTên ngành: An Toàn Thông Tin\nTổ hợp: A00;A01;D01;D07\nĐiểm chuẩn: 26.95\nĐiểm ĐGNL: 858.0",
+    "chunk_id": "ded9cb0f-4cff-47c7-9e7e-4e9349e23409",
+    "field": "attt",
+    "year": "2022",
+    "department": "UIT",
+    "keywords": [
+      "an toàn thông tin",
+      "7480202",
+      "A00;A01;D01;D07"
+    ],
+    "prev_chunk": "35d6b8cb-2eb6-4de9-801d-665e660a0557",
+    "next_chunk": "3b616b34-500b-45e9-bf0b-42cde817c5e2",
+    "source": "https://tuyensinh.uit.edu.vn/diem-chuan-cua-truong-dh-cong-nghe-thong-tin-qua-cac-nam",
+    "admission_info": {
+      "phuong_thuc_xet_tuyen": "Điểm thi THPT + ĐGNL",
+      "diem_chuan": 26.95,
+      "diem_dgnl": 858.0,
+      "to_hop_mon": "A00;A01;D01;D07"
+    }
+  },
+  {
+    "title": "Ngành Thương Mại Điện Tử",
+    "header": "Năm 2021 - Mã ngành: 7340122",
+    "content": "Mã ngành: 7340122\nTên ngành: Thương Mại Điện Tử\nTổ hợp: A00;A01;D01;D07\nĐiểm chuẩn: 26.7\nĐiểm ĐGNL: 878.0",
+    "chunk_id": "3b616b34-500b-45e9-bf0b-42cde817c5e2",
+    "field": "tmdt",
+    "year": "2021",
+    "department": "UIT",
+    "keywords": [
+      "thương mại điện tử",
+      "7340122",
+      "A00;A01;D01;D07"
+    ],
+    "prev_chunk": "ded9cb0f-4cff-47c7-9e7e-4e9349e23409",
+    "next_chunk": "e21bdf7b-551b-48a5-95bc-8ebe6cb35a40",
+    "source": "https://tuyensinh.uit.edu.vn/diem-chuan-cua-truong-dh-cong-nghe-thong-tin-qua-cac-nam",
+    "admission_info": {
+      "phuong_thuc_xet_tuyen": "Điểm thi THPT + ĐGNL",
+      "diem_chuan": 26.7,
+      "diem_dgnl": 878.0,
+      "to_hop_mon": "A00;A01;D01;D07"
+    }
+  },
+  {
+    "title": "Ngành Thương Mại Điện Tử (Chất Lượng Cao)",
+    "header": "Năm 2021 - Mã ngành: 7340122_CLCA",
+    "content": "Mã ngành: 7340122_CLCA\nTên ngành: Thương Mại Điện Tử (Chất Lượng Cao)\nTổ hợp: A00;A01;D01;D07\nĐiểm chuẩn: 26.3\nĐiểm ĐGNL: 795.0",
+    "chunk_id": "e21bdf7b-551b-48a5-95bc-8ebe6cb35a40",
+    "field": "tmdt",
+    "year": "2021",
+    "department": "UIT",
+    "keywords": [
+      "thương mại điện tử (chất lượng cao)",
+      "7340122_CLCA",
+      "A00;A01;D01;D07"
+    ],
+    "prev_chunk": "3b616b34-500b-45e9-bf0b-42cde817c5e2",
+    "next_chunk": "6ea9a91d-5595-4e12-97c2-05c18666bb28",
+    "source": "https://tuyensinh.uit.edu.vn/diem-chuan-cua-truong-dh-cong-nghe-thong-tin-qua-cac-nam",
+    "admission_info": {
+      "phuong_thuc_xet_tuyen": "Điểm thi THPT + ĐGNL",
+      "diem_chuan": 26.3,
+      "diem_dgnl": 795.0,
+      "to_hop_mon": "A00;A01;D01;D07"
+    }
+  },
+  {
+    "title": "Ngành Khoa Học Máy Tính",
+    "header": "Năm 2021 - Mã ngành: 7480101",
+    "content": "Mã ngành: 7480101\nTên ngành: Khoa Học Máy Tính\nTổ hợp: A00;A01;D01;D07\nĐiểm chuẩn: 27.3\nĐiểm ĐGNL: 920.0",
+    "chunk_id": "6ea9a91d-5595-4e12-97c2-05c18666bb28",
+    "field": "khmt",
+    "year": "2021",
+    "department": "UIT",
+    "keywords": [
+      "khoa học máy tính",
+      "7480101",
+      "A00;A01;D01;D07"
+    ],
+    "prev_chunk": "e21bdf7b-551b-48a5-95bc-8ebe6cb35a40",
+    "next_chunk": "c2371979-2c10-49f2-bbd7-54e0cc8d0ef2",
+    "source": "https://tuyensinh.uit.edu.vn/diem-chuan-cua-truong-dh-cong-nghe-thong-tin-qua-cac-nam",
+    "admission_info": {
+      "phuong_thuc_xet_tuyen": "Điểm thi THPT + ĐGNL",
+      "diem_chuan": 27.3,
+      "diem_dgnl": 920.0,
+      "to_hop_mon": "A00;A01;D01;D07"
+    }
+  },
+  {
+    "title": "Ngành Khoa Học Máy Tính (Chất Lượng Cao)",
+    "header": "Năm 2021 - Mã ngành: 7480101_CLCA",
+    "content": "Mã ngành: 7480101_CLCA\nTên ngành: Khoa Học Máy Tính (Chất Lượng Cao)\nTổ hợp: A00;A01;D01;D07\nĐiểm chuẩn: 26.75\nĐiểm ĐGNL: 877.0",
+    "chunk_id": "c2371979-2c10-49f2-bbd7-54e0cc8d0ef2",
+    "field": "khmt",
+    "year": "2021",
+    "department": "UIT",
+    "keywords": [
+      "khoa học máy tính (chất lượng cao)",
+      "7480101_CLCA",
+      "A00;A01;D01;D07"
+    ],
+    "prev_chunk": "6ea9a91d-5595-4e12-97c2-05c18666bb28",
+    "next_chunk": "1cb0ae8d-de5d-472b-bc00-4cef685b5c81",
+    "source": "https://tuyensinh.uit.edu.vn/diem-chuan-cua-truong-dh-cong-nghe-thong-tin-qua-cac-nam",
+    "admission_info": {
+      "phuong_thuc_xet_tuyen": "Điểm thi THPT + ĐGNL",
+      "diem_chuan": 26.75,
+      "diem_dgnl": 877.0,
+      "to_hop_mon": "A00;A01;D01;D07"
+    }
+  },
+  {
+    "title": "Ngành Khoa Học Máy Tính (Hướng Trí Tuệ Nhân Tạo)",
+    "header": "Năm 2021 - Mã ngành: 7480101_TTNT",
+    "content": "Mã ngành: 7480101_TTNT\nTên ngành: Khoa Học Máy Tính (Hướng Trí Tuệ Nhân Tạo)\nTổ hợp: A00;A01;D01;D07\nĐiểm chuẩn: 27.5\nĐiểm ĐGNL: 950.0",
+    "chunk_id": "1cb0ae8d-de5d-472b-bc00-4cef685b5c81",
+    "field": "ttnt",
+    "year": "2021",
+    "department": "UIT",
+    "keywords": [
+      "khoa học máy tính (hướng trí tuệ nhân tạo)",
+      "7480101_TTNT",
+      "A00;A01;D01;D07"
+    ],
+    "prev_chunk": "c2371979-2c10-49f2-bbd7-54e0cc8d0ef2",
+    "next_chunk": "f22957d5-cf39-4823-99af-e2f5f2160c08",
+    "source": "https://tuyensinh.uit.edu.vn/diem-chuan-cua-truong-dh-cong-nghe-thong-tin-qua-cac-nam",
+    "admission_info": {
+      "phuong_thuc_xet_tuyen": "Điểm thi THPT + ĐGNL",
+      "diem_chuan": 27.5,
+      "diem_dgnl": 950.0,
+      "to_hop_mon": "A00;A01;D01;D07"
+    }
+  },
+  {
+    "title": "Ngành Mạng Máy Tính Và Truyền Thông Dữ Liệu",
+    "header": "Năm 2021 - Mã ngành: 7480102",
+    "content": "Mã ngành: 7480102\nTên ngành: Mạng Máy Tính Và Truyền Thông Dữ Liệu\nTổ hợp: A00;A01;D01;D07\nĐiểm chuẩn: 26.35\nĐiểm ĐGNL: 810.0",
+    "chunk_id": "f22957d5-cf39-4823-99af-e2f5f2160c08",
+    "field": "ngành",
+    "year": "2021",
+    "department": "UIT",
+    "keywords": [
+      "mạng máy tính và truyền thông dữ liệu",
+      "7480102",
+      "A00;A01;D01;D07"
+    ],
+    "prev_chunk": "1cb0ae8d-de5d-472b-bc00-4cef685b5c81",
+    "next_chunk": "d53ba2f4-8c09-43bb-be1f-81e2882207a2",
+    "source": "https://tuyensinh.uit.edu.vn/diem-chuan-cua-truong-dh-cong-nghe-thong-tin-qua-cac-nam",
+    "admission_info": {
+      "phuong_thuc_xet_tuyen": "Điểm thi THPT + ĐGNL",
+      "diem_chuan": 26.35,
+      "diem_dgnl": 810.0,
+      "to_hop_mon": "A00;A01;D01;D07"
+    }
+  },
+  {
+    "title": "Ngành Mạng Máy Tính Và Truyền Thông Dữ Liệu (Chất Lượng Cao)",
+    "header": "Năm 2021 - Mã ngành: 7480102_CLCA",
+    "content": "Mã ngành: 7480102_CLCA\nTên ngành: Mạng Máy Tính Và Truyền Thông Dữ Liệu (Chất Lượng Cao)\nTổ hợp: A00;A01;D01;D07\nĐiểm chuẩn: 25.6\nĐiểm ĐGNL: 750.0",
+    "chunk_id": "d53ba2f4-8c09-43bb-be1f-81e2882207a2",
+    "field": "ngành",
+    "year": "2021",
+    "department": "UIT",
+    "keywords": [
+      "mạng máy tính và truyền thông dữ liệu (chất lượng cao)",
+      "7480102_CLCA",
+      "A00;A01;D01;D07"
+    ],
+    "prev_chunk": "f22957d5-cf39-4823-99af-e2f5f2160c08",
+    "next_chunk": "877b4729-c137-40a7-9b94-712446a86cb3",
+    "source": "https://tuyensinh.uit.edu.vn/diem-chuan-cua-truong-dh-cong-nghe-thong-tin-qua-cac-nam",
+    "admission_info": {
+      "phuong_thuc_xet_tuyen": "Điểm thi THPT + ĐGNL",
+      "diem_chuan": 25.6,
+      "diem_dgnl": 750.0,
+      "to_hop_mon": "A00;A01;D01;D07"
+    }
+  },
+  {
+    "title": "Ngành Kỹ Thuật Phần Mềm",
+    "header": "Năm 2021 - Mã ngành: 7480103",
+    "content": "Mã ngành: 7480103\nTên ngành: Kỹ Thuật Phần Mềm\nTổ hợp: A00;A01;D01;D07\nĐiểm chuẩn: 27.55\nĐiểm ĐGNL: 930.0",
+    "chunk_id": "877b4729-c137-40a7-9b94-712446a86cb3",
+    "field": "ktpm",
+    "year": "2021",
+    "department": "UIT",
+    "keywords": [
+      "kỹ thuật phần mềm",
+      "7480103",
+      "A00;A01;D01;D07"
+    ],
+    "prev_chunk": "d53ba2f4-8c09-43bb-be1f-81e2882207a2",
+    "next_chunk": "1870e640-5ba8-4e1e-bb1c-00c569b4c289",
+    "source": "https://tuyensinh.uit.edu.vn/diem-chuan-cua-truong-dh-cong-nghe-thong-tin-qua-cac-nam",
+    "admission_info": {
+      "phuong_thuc_xet_tuyen": "Điểm thi THPT + ĐGNL",
+      "diem_chuan": 27.55,
+      "diem_dgnl": 930.0,
+      "to_hop_mon": "A00;A01;D01;D07"
+    }
+  },
+  {
+    "title": "Ngành Kỹ Thuật Phần Mềm (Chất Lượng Cao)",
+    "header": "Năm 2021 - Mã ngành: 7480103_CLCA",
+    "content": "Mã ngành: 7480103_CLCA\nTên ngành: Kỹ Thuật Phần Mềm (Chất Lượng Cao)\nTổ hợp: A00;A01;D01;D07\nĐiểm chuẩn: 27.0\nĐiểm ĐGNL: 880.0",
+    "chunk_id": "1870e640-5ba8-4e1e-bb1c-00c569b4c289",
+    "field": "ktpm",
+    "year": "2021",
+    "department": "UIT",
+    "keywords": [
+      "kỹ thuật phần mềm (chất lượng cao)",
+      "7480103_CLCA",
+      "A00;A01;D01;D07"
+    ],
+    "prev_chunk": "877b4729-c137-40a7-9b94-712446a86cb3",
+    "next_chunk": "c715f3d5-61ea-46ba-ab69-defa9baf8cfc",
+    "source": "https://tuyensinh.uit.edu.vn/diem-chuan-cua-truong-dh-cong-nghe-thong-tin-qua-cac-nam",
+    "admission_info": {
+      "phuong_thuc_xet_tuyen": "Điểm thi THPT + ĐGNL",
+      "diem_chuan": 27.0,
+      "diem_dgnl": 880.0,
+      "to_hop_mon": "A00;A01;D01;D07"
+    }
+  },
+  {
+    "title": "Ngành Hệ Thống Thông Tin",
+    "header": "Năm 2021 - Mã ngành: 7480104",
+    "content": "Mã ngành: 7480104\nTên ngành: Hệ Thống Thông Tin\nTổ hợp: A00;A01;D01;D07\nĐiểm chuẩn: 26.7\nĐiểm ĐGNL: 855.0",
+    "chunk_id": "c715f3d5-61ea-46ba-ab69-defa9baf8cfc",
+    "field": "httt",
+    "year": "2021",
+    "department": "UIT",
+    "keywords": [
+      "hệ thống thông tin",
+      "7480104",
+      "A00;A01;D01;D07"
+    ],
+    "prev_chunk": "1870e640-5ba8-4e1e-bb1c-00c569b4c289",
+    "next_chunk": "3fcf7739-633f-44ce-bbd8-84ca41ab0820",
+    "source": "https://tuyensinh.uit.edu.vn/diem-chuan-cua-truong-dh-cong-nghe-thong-tin-qua-cac-nam",
+    "admission_info": {
+      "phuong_thuc_xet_tuyen": "Điểm thi THPT + ĐGNL",
+      "diem_chuan": 26.7,
+      "diem_dgnl": 855.0,
+      "to_hop_mon": "A00;A01;D01;D07"
+    }
+  },
+  {
+    "title": "Ngành Hệ Thống Thông Tin (Chất Lượng Cao)",
+    "header": "Năm 2021 - Mã ngành: 7480104_CLCA",
+    "content": "Mã ngành: 7480104_CLCA\nTên ngành: Hệ Thống Thông Tin (Chất Lượng Cao)\nTổ hợp: A00;A01;D01;D07\nĐiểm chuẩn: 26.15\nĐiểm ĐGNL: 775.0",
+    "chunk_id": "3fcf7739-633f-44ce-bbd8-84ca41ab0820",
+    "field": "httt",
+    "year": "2021",
+    "department": "UIT",
+    "keywords": [
+      "hệ thống thông tin (chất lượng cao)",
+      "7480104_CLCA",
+      "A00;A01;D01;D07"
+    ],
+    "prev_chunk": "c715f3d5-61ea-46ba-ab69-defa9baf8cfc",
+    "next_chunk": "75bdcc37-6caf-4d43-afe8-66a7acaee8c7",
+    "source": "https://tuyensinh.uit.edu.vn/diem-chuan-cua-truong-dh-cong-nghe-thong-tin-qua-cac-nam",
+    "admission_info": {
+      "phuong_thuc_xet_tuyen": "Điểm thi THPT + ĐGNL",
+      "diem_chuan": 26.15,
+      "diem_dgnl": 775.0,
+      "to_hop_mon": "A00;A01;D01;D07"
+    }
+  },
+  {
+    "title": "Ngành Hệ Thống Thông Tin (Tiên Tiến)",
+    "header": "Năm 2021 - Mã ngành: 7480104_TT",
+    "content": "Mã ngành: 7480104_TT\nTên ngành: Hệ Thống Thông Tin (Tiên Tiến)\nTổ hợp: A01;D01;D07\nĐiểm chuẩn: 25.1\nĐiểm ĐGNL: 750.0",
+    "chunk_id": "75bdcc37-6caf-4d43-afe8-66a7acaee8c7",
+    "field": "httt",
+    "year": "2021",
+    "department": "UIT",
+    "keywords": [
+      "hệ thống thông tin (tiên tiến)",
+      "7480104_TT",
+      "A01;D01;D07"
+    ],
+    "prev_chunk": "3fcf7739-633f-44ce-bbd8-84ca41ab0820",
+    "next_chunk": "16dce878-42b7-4669-b381-516a2ef3e518",
+    "source": "https://tuyensinh.uit.edu.vn/diem-chuan-cua-truong-dh-cong-nghe-thong-tin-qua-cac-nam",
+    "admission_info": {
+      "phuong_thuc_xet_tuyen": "Điểm thi THPT + ĐGNL",
+      "diem_chuan": 25.1,
+      "diem_dgnl": 750.0,
+      "to_hop_mon": "A01;D01;D07"
+    }
+  },
+  {
+    "title": "Ngành Kỹ Thuật Máy Tính",
+    "header": "Năm 2021 - Mã ngành: 7480106",
+    "content": "Mã ngành: 7480106\nTên ngành: Kỹ Thuật Máy Tính\nTổ hợp: A00;A01;D01;D07\nĐiểm chuẩn: 26.9\nĐiểm ĐGNL: 865.0",
+    "chunk_id": "16dce878-42b7-4669-b381-516a2ef3e518",
+    "field": "ktmt",
+    "year": "2021",
+    "department": "UIT",
+    "keywords": [
+      "kỹ thuật máy tính",
+      "7480106",
+      "A00;A01;D01;D07"
+    ],
+    "prev_chunk": "75bdcc37-6caf-4d43-afe8-66a7acaee8c7",
+    "next_chunk": "97cac036-0760-4cc5-897a-19044e0ee597",
+    "source": "https://tuyensinh.uit.edu.vn/diem-chuan-cua-truong-dh-cong-nghe-thong-tin-qua-cac-nam",
+    "admission_info": {
+      "phuong_thuc_xet_tuyen": "Điểm thi THPT + ĐGNL",
+      "diem_chuan": 26.9,
+      "diem_dgnl": 865.0,
+      "to_hop_mon": "A00;A01;D01;D07"
+    }
+  },
+  {
+    "title": "Ngành Kỹ Thuật Máy Tính (Chất Lượng Cao)",
+    "header": "Năm 2021 - Mã ngành: 7480106_CLCA",
+    "content": "Mã ngành: 7480106_CLCA\nTên ngành: Kỹ Thuật Máy Tính (Chất Lượng Cao)\nTổ hợp: A00;A01;D01;D07\nĐiểm chuẩn: 25.9\nĐiểm ĐGNL: 790.0",
+    "chunk_id": "97cac036-0760-4cc5-897a-19044e0ee597",
+    "field": "ktmt",
+    "year": "2021",
+    "department": "UIT",
+    "keywords": [
+      "kỹ thuật máy tính (chất lượng cao)",
+      "7480106_CLCA",
+      "A00;A01;D01;D07"
+    ],
+    "prev_chunk": "16dce878-42b7-4669-b381-516a2ef3e518",
+    "next_chunk": "25d67447-1b05-4db3-a40e-45d3efbce910",
+    "source": "https://tuyensinh.uit.edu.vn/diem-chuan-cua-truong-dh-cong-nghe-thong-tin-qua-cac-nam",
+    "admission_info": {
+      "phuong_thuc_xet_tuyen": "Điểm thi THPT + ĐGNL",
+      "diem_chuan": 25.9,
+      "diem_dgnl": 790.0,
+      "to_hop_mon": "A00;A01;D01;D07"
+    }
+  },
+  {
+    "title": "Ngành Kỹ Thuật Máy Tính (Hướng Hệ Thống Nhúng Và Iot)",
+    "header": "Năm 2021 - Mã ngành: 7480106_IOT",
+    "content": "Mã ngành: 7480106_IOT\nTên ngành: Kỹ Thuật Máy Tính (Hướng Hệ Thống Nhúng Và Iot)\nTổ hợp: A00;A01;D01;D07\nĐiểm chuẩn: 26.4\nĐiểm ĐGNL: 845.0",
+    "chunk_id": "25d67447-1b05-4db3-a40e-45d3efbce910",
+    "field": "ktmt",
+    "year": "2021",
+    "department": "UIT",
+    "keywords": [
+      "kỹ thuật máy tính (hướng hệ thống nhúng và iot)",
+      "7480106_IOT",
+      "A00;A01;D01;D07"
+    ],
+    "prev_chunk": "97cac036-0760-4cc5-897a-19044e0ee597",
+    "next_chunk": "40c03c95-66fd-45f7-b4e0-1b82702ba05a",
+    "source": "https://tuyensinh.uit.edu.vn/diem-chuan-cua-truong-dh-cong-nghe-thong-tin-qua-cac-nam",
+    "admission_info": {
+      "phuong_thuc_xet_tuyen": "Điểm thi THPT + ĐGNL",
+      "diem_chuan": 26.4,
+      "diem_dgnl": 845.0,
+      "to_hop_mon": "A00;A01;D01;D07"
+    }
+  },
+  {
+    "title": "Ngành Khoa Học Dữ Liệu",
+    "header": "Năm 2021 - Mã ngành: 7480109",
+    "content": "Mã ngành: 7480109\nTên ngành: Khoa Học Dữ Liệu\nTổ hợp: A00;A01;D01;D07\nĐiểm chuẩn: 26.65\nĐiểm ĐGNL: 875.0",
+    "chunk_id": "40c03c95-66fd-45f7-b4e0-1b82702ba05a",
+    "field": "khdl",
+    "year": "2021",
+    "department": "UIT",
+    "keywords": [
+      "khoa học dữ liệu",
+      "7480109",
+      "A00;A01;D01;D07"
+    ],
+    "prev_chunk": "25d67447-1b05-4db3-a40e-45d3efbce910",
+    "next_chunk": "a9128603-9d66-4df8-9dca-31f1fae6537d",
+    "source": "https://tuyensinh.uit.edu.vn/diem-chuan-cua-truong-dh-cong-nghe-thong-tin-qua-cac-nam",
+    "admission_info": {
+      "phuong_thuc_xet_tuyen": "Điểm thi THPT + ĐGNL",
+      "diem_chuan": 26.65,
+      "diem_dgnl": 875.0,
+      "to_hop_mon": "A00;A01;D01;D07"
+    }
+  },
+  {
+    "title": "Ngành Công Nghệ Thông Tin",
+    "header": "Năm 2021 - Mã ngành: 7480201",
+    "content": "Mã ngành: 7480201\nTên ngành: Công Nghệ Thông Tin\nTổ hợp: A00;A01;D01;D07\nĐiểm chuẩn: 27.3\nĐiểm ĐGNL: 905.0",
+    "chunk_id": "a9128603-9d66-4df8-9dca-31f1fae6537d",
+    "field": "cntt",
+    "year": "2021",
+    "department": "UIT",
+    "keywords": [
+      "công nghệ thông tin",
+      "7480201",
+      "A00;A01;D01;D07"
+    ],
+    "prev_chunk": "40c03c95-66fd-45f7-b4e0-1b82702ba05a",
+    "next_chunk": "b1fce751-a9a5-4654-9e8a-8e3df6f4a8b2",
+    "source": "https://tuyensinh.uit.edu.vn/diem-chuan-cua-truong-dh-cong-nghe-thong-tin-qua-cac-nam",
+    "admission_info": {
+      "phuong_thuc_xet_tuyen": "Điểm thi THPT + ĐGNL",
+      "diem_chuan": 27.3,
+      "diem_dgnl": 905.0,
+      "to_hop_mon": "A00;A01;D01;D07"
+    }
+  },
+  {
+    "title": "Ngành Công Nghệ Thông Tin (Chất Lượng Cao Định Hướng Nhật Bản)",
+    "header": "Năm 2021 - Mã ngành: 7480201_CLCN",
+    "content": "Mã ngành: 7480201_CLCN\nTên ngành: Công Nghệ Thông Tin (Chất Lượng Cao Định Hướng Nhật Bản)\nTổ hợp: A00;A01;D01;D07\nĐiểm chuẩn: 25.85\nĐiểm ĐGNL: 795.0",
+    "chunk_id": "b1fce751-a9a5-4654-9e8a-8e3df6f4a8b2",
+    "field": "cntt",
+    "year": "2021",
+    "department": "UIT",
+    "keywords": [
+      "công nghệ thông tin (chất lượng cao định hướng nhật bản)",
+      "7480201_CLCN",
+      "A00;A01;D01;D07"
+    ],
+    "prev_chunk": "a9128603-9d66-4df8-9dca-31f1fae6537d",
+    "next_chunk": "73fdb459-9909-472e-bd54-62854744ef27",
+    "source": "https://tuyensinh.uit.edu.vn/diem-chuan-cua-truong-dh-cong-nghe-thong-tin-qua-cac-nam",
+    "admission_info": {
+      "phuong_thuc_xet_tuyen": "Điểm thi THPT + ĐGNL",
+      "diem_chuan": 25.85,
+      "diem_dgnl": 795.0,
+      "to_hop_mon": "A00;A01;D01;D07"
+    }
+  },
+  {
+    "title": "Ngành An Toàn Thông Tin",
+    "header": "Năm 2021 - Mã ngành: 7480202",
+    "content": "Mã ngành: 7480202\nTên ngành: An Toàn Thông Tin\nTổ hợp: A00;A01;D01;D07\nĐiểm chuẩn: 27.0\nĐiểm ĐGNL: 880.0",
+    "chunk_id": "73fdb459-9909-472e-bd54-62854744ef27",
+    "field": "attt",
+    "year": "2021",
+    "department": "UIT",
+    "keywords": [
+      "an toàn thông tin",
+      "7480202",
+      "A00;A01;D01;D07"
+    ],
+    "prev_chunk": "b1fce751-a9a5-4654-9e8a-8e3df6f4a8b2",
+    "next_chunk": "d2e3e605-f48d-45eb-8d39-e4ec717e7361",
+    "source": "https://tuyensinh.uit.edu.vn/diem-chuan-cua-truong-dh-cong-nghe-thong-tin-qua-cac-nam",
+    "admission_info": {
+      "phuong_thuc_xet_tuyen": "Điểm thi THPT + ĐGNL",
+      "diem_chuan": 27.0,
+      "diem_dgnl": 880.0,
+      "to_hop_mon": "A00;A01;D01;D07"
+    }
+  },
+  {
+    "title": "Ngành An Toàn Thông Tin (Chất Lượng Cao)",
+    "header": "Năm 2021 - Mã ngành: 7480202_CLCA",
+    "content": "Mã ngành: 7480202_CLCA\nTên ngành: An Toàn Thông Tin (Chất Lượng Cao)\nTổ hợp: A00;A01;D01;D07\nĐiểm chuẩn: 26.45\nĐiểm ĐGNL: 835.0",
+    "chunk_id": "d2e3e605-f48d-45eb-8d39-e4ec717e7361",
+    "field": "attt",
+    "year": "2021",
+    "department": "UIT",
+    "keywords": [
+      "an toàn thông tin (chất lượng cao)",
+      "7480202_CLCA",
+      "A00;A01;D01;D07"
+    ],
+    "prev_chunk": "73fdb459-9909-472e-bd54-62854744ef27",
+    "next_chunk": "605f8749-e84f-451c-9913-670ddbdea4e0",
+    "source": "https://tuyensinh.uit.edu.vn/diem-chuan-cua-truong-dh-cong-nghe-thong-tin-qua-cac-nam",
+    "admission_info": {
+      "phuong_thuc_xet_tuyen": "Điểm thi THPT + ĐGNL",
+      "diem_chuan": 26.45,
+      "diem_dgnl": 835.0,
+      "to_hop_mon": "A00;A01;D01;D07"
+    }
+  },
+  {
+    "title": "Ngành Thương Mại Điện Tử",
+    "header": "Năm 2020 - Mã ngành: 7340122",
+    "content": "Mã ngành: 7340122\nTên ngành: Thương Mại Điện Tử\nTổ hợp: \nĐiểm chuẩn: 26.5\nĐiểm ĐGNL: 840.0",
+    "chunk_id": "605f8749-e84f-451c-9913-670ddbdea4e0",
+    "field": "tmdt",
+    "year": "2020",
+    "department": "UIT",
+    "keywords": [
+      "thương mại điện tử",
+      "7340122"
+    ],
+    "prev_chunk": "d2e3e605-f48d-45eb-8d39-e4ec717e7361",
+    "next_chunk": "1fa93fa2-2c69-424f-a29d-bdf983c907b2",
+    "source": "https://tuyensinh.uit.edu.vn/diem-chuan-cua-truong-dh-cong-nghe-thong-tin-qua-cac-nam",
+    "admission_info": {
+      "phuong_thuc_xet_tuyen": "Điểm thi THPT + ĐGNL",
+      "diem_chuan": 26.5,
+      "diem_dgnl": 840.0,
+      "to_hop_mon": ""
+    }
+  },
+  {
+    "title": "Ngành Thương Mại Điện Tử (Chất Lượng Cao)",
+    "header": "Năm 2020 - Mã ngành: 7340122-CLCA",
+    "content": "Mã ngành: 7340122-CLCA\nTên ngành: Thương Mại Điện Tử (Chất Lượng Cao)\nTổ hợp: \nĐiểm chuẩn: 24.8\nĐiểm ĐGNL: 750.0",
+    "chunk_id": "1fa93fa2-2c69-424f-a29d-bdf983c907b2",
+    "field": "tmdt",
+    "year": "2020",
+    "department": "UIT",
+    "keywords": [
+      "thương mại điện tử (chất lượng cao)",
+      "7340122-CLCA"
+    ],
+    "prev_chunk": "605f8749-e84f-451c-9913-670ddbdea4e0",
+    "next_chunk": "5e805f37-f53f-40d5-934c-e48aa4af8625",
+    "source": "https://tuyensinh.uit.edu.vn/diem-chuan-cua-truong-dh-cong-nghe-thong-tin-qua-cac-nam",
+    "admission_info": {
+      "phuong_thuc_xet_tuyen": "Điểm thi THPT + ĐGNL",
+      "diem_chuan": 24.8,
+      "diem_dgnl": 750.0,
+      "to_hop_mon": ""
+    }
+  },
+  {
+    "title": "Ngành Khoa Học Máy Tính",
+    "header": "Năm 2020 - Mã ngành: 7480101",
+    "content": "Mã ngành: 7480101\nTên ngành: Khoa Học Máy Tính\nTổ hợp: \nĐiểm chuẩn: 27.2\nĐiểm ĐGNL: 870.0",
+    "chunk_id": "5e805f37-f53f-40d5-934c-e48aa4af8625",
+    "field": "khmt",
+    "year": "2020",
+    "department": "UIT",
+    "keywords": [
+      "khoa học máy tính",
+      "7480101"
+    ],
+    "prev_chunk": "1fa93fa2-2c69-424f-a29d-bdf983c907b2",
+    "next_chunk": "d0beb002-0edf-4f67-8401-e980041a6c9d",
+    "source": "https://tuyensinh.uit.edu.vn/diem-chuan-cua-truong-dh-cong-nghe-thong-tin-qua-cac-nam",
+    "admission_info": {
+      "phuong_thuc_xet_tuyen": "Điểm thi THPT + ĐGNL",
+      "diem_chuan": 27.2,
+      "diem_dgnl": 870.0,
+      "to_hop_mon": ""
+    }
+  },
+  {
+    "title": "Ngành Khoa Học Máy Tính (Chất Lượng Cao)",
+    "header": "Năm 2020 - Mã ngành: 7480101-CLCA",
+    "content": "Mã ngành: 7480101-CLCA\nTên ngành: Khoa Học Máy Tính (Chất Lượng Cao)\nTổ hợp: \nĐiểm chuẩn: 25.7\nĐiểm ĐGNL: 780.0",
+    "chunk_id": "d0beb002-0edf-4f67-8401-e980041a6c9d",
+    "field": "khmt",
+    "year": "2020",
+    "department": "UIT",
+    "keywords": [
+      "khoa học máy tính (chất lượng cao)",
+      "7480101-CLCA"
+    ],
+    "prev_chunk": "5e805f37-f53f-40d5-934c-e48aa4af8625",
+    "next_chunk": "d79f6204-c978-46e4-89d6-9318d2f1db80",
+    "source": "https://tuyensinh.uit.edu.vn/diem-chuan-cua-truong-dh-cong-nghe-thong-tin-qua-cac-nam",
+    "admission_info": {
+      "phuong_thuc_xet_tuyen": "Điểm thi THPT + ĐGNL",
+      "diem_chuan": 25.7,
+      "diem_dgnl": 780.0,
+      "to_hop_mon": ""
+    }
+  },
+  {
+    "title": "Ngành Khoa Học Máy Tính (Hướng Trí Tuệ Nhân Tạo)",
+    "header": "Năm 2020 - Mã ngành: 7480101-TTNT",
+    "content": "Mã ngành: 7480101-TTNT\nTên ngành: Khoa Học Máy Tính (Hướng Trí Tuệ Nhân Tạo)\nTổ hợp: \nĐiểm chuẩn: 27.1\nĐiểm ĐGNL: 900.0",
+    "chunk_id": "d79f6204-c978-46e4-89d6-9318d2f1db80",
+    "field": "ttnt",
+    "year": "2020",
+    "department": "UIT",
+    "keywords": [
+      "khoa học máy tính (hướng trí tuệ nhân tạo)",
+      "7480101-TTNT"
+    ],
+    "prev_chunk": "d0beb002-0edf-4f67-8401-e980041a6c9d",
+    "next_chunk": "6add9775-7b4b-41ee-be4d-87592de5b3ff",
+    "source": "https://tuyensinh.uit.edu.vn/diem-chuan-cua-truong-dh-cong-nghe-thong-tin-qua-cac-nam",
+    "admission_info": {
+      "phuong_thuc_xet_tuyen": "Điểm thi THPT + ĐGNL",
+      "diem_chuan": 27.1,
+      "diem_dgnl": 900.0,
+      "to_hop_mon": ""
+    }
+  },
+  {
+    "title": "Ngành Mạng Máy Tính Và Truyền Thông Dữ Liệu",
+    "header": "Năm 2020 - Mã ngành: 7480102",
+    "content": "Mã ngành: 7480102\nTên ngành: Mạng Máy Tính Và Truyền Thông Dữ Liệu\nTổ hợp: \nĐiểm chuẩn: 26.0\nĐiểm ĐGNL: 780.0",
+    "chunk_id": "6add9775-7b4b-41ee-be4d-87592de5b3ff",
+    "field": "ngành",
+    "year": "2020",
+    "department": "UIT",
+    "keywords": [
+      "mạng máy tính và truyền thông dữ liệu",
+      "7480102"
+    ],
+    "prev_chunk": "d79f6204-c978-46e4-89d6-9318d2f1db80",
+    "next_chunk": "b95b8b03-6f83-4d5b-9822-99bd465692de",
+    "source": "https://tuyensinh.uit.edu.vn/diem-chuan-cua-truong-dh-cong-nghe-thong-tin-qua-cac-nam",
+    "admission_info": {
+      "phuong_thuc_xet_tuyen": "Điểm thi THPT + ĐGNL",
+      "diem_chuan": 26.0,
+      "diem_dgnl": 780.0,
+      "to_hop_mon": ""
+    }
+  },
+  {
+    "title": "Ngành Mạng Máy Tính Và Truyền Thông Dữ Liệu(Chất Lượng Cao)",
+    "header": "Năm 2020 - Mã ngành: 7480102-CLCA",
+    "content": "Mã ngành: 7480102-CLCA\nTên ngành: Mạng Máy Tính Và Truyền Thông Dữ Liệu(Chất Lượng Cao)\nTổ hợp: \nĐiểm chuẩn: 23.6\nĐiểm ĐGNL: 750.0",
+    "chunk_id": "b95b8b03-6f83-4d5b-9822-99bd465692de",
+    "field": "ngành",
+    "year": "2020",
+    "department": "UIT",
+    "keywords": [
+      "mạng máy tính và truyền thông dữ liệu(chất lượng cao)",
+      "7480102-CLCA"
+    ],
+    "prev_chunk": "6add9775-7b4b-41ee-be4d-87592de5b3ff",
+    "next_chunk": "2416e462-4b9a-4ff3-bf57-84100386e1f7",
+    "source": "https://tuyensinh.uit.edu.vn/diem-chuan-cua-truong-dh-cong-nghe-thong-tin-qua-cac-nam",
+    "admission_info": {
+      "phuong_thuc_xet_tuyen": "Điểm thi THPT + ĐGNL",
+      "diem_chuan": 23.6,
+      "diem_dgnl": 750.0,
+      "to_hop_mon": ""
+    }
+  },
+  {
+    "title": "Ngành Kỹ Thuật Phần Mềm",
+    "header": "Năm 2020 - Mã ngành: 7480103",
+    "content": "Mã ngành: 7480103\nTên ngành: Kỹ Thuật Phần Mềm\nTổ hợp: \nĐiểm chuẩn: 27.7\nĐiểm ĐGNL: 870.0",
+    "chunk_id": "2416e462-4b9a-4ff3-bf57-84100386e1f7",
+    "field": "ktpm",
+    "year": "2020",
+    "department": "UIT",
+    "keywords": [
+      "kỹ thuật phần mềm",
+      "7480103"
+    ],
+    "prev_chunk": "b95b8b03-6f83-4d5b-9822-99bd465692de",
+    "next_chunk": "92768791-45f8-4628-9542-14aa0557a457",
+    "source": "https://tuyensinh.uit.edu.vn/diem-chuan-cua-truong-dh-cong-nghe-thong-tin-qua-cac-nam",
+    "admission_info": {
+      "phuong_thuc_xet_tuyen": "Điểm thi THPT + ĐGNL",
+      "diem_chuan": 27.7,
+      "diem_dgnl": 870.0,
+      "to_hop_mon": ""
+    }
+  },
+  {
+    "title": "Ngành Kỹ Thuật Phần Mềm (Chất Lượng Cao)",
+    "header": "Năm 2020 - Mã ngành: 7480103-CLCA",
+    "content": "Mã ngành: 7480103-CLCA\nTên ngành: Kỹ Thuật Phần Mềm (Chất Lượng Cao)\nTổ hợp: \nĐiểm chuẩn: 26.3\nĐiểm ĐGNL: 800.0",
+    "chunk_id": "92768791-45f8-4628-9542-14aa0557a457",
+    "field": "ktpm",
+    "year": "2020",
+    "department": "UIT",
+    "keywords": [
+      "kỹ thuật phần mềm (chất lượng cao)",
+      "7480103-CLCA"
+    ],
+    "prev_chunk": "2416e462-4b9a-4ff3-bf57-84100386e1f7",
+    "next_chunk": "30d80004-8466-4beb-8191-e24386f0b0bd",
+    "source": "https://tuyensinh.uit.edu.vn/diem-chuan-cua-truong-dh-cong-nghe-thong-tin-qua-cac-nam",
+    "admission_info": {
+      "phuong_thuc_xet_tuyen": "Điểm thi THPT + ĐGNL",
+      "diem_chuan": 26.3,
+      "diem_dgnl": 800.0,
+      "to_hop_mon": ""
+    }
+  },
+  {
+    "title": "Ngành Hệ Thống Thông Tin",
+    "header": "Năm 2020 - Mã ngành: 7480104",
+    "content": "Mã ngành: 7480104\nTên ngành: Hệ Thống Thông Tin\nTổ hợp: \nĐiểm chuẩn: 26.3\nĐiểm ĐGNL: 780.0",
+    "chunk_id": "30d80004-8466-4beb-8191-e24386f0b0bd",
+    "field": "httt",
+    "year": "2020",
+    "department": "UIT",
+    "keywords": [
+      "hệ thống thông tin",
+      "7480104"
+    ],
+    "prev_chunk": "92768791-45f8-4628-9542-14aa0557a457",
+    "next_chunk": "96e41665-12f3-4851-a30c-b597a39ff30c",
+    "source": "https://tuyensinh.uit.edu.vn/diem-chuan-cua-truong-dh-cong-nghe-thong-tin-qua-cac-nam",
+    "admission_info": {
+      "phuong_thuc_xet_tuyen": "Điểm thi THPT + ĐGNL",
+      "diem_chuan": 26.3,
+      "diem_dgnl": 780.0,
+      "to_hop_mon": ""
+    }
+  },
+  {
+    "title": "Ngành Hệ Thống Thông Tin(Chất Lượng Cao)",
+    "header": "Năm 2020 - Mã ngành: 7480104-CLCA",
+    "content": "Mã ngành: 7480104-CLCA\nTên ngành: Hệ Thống Thông Tin(Chất Lượng Cao)\nTổ hợp: \nĐiểm chuẩn: 24.7\nĐiểm ĐGNL: 750.0",
+    "chunk_id": "96e41665-12f3-4851-a30c-b597a39ff30c",
+    "field": "httt",
+    "year": "2020",
+    "department": "UIT",
+    "keywords": [
+      "hệ thống thông tin(chất lượng cao)",
+      "7480104-CLCA"
+    ],
+    "prev_chunk": "30d80004-8466-4beb-8191-e24386f0b0bd",
+    "next_chunk": "c4764d8f-d732-4c85-bdaf-d540ae6912ea",
+    "source": "https://tuyensinh.uit.edu.vn/diem-chuan-cua-truong-dh-cong-nghe-thong-tin-qua-cac-nam",
+    "admission_info": {
+      "phuong_thuc_xet_tuyen": "Điểm thi THPT + ĐGNL",
+      "diem_chuan": 24.7,
+      "diem_dgnl": 750.0,
+      "to_hop_mon": ""
+    }
+  },
+  {
+    "title": "Ngành Hệ Thống Thông Tin ( Tiên Tiến )",
+    "header": "Năm 2020 - Mã ngành: 7480104-TT",
+    "content": "Mã ngành: 7480104-TT\nTên ngành: Hệ Thống Thông Tin ( Tiên Tiến )\nTổ hợp: \nĐiểm chuẩn: 22.0\nĐiểm ĐGNL: 750.0",
+    "chunk_id": "c4764d8f-d732-4c85-bdaf-d540ae6912ea",
+    "field": "httt",
+    "year": "2020",
+    "department": "UIT",
+    "keywords": [
+      "hệ thống thông tin ( tiên tiến )",
+      "7480104-TT"
+    ],
+    "prev_chunk": "96e41665-12f3-4851-a30c-b597a39ff30c",
+    "next_chunk": "70b8ec6a-d0a0-4189-9410-0b96c96fa043",
+    "source": "https://tuyensinh.uit.edu.vn/diem-chuan-cua-truong-dh-cong-nghe-thong-tin-qua-cac-nam",
+    "admission_info": {
+      "phuong_thuc_xet_tuyen": "Điểm thi THPT + ĐGNL",
+      "diem_chuan": 22.0,
+      "diem_dgnl": 750.0,
+      "to_hop_mon": ""
+    }
+  },
+  {
+    "title": "Ngành Kỹ Thuật Máy Tính",
+    "header": "Năm 2020 - Mã ngành: 7480106",
+    "content": "Mã ngành: 7480106\nTên ngành: Kỹ Thuật Máy Tính\nTổ hợp: \nĐiểm chuẩn: 26.7\nĐiểm ĐGNL: 820.0",
+    "chunk_id": "70b8ec6a-d0a0-4189-9410-0b96c96fa043",
+    "field": "ktmt",
+    "year": "2020",
+    "department": "UIT",
+    "keywords": [
+      "kỹ thuật máy tính",
+      "7480106"
+    ],
+    "prev_chunk": "c4764d8f-d732-4c85-bdaf-d540ae6912ea",
+    "next_chunk": "653b0be2-e3f5-4bb4-b016-8ac29078b560",
+    "source": "https://tuyensinh.uit.edu.vn/diem-chuan-cua-truong-dh-cong-nghe-thong-tin-qua-cac-nam",
+    "admission_info": {
+      "phuong_thuc_xet_tuyen": "Điểm thi THPT + ĐGNL",
+      "diem_chuan": 26.7,
+      "diem_dgnl": 820.0,
+      "to_hop_mon": ""
+    }
+  },
+  {
+    "title": "Ngành Kỹ Thuật Máy Tính (Chất Lượng Cao )",
+    "header": "Năm 2020 - Mã ngành: 7480106-CLCA",
+    "content": "Mã ngành: 7480106-CLCA\nTên ngành: Kỹ Thuật Máy Tính (Chất Lượng Cao )\nTổ hợp: \nĐiểm chuẩn: 24.2\nĐiểm ĐGNL: 750.0",
+    "chunk_id": "653b0be2-e3f5-4bb4-b016-8ac29078b560",
+    "field": "ktmt",
+    "year": "2020",
+    "department": "UIT",
+    "keywords": [
+      "kỹ thuật máy tính (chất lượng cao )",
+      "7480106-CLCA"
+    ],
+    "prev_chunk": "70b8ec6a-d0a0-4189-9410-0b96c96fa043",
+    "next_chunk": "07798972-d45a-4d6a-948f-f613ac502322",
+    "source": "https://tuyensinh.uit.edu.vn/diem-chuan-cua-truong-dh-cong-nghe-thong-tin-qua-cac-nam",
+    "admission_info": {
+      "phuong_thuc_xet_tuyen": "Điểm thi THPT + ĐGNL",
+      "diem_chuan": 24.2,
+      "diem_dgnl": 750.0,
+      "to_hop_mon": ""
+    }
+  },
+  {
+    "title": "Ngành Kỹ Thuật Máy Tính (Hướng Hệ Thống Nhúng Và Iot)",
+    "header": "Năm 2020 - Mã ngành: 7480106-IOT",
+    "content": "Mã ngành: 7480106-IOT\nTên ngành: Kỹ Thuật Máy Tính (Hướng Hệ Thống Nhúng Và Iot)\nTổ hợp: \nĐiểm chuẩn: 26.0\nĐiểm ĐGNL: 780.0",
+    "chunk_id": "07798972-d45a-4d6a-948f-f613ac502322",
+    "field": "ktmt",
+    "year": "2020",
+    "department": "UIT",
+    "keywords": [
+      "kỹ thuật máy tính (hướng hệ thống nhúng và iot)",
+      "7480106-IOT"
+    ],
+    "prev_chunk": "653b0be2-e3f5-4bb4-b016-8ac29078b560",
+    "next_chunk": "238cefd7-bc79-47eb-89e5-8599189feaf0",
+    "source": "https://tuyensinh.uit.edu.vn/diem-chuan-cua-truong-dh-cong-nghe-thong-tin-qua-cac-nam",
+    "admission_info": {
+      "phuong_thuc_xet_tuyen": "Điểm thi THPT + ĐGNL",
+      "diem_chuan": 26.0,
+      "diem_dgnl": 780.0,
+      "to_hop_mon": ""
+    }
+  },
+  {
+    "title": "Ngành Khoa Học Dữ Liệu",
+    "header": "Năm 2020 - Mã ngành: 7480109",
+    "content": "Mã ngành: 7480109\nTên ngành: Khoa Học Dữ Liệu\nTổ hợp: \nĐiểm chuẩn: 25.9\nĐiểm ĐGNL: 830.0",
+    "chunk_id": "238cefd7-bc79-47eb-89e5-8599189feaf0",
+    "field": "khdl",
+    "year": "2020",
+    "department": "UIT",
+    "keywords": [
+      "khoa học dữ liệu",
+      "7480109"
+    ],
+    "prev_chunk": "07798972-d45a-4d6a-948f-f613ac502322",
+    "next_chunk": "62844444-0685-4d60-835f-402f2c8a8278",
+    "source": "https://tuyensinh.uit.edu.vn/diem-chuan-cua-truong-dh-cong-nghe-thong-tin-qua-cac-nam",
+    "admission_info": {
+      "phuong_thuc_xet_tuyen": "Điểm thi THPT + ĐGNL",
+      "diem_chuan": 25.9,
+      "diem_dgnl": 830.0,
+      "to_hop_mon": ""
+    }
+  },
+  {
+    "title": "Ngành Công Nghệ Thông Tin",
+    "header": "Năm 2020 - Mã ngành: 7480201",
+    "content": "Mã ngành: 7480201\nTên ngành: Công Nghệ Thông Tin\nTổ hợp: \nĐiểm chuẩn: 27.0\nĐiểm ĐGNL: 870.0",
+    "chunk_id": "62844444-0685-4d60-835f-402f2c8a8278",
+    "field": "cntt",
+    "year": "2020",
+    "department": "UIT",
+    "keywords": [
+      "công nghệ thông tin",
+      "7480201"
+    ],
+    "prev_chunk": "238cefd7-bc79-47eb-89e5-8599189feaf0",
+    "next_chunk": "9be827cb-776d-404d-86f0-9ff04b1b429e",
+    "source": "https://tuyensinh.uit.edu.vn/diem-chuan-cua-truong-dh-cong-nghe-thong-tin-qua-cac-nam",
+    "admission_info": {
+      "phuong_thuc_xet_tuyen": "Điểm thi THPT + ĐGNL",
+      "diem_chuan": 27.0,
+      "diem_dgnl": 870.0,
+      "to_hop_mon": ""
+    }
+  },
+  {
+    "title": "Ngành Công Nghệ Thông Tin (Chất Lượng Cao Định Hướng Nhật Bản )",
+    "header": "Năm 2020 - Mã ngành: 7480201-CLCN",
+    "content": "Mã ngành: 7480201-CLCN\nTên ngành: Công Nghệ Thông Tin (Chất Lượng Cao Định Hướng Nhật Bản )\nTổ hợp: \nĐiểm chuẩn: 23.7\nĐiểm ĐGNL: 750.0",
+    "chunk_id": "9be827cb-776d-404d-86f0-9ff04b1b429e",
+    "field": "cntt",
+    "year": "2020",
+    "department": "UIT",
+    "keywords": [
+      "công nghệ thông tin (chất lượng cao định hướng nhật bản )",
+      "7480201-CLCN"
+    ],
+    "prev_chunk": "62844444-0685-4d60-835f-402f2c8a8278",
+    "next_chunk": "a8e6ffe0-4a68-4eb3-9dcb-c76ed4e62fee",
+    "source": "https://tuyensinh.uit.edu.vn/diem-chuan-cua-truong-dh-cong-nghe-thong-tin-qua-cac-nam",
+    "admission_info": {
+      "phuong_thuc_xet_tuyen": "Điểm thi THPT + ĐGNL",
+      "diem_chuan": 23.7,
+      "diem_dgnl": 750.0,
+      "to_hop_mon": ""
+    }
+  },
+  {
+    "title": "Ngành An Toàn Thông Tin",
+    "header": "Năm 2020 - Mã ngành: 7480202",
+    "content": "Mã ngành: 7480202\nTên ngành: An Toàn Thông Tin\nTổ hợp: \nĐiểm chuẩn: 26.7\nĐiểm ĐGNL: 850.0",
+    "chunk_id": "a8e6ffe0-4a68-4eb3-9dcb-c76ed4e62fee",
+    "field": "attt",
+    "year": "2020",
+    "department": "UIT",
+    "keywords": [
+      "an toàn thông tin",
+      "7480202"
+    ],
+    "prev_chunk": "9be827cb-776d-404d-86f0-9ff04b1b429e",
+    "next_chunk": "f4c69d65-935c-4aff-a144-37148666a9a5",
+    "source": "https://tuyensinh.uit.edu.vn/diem-chuan-cua-truong-dh-cong-nghe-thong-tin-qua-cac-nam",
+    "admission_info": {
+      "phuong_thuc_xet_tuyen": "Điểm thi THPT + ĐGNL",
+      "diem_chuan": 26.7,
+      "diem_dgnl": 850.0,
+      "to_hop_mon": ""
+    }
+  },
+  {
+    "title": "Ngành An Toàn Thông Tin (Chất Lượng Cao)",
+    "header": "Năm 2020 - Mã ngành: 7480202_CLCA",
+    "content": "Mã ngành: 7480202_CLCA\nTên ngành: An Toàn Thông Tin (Chất Lượng Cao)\nTổ hợp: \nĐiểm chuẩn: 25.3\nĐiểm ĐGNL: 750.0",
+    "chunk_id": "f4c69d65-935c-4aff-a144-37148666a9a5",
+    "field": "attt",
+    "year": "2020",
+    "department": "UIT",
+    "keywords": [
+      "an toàn thông tin (chất lượng cao)",
+      "7480202_CLCA"
+    ],
+    "prev_chunk": "a8e6ffe0-4a68-4eb3-9dcb-c76ed4e62fee",
+    "next_chunk": "58540721-bdbb-4c0e-8840-b9454fc4fe32",
+    "source": "https://tuyensinh.uit.edu.vn/diem-chuan-cua-truong-dh-cong-nghe-thong-tin-qua-cac-nam",
+    "admission_info": {
+      "phuong_thuc_xet_tuyen": "Điểm thi THPT + ĐGNL",
+      "diem_chuan": 25.3,
+      "diem_dgnl": 750.0,
+      "to_hop_mon": ""
+    }
+  },
+  {
+    "title": "Ngành Thương Mại Điện Tử",
+    "header": "Năm 2019 - Mã ngành: 7340122",
+    "content": "Mã ngành: 7340122\nTên ngành: Thương Mại Điện Tử\nTổ hợp: A00, A01, D01\nĐiểm chuẩn: 23.9\nĐiểm ĐGNL: 900.0",
+    "chunk_id": "58540721-bdbb-4c0e-8840-b9454fc4fe32",
+    "field": "tmdt",
+    "year": "2019",
+    "department": "UIT",
+    "keywords": [
+      "thương mại điện tử",
+      "7340122",
+      "A00, A01, D01"
+    ],
+    "prev_chunk": "f4c69d65-935c-4aff-a144-37148666a9a5",
+    "next_chunk": "aae17185-edf5-4e83-8df0-c723bd7deee7",
+    "source": "https://tuyensinh.uit.edu.vn/diem-chuan-cua-truong-dh-cong-nghe-thong-tin-qua-cac-nam",
+    "admission_info": {
+      "phuong_thuc_xet_tuyen": "Điểm thi THPT + ĐGNL",
+      "diem_chuan": 23.9,
+      "diem_dgnl": 900.0,
+      "to_hop_mon": "A00, A01, D01"
+    }
+  },
+  {
+    "title": "Ngành Thương Mại Điện Tử (Chất Lượng Cao)",
+    "header": "Năm 2019 - Mã ngành: 7340122_CLCA",
+    "content": "Mã ngành: 7340122_CLCA\nTên ngành: Thương Mại Điện Tử (Chất Lượng Cao)\nTổ hợp: A00, A01, D01\nĐiểm chuẩn: 21.05\nĐiểm ĐGNL: 790.0",
+    "chunk_id": "aae17185-edf5-4e83-8df0-c723bd7deee7",
+    "field": "tmdt",
+    "year": "2019",
+    "department": "UIT",
+    "keywords": [
+      "thương mại điện tử (chất lượng cao)",
+      "7340122_CLCA",
+      "A00, A01, D01"
+    ],
+    "prev_chunk": "58540721-bdbb-4c0e-8840-b9454fc4fe32",
+    "next_chunk": "d055f028-6cde-4058-a75f-826545a52176",
+    "source": "https://tuyensinh.uit.edu.vn/diem-chuan-cua-truong-dh-cong-nghe-thong-tin-qua-cac-nam",
+    "admission_info": {
+      "phuong_thuc_xet_tuyen": "Điểm thi THPT + ĐGNL",
+      "diem_chuan": 21.05,
+      "diem_dgnl": 790.0,
+      "to_hop_mon": "A00, A01, D01"
+    }
+  },
+  {
+    "title": "Ngành Khoa Học Máy Tính",
+    "header": "Năm 2019 - Mã ngành: 7480101",
+    "content": "Mã ngành: 7480101\nTên ngành: Khoa Học Máy Tính\nTổ hợp: A00, A01, D01\nĐiểm chuẩn: 25.55\nĐiểm ĐGNL: 980.0",
+    "chunk_id": "d055f028-6cde-4058-a75f-826545a52176",
+    "field": "khmt",
+    "year": "2019",
+    "department": "UIT",
+    "keywords": [
+      "khoa học máy tính",
+      "7480101",
+      "A00, A01, D01"
+    ],
+    "prev_chunk": "aae17185-edf5-4e83-8df0-c723bd7deee7",
+    "next_chunk": "031bbd1b-229a-47ea-a3dc-6d9ed6083877",
+    "source": "https://tuyensinh.uit.edu.vn/diem-chuan-cua-truong-dh-cong-nghe-thong-tin-qua-cac-nam",
+    "admission_info": {
+      "phuong_thuc_xet_tuyen": "Điểm thi THPT + ĐGNL",
+      "diem_chuan": 25.55,
+      "diem_dgnl": 980.0,
+      "to_hop_mon": "A00, A01, D01"
+    }
+  },
+  {
+    "title": "Ngành Khoa Học Máy Tính (Chất Lượng Cao)",
+    "header": "Năm 2019 - Mã ngành: 7480101_CLCA",
+    "content": "Mã ngành: 7480101_CLCA\nTên ngành: Khoa Học Máy Tính (Chất Lượng Cao)\nTổ hợp: A00, A01, D01\nĐiểm chuẩn: 22.65\nĐiểm ĐGNL: 900.0",
+    "chunk_id": "031bbd1b-229a-47ea-a3dc-6d9ed6083877",
+    "field": "khmt",
+    "year": "2019",
+    "department": "UIT",
+    "keywords": [
+      "khoa học máy tính (chất lượng cao)",
+      "7480101_CLCA",
+      "A00, A01, D01"
+    ],
+    "prev_chunk": "d055f028-6cde-4058-a75f-826545a52176",
+    "next_chunk": "0eb30426-0547-48ad-bcf0-fe4e93d760b9",
+    "source": "https://tuyensinh.uit.edu.vn/diem-chuan-cua-truong-dh-cong-nghe-thong-tin-qua-cac-nam",
+    "admission_info": {
+      "phuong_thuc_xet_tuyen": "Điểm thi THPT + ĐGNL",
+      "diem_chuan": 22.65,
+      "diem_dgnl": 900.0,
+      "to_hop_mon": "A00, A01, D01"
+    }
+  },
+  {
+    "title": "Ngành Mạng Máy Tính Và Truyền Thông Dữ Liệu",
+    "header": "Năm 2019 - Mã ngành: 7480102",
+    "content": "Mã ngành: 7480102\nTên ngành: Mạng Máy Tính Và Truyền Thông Dữ Liệu\nTổ hợp: A00, A01, D01\nĐiểm chuẩn: 23.2\nĐiểm ĐGNL: 840.0",
+    "chunk_id": "0eb30426-0547-48ad-bcf0-fe4e93d760b9",
+    "field": "ngành",
+    "year": "2019",
+    "department": "UIT",
+    "keywords": [
+      "mạng máy tính và truyền thông dữ liệu",
+      "7480102",
+      "A00, A01, D01"
+    ],
+    "prev_chunk": "031bbd1b-229a-47ea-a3dc-6d9ed6083877",
+    "next_chunk": "fe7439cd-51aa-4b88-b840-3ec12a27239e",
+    "source": "https://tuyensinh.uit.edu.vn/diem-chuan-cua-truong-dh-cong-nghe-thong-tin-qua-cac-nam",
+    "admission_info": {
+      "phuong_thuc_xet_tuyen": "Điểm thi THPT + ĐGNL",
+      "diem_chuan": 23.2,
+      "diem_dgnl": 840.0,
+      "to_hop_mon": "A00, A01, D01"
+    }
+  },
+  {
+    "title": "Ngành Mạng Máy Tính Và Truyền Thông Dữ Liệu (Chất Lượng Cao)",
+    "header": "Năm 2019 - Mã ngành: 7480102_CLCA",
+    "content": "Mã ngành: 7480102_CLCA\nTên ngành: Mạng Máy Tính Và Truyền Thông Dữ Liệu (Chất Lượng Cao)\nTổ hợp: A00, A01, D01\nĐiểm chuẩn: 20.0\nĐiểm ĐGNL: 750.0",
+    "chunk_id": "fe7439cd-51aa-4b88-b840-3ec12a27239e",
+    "field": "ngành",
+    "year": "2019",
+    "department": "UIT",
+    "keywords": [
+      "mạng máy tính và truyền thông dữ liệu (chất lượng cao)",
+      "7480102_CLCA",
+      "A00, A01, D01"
+    ],
+    "prev_chunk": "0eb30426-0547-48ad-bcf0-fe4e93d760b9",
+    "next_chunk": "f94b76fd-7862-42a6-b86d-4415ddb26d6a",
+    "source": "https://tuyensinh.uit.edu.vn/diem-chuan-cua-truong-dh-cong-nghe-thong-tin-qua-cac-nam",
+    "admission_info": {
+      "phuong_thuc_xet_tuyen": "Điểm thi THPT + ĐGNL",
+      "diem_chuan": 20.0,
+      "diem_dgnl": 750.0,
+      "to_hop_mon": "A00, A01, D01"
+    }
+  },
+  {
+    "title": "Ngành Kỹ Thuật Phần Mềm",
+    "header": "Năm 2019 - Mã ngành: 7480103",
+    "content": "Mã ngành: 7480103\nTên ngành: Kỹ Thuật Phần Mềm\nTổ hợp: A00, A01, D01\nĐiểm chuẩn: 25.3\nĐiểm ĐGNL: 960.0",
+    "chunk_id": "f94b76fd-7862-42a6-b86d-4415ddb26d6a",
+    "field": "ktpm",
+    "year": "2019",
+    "department": "UIT",
+    "keywords": [
+      "kỹ thuật phần mềm",
+      "7480103",
+      "A00, A01, D01"
+    ],
+    "prev_chunk": "fe7439cd-51aa-4b88-b840-3ec12a27239e",
+    "next_chunk": "3dedf729-681c-414e-88d5-6697ed04af18",
+    "source": "https://tuyensinh.uit.edu.vn/diem-chuan-cua-truong-dh-cong-nghe-thong-tin-qua-cac-nam",
+    "admission_info": {
+      "phuong_thuc_xet_tuyen": "Điểm thi THPT + ĐGNL",
+      "diem_chuan": 25.3,
+      "diem_dgnl": 960.0,
+      "to_hop_mon": "A00, A01, D01"
+    }
+  },
+  {
+    "title": "Ngành Kỹ Thuật Phần Mềm (Chất Lượng Cao)",
+    "header": "Năm 2019 - Mã ngành: 7480103_CLCA",
+    "content": "Mã ngành: 7480103_CLCA\nTên ngành: Kỹ Thuật Phần Mềm (Chất Lượng Cao)\nTổ hợp: A00, A01, D01\nĐiểm chuẩn: 23.2\nĐiểm ĐGNL: 890.0",
+    "chunk_id": "3dedf729-681c-414e-88d5-6697ed04af18",
+    "field": "ktpm",
+    "year": "2019",
+    "department": "UIT",
+    "keywords": [
+      "kỹ thuật phần mềm (chất lượng cao)",
+      "7480103_CLCA",
+      "A00, A01, D01"
+    ],
+    "prev_chunk": "f94b76fd-7862-42a6-b86d-4415ddb26d6a",
+    "next_chunk": "bebd9579-8346-41ff-8d30-b1e9986dc284",
+    "source": "https://tuyensinh.uit.edu.vn/diem-chuan-cua-truong-dh-cong-nghe-thong-tin-qua-cac-nam",
+    "admission_info": {
+      "phuong_thuc_xet_tuyen": "Điểm thi THPT + ĐGNL",
+      "diem_chuan": 23.2,
+      "diem_dgnl": 890.0,
+      "to_hop_mon": "A00, A01, D01"
+    }
+  },
+  {
+    "title": "Ngành Hệ Thống Thông Tin",
+    "header": "Năm 2019 - Mã ngành: 7480104",
+    "content": "Mã ngành: 7480104\nTên ngành: Hệ Thống Thông Tin\nTổ hợp: A00, A01, D01\nĐiểm chuẩn: 23.5\nĐiểm ĐGNL: 860.0",
+    "chunk_id": "bebd9579-8346-41ff-8d30-b1e9986dc284",
+    "field": "httt",
+    "year": "2019",
+    "department": "UIT",
+    "keywords": [
+      "hệ thống thông tin",
+      "7480104",
+      "A00, A01, D01"
+    ],
+    "prev_chunk": "3dedf729-681c-414e-88d5-6697ed04af18",
+    "next_chunk": "6ef0971c-3c2a-4ae1-b8fa-862111f8cd72",
+    "source": "https://tuyensinh.uit.edu.vn/diem-chuan-cua-truong-dh-cong-nghe-thong-tin-qua-cac-nam",
+    "admission_info": {
+      "phuong_thuc_xet_tuyen": "Điểm thi THPT + ĐGNL",
+      "diem_chuan": 23.5,
+      "diem_dgnl": 860.0,
+      "to_hop_mon": "A00, A01, D01"
+    }
+  },
+  {
+    "title": "Ngành Hệ Thống Thông Tin (Chất Lượng Cao)",
+    "header": "Năm 2019 - Mã ngành: 7480104_CLCA",
+    "content": "Mã ngành: 7480104_CLCA\nTên ngành: Hệ Thống Thông Tin (Chất Lượng Cao)\nTổ hợp: A00, A01, D01\nĐiểm chuẩn: 21.4\nĐiểm ĐGNL: 750.0",
+    "chunk_id": "6ef0971c-3c2a-4ae1-b8fa-862111f8cd72",
+    "field": "httt",
+    "year": "2019",
+    "department": "UIT",
+    "keywords": [
+      "hệ thống thông tin (chất lượng cao)",
+      "7480104_CLCA",
+      "A00, A01, D01"
+    ],
+    "prev_chunk": "bebd9579-8346-41ff-8d30-b1e9986dc284",
+    "next_chunk": "289eb0cc-1c7d-46c3-b7d4-7bfd7c1cfe9a",
+    "source": "https://tuyensinh.uit.edu.vn/diem-chuan-cua-truong-dh-cong-nghe-thong-tin-qua-cac-nam",
+    "admission_info": {
+      "phuong_thuc_xet_tuyen": "Điểm thi THPT + ĐGNL",
+      "diem_chuan": 21.4,
+      "diem_dgnl": 750.0,
+      "to_hop_mon": "A00, A01, D01"
+    }
+  },
+  {
+    "title": "Ngành Hệ Thống Thông Tin (Tiên Tiến)",
+    "header": "Năm 2019 - Mã ngành: 7480104_TT",
+    "content": "Mã ngành: 7480104_TT\nTên ngành: Hệ Thống Thông Tin (Tiên Tiến)\nTổ hợp: A00, A01, D01\nĐiểm chuẩn: 17.8\nĐiểm ĐGNL: 750.0",
+    "chunk_id": "289eb0cc-1c7d-46c3-b7d4-7bfd7c1cfe9a",
+    "field": "httt",
+    "year": "2019",
+    "department": "UIT",
+    "keywords": [
+      "hệ thống thông tin (tiên tiến)",
+      "7480104_TT",
+      "A00, A01, D01"
+    ],
+    "prev_chunk": "6ef0971c-3c2a-4ae1-b8fa-862111f8cd72",
+    "next_chunk": "f62788fa-e2d2-4cec-9c3f-82da06c4535f",
+    "source": "https://tuyensinh.uit.edu.vn/diem-chuan-cua-truong-dh-cong-nghe-thong-tin-qua-cac-nam",
+    "admission_info": {
+      "phuong_thuc_xet_tuyen": "Điểm thi THPT + ĐGNL",
+      "diem_chuan": 17.8,
+      "diem_dgnl": 750.0,
+      "to_hop_mon": "A00, A01, D01"
+    }
+  },
+  {
+    "title": "Ngành Kỹ Thuật Máy Tính",
+    "header": "Năm 2019 - Mã ngành: 7480106",
+    "content": "Mã ngành: 7480106\nTên ngành: Kỹ Thuật Máy Tính\nTổ hợp: A00, A01, D01\nĐiểm chuẩn: 23.8\nĐiểm ĐGNL: 870.0",
+    "chunk_id": "f62788fa-e2d2-4cec-9c3f-82da06c4535f",
+    "field": "ktmt",
+    "year": "2019",
+    "department": "UIT",
+    "keywords": [
+      "kỹ thuật máy tính",
+      "7480106",
+      "A00, A01, D01"
+    ],
+    "prev_chunk": "289eb0cc-1c7d-46c3-b7d4-7bfd7c1cfe9a",
+    "next_chunk": "453a1373-cc4a-446a-a1f1-9ed1300758fd",
+    "source": "https://tuyensinh.uit.edu.vn/diem-chuan-cua-truong-dh-cong-nghe-thong-tin-qua-cac-nam",
+    "admission_info": {
+      "phuong_thuc_xet_tuyen": "Điểm thi THPT + ĐGNL",
+      "diem_chuan": 23.8,
+      "diem_dgnl": 870.0,
+      "to_hop_mon": "A00, A01, D01"
+    }
+  },
+  {
+    "title": "Ngành Kỹ Thuật Máy Tính (Chất Lượng Cao)",
+    "header": "Năm 2019 - Mã ngành: 7480106_CLCA",
+    "content": "Mã ngành: 7480106_CLCA\nTên ngành: Kỹ Thuật Máy Tính (Chất Lượng Cao)\nTổ hợp: A00, A01, D01\nĐiểm chuẩn: 21.0\nĐiểm ĐGNL: 750.0",
+    "chunk_id": "453a1373-cc4a-446a-a1f1-9ed1300758fd",
+    "field": "ktmt",
+    "year": "2019",
+    "department": "UIT",
+    "keywords": [
+      "kỹ thuật máy tính (chất lượng cao)",
+      "7480106_CLCA",
+      "A00, A01, D01"
+    ],
+    "prev_chunk": "f62788fa-e2d2-4cec-9c3f-82da06c4535f",
+    "next_chunk": "4688b6f6-ed10-4985-8241-b243e9ec8483",
+    "source": "https://tuyensinh.uit.edu.vn/diem-chuan-cua-truong-dh-cong-nghe-thong-tin-qua-cac-nam",
+    "admission_info": {
+      "phuong_thuc_xet_tuyen": "Điểm thi THPT + ĐGNL",
+      "diem_chuan": 21.0,
+      "diem_dgnl": 750.0,
+      "to_hop_mon": "A00, A01, D01"
+    }
+  },
+  {
+    "title": "Ngành Khoa Học Dữ Liệu",
+    "header": "Năm 2019 - Mã ngành: 7480109",
+    "content": "Mã ngành: 7480109\nTên ngành: Khoa Học Dữ Liệu\nTổ hợp: A00, A01, D01\nĐiểm chuẩn: 23.5\nĐiểm ĐGNL: 870.0",
+    "chunk_id": "4688b6f6-ed10-4985-8241-b243e9ec8483",
+    "field": "khdl",
+    "year": "2019",
+    "department": "UIT",
+    "keywords": [
+      "khoa học dữ liệu",
+      "7480109",
+      "A00, A01, D01"
+    ],
+    "prev_chunk": "453a1373-cc4a-446a-a1f1-9ed1300758fd",
+    "next_chunk": "d1c9cdee-cd74-406b-be31-4589d1d9062c",
+    "source": "https://tuyensinh.uit.edu.vn/diem-chuan-cua-truong-dh-cong-nghe-thong-tin-qua-cac-nam",
+    "admission_info": {
+      "phuong_thuc_xet_tuyen": "Điểm thi THPT + ĐGNL",
+      "diem_chuan": 23.5,
+      "diem_dgnl": 870.0,
+      "to_hop_mon": "A00, A01, D01"
+    }
+  },
+  {
+    "title": "Ngành Công Nghệ Thông Tin",
+    "header": "Năm 2019 - Mã ngành: 7480201",
+    "content": "Mã ngành: 7480201\nTên ngành: Công Nghệ Thông Tin\nTổ hợp: A00, A01, D01\nĐiểm chuẩn: 24.65\nĐiểm ĐGNL: 950.0",
+    "chunk_id": "d1c9cdee-cd74-406b-be31-4589d1d9062c",
+    "field": "cntt",
+    "year": "2019",
+    "department": "UIT",
+    "keywords": [
+      "công nghệ thông tin",
+      "7480201",
+      "A00, A01, D01"
+    ],
+    "prev_chunk": "4688b6f6-ed10-4985-8241-b243e9ec8483",
+    "next_chunk": "3420f303-5f0b-4eb5-9ba0-50b8da354071",
+    "source": "https://tuyensinh.uit.edu.vn/diem-chuan-cua-truong-dh-cong-nghe-thong-tin-qua-cac-nam",
+    "admission_info": {
+      "phuong_thuc_xet_tuyen": "Điểm thi THPT + ĐGNL",
+      "diem_chuan": 24.65,
+      "diem_dgnl": 950.0,
+      "to_hop_mon": "A00, A01, D01"
+    }
+  },
+  {
+    "title": "Ngành Công Nghệ Thông Tin (Đào Tạo Tại Phân Hiệu Đhqg-Hcm Tại Bến Tre)",
+    "header": "Năm 2019 - Mã ngành: 7480201_BT",
+    "content": "Mã ngành: 7480201_BT\nTên ngành: Công Nghệ Thông Tin (Đào Tạo Tại Phân Hiệu Đhqg-Hcm Tại Bến Tre)\nTổ hợp: A00, A01, D01\nĐiểm chuẩn: 22.9\nĐiểm ĐGNL: 850.0",
+    "chunk_id": "3420f303-5f0b-4eb5-9ba0-50b8da354071",
+    "field": "cntt",
+    "year": "2019",
+    "department": "UIT",
+    "keywords": [
+      "công nghệ thông tin (đào tạo tại phân hiệu đhqg-hcm tại bến tre)",
+      "7480201_BT",
+      "A00, A01, D01"
+    ],
+    "prev_chunk": "d1c9cdee-cd74-406b-be31-4589d1d9062c",
+    "next_chunk": "4bfdb851-10c3-4330-8bd6-92ca2e035bd9",
+    "source": "https://tuyensinh.uit.edu.vn/diem-chuan-cua-truong-dh-cong-nghe-thong-tin-qua-cac-nam",
+    "admission_info": {
+      "phuong_thuc_xet_tuyen": "Điểm thi THPT + ĐGNL",
+      "diem_chuan": 22.9,
+      "diem_dgnl": 850.0,
+      "to_hop_mon": "A00, A01, D01"
+    }
+  },
+  {
+    "title": "Ngành Công Nghệ Thông Tin (Chất Lượng Cao Định Hướng Nhật Bản)",
+    "header": "Năm 2019 - Mã ngành: 7480201_CLCN",
+    "content": "Mã ngành: 7480201_CLCN\nTên ngành: Công Nghệ Thông Tin (Chất Lượng Cao Định Hướng Nhật Bản)\nTổ hợp: A00, A01, D01\nĐiểm chuẩn: 21.3\nĐiểm ĐGNL: 750.0",
+    "chunk_id": "4bfdb851-10c3-4330-8bd6-92ca2e035bd9",
+    "field": "cntt",
+    "year": "2019",
+    "department": "UIT",
+    "keywords": [
+      "công nghệ thông tin (chất lượng cao định hướng nhật bản)",
+      "7480201_CLCN",
+      "A00, A01, D01"
+    ],
+    "prev_chunk": "3420f303-5f0b-4eb5-9ba0-50b8da354071",
+    "next_chunk": "216628e6-c08e-413a-a082-f499981d512d",
+    "source": "https://tuyensinh.uit.edu.vn/diem-chuan-cua-truong-dh-cong-nghe-thong-tin-qua-cac-nam",
+    "admission_info": {
+      "phuong_thuc_xet_tuyen": "Điểm thi THPT + ĐGNL",
+      "diem_chuan": 21.3,
+      "diem_dgnl": 750.0,
+      "to_hop_mon": "A00, A01, D01"
+    }
+  },
+  {
+    "title": "Ngành An Toàn Thông Tin",
+    "header": "Năm 2019 - Mã ngành: 7480202",
+    "content": "Mã ngành: 7480202\nTên ngành: An Toàn Thông Tin\nTổ hợp: A00, A01, D01\nĐiểm chuẩn: 24.45\nĐiểm ĐGNL: 900.0",
+    "chunk_id": "216628e6-c08e-413a-a082-f499981d512d",
+    "field": "attt",
+    "year": "2019",
+    "department": "UIT",
+    "keywords": [
+      "an toàn thông tin",
+      "7480202",
+      "A00, A01, D01"
+    ],
+    "prev_chunk": "4bfdb851-10c3-4330-8bd6-92ca2e035bd9",
+    "next_chunk": "dfe336d6-175e-478b-a5ce-c795e88bd9b7",
+    "source": "https://tuyensinh.uit.edu.vn/diem-chuan-cua-truong-dh-cong-nghe-thong-tin-qua-cac-nam",
+    "admission_info": {
+      "phuong_thuc_xet_tuyen": "Điểm thi THPT + ĐGNL",
+      "diem_chuan": 24.45,
+      "diem_dgnl": 900.0,
+      "to_hop_mon": "A00, A01, D01"
+    }
+  },
+  {
+    "title": "Ngành An Toàn Thông Tin (Chất Lượng Cao)",
+    "header": "Năm 2019 - Mã ngành: 7480202_CLCA",
+    "content": "Mã ngành: 7480202_CLCA\nTên ngành: An Toàn Thông Tin (Chất Lượng Cao)\nTổ hợp: A00, A01, D01\nĐiểm chuẩn: 22.0\nĐiểm ĐGNL: 800.0",
+    "chunk_id": "dfe336d6-175e-478b-a5ce-c795e88bd9b7",
+    "field": "attt",
+    "year": "2019",
+    "department": "UIT",
+    "keywords": [
+      "an toàn thông tin (chất lượng cao)",
+      "7480202_CLCA",
+      "A00, A01, D01"
+    ],
+    "prev_chunk": "216628e6-c08e-413a-a082-f499981d512d",
+    "next_chunk": null,
+    "source": "https://tuyensinh.uit.edu.vn/diem-chuan-cua-truong-dh-cong-nghe-thong-tin-qua-cac-nam",
+    "admission_info": {
+      "phuong_thuc_xet_tuyen": "Điểm thi THPT + ĐGNL",
+      "diem_chuan": 22.0,
+      "diem_dgnl": 800.0,
+      "to_hop_mon": "A00, A01, D01"
+    }
+  }
+]
