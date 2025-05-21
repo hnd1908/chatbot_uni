@@ -8,7 +8,7 @@ os.makedirs(cleaned_folder, exist_ok=True)
 excluded_keywords = [
     "thong-bao-muc-diem", "thong-bao-ket-qua", "ba44e70ae712a2cf3e6533000212f833",
     "goc-bao-chi", "giay-bao-nhaphoc", "giaybao-nhaphoc", "diem-chuan", "cam-nang-tuyen-sinh-2023", "chuong-trinh-dac-biet",
-    "cuoc-song-sinh-vien", "su-kien-noi-bat", "vb2-lien-thong",
+    "cuoc-song-sinh-vien", "su-kien-noi-bat", "vb2-lien-thong", "user", "uit-tour-360"
 ]
 
 def remove_after_keyword(content, keyword):
@@ -41,7 +41,7 @@ def clean_markdown(content):
 
     cleaned_content = re.sub(r'[\u00a0\u200b\ufeff]+', ' ', cleaned_content)
 
-    cleaned_content = re.sub(r'<.*?>', '', cleaned_content)
+    cleaned_content = re.sub(r'<[^>]*?>', '', cleaned_content)
     
     cleaned_content = re.sub(r'\n\s*\n', '\n', cleaned_content)  # Loại bỏ các dòng trống thừa
 
@@ -70,10 +70,6 @@ def clean_markdown(content):
     # 1. → ## 1. Giới thiệu
     cleaned_content = re.sub(r'^\s*(\d+)\.\s+(.*)', r'### \1. \2', cleaned_content, flags=re.MULTILINE)
 
-    # Nếu không có header nào thì thêm tiêu đề mặc định
-    if not re.search(r'^#{1,4} ', cleaned_content, flags=re.MULTILINE):
-        cleaned_content = '# Nội dung\n\n' + cleaned_content
-
     cleaned_content = re.sub(
         r'^(#{2,5}\s*[^\n:]+):\s*(.+)',
         r'\1\n\2',
@@ -95,12 +91,12 @@ def process_markdown_files(markdown_folder, cleaned_folder):
                 continue
 
             cleaned_content = clean_markdown(content)
+            # Bỏ "manual" khỏi tên file khi lưu
+            # cleaned_filename = markdown_file.replace('manual_', '')
             cleaned_filepath = os.path.join(cleaned_folder, markdown_file)
             with open(cleaned_filepath, 'w', encoding='utf-8') as cleaned_file:
                 cleaned_file.write(cleaned_content)
             
             print(f"Cleaned: {markdown_file} -> {cleaned_filepath}")
-
-
 
 process_markdown_files(markdown_folder, cleaned_folder)
