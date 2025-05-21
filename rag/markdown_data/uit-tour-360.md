@@ -1,93 +1,72 @@
-Cổng trước UIT
+# 360 UIT - Trường Đại học Công nghệ thông tin ĐHQG Hồ Chí Minh by Việt Panorama
 
-Vào cổng UIT
+_Nguồn: [https://tuyensinh.uit.edu.vn/uit-tour-360/](https://tuyensinh.uit.edu.vn/uit-tour-360/)_
 
-Trước nhà A - E
+![](https://tuyensinh.uit.edu.vn/uit-tour-360/img/uit-tour.jpg)
 
-Hành lang nhà E
+[* Cổng trước UIT](https://tuyensinh.uit.edu.vn/uit-tour-360/)
+[* Vào cổng UIT](https://tuyensinh.uit.edu.vn/uit-tour-360/)
+[* Trước nhà A - E](https://tuyensinh.uit.edu.vn/uit-tour-360/)
+[* Hành lang nhà E](https://tuyensinh.uit.edu.vn/uit-tour-360/)
+[* Nhà gửi xe nhà E](https://tuyensinh.uit.edu.vn/uit-tour-360/)
+[* Nhà C](https://tuyensinh.uit.edu.vn/uit-tour-360/)
+[* Tầng 2 nhà C](https://tuyensinh.uit.edu.vn/uit-tour-360/)
+[* Phòng học nhà C](https://tuyensinh.uit.edu.vn/uit-tour-360/)
+[* Học học CLC nhà C](https://tuyensinh.uit.edu.vn/uit-tour-360/)
+[* Phòng thực hành](https://tuyensinh.uit.edu.vn/uit-tour-360/)
+[* Sân bóng](https://tuyensinh.uit.edu.vn/uit-tour-360/)
+[* Sân gạch](https://tuyensinh.uit.edu.vn/uit-tour-360/)
+[* Nhà dịch vụ](https://tuyensinh.uit.edu.vn/uit-tour-360/)
+[* Nhà gửi xe](https://tuyensinh.uit.edu.vn/uit-tour-360/)
+[* Nhà A từ cổng](https://tuyensinh.uit.edu.vn/uit-tour-360/)
+[* Nhà A từ nhà xe](https://tuyensinh.uit.edu.vn/uit-tour-360/)
+[* Thư viện nhà A](https://tuyensinh.uit.edu.vn/uit-tour-360/)
+[* Tầng 2 nhà A](https://tuyensinh.uit.edu.vn/uit-tour-360/)
+[* Giảng đường nhà A](https://tuyensinh.uit.edu.vn/uit-tour-360/)
+[* Tầng 1 nhà E](https://tuyensinh.uit.edu.vn/uit-tour-360/)
+[* Nhà vệ sinh nhà E](https://tuyensinh.uit.edu.vn/uit-tour-360/)
+[* Tầng 2 nhà E](https://tuyensinh.uit.edu.vn/uit-tour-360/)
+[* Thư viện nhà E](https://tuyensinh.uit.edu.vn/uit-tour-360/)
+[* Tầng 5 Khoa Khoa học máy tính](https://tuyensinh.uit.edu.vn/uit-tour-360/)
+[* MMLab UIT](https://tuyensinh.uit.edu.vn/uit-tour-360/)
+[* Tầng 6 Khoa Kỹ thuật máy tính](https://tuyensinh.uit.edu.vn/uit-tour-360/)
+[* Tầng 7 Khoa Công nghệ phần mềm](https://tuyensinh.uit.edu.vn/uit-tour-360/)
+[* Tầng 8 khoa Mạng máy tính và truyền thông](https://tuyensinh.uit.edu.vn/uit-tour-360/)
+[* Tầng 9 khoa Hệ thống thông tin](https://tuyensinh.uit.edu.vn/uit-tour-360/)
+[* Trước hội trường nhà E](https://tuyensinh.uit.edu.vn/uit-tour-360/)
+[* Công sau UIT](https://tuyensinh.uit.edu.vn/uit-tour-360/)
+[* Nhà A Data Center](https://tuyensinh.uit.edu.vn/uit-tour-360/)
+[* Sảnh nhà B](https://tuyensinh.uit.edu.vn/uit-tour-360/)
+[* Nhà B - Check In 1](https://tuyensinh.uit.edu.vn/uit-tour-360/)
+[* Nhà B - Check In 2](https://tuyensinh.uit.edu.vn/uit-tour-360/)
+[* Nhà B - Check In 3](https://tuyensinh.uit.edu.vn/uit-tour-360/)
+[* Nhà B Phòng học](https://tuyensinh.uit.edu.vn/uit-tour-360/)
+[* Nhà B Phòng học lớn](https://tuyensinh.uit.edu.vn/uit-tour-360/)
+[* Nhà B Phòng máy CLC](https://tuyensinh.uit.edu.vn/uit-tour-360/)
+[* Nhà B Phòng máy CLC 2](https://tuyensinh.uit.edu.vn/uit-tour-360/)
+[* Nhà B Tầng 3](https://tuyensinh.uit.edu.vn/uit-tour-360/)
+[* Nhà A - Xe đưa đón](https://tuyensinh.uit.edu.vn/uit-tour-360/)
+[* Nhà A - Khu vực doanh nghiệp nghiên cứu](https://tuyensinh.uit.edu.vn/uit-tour-360/)
+[* Công ty Rosen](https://tuyensinh.uit.edu.vn/uit-tour-360/)
+[* Hội trường nhà E](https://tuyensinh.uit.edu.vn/uit-tour-360/)
+[* Tầng thượng nhà E](https://tuyensinh.uit.edu.vn/uit-tour-360/)
 
-Nhà gửi xe nhà E
+[![https://www.uit.edu.vn/](https://tuyensinh.uit.edu.vn/uit-tour-360/img/logos/logouit.png)](https://www.uit.edu.vn/)
+[![https://vietpano.com](https://tuyensinh.uit.edu.vn/uit-tour-360/img/logos/logo-company-mini.png)](https://vietpano.com/)
+[![](https://tuyensinh.uit.edu.vn/uit-tour-360/img/expand.png)
+![](https://tuyensinh.uit.edu.vn/uit-tour-360/img/collapse.png)](https://tuyensinh.uit.edu.vn/uit-tour-360/)
 
-Nhà C
+#
 
-Tầng 2 nhà C
-
-Phòng học nhà C
-
-Học học CLC nhà C
-
-Phòng thực hành
-
-Sân bóng
-
-Sân gạch
-
-Nhà dịch vụ
-
-Nhà gửi xe
-
-Nhà A từ cổng
-
-Nhà A từ nhà xe
-
-Thư viện nhà A
-
-Tầng 2 nhà A
-
-Giảng đường nhà A
-
-Tầng 1 nhà E
-
-Nhà vệ sinh nhà E
-
-Tầng 2 nhà E
-
-Thư viện nhà E
-
-Tầng 5 Khoa Khoa học máy tính
-
-MMLab UIT
-
-Tầng 6 Khoa Kỹ thuật máy tính
-
-Tầng 7 Khoa Công nghệ phần mềm
-
-Tầng 8 khoa Mạng máy tính và truyền thông
-
-Tầng 9 khoa Hệ thống thông tin
-
-Trước hội trường nhà E
-
-Công sau UIT
-
-Nhà A Data Center
-
-Sảnh nhà B
-
-Nhà B - Check In 1
-
-Nhà B - Check In 2
-
-Nhà B - Check In 3
-
-Nhà B Phòng học
-
-Nhà B Phòng học lớn
-
-Nhà B Phòng máy CLC
-
-Nhà B Phòng máy CLC 2
-
-Nhà B Tầng 3
-
-Nhà A - Xe đưa đón
-
-Nhà A - Khu vực doanh nghiệp nghiên cứu
-
-Công ty Rosen
-
-Hội trường nhà E
-
-Tầng thượng nhà E
-
-Source: https://tuyensinh.uit.edu.vn/uit-tour-360/
+[![](https://tuyensinh.uit.edu.vn/uit-tour-360/img/play-music.png)
+![](https://tuyensinh.uit.edu.vn/uit-tour-360/img/pause-music.png)](https://tuyensinh.uit.edu.vn/uit-tour-360/)
+[![](https://tuyensinh.uit.edu.vn/uit-tour-360/img/play.png)
+![](https://tuyensinh.uit.edu.vn/uit-tour-360/img/pause.png)](https://tuyensinh.uit.edu.vn/uit-tour-360/)
+[![](https://tuyensinh.uit.edu.vn/uit-tour-360/img/fullscreen.png)
+![](https://tuyensinh.uit.edu.vn/uit-tour-360/img/windowed.png)](https://tuyensinh.uit.edu.vn/uit-tour-360/)
+[![](https://tuyensinh.uit.edu.vn/uit-tour-360/img/up.png)](https://tuyensinh.uit.edu.vn/uit-tour-360/)
+[![](https://tuyensinh.uit.edu.vn/uit-tour-360/img/down.png)](https://tuyensinh.uit.edu.vn/uit-tour-360/)
+[![](https://tuyensinh.uit.edu.vn/uit-tour-360/img/left.png)](https://tuyensinh.uit.edu.vn/uit-tour-360/)
+[![](https://tuyensinh.uit.edu.vn/uit-tour-360/img/right.png)](https://tuyensinh.uit.edu.vn/uit-tour-360/)
+[![](https://tuyensinh.uit.edu.vn/uit-tour-360/img/plus.png)](https://tuyensinh.uit.edu.vn/uit-tour-360/)
+[![](https://tuyensinh.uit.edu.vn/uit-tour-360/img/minus.png)](https://tuyensinh.uit.edu.vn/uit-tour-360/)

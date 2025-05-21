@@ -1,10 +1,14 @@
-Giới thiệu chung
+# Tổng quan ngành Thiết kế Vi mạch
+
+_Nguồn: [https://tuyensinh.uit.edu.vn/tong-quan-nganh-thiet-ke-vi-mach](https://tuyensinh.uit.edu.vn/tong-quan-nganh-thiet-ke-vi-mach)_
+
+***Giới thiệu chung***
 
 Thiết kế Vi Mạch là ngành chuyên nghiên cứu, phát triển và chế tạo các chip điện tử, còn gọi là mạch tích hợp (IC - Integrated Circuit). Các vi mạch tích hợp này có thể chứa hàng triệu hoặc thậm chí hàng tỷ thành phần điện tử như transistor, điện trở, tụ điện, và nhiều thành phần khác trên một chip nhỏ.
 
 Hiện nay, trong giai đoạn Chuyển đổi số, Thiết kế Vi mạch trở thành ngành nghề đầy triển vọng, là sự lựa chọn hàng đầu của nhiều sinh viên trong tương lai. Bởi các hệ thống vi mạch được tích hợp là yếu tố nền tảng, hạ tầng thiết bị quan trọng để thực hiện quá trình Chuyển đổi số.
 
-Tầm quan trọng của ngành Thiết kế Vi mạch
+# ***Tầm quan trọng của ngành Thiết kế Vi mạch***
 
 Việt Nam được đánh giá là thị trường tiềm năng của ngành sản xuất chip và linh kiện bán dẫn. Từ năm 2019 đến nay, mỗi năm Việt Nam cần khoảng 1.000 kỹ sư ngành thiết kế vi mạch theo khảo sát của Hội Công nghệ Vi Mạch bán dẫn TP. HCM (HSIA). Nhu cầu về nhân lực không chỉ gói gọn trong thị trường nội địa mà còn thu hút ở các khu vực xung quanh, đặc biệt là Singapore.
 
@@ -12,7 +16,9 @@ Số lượng doanh nghiệp lớn trên thế giới mở cơ sở và trung t�
 
 Tuy vậy, nhưng hiện nay nguồn cung cấp nhân lực cho các doanh nghiệp liên quan đến thiết kế vi mạch bán dẫn lại khá thấp so với nhu cầu sử dụng. TP.HCM chiếm 53% nhu cầu tuyển dụng. Do đó, việc đầu tư phát triển đào tạo kỹ sư có kiến thức, trình độ cao trong ngành Thiết kế vi mạch là cần thiết cho quá trình hội nhập quốc tế, nắm bắt cơ hội phát triển của sự dịch chuyển nghề nghiệp này.
 
-Ngành Thiết kế Vi mạch trang bị cho sinh viên những gì ?
+![](https://tuyensinh.uit.edu.vn/sites/default/files/uploads/images/202401/anh-4-3902.jpg)
+
+# ***Ngành Thiết kế Vi mạch trang bị cho sinh viên những gì ?***
 
 Sinh viên tốt nghiệp chương trình đào tạo ngành Thiết kế Vi mạch đáp ứng được các yêu cầu sau:
 
@@ -24,22 +30,18 @@ Ngoài ra, để tham gia các dự án tại doanh nghiệp, sinh viên còn đ
 
 Mục tiêu của Nhà trường là đào tạo ra các kỹ sư có sự am hiểu sâu sắc với trình độ chuyên môn cao về lĩnh vực vi mạch giúp giải cơn khát nhân lực chất lượng cao ngành này
 
-Cơ hội việc làm
+![](https://tuyensinh.uit.edu.vn/sites/default/files/uploads/images/202401/anh5-2182.jpg)
+
+# ***Cơ hội việc làm***
 
 Sau khi tốt nghiệp, sinh viên có thể:
 
-Thiết kế, chế tạo vi mạch, đáp ứng yêu cầu về tính năng động, sáng tạo của nghề nghiệp.
-
-Kiểm tra, kiểm thử thiết kế và lĩnh vực liên quan đến thiết kế vật lý.
-
-Các công việc liên quan đến thiết kế logic, thiết kế số.
+* Thiết kế, chế tạo vi mạch, đáp ứng yêu cầu về tính năng động, sáng tạo của nghề nghiệp.
+* Kiểm tra, kiểm thử thiết kế và lĩnh vực liên quan đến thiết kế vật lý.
+* Các công việc liên quan đến thiết kế logic, thiết kế số.
 
 Sinh viên được trang bị toàn diện, cả về chuyên môn và kỹ năng mềm để có thể thiết kế, chế tạo vi mạch, đáp ứng được yêu cầu về tính năng động và sáng tạo của nghề nghiệp này.
 
 Trong giai đoạn gần đây, nhu cầu vị trí kiểm tra, kiểm thử thiết kế và lĩnh vực liên quan đến thiết kế vật lý đang tăng cao. Ngoài ra, các công việc liên quan đến thiết kế logic, thiết kế số cũng thu hút sự chú ý của các doanh nghiệp.
 
-Website Khoa:
-
-http://ktmt.uit.edu.vn
-
-Source: https://tuyensinh.uit.edu.vn/tong-quan-nganh-thiet-ke-vi-mach
+**Website Khoa: [http://ktmt.uit.edu.vn](http://ktmt.uit.edu.vn/)**
