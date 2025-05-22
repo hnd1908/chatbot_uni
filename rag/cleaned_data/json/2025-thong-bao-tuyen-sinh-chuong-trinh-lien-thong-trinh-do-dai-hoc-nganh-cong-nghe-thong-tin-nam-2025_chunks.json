@@ -2,7 +2,7 @@
   {
     "title": "[2025] Thông báo tuyển sinh cử nhân liên thông Ngành Công nghệ Thông tin năm 2025",
     "header": "",
-    "content": "# [2025] Thông báo tuyển sinh cử nhân liên thông Ngành Công nghệ Thông tin năm 2025\n_Nguồn: [https://tuyensinh.uit.edu.vn/2025-thong-bao-tuyen-sinh-chuong-trinh-lien-thong-trinh-do-dai-hoc-nganh-cong-nghe-thong-tin-nam-2025](https://tuyensinh.uit.edu.vn/2025-thong-bao-tuyen-sinh-chuong-trinh-lien-thong-trinh-do-dai-hoc-nganh-cong-nghe-thong-tin-nam-2025)_",
+    "content": "# [2025] Thông báo tuyển sinh cử nhân liên thông Ngành Công nghệ Thông tin năm 2025\n_Nguồn: [https://tuyensinh.uit.edu.vn/2025-thong-bao-tuyen-sinh-chuong-trinh-lien-thong-trinh-do-dai-hoc-nganh-cong-nghe-thong-tin-nam-2025](https://tuyensinh.uit.edu.vn/2025-thong-bao-tuyen-sinh-chuong-trinh-lien-thong-trinh-do-dai-hoc-nganh-cong-nghe-thong-tin-nam-2025)_\nTrường Đại học Công nghệ Thông tin thông báo tuyển sinh chương trình liên thông trình độ đại học ngành Công nghệ Thông tin(Mã ngành: 7480201) hình thức đào tạo chính quy năm 2025 như sau:",
     "chunk_id": "2025-thong-bao-tuyen-sinh-chuong-trinh-lien-thong-trinh-do-dai-hoc-nganh-cong-nghe-thong-tin-nam-2025_chunk_1",
     "field": "tuyển sinh",
     "year": "2025",
@@ -10,7 +10,6 @@
     "keywords": [
       "tuyensinh",
       "cntt",
-      "khmt",
       "ttnt",
       "truong"
     ],
@@ -27,18 +26,24 @@
   },
   {
     "title": "[2025] Thông báo tuyển sinh cử nhân liên thông Ngành Công nghệ Thông tin năm 2025",
-    "header": "",
-    "content": "Trường Đại học Công nghệ Thông tin thông báo tuyển sinh chương trình liên thông trình độ đại học ngành Công nghệ Thông tin(Mã ngành: 7480201) hình thức đào tạo chính quy năm 2025 như sau:",
+    "header": "I. ĐỐI TƯỢNG TUYỂN SINH",
+    "content": "- Là công dân Việt Nam có đủ sức khỏe và không trong thời gian can án hoặc bị truy cứu trách nhiệm hình sự. - Đã có bằng tốt nghiệp cao đẳng cùng ngành, nhóm ngành hoặc ngành gần với ngành đào tạo. Trường hợp văn bằng do cơ sở giáo dục nước ngoài hoạt động hợp pháp tại Việt Nam hoặc cơ sở giáo dục hoạt động hợp pháp ở nước ngoài cấp thì văn bằng phải được công nhận theo quy định của Bộ Giáo dục và Đào tạo. Ngành đúng:\n|  |  |  |\n| --- | --- | --- |\n| STT | Mã ngành | Tên ngành |\n| 1 | 6480201 | Công nghệ thông tin |\n| 2 | 6480202 | Công nghệ thông tin (ứng dụng phần mềm) |\n| 3 | 6480104 | Truyền thông và mạng máy tính |\n| 4 | 6480205 | Tin học ứng dụng |\n| 5 | 6480206 | Xử lý dữ liệu |\n| 6 | 6480207 | Lập trình máy tính |\n| 7 | 6480208 | Quản trị cơ sở dữ liệu |\n| 8 | 6480209 | Quản trị mạng máy tính |\n| 9 | 6480214 | Thiết kế trang Web |\n| 10 | 6480216 | An ninh mạng |\n| 11 | 6480101 | Khoa học máy tính |\nNgành gần:\n| STT | Mã ngành | Tên ngành |\n| --- | --- | --- |\n| 1 | 6480203 | Tin học văn phòng |\n| 2 | 6480213 | Vẽ và thiết kế trên máy tính |\n| 3 | 6480102 | Kỹ thuật sửa chữa, lắp ráp máy tính |\n| 4 | 6480103 | Thiết kế mạch điện tử trên máy tính |\n| 5 | 6480105 | Công nghệ kỹ thuật máy tính |\n| 6 | 6340122 | Thương mại điện tử |\n| 7 | 6320201 | Hệ thống thông tin |\n| 8 | 6210402 | Thiết kế đồ họa |\n| 9 | 6480204 | Tin học viễn thông ứng dụng |",
     "chunk_id": "2025-thong-bao-tuyen-sinh-chuong-trinh-lien-thong-trinh-do-dai-hoc-nganh-cong-nghe-thong-tin-nam-2025_chunk_2",
     "field": "tuyển sinh",
     "year": "2025",
     "department": null,
     "keywords": [
-      "tuyensinh",
+      "attt",
       "cntt",
+      "httt",
       "khmt",
+      "ktmt",
+      "ktpm",
+      "mmtvttdl",
+      "tmdt",
       "ttnt",
-      "truong"
+      "truong",
+      "hoctap"
     ],
     "prev_chunk": "2025-thong-bao-tuyen-sinh-chuong-trinh-lien-thong-trinh-do-dai-hoc-nganh-cong-nghe-thong-tin-nam-2025_chunk_1",
     "next_chunk": "2025-thong-bao-tuyen-sinh-chuong-trinh-lien-thong-trinh-do-dai-hoc-nganh-cong-nghe-thong-tin-nam-2025_chunk_3",
@@ -53,18 +58,13 @@
   },
   {
     "title": "[2025] Thông báo tuyển sinh cử nhân liên thông Ngành Công nghệ Thông tin năm 2025",
-    "header": "I. ĐỐI TƯỢNG TUYỂN SINH",
-    "content": "- Là công dân Việt Nam có đủ sức khỏe và không trong thời gian can án hoặc bị truy cứu trách nhiệm hình sự.\n- Đã có bằng tốt nghiệp cao đẳng cùng ngành, nhóm ngành hoặc ngành gần với ngành đào tạo. Trường hợp văn bằng do cơ sở giáo dục nước ngoài hoạt động hợp pháp tại Việt Nam hoặc cơ sở giáo dục hoạt động hợp pháp ở nước ngoài cấp thì văn bằng phải được công nhận theo quy định của Bộ Giáo dục và Đào tạo.\nNgành đúng:\n|  |  |  |\n| --- | --- | --- |\n| STT | Mã ngành | Tên ngành |",
+    "header": "II. CHỈ TIÊU TUYỂN SINH",
+    "content": "30 chỉ tiêu.",
     "chunk_id": "2025-thong-bao-tuyen-sinh-chuong-trinh-lien-thong-trinh-do-dai-hoc-nganh-cong-nghe-thong-tin-nam-2025_chunk_3",
     "field": "tuyển sinh",
     "year": "2025",
     "department": null,
-    "keywords": [
-      "khmt",
-      "ttnt",
-      "truong",
-      "hoctap"
-    ],
+    "keywords": [],
     "prev_chunk": "2025-thong-bao-tuyen-sinh-chuong-trinh-lien-thong-trinh-do-dai-hoc-nganh-cong-nghe-thong-tin-nam-2025_chunk_2",
     "next_chunk": "2025-thong-bao-tuyen-sinh-chuong-trinh-lien-thong-trinh-do-dai-hoc-nganh-cong-nghe-thong-tin-nam-2025_chunk_4",
     "source": "Source: cleaned_data/markdown\\2025-thong-bao-tuyen-sinh-chuong-trinh-lien-thong-trinh-do-dai-hoc-nganh-cong-nghe-thong-tin-nam-2025.md",
@@ -78,19 +78,14 @@
   },
   {
     "title": "[2025] Thông báo tuyển sinh cử nhân liên thông Ngành Công nghệ Thông tin năm 2025",
-    "header": "I. ĐỐI TƯỢNG TUYỂN SINH",
-    "content": "| STT | Mã ngành | Tên ngành |\n| 1 | 6480201 | Công nghệ thông tin |\n| 2 | 6480202 | Công nghệ thông tin (ứng dụng phần mềm) |\n| 3 | 6480104 | Truyền thông và mạng máy tính |\n| 4 | 6480205 | Tin học ứng dụng |\n| 5 | 6480206 | Xử lý dữ liệu |\n| 6 | 6480207 | Lập trình máy tính |\n| 7 | 6480208 | Quản trị cơ sở dữ liệu |\n| 8 | 6480209 | Quản trị mạng máy tính |\n| 9 | 6480214 | Thiết kế trang Web |\n| 10 | 6480216 | An ninh mạng |\n| 11 | 6480101 | Khoa học máy tính |\nNgành gần:",
+    "header": "III. HÌNHTHỨCTUYỂN SINH",
+    "content": "Xét tuyển.",
     "chunk_id": "2025-thong-bao-tuyen-sinh-chuong-trinh-lien-thong-trinh-do-dai-hoc-nganh-cong-nghe-thong-tin-nam-2025_chunk_4",
     "field": "tuyển sinh",
     "year": "2025",
     "department": null,
     "keywords": [
-      "attt",
-      "cntt",
-      "khmt",
-      "ktpm",
-      "mmtvttdl",
-      "truong"
+      "tuyensinh"
     ],
     "prev_chunk": "2025-thong-bao-tuyen-sinh-chuong-trinh-lien-thong-trinh-do-dai-hoc-nganh-cong-nghe-thong-tin-nam-2025_chunk_3",
     "next_chunk": "2025-thong-bao-tuyen-sinh-chuong-trinh-lien-thong-trinh-do-dai-hoc-nganh-cong-nghe-thong-tin-nam-2025_chunk_5",
@@ -105,19 +100,18 @@
   },
   {
     "title": "[2025] Thông báo tuyển sinh cử nhân liên thông Ngành Công nghệ Thông tin năm 2025",
-    "header": "I. ĐỐI TƯỢNG TUYỂN SINH",
-    "content": "| 11 | 6480101 | Khoa học máy tính |\nNgành gần:\n| STT | Mã ngành | Tên ngành |\n| --- | --- | --- |\n| 1 | 6480203 | Tin học văn phòng |\n| 2 | 6480213 | Vẽ và thiết kế trên máy tính |\n| 3 | 6480102 | Kỹ thuật sửa chữa, lắp ráp máy tính |\n| 4 | 6480103 | Thiết kế mạch điện tử trên máy tính |\n| 5 | 6480105 | Công nghệ kỹ thuật máy tính |\n| 6 | 6340122 | Thương mại điện tử |\n| 7 | 6320201 | Hệ thống thông tin |\n| 8 | 6210402 | Thiết kế đồ họa |\n| 9 | 6480204 | Tin học viễn thông ứng dụng |",
+    "header": "IV. ĐIỀU KIỆN TUYỂN SINH",
+    "content": "- Điều kiện: Tốt nghiệp Cao đẳng ngành đúng hoặc ngành gần. - Tiêu chí xét tuyển:\n+ Ngành tốt nghiệp cao đẳng (ngành đúng/ngành gần)\n+ Điểm trung bình tích lũy toàn khóa bậc cao đẳng\nLưu ý: thí sinh tốt nghiệp cao đẳng ngành gần với ngành đào tạo sau khi trúng tuyển phải học bổ túc một số môn học theo quy định của Trường.",
     "chunk_id": "2025-thong-bao-tuyen-sinh-chuong-trinh-lien-thong-trinh-do-dai-hoc-nganh-cong-nghe-thong-tin-nam-2025_chunk_5",
     "field": "tuyển sinh",
     "year": "2025",
     "department": null,
     "keywords": [
-      "httt",
-      "khmt",
-      "ktmt",
-      "tmdt",
+      "tuyensinh",
       "ttnt",
-      "truong"
+      "truong",
+      "hoctap",
+      "giao_duc_pho_thong"
     ],
     "prev_chunk": "2025-thong-bao-tuyen-sinh-chuong-trinh-lien-thong-trinh-do-dai-hoc-nganh-cong-nghe-thong-tin-nam-2025_chunk_4",
     "next_chunk": "2025-thong-bao-tuyen-sinh-chuong-trinh-lien-thong-trinh-do-dai-hoc-nganh-cong-nghe-thong-tin-nam-2025_chunk_6",
@@ -132,8 +126,8 @@
   },
   {
     "title": "[2025] Thông báo tuyển sinh cử nhân liên thông Ngành Công nghệ Thông tin năm 2025",
-    "header": "II. CHỈ TIÊU TUYỂN SINH",
-    "content": "30 chỉ tiêu.",
+    "header": "V. THỜI GIAN ĐÀO TẠO",
+    "content": "tối thiểu 1.5 năm.",
     "chunk_id": "2025-thong-bao-tuyen-sinh-chuong-trinh-lien-thong-trinh-do-dai-hoc-nganh-cong-nghe-thong-tin-nam-2025_chunk_6",
     "field": "tuyển sinh",
     "year": "2025",
@@ -152,14 +146,15 @@
   },
   {
     "title": "[2025] Thông báo tuyển sinh cử nhân liên thông Ngành Công nghệ Thông tin năm 2025",
-    "header": "III. HÌNHTHỨCTUYỂN SINH",
-    "content": "Xét tuyển.",
+    "header": "VI. HÌNH THỨC ĐÀO TẠO",
+    "content": "- Học tập trung theo học chế tín chỉ. - Địa điểm học: 12 Trịnh Đình Thảo, P. Hòa Thạnh, Q. Tân Phú, TP.HCM. - Thời gian học (dự kiến): các buổi tối trong tuần từ thứ Hai đến thứ Bảy.",
     "chunk_id": "2025-thong-bao-tuyen-sinh-chuong-trinh-lien-thong-trinh-do-dai-hoc-nganh-cong-nghe-thong-tin-nam-2025_chunk_7",
     "field": "tuyển sinh",
     "year": "2025",
     "department": null,
     "keywords": [
-      "tuyensinh"
+      "ttnt",
+      "hoctap"
     ],
     "prev_chunk": "2025-thong-bao-tuyen-sinh-chuong-trinh-lien-thong-trinh-do-dai-hoc-nganh-cong-nghe-thong-tin-nam-2025_chunk_6",
     "next_chunk": "2025-thong-bao-tuyen-sinh-chuong-trinh-lien-thong-trinh-do-dai-hoc-nganh-cong-nghe-thong-tin-nam-2025_chunk_8",
@@ -174,19 +169,15 @@
   },
   {
     "title": "[2025] Thông báo tuyển sinh cử nhân liên thông Ngành Công nghệ Thông tin năm 2025",
-    "header": "IV. ĐIỀU KIỆN TUYỂN SINH",
-    "content": "- Điều kiện: Tốt nghiệp Cao đẳng ngành đúng hoặc ngành gần.\n- Tiêu chí xét tuyển:\n+ Ngành tốt nghiệp cao đẳng (ngành đúng/ngành gần)\n+ Điểm trung bình tích lũy toàn khóa bậc cao đẳng\nLưu ý: thí sinh tốt nghiệp cao đẳng ngành gần với ngành đào tạo sau khi trúng tuyển phải học bổ túc một số môn học theo quy định của Trường.",
+    "header": "VII. BẰNG CẤP",
+    "content": "Bằngcử nhânđại học chính quy ngành Công nghệ Thông tin.",
     "chunk_id": "2025-thong-bao-tuyen-sinh-chuong-trinh-lien-thong-trinh-do-dai-hoc-nganh-cong-nghe-thong-tin-nam-2025_chunk_8",
     "field": "tuyển sinh",
     "year": "2025",
     "department": null,
     "keywords": [
-      "tuyensinh",
-      "khmt",
-      "ttnt",
-      "truong",
-      "hoctap",
-      "giao_duc_pho_thong"
+      "cntt",
+      "ttnt"
     ],
     "prev_chunk": "2025-thong-bao-tuyen-sinh-chuong-trinh-lien-thong-trinh-do-dai-hoc-nganh-cong-nghe-thong-tin-nam-2025_chunk_7",
     "next_chunk": "2025-thong-bao-tuyen-sinh-chuong-trinh-lien-thong-trinh-do-dai-hoc-nganh-cong-nghe-thong-tin-nam-2025_chunk_9",
@@ -201,13 +192,15 @@
   },
   {
     "title": "[2025] Thông báo tuyển sinh cử nhân liên thông Ngành Công nghệ Thông tin năm 2025",
-    "header": "V. THỜI GIAN ĐÀO TẠO",
-    "content": "tối thiểu 1.5 năm.",
+    "header": "VIII. HỌC PHÍ DỰ KIẾN",
+    "content": "|  |  |  |\n| --- | --- | --- |\n| Chương trình | Năm học  2025-2026 | Năm học  2026-2027 |\n| Liên thông đại học | 40.000.000 | 20.000.000 (1 HK) |",
     "chunk_id": "2025-thong-bao-tuyen-sinh-chuong-trinh-lien-thong-trinh-do-dai-hoc-nganh-cong-nghe-thong-tin-nam-2025_chunk_9",
     "field": "tuyển sinh",
     "year": "2025",
     "department": null,
-    "keywords": [],
+    "keywords": [
+      "ttnt"
+    ],
     "prev_chunk": "2025-thong-bao-tuyen-sinh-chuong-trinh-lien-thong-trinh-do-dai-hoc-nganh-cong-nghe-thong-tin-nam-2025_chunk_8",
     "next_chunk": "2025-thong-bao-tuyen-sinh-chuong-trinh-lien-thong-trinh-do-dai-hoc-nganh-cong-nghe-thong-tin-nam-2025_chunk_10",
     "source": "Source: cleaned_data/markdown\\2025-thong-bao-tuyen-sinh-chuong-trinh-lien-thong-trinh-do-dai-hoc-nganh-cong-nghe-thong-tin-nam-2025.md",
@@ -221,15 +214,17 @@
   },
   {
     "title": "[2025] Thông báo tuyển sinh cử nhân liên thông Ngành Công nghệ Thông tin năm 2025",
-    "header": "VI. HÌNH THỨC ĐÀO TẠO",
-    "content": "- Học tập trung theo học chế tín chỉ.\n- Địa điểm học: 12 Trịnh Đình Thảo, P. Hòa Thạnh, Q. Tân Phú, TP.HCM.\n- Thời gian học (dự kiến): các buổi tối trong tuần từ thứ Hai đến thứ Bảy.",
+    "header": "IX. ĐĂNGKÝ VÀ NỘP HỒ SƠ DỰ TUYỂN",
+    "content": "1.Thí sinh đăng ký dự tuyển tại cổng tuyển sinh Trường Đại học Công nghệ Thông tin: \n2.Hồ sơ dự tuyển:\n- Đơn đăng ký dự tuyển (theo mẫu). - 01 bản sao hoặc photo công chứng bằng tốt nghiệp cao đẳng. - 01 bản sao hoặc photo công chứng bảng điểm cao đẳng. - Sơ yếu lý lịch có xác nhận của địa phương (đóng dấu giáp lai ảnh 3x4). 3.Hình thức nộp hồ sơ:\nThí sinh nộp hồ sơ trực tiếp hoặc gửi chuyển phát nhanh qua đường bưu điện về địa chỉ:\nPhòng Tuyển sinh và Truyền thông - Trường Cao đẳng Công nghệ Thông tin TP. HCM, 12 Trịnh Đình Thảo, Phường Hòa Thạnh, Quận Tân Phú, TP HCM.",
     "chunk_id": "2025-thong-bao-tuyen-sinh-chuong-trinh-lien-thong-trinh-do-dai-hoc-nganh-cong-nghe-thong-tin-nam-2025_chunk_10",
     "field": "tuyển sinh",
     "year": "2025",
     "department": null,
     "keywords": [
-      "khmt",
+      "tuyensinh",
+      "cntt",
       "ttnt",
+      "truong",
       "hoctap"
     ],
     "prev_chunk": "2025-thong-bao-tuyen-sinh-chuong-trinh-lien-thong-trinh-do-dai-hoc-nganh-cong-nghe-thong-tin-nam-2025_chunk_9",
@@ -245,16 +240,16 @@
   },
   {
     "title": "[2025] Thông báo tuyển sinh cử nhân liên thông Ngành Công nghệ Thông tin năm 2025",
-    "header": "VII. BẰNG CẤP",
-    "content": "Bằngcử nhânđại học chính quy ngành Công nghệ Thông tin.",
+    "header": "IX. ĐĂNGKÝ VÀ NỘP HỒ SƠ DỰ TUYỂN",
+    "content": "4.Thời gian nộp hồ sơ:từ ngày ra thông báo đến hết ngày 07/7/2025. 5.Lệ phí xét tuyển:100.000 đồng. Cách nộp lệ phí: Nộp tiền hoặc chuyển khoản qua tài khoản ngân hàng của Trường. Nội dung nộp tiền thí sinh ghi rõ: “CCCD, Họ và tên, LPXT-LTCQ2025”.",
     "chunk_id": "2025-thong-bao-tuyen-sinh-chuong-trinh-lien-thong-trinh-do-dai-hoc-nganh-cong-nghe-thong-tin-nam-2025_chunk_11",
     "field": "tuyển sinh",
     "year": "2025",
     "department": null,
     "keywords": [
-      "cntt",
-      "khmt",
-      "ttnt"
+      "tuyensinh",
+      "ttnt",
+      "truong"
     ],
     "prev_chunk": "2025-thong-bao-tuyen-sinh-chuong-trinh-lien-thong-trinh-do-dai-hoc-nganh-cong-nghe-thong-tin-nam-2025_chunk_10",
     "next_chunk": "2025-thong-bao-tuyen-sinh-chuong-trinh-lien-thong-trinh-do-dai-hoc-nganh-cong-nghe-thong-tin-nam-2025_chunk_12",
@@ -269,15 +264,16 @@
   },
   {
     "title": "[2025] Thông báo tuyển sinh cử nhân liên thông Ngành Công nghệ Thông tin năm 2025",
-    "header": "VIII. HỌC PHÍ DỰ KIẾN",
-    "content": "|  |  |  |\n| --- | --- | --- |\n| Chương trình | Năm học  2025-2026 | Năm học  2026-2027 |\n| Liên thông đại học | 40.000.000 | 20.000.000 (1 HK) |",
+    "header": "IX. ĐĂNGKÝ VÀ NỘP HỒ SƠ DỰ TUYỂN",
+    "content": "- Tên tài khoản: TRƯỜNG ĐẠI HỌC CÔNG NGHỆ THÔNG TIN\n- Số tài khoản: 314.100.01210304\n- Tại ngân hàng: TMCP Đầu tư và Phát triển Việt Nam (BIDV)\n- Chi nhánh mở tài khoản: Chi nhánh Đông Sài Gòn. - VD: 079012345678, Nguyen Nhat Minh, LPXT-LTCQ2025",
     "chunk_id": "2025-thong-bao-tuyen-sinh-chuong-trinh-lien-thong-trinh-do-dai-hoc-nganh-cong-nghe-thong-tin-nam-2025_chunk_12",
     "field": "tuyển sinh",
     "year": "2025",
     "department": null,
     "keywords": [
-      "khmt",
-      "ttnt"
+      "cntt",
+      "ttnt",
+      "truong"
     ],
     "prev_chunk": "2025-thong-bao-tuyen-sinh-chuong-trinh-lien-thong-trinh-do-dai-hoc-nganh-cong-nghe-thong-tin-nam-2025_chunk_11",
     "next_chunk": "2025-thong-bao-tuyen-sinh-chuong-trinh-lien-thong-trinh-do-dai-hoc-nganh-cong-nghe-thong-tin-nam-2025_chunk_13",
@@ -292,91 +288,14 @@
   },
   {
     "title": "[2025] Thông báo tuyển sinh cử nhân liên thông Ngành Công nghệ Thông tin năm 2025",
-    "header": "IX. ĐĂNGKÝ VÀ NỘP HỒ SƠ DỰ TUYỂN",
-    "content": "1.Thí sinh đăng ký dự tuyển tại cổng tuyển sinh Trường Đại học Công nghệ Thông tin: \n2.Hồ sơ dự tuyển:\n- Đơn đăng ký dự tuyển (theo mẫu).\n- 01 bản sao hoặc photo công chứng bằng tốt nghiệp cao đẳng.\n- 01 bản sao hoặc photo công chứng bảng điểm cao đẳng.\n- Sơ yếu lý lịch có xác nhận của địa phương (đóng dấu giáp lai ảnh 3x4).\n3.Hình thức nộp hồ sơ:\nThí sinh nộp hồ sơ trực tiếp hoặc gửi chuyển phát nhanh qua đường bưu điện về địa chỉ:",
+    "header": "X. KHAIGIẢNG(dự kiến)",
+    "content": "tháng 8/2025.",
     "chunk_id": "2025-thong-bao-tuyen-sinh-chuong-trinh-lien-thong-trinh-do-dai-hoc-nganh-cong-nghe-thong-tin-nam-2025_chunk_13",
     "field": "tuyển sinh",
     "year": "2025",
     "department": null,
-    "keywords": [
-      "tuyensinh",
-      "cntt",
-      "khmt",
-      "ttnt",
-      "truong",
-      "hoctap"
-    ],
-    "prev_chunk": "2025-thong-bao-tuyen-sinh-chuong-trinh-lien-thong-trinh-do-dai-hoc-nganh-cong-nghe-thong-tin-nam-2025_chunk_12",
-    "next_chunk": "2025-thong-bao-tuyen-sinh-chuong-trinh-lien-thong-trinh-do-dai-hoc-nganh-cong-nghe-thong-tin-nam-2025_chunk_14",
-    "source": "Source: cleaned_data/markdown\\2025-thong-bao-tuyen-sinh-chuong-trinh-lien-thong-trinh-do-dai-hoc-nganh-cong-nghe-thong-tin-nam-2025.md",
-    "admission_info": {
-      "dot_tuyen_sinh": null,
-      "phuong_thuc_xet_tuyen": null,
-      "chi_tieu": null,
-      "diem_chuan": null,
-      "nguong_xet": null
-    }
-  },
-  {
-    "title": "[2025] Thông báo tuyển sinh cử nhân liên thông Ngành Công nghệ Thông tin năm 2025",
-    "header": "IX. ĐĂNGKÝ VÀ NỘP HỒ SƠ DỰ TUYỂN",
-    "content": "Phòng Tuyển sinh và Truyền thông - Trường Cao đẳng Công nghệ Thông tin TP. HCM, 12 Trịnh Đình Thảo, Phường Hòa Thạnh, Quận Tân Phú, TP HCM.\n4.Thời gian nộp hồ sơ:từ ngày ra thông báo đến hết ngày 07/7/2025.\n5.Lệ phí xét tuyển:100.000 đồng.\nCách nộp lệ phí: Nộp tiền hoặc chuyển khoản qua tài khoản ngân hàng của Trường. Nội dung nộp tiền thí sinh ghi rõ: “CCCD, Họ và tên, LPXT-LTCQ2025”.\n- Tên tài khoản: TRƯỜNG ĐẠI HỌC CÔNG NGHỆ THÔNG TIN\n- Số tài khoản: 314.100.01210304",
-    "chunk_id": "2025-thong-bao-tuyen-sinh-chuong-trinh-lien-thong-trinh-do-dai-hoc-nganh-cong-nghe-thong-tin-nam-2025_chunk_14",
-    "field": "tuyển sinh",
-    "year": "2025",
-    "department": null,
-    "keywords": [
-      "tuyensinh",
-      "cntt",
-      "khmt",
-      "ttnt",
-      "truong"
-    ],
-    "prev_chunk": "2025-thong-bao-tuyen-sinh-chuong-trinh-lien-thong-trinh-do-dai-hoc-nganh-cong-nghe-thong-tin-nam-2025_chunk_13",
-    "next_chunk": "2025-thong-bao-tuyen-sinh-chuong-trinh-lien-thong-trinh-do-dai-hoc-nganh-cong-nghe-thong-tin-nam-2025_chunk_15",
-    "source": "Source: cleaned_data/markdown\\2025-thong-bao-tuyen-sinh-chuong-trinh-lien-thong-trinh-do-dai-hoc-nganh-cong-nghe-thong-tin-nam-2025.md",
-    "admission_info": {
-      "dot_tuyen_sinh": null,
-      "phuong_thuc_xet_tuyen": null,
-      "chi_tieu": null,
-      "diem_chuan": null,
-      "nguong_xet": null
-    }
-  },
-  {
-    "title": "[2025] Thông báo tuyển sinh cử nhân liên thông Ngành Công nghệ Thông tin năm 2025",
-    "header": "IX. ĐĂNGKÝ VÀ NỘP HỒ SƠ DỰ TUYỂN",
-    "content": "- Số tài khoản: 314.100.01210304\n- Tại ngân hàng: TMCP Đầu tư và Phát triển Việt Nam (BIDV)\n- Chi nhánh mở tài khoản: Chi nhánh Đông Sài Gòn.\n- VD: 079012345678, Nguyen Nhat Minh, LPXT-LTCQ2025",
-    "chunk_id": "2025-thong-bao-tuyen-sinh-chuong-trinh-lien-thong-trinh-do-dai-hoc-nganh-cong-nghe-thong-tin-nam-2025_chunk_15",
-    "field": "tuyển sinh",
-    "year": "2025",
-    "department": null,
-    "keywords": [
-      "khmt",
-      "ttnt",
-      "truong"
-    ],
-    "prev_chunk": "2025-thong-bao-tuyen-sinh-chuong-trinh-lien-thong-trinh-do-dai-hoc-nganh-cong-nghe-thong-tin-nam-2025_chunk_14",
-    "next_chunk": "2025-thong-bao-tuyen-sinh-chuong-trinh-lien-thong-trinh-do-dai-hoc-nganh-cong-nghe-thong-tin-nam-2025_chunk_16",
-    "source": "Source: cleaned_data/markdown\\2025-thong-bao-tuyen-sinh-chuong-trinh-lien-thong-trinh-do-dai-hoc-nganh-cong-nghe-thong-tin-nam-2025.md",
-    "admission_info": {
-      "dot_tuyen_sinh": null,
-      "phuong_thuc_xet_tuyen": null,
-      "chi_tieu": null,
-      "diem_chuan": null,
-      "nguong_xet": null
-    }
-  },
-  {
-    "title": "[2025] Thông báo tuyển sinh cử nhân liên thông Ngành Công nghệ Thông tin năm 2025",
-    "header": "X. KHAIGIẢNG(dự kiến)",
-    "content": "tháng 8/2025.",
-    "chunk_id": "2025-thong-bao-tuyen-sinh-chuong-trinh-lien-thong-trinh-do-dai-hoc-nganh-cong-nghe-thong-tin-nam-2025_chunk_16",
-    "field": "tuyển sinh",
-    "year": "2025",
-    "department": null,
     "keywords": [],
-    "prev_chunk": "2025-thong-bao-tuyen-sinh-chuong-trinh-lien-thong-trinh-do-dai-hoc-nganh-cong-nghe-thong-tin-nam-2025_chunk_15",
+    "prev_chunk": "2025-thong-bao-tuyen-sinh-chuong-trinh-lien-thong-trinh-do-dai-hoc-nganh-cong-nghe-thong-tin-nam-2025_chunk_12",
     "next_chunk": null,
     "source": "Source: cleaned_data/markdown\\2025-thong-bao-tuyen-sinh-chuong-trinh-lien-thong-trinh-do-dai-hoc-nganh-cong-nghe-thong-tin-nam-2025.md",
     "admission_info": {

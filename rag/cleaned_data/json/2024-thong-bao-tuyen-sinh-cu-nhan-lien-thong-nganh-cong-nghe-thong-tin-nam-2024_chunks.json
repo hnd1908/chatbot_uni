@@ -10,7 +10,6 @@
     "keywords": [
       "tuyensinh",
       "cntt",
-      "khmt",
       "ttnt",
       "truong"
     ],
@@ -28,13 +27,12 @@
   {
     "title": "[2024] Thông báo tuyển sinh cử nhân liên thông Ngành Công nghệ Thông tin năm 2024",
     "header": "I. ĐỐI TƯỢNG TUYỂN SINH",
-    "content": "- Là công dân Việt Nam có đủ sức khỏe và không trong thời gian can án hoặc bị truy cứu trách nhiệm hình sự.\n- Đã có bằng tốt nghiệp cao đẳng cùng ngành, nhóm ngành hoặc ngành gần với ngành đào tạo. Trường hợp văn bằng do cơ sở giáo dục nước ngoài hoạt động hợp pháp tại Việt Nam hoặc cơ sở giáo dục hoạt động hợp pháp ở nước ngoài cấp thì văn bằng phải được công nhận theo quy định của Bộ Giáo dục và Đào tạo.",
+    "content": "- Là công dân Việt Nam có đủ sức khỏe và không trong thời gian can án hoặc bị truy cứu trách nhiệm hình sự. - Đã có bằng tốt nghiệp cao đẳng cùng ngành, nhóm ngành hoặc ngành gần với ngành đào tạo. Trường hợp văn bằng do cơ sở giáo dục nước ngoài hoạt động hợp pháp tại Việt Nam hoặc cơ sở giáo dục hoạt động hợp pháp ở nước ngoài cấp thì văn bằng phải được công nhận theo quy định của Bộ Giáo dục và Đào tạo.",
     "chunk_id": "2024-thong-bao-tuyen-sinh-cu-nhan-lien-thong-nganh-cong-nghe-thong-tin-nam-2024_chunk_2",
     "field": "tuyển sinh",
     "year": "2024",
     "department": null,
     "keywords": [
-      "khmt",
       "ttnt",
       "truong",
       "hoctap"
@@ -145,17 +143,18 @@
   {
     "title": "[2024] Thông báo tuyển sinh cử nhân liên thông Ngành Công nghệ Thông tin năm 2024",
     "header": "2. Ngành gần",
-    "content": "| STT | Mã ngành | Tên ngành |\n| --- | --- | --- |\n| 1 | 6480203 | Tin học văn phòng |\n| 2 | 6480213 | Vẽ và thiết kế trên máy tính |\n| 3 | 6480102 | Kỹ thuật sửa chữa, lắp ráp máy tính |\n| 4 | 6480103 | Thiết kế mạch điện tử trên máy tính |\n| 5 | 6480105 | Công nghệ kỹ thuật máy tính |\n| 6 | 6340122 | Thương mại điện tử |\n| 7 | 6320201 | Hệ thống thông tin |\n| 8 | 6210402 | Thiết kế đồ họa |\n| 9 | 6480204 | Tin học viễn thông ứng dụng |",
+    "content": "| STT | Mã ngành | Tên ngành |\n| --- | --- | --- |\n| 1 | 6480203 | Tin học văn phòng |\n| 2 | 6480213 | Vẽ và thiết kế trên máy tính |\n| 3 | 6480102 | Kỹ thuật sửa chữa, lắp ráp máy tính |\n| 4 | 6480103 | Thiết kế mạch điện tử trên máy tính |\n| 5 | 6480105 | Công nghệ kỹ thuật máy tính |\n| 6 | 6340122 | Thương mại điện tử |\n| 7 | 6320201 | Hệ thống thông tin |\n| 8 | 6210402 | Thiết kế đồ họa |\n| 9 | 6480204 | Tin học viễn thông ứng dụng |\nLưu ý: thí sinh tốt nghiệp cao đẳng ngành gần với ngành đào tạo sau khi trúng tuyển phải học bổ túc một số môn học theo quy định của Trường.",
     "chunk_id": "2024-thong-bao-tuyen-sinh-cu-nhan-lien-thong-nganh-cong-nghe-thong-tin-nam-2024_chunk_7",
     "field": "tuyển sinh",
     "year": "2024",
     "department": null,
     "keywords": [
       "httt",
-      "khmt",
       "ktmt",
       "tmdt",
-      "ttnt"
+      "ttnt",
+      "truong",
+      "hoctap"
     ],
     "prev_chunk": "2024-thong-bao-tuyen-sinh-cu-nhan-lien-thong-nganh-cong-nghe-thong-tin-nam-2024_chunk_6",
     "next_chunk": "2024-thong-bao-tuyen-sinh-cu-nhan-lien-thong-nganh-cong-nghe-thong-tin-nam-2024_chunk_8",
@@ -170,18 +169,13 @@
   },
   {
     "title": "[2024] Thông báo tuyển sinh cử nhân liên thông Ngành Công nghệ Thông tin năm 2024",
-    "header": "2. Ngành gần",
-    "content": "| 9 | 6480204 | Tin học viễn thông ứng dụng |\nLưu ý: thí sinh tốt nghiệp cao đẳng ngành gần với ngành đào tạo sau khi trúng tuyển phải học bổ túc một số môn học theo quy định của Trường.",
+    "header": "V. THỜI GIAN ĐÀO TẠO",
+    "content": "tối thiểu 1.5 năm.",
     "chunk_id": "2024-thong-bao-tuyen-sinh-cu-nhan-lien-thong-nganh-cong-nghe-thong-tin-nam-2024_chunk_8",
     "field": "tuyển sinh",
     "year": "2024",
     "department": null,
-    "keywords": [
-      "khmt",
-      "ttnt",
-      "truong",
-      "hoctap"
-    ],
+    "keywords": [],
     "prev_chunk": "2024-thong-bao-tuyen-sinh-cu-nhan-lien-thong-nganh-cong-nghe-thong-tin-nam-2024_chunk_7",
     "next_chunk": "2024-thong-bao-tuyen-sinh-cu-nhan-lien-thong-nganh-cong-nghe-thong-tin-nam-2024_chunk_9",
     "source": "Source: cleaned_data/markdown\\2024-thong-bao-tuyen-sinh-cu-nhan-lien-thong-nganh-cong-nghe-thong-tin-nam-2024.md",
@@ -195,13 +189,16 @@
   },
   {
     "title": "[2024] Thông báo tuyển sinh cử nhân liên thông Ngành Công nghệ Thông tin năm 2024",
-    "header": "V. THỜI GIAN ĐÀO TẠO",
-    "content": "tối thiểu 1.5 năm.",
+    "header": "VI. HÌNH THỨC HỌC TẬP",
+    "content": "- Học tập trung theo học chế tín chỉ. - Địa điểm học: 12 Trịnh Đình Thảo, P. Hòa Thạnh, Q. Tân Phú, TP.HCM. - Thời gian học (dự kiến): các buổi tối trong tuần từ thứ Hai đến thứ Bảy.",
     "chunk_id": "2024-thong-bao-tuyen-sinh-cu-nhan-lien-thong-nganh-cong-nghe-thong-tin-nam-2024_chunk_9",
     "field": "tuyển sinh",
     "year": "2024",
     "department": null,
-    "keywords": [],
+    "keywords": [
+      "ttnt",
+      "hoctap"
+    ],
     "prev_chunk": "2024-thong-bao-tuyen-sinh-cu-nhan-lien-thong-nganh-cong-nghe-thong-tin-nam-2024_chunk_8",
     "next_chunk": "2024-thong-bao-tuyen-sinh-cu-nhan-lien-thong-nganh-cong-nghe-thong-tin-nam-2024_chunk_10",
     "source": "Source: cleaned_data/markdown\\2024-thong-bao-tuyen-sinh-cu-nhan-lien-thong-nganh-cong-nghe-thong-tin-nam-2024.md",
@@ -215,16 +212,15 @@
   },
   {
     "title": "[2024] Thông báo tuyển sinh cử nhân liên thông Ngành Công nghệ Thông tin năm 2024",
-    "header": "VI. HÌNH THỨC HỌC TẬP",
-    "content": "- Học tập trung theo học chế tín chỉ.\n- Địa điểm học: 12 Trịnh Đình Thảo, P. Hòa Thạnh, Q. Tân Phú, TP.HCM.\n- Thời gian học (dự kiến): các buổi tối trong tuần từ thứ Hai đến thứ Bảy.",
+    "header": "VII. BẰNG CẤP",
+    "content": "Bằng cử nhân đại học chính quy ngành CNTT.",
     "chunk_id": "2024-thong-bao-tuyen-sinh-cu-nhan-lien-thong-nganh-cong-nghe-thong-tin-nam-2024_chunk_10",
     "field": "tuyển sinh",
     "year": "2024",
     "department": null,
     "keywords": [
-      "khmt",
-      "ttnt",
-      "hoctap"
+      "cntt",
+      "ttnt"
     ],
     "prev_chunk": "2024-thong-bao-tuyen-sinh-cu-nhan-lien-thong-nganh-cong-nghe-thong-tin-nam-2024_chunk_9",
     "next_chunk": "2024-thong-bao-tuyen-sinh-cu-nhan-lien-thong-nganh-cong-nghe-thong-tin-nam-2024_chunk_11",
@@ -239,17 +235,13 @@
   },
   {
     "title": "[2024] Thông báo tuyển sinh cử nhân liên thông Ngành Công nghệ Thông tin năm 2024",
-    "header": "VII. BẰNG CẤP",
-    "content": "Bằng cử nhân đại học chính quy ngành CNTT.",
+    "header": "VIII. HỌC PHÍ",
+    "content": "- Năm 1 : 40.000.000 đồng/năm. - Học kỳ cuối : 20.000.000 đồng/học kỳ.",
     "chunk_id": "2024-thong-bao-tuyen-sinh-cu-nhan-lien-thong-nganh-cong-nghe-thong-tin-nam-2024_chunk_11",
     "field": "tuyển sinh",
     "year": "2024",
     "department": null,
-    "keywords": [
-      "cntt",
-      "khmt",
-      "ttnt"
-    ],
+    "keywords": [],
     "prev_chunk": "2024-thong-bao-tuyen-sinh-cu-nhan-lien-thong-nganh-cong-nghe-thong-tin-nam-2024_chunk_10",
     "next_chunk": "2024-thong-bao-tuyen-sinh-cu-nhan-lien-thong-nganh-cong-nghe-thong-tin-nam-2024_chunk_12",
     "source": "Source: cleaned_data/markdown\\2024-thong-bao-tuyen-sinh-cu-nhan-lien-thong-nganh-cong-nghe-thong-tin-nam-2024.md",
@@ -263,13 +255,18 @@
   },
   {
     "title": "[2024] Thông báo tuyển sinh cử nhân liên thông Ngành Công nghệ Thông tin năm 2024",
-    "header": "VIII. HỌC PHÍ",
-    "content": "- Năm 1 : 40.000.000 đồng/năm.\n- Học kỳ cuối : 20.000.000 đồng/học kỳ.",
+    "header": "IX. ĐĂNGKÝ VÀ NỘP HỒ SƠ DỰ TUYỂN",
+    "content": "1.Thí sinh đăng ký dự tuyển tại cổng tuyển sinh Trường Đại học Công nghệ Thông tin: ",
     "chunk_id": "2024-thong-bao-tuyen-sinh-cu-nhan-lien-thong-nganh-cong-nghe-thong-tin-nam-2024_chunk_12",
     "field": "tuyển sinh",
     "year": "2024",
     "department": null,
-    "keywords": [],
+    "keywords": [
+      "tuyensinh",
+      "cntt",
+      "ttnt",
+      "truong"
+    ],
     "prev_chunk": "2024-thong-bao-tuyen-sinh-cu-nhan-lien-thong-nganh-cong-nghe-thong-tin-nam-2024_chunk_11",
     "next_chunk": "2024-thong-bao-tuyen-sinh-cu-nhan-lien-thong-nganh-cong-nghe-thong-tin-nam-2024_chunk_13",
     "source": "Source: cleaned_data/markdown\\2024-thong-bao-tuyen-sinh-cu-nhan-lien-thong-nganh-cong-nghe-thong-tin-nam-2024.md",
@@ -283,8 +280,8 @@
   },
   {
     "title": "[2024] Thông báo tuyển sinh cử nhân liên thông Ngành Công nghệ Thông tin năm 2024",
-    "header": "IX. ĐĂNGKÝ VÀ NỘP HỒ SƠ DỰ TUYỂN",
-    "content": "1.Thí sinh đăng ký dự tuyển tại cổng tuyển sinh Trường Đại học Công nghệ Thông tin:",
+    "header": "2. Hồ sơ dự tuyển",
+    "content": "- Đơn đăng ký dự tuyển (theo mẫu). - 01 bản sao hoặc photo công chứng bằng tốt nghiệp cao đẳng. - 01 bản sao hoặc photo công chứng bảng điểm cao đẳng. - Sơ yếu lý lịch có xác nhận của địa phương (đóng dấu giáp lai ảnh 3x4). 3.Hình thức nộp hồ sơ:\nThí sinh nộp hồ sơ trực tiếp hoặc gửi chuyển phát nhanh qua đường bưu điện về địa chỉ:\nPhòng Tuyển sinh và Truyền thông - Trường Cao đẳng Công nghệ Thông tin TP. HCM, 12 Trịnh Đình Thảo, Phường Hòa Thạnh, Quận Tân Phú, TP HCM. 4.Thời gian nộp hồ sơ:từ ngày ra thông báo đến hết ngày 10/7/2024. 5.Lệ phí xét tuyển:100.000 đồng. Cách nộp lệ phí: Nộp tiền hoặc chuyển khoản qua tài khoản ngân hàng của Trường. Nội dung nộp tiền thí sinh ghi rõ: “CCCD, Họ và tên, LPXT-LTCQ2024”.",
     "chunk_id": "2024-thong-bao-tuyen-sinh-cu-nhan-lien-thong-nganh-cong-nghe-thong-tin-nam-2024_chunk_13",
     "field": "tuyển sinh",
     "year": "2024",
@@ -292,9 +289,9 @@
     "keywords": [
       "tuyensinh",
       "cntt",
-      "khmt",
       "ttnt",
-      "truong"
+      "truong",
+      "hoctap"
     ],
     "prev_chunk": "2024-thong-bao-tuyen-sinh-cu-nhan-lien-thong-nganh-cong-nghe-thong-tin-nam-2024_chunk_12",
     "next_chunk": "2024-thong-bao-tuyen-sinh-cu-nhan-lien-thong-nganh-cong-nghe-thong-tin-nam-2024_chunk_14",
@@ -310,18 +307,15 @@
   {
     "title": "[2024] Thông báo tuyển sinh cử nhân liên thông Ngành Công nghệ Thông tin năm 2024",
     "header": "2. Hồ sơ dự tuyển",
-    "content": "- Đơn đăng ký dự tuyển (theo mẫu).\n- 01 bản sao hoặc photo công chứng bằng tốt nghiệp cao đẳng.\n- 01 bản sao hoặc photo công chứng bảng điểm cao đẳng.\n- Sơ yếu lý lịch có xác nhận của địa phương (đóng dấu giáp lai ảnh 3x4).\n3.Hình thức nộp hồ sơ:\nThí sinh nộp hồ sơ trực tiếp hoặc gửi chuyển phát nhanh qua đường bưu điện về địa chỉ:\nPhòng Tuyển sinh và Truyền thông - Trường Cao đẳng Công nghệ Thông tin TP. HCM, 12 Trịnh Đình Thảo, Phường Hòa Thạnh, Quận Tân Phú, TP HCM.",
+    "content": "- Tên tài khoản: TRƯỜNG ĐẠI HỌC CÔNG NGHỆ THÔNG TIN\n- Số tài khoản: 314.100.01210304\n- Tại ngân hàng: TMCP Đầu tư và Phát triển Việt Nam (BIDV)\n- Chi nhánh mở tài khoản: Chi nhánh Đông Sài Gòn. - VD: 079012345678, Nguyen Nhat Minh, LPXT-LTCQ2024",
     "chunk_id": "2024-thong-bao-tuyen-sinh-cu-nhan-lien-thong-nganh-cong-nghe-thong-tin-nam-2024_chunk_14",
     "field": "tuyển sinh",
     "year": "2024",
     "department": null,
     "keywords": [
-      "tuyensinh",
       "cntt",
-      "khmt",
       "ttnt",
-      "truong",
-      "hoctap"
+      "truong"
     ],
     "prev_chunk": "2024-thong-bao-tuyen-sinh-cu-nhan-lien-thong-nganh-cong-nghe-thong-tin-nam-2024_chunk_13",
     "next_chunk": "2024-thong-bao-tuyen-sinh-cu-nhan-lien-thong-nganh-cong-nghe-thong-tin-nam-2024_chunk_15",
@@ -336,40 +330,14 @@
   },
   {
     "title": "[2024] Thông báo tuyển sinh cử nhân liên thông Ngành Công nghệ Thông tin năm 2024",
-    "header": "2. Hồ sơ dự tuyển",
-    "content": "4.Thời gian nộp hồ sơ:từ ngày ra thông báo đến hết ngày 10/7/2024.\n5.Lệ phí xét tuyển:100.000 đồng.\nCách nộp lệ phí: Nộp tiền hoặc chuyển khoản qua tài khoản ngân hàng của Trường. Nội dung nộp tiền thí sinh ghi rõ: “CCCD, Họ và tên, LPXT-LTCQ2024”.\n- Tên tài khoản: TRƯỜNG ĐẠI HỌC CÔNG NGHỆ THÔNG TIN\n- Số tài khoản: 314.100.01210304\n- Tại ngân hàng: TMCP Đầu tư và Phát triển Việt Nam (BIDV)\n- Chi nhánh mở tài khoản: Chi nhánh Đông Sài Gòn.\n- VD: 079012345678, Nguyen Nhat Minh, LPXT-LTCQ2024",
+    "header": "X. K HAIGIẢNG(dự kiến)",
+    "content": "tháng 8/2024.",
     "chunk_id": "2024-thong-bao-tuyen-sinh-cu-nhan-lien-thong-nganh-cong-nghe-thong-tin-nam-2024_chunk_15",
     "field": "tuyển sinh",
     "year": "2024",
     "department": null,
-    "keywords": [
-      "tuyensinh",
-      "cntt",
-      "khmt",
-      "ttnt",
-      "truong"
-    ],
-    "prev_chunk": "2024-thong-bao-tuyen-sinh-cu-nhan-lien-thong-nganh-cong-nghe-thong-tin-nam-2024_chunk_14",
-    "next_chunk": "2024-thong-bao-tuyen-sinh-cu-nhan-lien-thong-nganh-cong-nghe-thong-tin-nam-2024_chunk_16",
-    "source": "Source: cleaned_data/markdown\\2024-thong-bao-tuyen-sinh-cu-nhan-lien-thong-nganh-cong-nghe-thong-tin-nam-2024.md",
-    "admission_info": {
-      "dot_tuyen_sinh": null,
-      "phuong_thuc_xet_tuyen": null,
-      "chi_tieu": null,
-      "diem_chuan": null,
-      "nguong_xet": null
-    }
-  },
-  {
-    "title": "[2024] Thông báo tuyển sinh cử nhân liên thông Ngành Công nghệ Thông tin năm 2024",
-    "header": "X. K HAIGIẢNG(dự kiến)",
-    "content": "tháng 8/2024.",
-    "chunk_id": "2024-thong-bao-tuyen-sinh-cu-nhan-lien-thong-nganh-cong-nghe-thong-tin-nam-2024_chunk_16",
-    "field": "tuyển sinh",
-    "year": "2024",
-    "department": null,
     "keywords": [],
-    "prev_chunk": "2024-thong-bao-tuyen-sinh-cu-nhan-lien-thong-nganh-cong-nghe-thong-tin-nam-2024_chunk_15",
+    "prev_chunk": "2024-thong-bao-tuyen-sinh-cu-nhan-lien-thong-nganh-cong-nghe-thong-tin-nam-2024_chunk_14",
     "next_chunk": null,
     "source": "Source: cleaned_data/markdown\\2024-thong-bao-tuyen-sinh-cu-nhan-lien-thong-nganh-cong-nghe-thong-tin-nam-2024.md",
     "admission_info": {
