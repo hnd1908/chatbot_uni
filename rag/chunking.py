@@ -3,31 +3,29 @@ import re
 import sys
 import json
 from pathlib import Path
-from langchain.text_splitter import RecursiveCharacterTextSplitter
+from langchain_experimental.text_splitter import SemanticChunker
+from langchain.text_splitter import RecursiveCharacterTextSplitter, TokenTextSplitter
+from sentence_transformers import SentenceTransformer
+from pyvi.ViTokenizer import tokenize
 from datetime import datetime
 from unidecode import unidecode
+from dotenv import load_dotenv
+
+load_dotenv()
+
+class LocalEmbeddings:
+    def __init__(self, model_name="VoVanPhuc/sup-SimCSE-VietNamese-phobert-base"):
+        self.model = SentenceTransformer(model_name)
+    def embed_documents(self, texts):
+        return self.model.encode(texts, convert_to_numpy=True).tolist()
+    def embed_query(self, text):
+        return self.model.encode([text], convert_to_numpy=True)[0].tolist()
 
 def extract_year_from_filename(filename):
-    """
-    Trích xuất năm từ tên file Markdown (giả định tên file có định dạng chứa năm).
-
-    Args:
-        filename (str): Tên file Markdown.
-
-    Returns:
-        str: Năm được trích xuất, hoặc None nếu không tìm thấy.
-    """
     match = re.search(r'20\d{2}', filename)
     return match.group(0) if match else None
 
 def count_keywords_by_category(text, keywords_dict):
-    """
-    Đếm số từ khóa theo từng danh mục trong văn bản. Hỗ trợ so khớp không dấu.
-    
-    Returns:
-        category_counts (dict): Số từ khóa theo danh mục.
-        found_keywords (dict): Từ khóa đã tìm thấy theo danh mục.
-    """
     category_counts = {}
     found_keywords = {}
     
@@ -51,12 +49,6 @@ def count_keywords_by_category(text, keywords_dict):
     return category_counts, found_keywords
 
 def determine_field_from_keywords(text, keywords_dict):
-    """
-    Xác định lĩnh vực của văn bản dựa trên vị trí xuất hiện đầu tiên của từ khóa trong text.
-
-    Returns:
-        tuple: (field, category_counts, all_found_keywords, department)
-    """
     nganh_categories = ["attt", "cntt", "httt", "khdl", "khmt", "ktmt", "ktpm", 
                         "mmtvttdl", "tkvm", "tmdt", "ttnt", "ttdpt"]
 
@@ -75,12 +67,10 @@ def determine_field_from_keywords(text, keywords_dict):
         "ttdpt": "Truyền thông đa phương tiện"
     }
 
-    # Chuẩn hóa văn bản: bỏ dấu để khớp với từ khóa không dấu
     text_no_accent = unidecode(text.lower())
 
     category_counts, found_keywords = count_keywords_by_category(text, keywords_dict)
 
-    # Gộp ngành học
     nganh_count = sum(category_counts.get(cat, 0) for cat in nganh_categories)
     grouped_counts = category_counts.copy()
     for cat in nganh_categories:
@@ -91,12 +81,10 @@ def determine_field_from_keywords(text, keywords_dict):
     for kw_list in found_keywords.values():
         all_found_keywords.extend(kw_list)
 
-    # Tìm vị trí xuất hiện đầu tiên của bất kỳ từ khóa nào trong text
     first_pos = len(text_no_accent) + 1
     selected_category = None
     selected_nganh = None
 
-    # Kiểm tra các ngành học trước
     for cat in nganh_categories:
         for kw in keywords_dict.get(cat, []):
             idx = text_no_accent.find(unidecode(kw.lower()))
@@ -105,7 +93,6 @@ def determine_field_from_keywords(text, keywords_dict):
                 selected_category = "ngành học"
                 selected_nganh = cat
 
-    # Kiểm tra các category còn lại
     for category, keywords in keywords_dict.items():
         if category in nganh_categories:
             continue
@@ -116,7 +103,6 @@ def determine_field_from_keywords(text, keywords_dict):
                 selected_category = category
                 selected_nganh = None
 
-    # Luôn trả về department nếu xác định được ngành/khoa
     department = None
     if selected_nganh:
         department = nganh_name_map.get(selected_nganh, selected_nganh)
@@ -135,16 +121,6 @@ def determine_field_from_keywords(text, keywords_dict):
     return "ngoài lề", category_counts, all_found_keywords, department
 
 def get_keywords(text, keywords_dict):
-    """
-    Lấy tất cả các từ khóa từ keywords_dict xuất hiện trong văn bản.
-
-    Args:
-        text (str): Chuỗi văn bản để tìm kiếm từ khóa.
-        keywords_dict (dict): Từ điển chứa các từ khóa theo danh mục.
-
-    Returns:
-        list: Danh sách tất cả các từ khóa được tìm thấy trong văn bản.
-    """
     text_lower = text.lower()
     found_keywords = set()
 
@@ -156,50 +132,23 @@ def get_keywords(text, keywords_dict):
     return list(found_keywords)
 
 def determine_field_from_filename(filename, keywords_dict):
-    """
-    Xác định field dựa trên tên file (basename).
-
-    Args:
-        filename (str): Tên file Markdown.
-        keywords_dict (dict): Từ điển chứa các từ khóa theo danh mục.
-
-    Returns:
-        tuple: (field, category_counts, all_found_keywords, department)
-    """
     text = filename.lower().replace("_", " ").replace("-", " ")
     print(text)
     return determine_field_from_keywords(text, keywords_dict)
 
 
 def chunk_markdown(content, source_file, keywords_dict, output_dir):
-    """
-    Chia nội dung Markdown thành các đoạn nhỏ (chunks) và tạo metadata,
-    trích xuất source từ dòng cuối cùng của file và thông tin từ tên file.
-
-    Args:
-        content (str): Nội dung Markdown cần chia.
-        source_file (str): Đường dẫn đến file Markdown nguồn.
-        keywords_dict (dict): Từ điển chứa các từ khóa.
-        output_dir (str): Đường dẫn đến thư mục output cho file JSON.
-
-    Returns:
-        list: Danh sách các chunk, mỗi chunk là một dictionary chứa nội dung và metadata.
-    """
     filename = Path(source_file).name
-    title_line = Path(source_file).stem.replace("_", " ").title() # Lấy title từ tên file mặc định
+    title_line = Path(source_file).stem.replace("_", " ").title()
     year = extract_year_from_filename(filename)
 
-    # Xác định field cho toàn bộ văn bản
     field, category_counts, _, filename_department = determine_field_from_filename(filename, keywords_dict)
 
-    
     lines = content.splitlines()
 
-    # Trích xuất title từ nội dung nếu có
     if lines and lines[0].startswith("#"):
         title_line = lines[0].replace("#", "").strip()
 
-    # Trích xuất source từ dòng cuối cùng
     source = None
     if lines and lines[-1].startswith("Source:"):
         source = lines[-1].replace("Source:", "").strip()
@@ -239,26 +188,20 @@ def chunk_markdown(content, source_file, keywords_dict, output_dir):
     if current_chunk_lines:
         chunks.append((current_header, "\n".join(current_chunk_lines)))
 
-    splitter = RecursiveCharacterTextSplitter(
-        chunk_size=400,
-        chunk_overlap=50,
-        separators=["\n\n", "\n", ". ", "! ", "? ", ", ", " ", ""]
-    )
-
+    splitter = SemanticChunker(LocalEmbeddings(), breakpoint_threshold_type="interquartile", breakpoint_threshold_amount=1.2,buffer_size=5)
     result = []
     chunk_counter = 0
 
     for header, chunk_text in chunks:
         sub_chunks = splitter.split_text(chunk_text)
+        
         for sub_text in sub_chunks:
             chunk_counter += 1
             chunk_id = f"{Path(source_file).stem}_chunk_{chunk_counter}"
-        
+
+            department = filename_department
             category_counts, _ = count_keywords_by_category(sub_text, keywords_dict)
             found_keywords = list(category_counts.keys())
-            
-            department = filename_department
-
             metadata = {
                 "title": title_line,
                 "header": header,
@@ -284,28 +227,14 @@ def chunk_markdown(content, source_file, keywords_dict, output_dir):
     return result
 
 def save_chunks_to_json(chunks, output_path):
-    """
-    Lưu danh sách các chunk vào file JSON.
-
-    Args:
-        chunks (list): Danh sách các chunk.
-        output_path (str): Đường dẫn đến file JSON đầu ra.
-    """
     with open(output_path, "w", encoding="utf-8") as f:
         json.dump(chunks, f, ensure_ascii=False, indent=2)
 
 def main():
-    """
-    Hàm chính của chương trình.
-    """
     markdown_dir = "cleaned_data/markdown"
     output_dir = "cleaned_data/json"
     keywords_file = "keywords.py"
-
-    # Tạo thư mục output nếu chưa tồn tại
     os.makedirs(output_dir, exist_ok=True)
-
-    # Load keywords
     keywords_dict = {}
     try:
         script_dir = os.path.dirname(os.path.abspath(__file__))

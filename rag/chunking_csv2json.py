@@ -11,7 +11,7 @@ def clean_float(val):
     except:
         return None
 
-def detect_field_from_name(name: str) -> str:
+def detect_department_from_name(name: str) -> str:
     name_lower = name.lower()
     if "trí tuệ nhân tạo" in name_lower or "ai" in name_lower:
         return "ttnt"
@@ -39,7 +39,6 @@ def detect_field_from_name(name: str) -> str:
 def chunk_multi_year_csv(csv_path: str, output_path: str):
     chunks = []
     current_year = None
-    department = "UIT"
     source = "https://tuyensinh.uit.edu.vn/diem-chuan-cua-truong-dh-cong-nghe-thong-tin-qua-cac-nam"
 
     with open(csv_path, encoding="utf-8") as f:
@@ -65,16 +64,17 @@ def chunk_multi_year_csv(csv_path: str, output_path: str):
             except IndexError:
                 continue
 
-            content = (
-                f"Mã ngành: {ma_nganh}\n"
-                f"Tên ngành: {ten_nganh}\n"
-                f"Tổ hợp: {to_hop}\n"
-                f"Điểm chuẩn: {diem_chuan}\n"
-                f"Điểm ĐGNL: {diem_dgnl}"
+            # Tạo mô tả tự nhiên cho chunk
+            description = (
+                f"Năm {current_year}, ngành {ten_nganh} (mã ngành {ma_nganh}) "
+                f"có điểm chuẩn là {diem_chuan}, điểm ĐGNL là {diem_dgnl}, "
+                f"tổ hợp môn xét tuyển: {to_hop}. "
+                f"Phương thức xét tuyển: điểm thi THPT và ĐGNL."
             )
 
             chunk_id = str(uuid.uuid4())
-            field = detect_field_from_name(ten_nganh)
+            department = detect_department_from_name(ten_nganh)
+            field = "tuyển sinh"
             title_line = f"Ngành {ten_nganh}"
             header = f"Năm {current_year} - Mã ngành: {ma_nganh}"
 
@@ -88,11 +88,12 @@ def chunk_multi_year_csv(csv_path: str, output_path: str):
             # Lấy keywords từ keywords_dict (nếu có), đồng thời bổ sung mã ngành, tên ngành, tổ hợp môn
             found_keywords = [field] if field else []
             found_keywords += ["diem", "tuyensinh"]
-            
+            found_keywords += [ma_nganh, ten_nganh, to_hop]
+
             chunk = {
                 "title": title_line,
                 "header": header,
-                "content": content,
+                "content": description,  # Dùng description để embedding
                 "chunk_id": chunk_id,
                 "field": field,
                 "year": str(current_year),
