@@ -9,8 +9,7 @@ keywords_dict = {
     "diem": [
         "diem chuan", "diem trung tuyen", "muc diem", "diem san", "điểm chuẩn",
         "điểm trúng tuyển", "mức điểm", "điểm sàn", "điểm thi đánh giá năng lực",
-        "điểm thi THPT", "điểm đh", "điểm đại học", "kết quả thi THPT", "thpt", "thi thpt",
-        "dgnl", "đgnl"
+        "điểm thi THPT", "điểm đh", "điểm đại học"
     ],
     "attt": [
         "An toàn thông tin", "ATTT", "an ninh mạng", "bảo mật", "phần mềm độc hại", 
@@ -22,15 +21,14 @@ keywords_dict = {
     ],
     "httt": [
         "Hệ Thống Thông Tin", "HTTT", "quản lý", "phân tích hệ thống", 
-        "thiết kế hệ thống", "ERP", "thương mại điện tử"
+        "thiết kế hệ thống", "ERP"
     ],
     "khdl": [
         "Khoa học dữ liệu", "KHDL", "phân tích dữ liệu", "máy học", "dữ liệu lớn", 
         "khai thác dữ liệu", "ứng dụng dữ liệu"
     ],
     "khmt": [
-        "Khoa học Máy tính", "KHMT", "Trí tuệ nhân tạo", "AI", "máy học", 
-        "thị giác máy tính", "xử lý ngôn ngữ tự nhiên", "ứng dụng thông minh"
+        "Khoa học Máy tính", "KHMT", "thị giác máy tính", "xử lý ngôn ngữ tự nhiên", "ứng dụng thông minh"
     ],
     "ktmt": [
         "Kỹ thuật Máy tính", "KTMT", "thiết kế phần cứng", "hệ thống nhúng", 
@@ -41,7 +39,7 @@ keywords_dict = {
         "kiểm thử phần mềm", "quản lý dự án phần mềm"
     ],
     "mmtvttdl": [
-        "Mạng máy tính", "truyền thông dữ liệu", "Internet of Things", "IoT", 
+        "Mạng máy tính", "truyền thông dữ liệu", "Internet of Things", 
         "kết nối mạng", "ứng dụng IoT", "bảo mật mạng"
     ],
     "tkvm": [
@@ -53,7 +51,7 @@ keywords_dict = {
         "tiếp thị trực tuyến", "quản trị TMĐT", "nền tảng TMĐT"
     ],
     "ttnt": [
-        "Trí tuệ nhân tạo", "AI", "máy học", "ứng dụng AI", "phân tích AI", 
+        "Trí tuệ nhân tạo", "AI", "ứng dụng AI", "phân tích AI", 
         "hệ thống thông minh", "học sâu"
     ],
     "ttdpt": [
@@ -89,10 +87,10 @@ keywords_dict = {
         "giảng viên cơ hữu", "giảng viên thỉnh giảng"
     ],
     "ngoai_le": [
-        "bootcamp", "sự kiện", "uni-tour", "tour", "hành trình",
-        "khám phá", "thcs", "thpt", "hoạt động ngoại khóa",
-        "trại hè", "định hướng nghề nghiệp", "talkshow", "workshop",
-        "chuỗi sự kiện", "giao lưu", "tư vấn tuyển sinh", "triển lãm giáo dục"
+        "bootcamp", "hành trình",
+        "khám phá", "hoạt động ngoại khóa",
+        "trại hè", "talkshow", "workshop",
+        "chuỗi sự kiện", "giao lưu", "triển lãm giáo dục"
     ],
     "hoc_bong": [
         "học bổng", "học bổng toàn phần", "học bổng bán phần", "học bổng khuyến khích",
