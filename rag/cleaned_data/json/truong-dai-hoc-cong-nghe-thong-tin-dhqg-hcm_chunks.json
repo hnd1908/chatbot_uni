@@ -15,10 +15,7 @@
       "hoctap",
       "giang_vien_va_can_bo"
     ],
-    "prev_chunk": null,
-    "next_chunk": "truong-dai-hoc-cong-nghe-thong-tin-dhqg-hcm_chunk_2",
-    "source": "Source: cleaned_data/markdown\\truong-dai-hoc-cong-nghe-thong-tin-dhqg-hcm.md",
-    "admission_info": {}
+    "source": "cleaned_data\\markdown\\truong-dai-hoc-cong-nghe-thong-tin-dhqg-hcm.md"
   },
   {
     "title": "Trường Đại học Công nghệ Thông tin",
@@ -34,10 +31,7 @@
       "ttnt",
       "truong"
     ],
-    "prev_chunk": "truong-dai-hoc-cong-nghe-thong-tin-dhqg-hcm_chunk_1",
-    "next_chunk": "truong-dai-hoc-cong-nghe-thong-tin-dhqg-hcm_chunk_3",
-    "source": "Source: cleaned_data/markdown\\truong-dai-hoc-cong-nghe-thong-tin-dhqg-hcm.md",
-    "admission_info": {}
+    "source": "cleaned_data\\markdown\\truong-dai-hoc-cong-nghe-thong-tin-dhqg-hcm.md"
   },
   {
     "title": "Trường Đại học Công nghệ Thông tin",
@@ -54,16 +48,31 @@
       "truong",
       "giang_vien_va_can_bo"
     ],
-    "prev_chunk": "truong-dai-hoc-cong-nghe-thong-tin-dhqg-hcm_chunk_2",
-    "next_chunk": "truong-dai-hoc-cong-nghe-thong-tin-dhqg-hcm_chunk_4",
-    "source": "Source: cleaned_data/markdown\\truong-dai-hoc-cong-nghe-thong-tin-dhqg-hcm.md",
-    "admission_info": {}
+    "source": "cleaned_data\\markdown\\truong-dai-hoc-cong-nghe-thong-tin-dhqg-hcm.md"
   },
   {
     "title": "Trường Đại học Công nghệ Thông tin",
     "header": "2. Chương trình Tiên tiến",
-    "content": "Chương trình Tiên tiến cho bậc Đại học, ngành Hệ thống Thông tin với mục tiêu:\n Xây dựng chương trình đào tạo bậc Đại học tiếp cận với trình độ của các trường đại học tiên tiến trên thế giới. Tạo điều kiện giao lưu và hội nhập trong đào tạo và nghiên cứu khoa học; nâng cấp môt cách đồng bộ công tác tổ chức đào tạo, trình độ chuyên môn của cán bộ quản lý và cán bộ giảng dạy. Sinh viên được tiếp thu kiến thức và nâng cao trình độ một cách có hệ thống, tạo điều kiện phát triển khả năng tư duy, rèn luyện kỹ năng nghề nghiệp, ngoại ngữ để khi tốt nghiệp có trình độ chuyên môn và ngoại ngữ đáp ứng được yêu cầu của xã hội. Xây dựng và nâng cấp cơ sở vật chất phục vụ đào tạo, thúc đẩy hoạt động nghiên cứu khoa học công nghệ và hợp tác quốc tế. Việc áp dụng thành công mô hình đào tạo này sẽ là cơ sở để tạo ra bước đột phá nhằm đổi mới một cách toàn diện hoạt động đào tạo của Nhà trường và xúc tiến hiệu quả các hoạt động hợp tác quốc tế. Các ứng viên tự nguyện tham gia chương trình phải đáp ứng các yêu cầu sau:\n Đã tốt nghiệp Trung học phổ thông. Đáp ứng được 01 trong 06 phương thức tuyển sinh dưới đây:\n  + Thuộc dạng tuyển thẳng và ưu tiên xét tuyển theo quy định của Bộ GD&ĐT và của ĐHQG TP.HCM;\n  + Ưu tiên xét tuyển theo quy định của ĐHQG TP.HCM;\n  + Đã tham gia kỳ thi Trung học Phổ thông quốc gia có tổng điểm của một trong ba tổ hợp môn TOÁN - LÝ - TIẾNG ANH (Khối A01), tổ hợp môn TOÁN - NGỮ VĂN - TIẾNG ANH (Khối D01) hoặc tổ hợp môn TOÁN - HÓA - TIẾNG ANH (Khối D07) đạt điểm chuẩn của Trường ĐH Công nghệ Thông tin trở lên. + Đã tham gia kỳ thi Đánh giá năng lực của ĐHQG TP.HCM đạt điểm chuẩn của Trường ĐH Công nghệ Thông tin trở lên. + Ưu tiên xét tuyển thẳng theo quy định của Trường ĐH Công nghệ Thông tin. + Xét tuyển dựa trên chứng chỉ quốc tế uy tín. - Chứng chỉ SAT từ 510 mỗi phần thi. - Chứng chỉ ACT có điểm trung bình từ 21. - AS/A level từ C-A mỗi môn thi. - Tú tài quốc tế (IB) có tổng điểm từ 21 trở lên. - Các văn bằng, chứng chỉ quốc tế uy tín khác được Hội đồng tuyển sinh chấp thuận.",
+    "content": "Chương trình Tiên tiến cho bậc Đại học, ngành Hệ thống Thông tin với mục tiêu:\n Xây dựng chương trình đào tạo bậc Đại học tiếp cận với trình độ của các trường đại học tiên tiến trên thế giới. Tạo điều kiện giao lưu và hội nhập trong đào tạo và nghiên cứu khoa học; nâng cấp môt cách đồng bộ công tác tổ chức đào tạo, trình độ chuyên môn của cán bộ quản lý và cán bộ giảng dạy. Sinh viên được tiếp thu kiến thức và nâng cao trình độ một cách có hệ thống, tạo điều kiện phát triển khả năng tư duy, rèn luyện kỹ năng nghề nghiệp, ngoại ngữ để khi tốt nghiệp có trình độ chuyên môn và ngoại ngữ đáp ứng được yêu cầu của xã hội. Xây dựng và nâng cấp cơ sở vật chất phục vụ đào tạo, thúc đẩy hoạt động nghiên cứu khoa học công nghệ và hợp tác quốc tế. Việc áp dụng thành công mô hình đào tạo này sẽ là cơ sở để tạo ra bước đột phá nhằm đổi mới một cách toàn diện hoạt động đào tạo của Nhà trường và xúc tiến hiệu quả các hoạt động hợp tác quốc tế. Các ứng viên tự nguyện tham gia chương trình phải đáp ứng các yêu cầu sau:\n Đã tốt nghiệp Trung học phổ thông.",
     "chunk_id": "truong-dai-hoc-cong-nghe-thong-tin-dhqg-hcm_chunk_4",
+    "field": "trường",
+    "year": null,
+    "department": null,
+    "keywords": [
+      "httt",
+      "ttnt",
+      "truong",
+      "hoctap",
+      "giang_vien_va_can_bo",
+      "ngoai_le"
+    ],
+    "source": "cleaned_data\\markdown\\truong-dai-hoc-cong-nghe-thong-tin-dhqg-hcm.md"
+  },
+  {
+    "title": "Trường Đại học Công nghệ Thông tin",
+    "header": "2. Chương trình Tiên tiến",
+    "content": "Đáp ứng được 01 trong 06 phương thức tuyển sinh dưới đây:\n  + Thuộc dạng tuyển thẳng và ưu tiên xét tuyển theo quy định của Bộ GD&ĐT và của ĐHQG TP.HCM;\n  + Ưu tiên xét tuyển theo quy định của ĐHQG TP.HCM;\n  + Đã tham gia kỳ thi Trung học Phổ thông quốc gia có tổng điểm của một trong ba tổ hợp môn TOÁN - LÝ - TIẾNG ANH (Khối A01), tổ hợp môn TOÁN - NGỮ VĂN - TIẾNG ANH (Khối D01) hoặc tổ hợp môn TOÁN - HÓA - TIẾNG ANH (Khối D07) đạt điểm chuẩn của Trường ĐH Công nghệ Thông tin trở lên. + Đã tham gia kỳ thi Đánh giá năng lực của ĐHQG TP.HCM đạt điểm chuẩn của Trường ĐH Công nghệ Thông tin trở lên. + Ưu tiên xét tuyển thẳng theo quy định của Trường ĐH Công nghệ Thông tin. + Xét tuyển dựa trên chứng chỉ quốc tế uy tín. - Chứng chỉ SAT từ 510 mỗi phần thi.",
+    "chunk_id": "truong-dai-hoc-cong-nghe-thong-tin-dhqg-hcm_chunk_5",
     "field": "trường",
     "year": null,
     "department": null,
@@ -71,25 +80,44 @@
       "tuyensinh",
       "diem",
       "cntt",
-      "httt",
-      "ttnt",
-      "truong",
-      "hoctap",
-      "chungchi",
-      "giao_duc_pho_thong",
-      "giang_vien_va_can_bo",
-      "ngoai_le"
+      "chungchi"
     ],
-    "prev_chunk": "truong-dai-hoc-cong-nghe-thong-tin-dhqg-hcm_chunk_3",
-    "next_chunk": "truong-dai-hoc-cong-nghe-thong-tin-dhqg-hcm_chunk_5",
-    "source": "Source: cleaned_data/markdown\\truong-dai-hoc-cong-nghe-thong-tin-dhqg-hcm.md",
-    "admission_info": {}
+    "source": "cleaned_data\\markdown\\truong-dai-hoc-cong-nghe-thong-tin-dhqg-hcm.md"
+  },
+  {
+    "title": "Trường Đại học Công nghệ Thông tin",
+    "header": "2. Chương trình Tiên tiến",
+    "content": "- Chứng chỉ ACT có điểm trung bình từ 21. - AS/A level từ C-A mỗi môn thi. - Tú tài quốc tế (IB) có tổng điểm từ 21 trở lên.",
+    "chunk_id": "truong-dai-hoc-cong-nghe-thong-tin-dhqg-hcm_chunk_6",
+    "field": "trường",
+    "year": null,
+    "department": null,
+    "keywords": [
+      "ttnt",
+      "chungchi",
+      "giao_duc_pho_thong"
+    ],
+    "source": "cleaned_data\\markdown\\truong-dai-hoc-cong-nghe-thong-tin-dhqg-hcm.md"
+  },
+  {
+    "title": "Trường Đại học Công nghệ Thông tin",
+    "header": "2. Chương trình Tiên tiến",
+    "content": "- Các văn bằng, chứng chỉ quốc tế uy tín khác được Hội đồng tuyển sinh chấp thuận.",
+    "chunk_id": "truong-dai-hoc-cong-nghe-thong-tin-dhqg-hcm_chunk_7",
+    "field": "trường",
+    "year": null,
+    "department": null,
+    "keywords": [
+      "tuyensinh",
+      "chungchi"
+    ],
+    "source": "cleaned_data\\markdown\\truong-dai-hoc-cong-nghe-thong-tin-dhqg-hcm.md"
   },
   {
     "title": "Trường Đại học Công nghệ Thông tin",
     "header": "3. Chương trình liên kết quốc tế",
     "content": "Năm 2019, Trường Đại học Công nghệ Thông tin triển khai chương trình đào tạo Liên kết quốc tế với ĐH Birmingham City - Vương Quốc Anh (BCU) với mục tiêu tạo cơ hội cho sinh viên sở hữu bằng Đại học quốc tế, thành thạo tiếng Anh và sẵn sàng cho các vị trí kỹ sư máy tính cấp độ quốc tế sau khi tốt nghiệp. Các ngành đào tạo hiện tại:\n- [Cử nhân Ngành Khoa học Máy tính](https://oep.uit.edu.vn/vi/nganh-khoa-hoc-may-tinh-bcu) - Thời gian đào tạo 3,5 năm (áp dụng từ khóa 2019)\n- [Cử nhân Ngành Mạng máy tính & An toàn Thông tin](https://oep.uit.edu.vn/vi/nganh-mang-may-tinh-va-toan-thong-tin-bcu) - Thời gian đào tạo 3,5 năm (áp dụng từ khóa 2019)\nChương trình được thiết kế đặc biệt từ chương trình cử nhân đại học của Trường Đại học Birmingham City, Anh Quốc nên cấu trúc các môn học thực tiễn, cập nhật, mang tính quốc tế và tập trung vào chuyên môn ngay từ các học kỳ đầu tiên. Bên cạnh đó, sinh viên được chú trọng phát triển khả năng tư duy sáng tạo, làm việc nhóm…nhằm đáp ứng yêu cầu của thị trường lao động. ĐIỀU KIỆN ĐỂ THAM GIA CHƯƠNG TRÌNH:\nCác ứng viên tự nguyện tham gia chương trình phải đáp ứng các yêu cầu sau:\n- Đã tốt nghiệp Trung học phổ thông;\n- Có chứng chỉ IELTS từ 5.5 (hoặc chứng chỉ khác được Bộ Giáo dục và đào tạo chấp thuận là tương đương).",
-    "chunk_id": "truong-dai-hoc-cong-nghe-thong-tin-dhqg-hcm_chunk_5",
+    "chunk_id": "truong-dai-hoc-cong-nghe-thong-tin-dhqg-hcm_chunk_8",
     "field": "trường",
     "year": null,
     "department": null,
@@ -104,9 +132,6 @@
       "chungchi",
       "giang_vien_va_can_bo"
     ],
-    "prev_chunk": "truong-dai-hoc-cong-nghe-thong-tin-dhqg-hcm_chunk_4",
-    "next_chunk": null,
-    "source": "Source: cleaned_data/markdown\\truong-dai-hoc-cong-nghe-thong-tin-dhqg-hcm.md",
-    "admission_info": {}
+    "source": "cleaned_data\\markdown\\truong-dai-hoc-cong-nghe-thong-tin-dhqg-hcm.md"
   }
 ]

@@ -11,10 +11,7 @@
       "ttdpt",
       "truong"
     ],
-    "prev_chunk": null,
-    "next_chunk": "tong-quan-nganh-truyen-thong-da-phuong-tien_chunk_2",
-    "source": "Source: cleaned_data/markdown\\tong-quan-nganh-truyen-thong-da-phuong-tien.md",
-    "admission_info": {}
+    "source": "cleaned_data\\markdown\\tong-quan-nganh-truyen-thong-da-phuong-tien.md"
   },
   {
     "title": "Tổng quan ngành Truyền thông Đa phương tiện",
@@ -30,10 +27,7 @@
       "ttdpt",
       "truong"
     ],
-    "prev_chunk": "tong-quan-nganh-truyen-thong-da-phuong-tien_chunk_1",
-    "next_chunk": "tong-quan-nganh-truyen-thong-da-phuong-tien_chunk_3",
-    "source": "Source: cleaned_data/markdown\\tong-quan-nganh-truyen-thong-da-phuong-tien.md",
-    "admission_info": {}
+    "source": "cleaned_data\\markdown\\tong-quan-nganh-truyen-thong-da-phuong-tien.md"
   },
   {
     "title": "Tổng quan ngành Truyền thông Đa phương tiện",
@@ -51,10 +45,7 @@
       "truong",
       "chungchi"
     ],
-    "prev_chunk": "tong-quan-nganh-truyen-thong-da-phuong-tien_chunk_2",
-    "next_chunk": "tong-quan-nganh-truyen-thong-da-phuong-tien_chunk_4",
-    "source": "Source: cleaned_data/markdown\\tong-quan-nganh-truyen-thong-da-phuong-tien.md",
-    "admission_info": {}
+    "source": "cleaned_data\\markdown\\tong-quan-nganh-truyen-thong-da-phuong-tien.md"
   },
   {
     "title": "Tổng quan ngành Truyền thông Đa phương tiện",
@@ -73,10 +64,7 @@
       "chungchi",
       "giang_vien_va_can_bo"
     ],
-    "prev_chunk": "tong-quan-nganh-truyen-thong-da-phuong-tien_chunk_3",
-    "next_chunk": "tong-quan-nganh-truyen-thong-da-phuong-tien_chunk_5",
-    "source": "Source: cleaned_data/markdown\\tong-quan-nganh-truyen-thong-da-phuong-tien.md",
-    "admission_info": {}
+    "source": "cleaned_data\\markdown\\tong-quan-nganh-truyen-thong-da-phuong-tien.md"
   },
   {
     "title": "Tổng quan ngành Truyền thông Đa phương tiện",
@@ -94,10 +82,7 @@
       "truong",
       "hoctap"
     ],
-    "prev_chunk": "tong-quan-nganh-truyen-thong-da-phuong-tien_chunk_4",
-    "next_chunk": "tong-quan-nganh-truyen-thong-da-phuong-tien_chunk_6",
-    "source": "Source: cleaned_data/markdown\\tong-quan-nganh-truyen-thong-da-phuong-tien.md",
-    "admission_info": {}
+    "source": "cleaned_data\\markdown\\tong-quan-nganh-truyen-thong-da-phuong-tien.md"
   },
   {
     "title": "Tổng quan ngành Truyền thông Đa phương tiện",
@@ -116,10 +101,7 @@
       "truong",
       "giang_vien_va_can_bo"
     ],
-    "prev_chunk": "tong-quan-nganh-truyen-thong-da-phuong-tien_chunk_5",
-    "next_chunk": "tong-quan-nganh-truyen-thong-da-phuong-tien_chunk_7",
-    "source": "Source: cleaned_data/markdown\\tong-quan-nganh-truyen-thong-da-phuong-tien.md",
-    "admission_info": {}
+    "source": "cleaned_data\\markdown\\tong-quan-nganh-truyen-thong-da-phuong-tien.md"
   },
   {
     "title": "Tổng quan ngành Truyền thông Đa phương tiện",
@@ -135,10 +117,7 @@
       "ttdpt",
       "giang_vien_va_can_bo"
     ],
-    "prev_chunk": "tong-quan-nganh-truyen-thong-da-phuong-tien_chunk_6",
-    "next_chunk": "tong-quan-nganh-truyen-thong-da-phuong-tien_chunk_8",
-    "source": "Source: cleaned_data/markdown\\tong-quan-nganh-truyen-thong-da-phuong-tien.md",
-    "admission_info": {}
+    "source": "cleaned_data\\markdown\\tong-quan-nganh-truyen-thong-da-phuong-tien.md"
   },
   {
     "title": "Tổng quan ngành Truyền thông Đa phương tiện",
@@ -155,9 +134,6 @@
       "ttdpt",
       "giang_vien_va_can_bo"
     ],
-    "prev_chunk": "tong-quan-nganh-truyen-thong-da-phuong-tien_chunk_7",
-    "next_chunk": null,
-    "source": "Source: cleaned_data/markdown\\tong-quan-nganh-truyen-thong-da-phuong-tien.md",
-    "admission_info": {}
+    "source": "cleaned_data\\markdown\\tong-quan-nganh-truyen-thong-da-phuong-tien.md"
   }
 ]

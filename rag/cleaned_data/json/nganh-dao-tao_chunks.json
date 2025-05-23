@@ -12,10 +12,7 @@
       "ttnt",
       "truong"
     ],
-    "prev_chunk": null,
-    "next_chunk": "nganh-dao-tao_chunk_2",
-    "source": "Source: cleaned_data/markdown\\nganh-dao-tao.md",
-    "admission_info": {}
+    "source": "cleaned_data\\markdown\\nganh-dao-tao.md"
   },
   {
     "title": "Ngành đào tạo | Thông tin tuyển sinh Đại học",
@@ -40,9 +37,6 @@
       "truong",
       "chungchi"
     ],
-    "prev_chunk": "nganh-dao-tao_chunk_1",
-    "next_chunk": null,
-    "source": "Source: cleaned_data/markdown\\nganh-dao-tao.md",
-    "admission_info": {}
+    "source": "cleaned_data\\markdown\\nganh-dao-tao.md"
   }
 ]
