@@ -272,7 +272,7 @@ class HybridSearchQdrant:
         return final_results
 
 if __name__ == "__main__":
-    model = SentenceTransformer('VoVanPhuc/sup-SimCSE-VietNamese-phobert-base')
+    model = SentenceTransformer('bkai-foundation-models/vietnamese-bi-encoder')
     search_engine = HybridSearchQdrant(
         qdrant_url=os.getenv("QDRANT_URL"),
         qdrant_api_key=os.getenv("QDRANT_API_KEY"),
