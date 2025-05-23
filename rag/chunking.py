@@ -14,7 +14,7 @@ from dotenv import load_dotenv
 load_dotenv()
 
 class LocalEmbeddings:
-    def __init__(self, model_name="VoVanPhuc/sup-SimCSE-VietNamese-phobert-base"):
+    def __init__(self, model_name='bkai-foundation-models/vietnamese-bi-encoder'):
         self.model = SentenceTransformer(model_name)
     def embed_documents(self, texts):
         return self.model.encode(texts, convert_to_numpy=True).tolist()
@@ -150,12 +150,8 @@ def chunk_markdown(content, source_file, keywords_dict, output_dir):
         title_line = lines[0].replace("#", "").strip()
 
     source = None
-    if lines and lines[-1].startswith("Source:"):
-        source = lines[-1].replace("Source:", "").strip()
-    elif lines and re.match(r"https?://(?:[-\w.]|(?:%[\da-fA-F]{2}))+", lines[-1]):
-        source = f"Source: {lines[-1]}"
-    else:
-        source = f"Source: {source_file}"
+    rel_path = os.path.relpath(source_file)
+    source = rel_path
 
     if source and content.endswith(lines[-1]):
         content = content[:-len(lines[-1])].rstrip("\n")
@@ -188,7 +184,7 @@ def chunk_markdown(content, source_file, keywords_dict, output_dir):
     if current_chunk_lines:
         chunks.append((current_header, "\n".join(current_chunk_lines)))
 
-    splitter = SemanticChunker(LocalEmbeddings(), breakpoint_threshold_type="interquartile", breakpoint_threshold_amount=1.2,buffer_size=5)
+    splitter = SemanticChunker(LocalEmbeddings(), breakpoint_threshold_type="interquartile", breakpoint_threshold_amount=0.9,buffer_size=5)
     result = []
     chunk_counter = 0
 
@@ -211,18 +207,18 @@ def chunk_markdown(content, source_file, keywords_dict, output_dir):
                 "year": year,
                 "department": department,
                 "keywords": found_keywords,
-                "prev_chunk": None,
-                "next_chunk": None,
+                # "prev_chunk": None,
+                # "next_chunk": None,
                 "source": source,
-                "admission_info": admission_info if field == "tuyển sinh" else {},
+                # "admission_info": admission_info if field == "tuyển sinh" else {},
             }
             result.append(metadata)
 
-    for i in range(len(result)):
-        if i > 0:
-            result[i]["prev_chunk"] = result[i-1]["chunk_id"]
-        if i < len(result) - 1:
-            result[i]["next_chunk"] = result[i+1]["chunk_id"]
+    # for i in range(len(result)):
+    #     if i > 0:
+    #         result[i]["prev_chunk"] = result[i-1]["chunk_id"]
+    #     if i < len(result) - 1:
+    #         result[i]["next_chunk"] = result[i+1]["chunk_id"]
 
     return result
 

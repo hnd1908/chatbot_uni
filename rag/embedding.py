@@ -14,7 +14,7 @@ load_dotenv()
 class DocEmbedder:
     def __init__(
             self,
-            model_name: str = 'VoVanPhuc/sup-SimCSE-VietNamese-phobert-base',
+            model_name: str = 'bkai-foundation-models/vietnamese-bi-encoder',
             qdrant_url: str = os.getenv("QDRANT_URL"),
             qdrant_api_key: str = os.getenv("QDRANT_API_KEY"),
             collection_name: str = "uit_documents",
@@ -37,7 +37,7 @@ class DocEmbedder:
             vectors_config=VectorParams(size=self.vector_size, distance=self.distance)
         )
 
-        default_fields = ["field", "year", "department", "keywords", "source"]
+        default_fields = ["title", "header", "content", "field", "year", "department", "keywords", "source"]
         field_to_index = index_fields if index_fields is not None else default_fields
         
         for field in field_to_index:
@@ -82,8 +82,8 @@ class DocEmbedder:
                     "year": doc.get("year", ""),
                     "department": doc.get("department", ""),
                     "keywords": doc.get("keywords", []),
-                    "prev_chunk": doc.get("prev_chunk", ""),
-                    "next_chunk": doc.get("next_chunk", ""),
+                    # "prev_chunk": doc.get("prev_chunk", ""),
+                    # "next_chunk": doc.get("next_chunk", ""),
                     "source": doc.get("source", "")
                 }
             )

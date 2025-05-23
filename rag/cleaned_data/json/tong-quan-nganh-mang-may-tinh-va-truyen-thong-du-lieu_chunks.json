@@ -11,10 +11,7 @@
       "mmtvttdl",
       "truong"
     ],
-    "prev_chunk": null,
-    "next_chunk": "tong-quan-nganh-mang-may-tinh-va-truyen-thong-du-lieu_chunk_2",
-    "source": "Source: cleaned_data/markdown\\tong-quan-nganh-mang-may-tinh-va-truyen-thong-du-lieu.md",
-    "admission_info": {}
+    "source": "cleaned_data\\markdown\\tong-quan-nganh-mang-may-tinh-va-truyen-thong-du-lieu.md"
   },
   {
     "title": "Tổng quan ngành Mạng máy tình và Truyền thông dữ liệu",
@@ -29,10 +26,7 @@
       "mmtvttdl",
       "ttnt"
     ],
-    "prev_chunk": "tong-quan-nganh-mang-may-tinh-va-truyen-thong-du-lieu_chunk_1",
-    "next_chunk": "tong-quan-nganh-mang-may-tinh-va-truyen-thong-du-lieu_chunk_3",
-    "source": "Source: cleaned_data/markdown\\tong-quan-nganh-mang-may-tinh-va-truyen-thong-du-lieu.md",
-    "admission_info": {}
+    "source": "cleaned_data\\markdown\\tong-quan-nganh-mang-may-tinh-va-truyen-thong-du-lieu.md"
   },
   {
     "title": "Tổng quan ngành Mạng máy tình và Truyền thông dữ liệu",
@@ -48,10 +42,7 @@
       "ttnt",
       "ngoai_le"
     ],
-    "prev_chunk": "tong-quan-nganh-mang-may-tinh-va-truyen-thong-du-lieu_chunk_2",
-    "next_chunk": "tong-quan-nganh-mang-may-tinh-va-truyen-thong-du-lieu_chunk_4",
-    "source": "Source: cleaned_data/markdown\\tong-quan-nganh-mang-may-tinh-va-truyen-thong-du-lieu.md",
-    "admission_info": {}
+    "source": "cleaned_data\\markdown\\tong-quan-nganh-mang-may-tinh-va-truyen-thong-du-lieu.md"
   },
   {
     "title": "Tổng quan ngành Mạng máy tình và Truyền thông dữ liệu",
@@ -67,9 +58,6 @@
       "ttnt",
       "hoctap"
     ],
-    "prev_chunk": "tong-quan-nganh-mang-may-tinh-va-truyen-thong-du-lieu_chunk_3",
-    "next_chunk": null,
-    "source": "Source: cleaned_data/markdown\\tong-quan-nganh-mang-may-tinh-va-truyen-thong-du-lieu.md",
-    "admission_info": {}
+    "source": "cleaned_data\\markdown\\tong-quan-nganh-mang-may-tinh-va-truyen-thong-du-lieu.md"
   }
 ]

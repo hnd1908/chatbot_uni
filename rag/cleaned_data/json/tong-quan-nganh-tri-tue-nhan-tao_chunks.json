@@ -11,10 +11,7 @@
       "ttnt",
       "truong"
     ],
-    "prev_chunk": null,
-    "next_chunk": "tong-quan-nganh-tri-tue-nhan-tao_chunk_2",
-    "source": "Source: cleaned_data/markdown\\tong-quan-nganh-tri-tue-nhan-tao.md",
-    "admission_info": {}
+    "source": "cleaned_data\\markdown\\tong-quan-nganh-tri-tue-nhan-tao.md"
   },
   {
     "title": "Tổng quan ngành Trí tuệ Nhân tạo",
@@ -30,15 +27,12 @@
       "truong",
       "hoctap"
     ],
-    "prev_chunk": "tong-quan-nganh-tri-tue-nhan-tao_chunk_1",
-    "next_chunk": "tong-quan-nganh-tri-tue-nhan-tao_chunk_3",
-    "source": "Source: cleaned_data/markdown\\tong-quan-nganh-tri-tue-nhan-tao.md",
-    "admission_info": {}
+    "source": "cleaned_data\\markdown\\tong-quan-nganh-tri-tue-nhan-tao.md"
   },
   {
     "title": "Tổng quan ngành Trí tuệ Nhân tạo",
     "header": "2.1 Mục tiêu của chương trình",
-    "content": " Chương trình đào tạo ngành Trí tuệ nhân tạo hướng đến mục tiêu đào tạo nguồn nhân lực chất lượng cao đạt trình độ khu vực và quốc tế về Trí tuệ nhân tạo. Chương trình trang bị cho người học nền tảng kiến thức vững vàng kết hợp cùng kiến thức chuyên sâu cập nhật, hiện đại về Trí tuệ nhân tạo. Người học hiểu và có khả năng làm chủ, vận dụng sáng tạo các thành tựu tiên tiến của ngành; có kỹ năng cần thiết và thái độ chuẩn mực trong phát triển nghề nghiệp. Chương trình đào tạo ngành Trí tuệ nhân tạo được xây dựng trên nền tảng về Khoa học máy tính, tăng cường kiến thức, kĩ năng chuyên sâu về Trí tuệ nhân tạo và phát triển khả năng ứng dụng liên ngành. Sinh viên tốt nghiệp chương trình Cử nhân Trí tuệ nhân tạo đáp ứng các yêu cầu sau:\n Có kiến thức nền tảng vững vàng về khoa học máy tính và chuyên sâu về Trí tuệ nhân tạo. Có khả năng thiết kế các giải pháp, phát triển các hệ thống ứng dụng công nghệ tiên tiến về khoa học máy tính, trí tuệ nhân tạo. Có khả năng tự học, phân tích độc lập và nghiên cứu các vấn đề chuyên sâu về lĩnh vực khoa học máy tính và trí tuệ nhân tạo; có thể tiếp tục học tập ở bậc đào tạo sau đại học. Có khả năng giải quyết các vấn đề phức tạp trong các tình huống nảy sinh trong quá trình làm việc, phân tích và đề xuất giải pháp phù hợp với thực tế; có khả năng thiết lập các mục tiêu khả thi, lập kế hoạch phù hợp với điều kiện thực tế để hoàn thành công việc được giao. Có khả năng giao tiếp xã hội, làm việc hợp tác, làm việc nhóm và làm việc trong một tổ chức; có khả năng vận dụng các kiến thức, kỹ năng và kinh nghiệm để giải quyết các tình huống nghề nghiệp khác nhau.",
+    "content": " Chương trình đào tạo ngành Trí tuệ nhân tạo hướng đến mục tiêu đào tạo nguồn nhân lực chất lượng cao đạt trình độ khu vực và quốc tế về Trí tuệ nhân tạo. Chương trình trang bị cho người học nền tảng kiến thức vững vàng kết hợp cùng kiến thức chuyên sâu cập nhật, hiện đại về Trí tuệ nhân tạo. Người học hiểu và có khả năng làm chủ, vận dụng sáng tạo các thành tựu tiên tiến của ngành; có kỹ năng cần thiết và thái độ chuẩn mực trong phát triển nghề nghiệp. Chương trình đào tạo ngành Trí tuệ nhân tạo được xây dựng trên nền tảng về Khoa học máy tính, tăng cường kiến thức, kĩ năng chuyên sâu về Trí tuệ nhân tạo và phát triển khả năng ứng dụng liên ngành. Sinh viên tốt nghiệp chương trình Cử nhân Trí tuệ nhân tạo đáp ứng các yêu cầu sau:\n Có kiến thức nền tảng vững vàng về khoa học máy tính và chuyên sâu về Trí tuệ nhân tạo. Có khả năng thiết kế các giải pháp, phát triển các hệ thống ứng dụng công nghệ tiên tiến về khoa học máy tính, trí tuệ nhân tạo.",
     "chunk_id": "tong-quan-nganh-tri-tue-nhan-tao_chunk_3",
     "field": "ngành",
     "year": null,
@@ -49,32 +43,41 @@
       "truong",
       "hoctap"
     ],
-    "prev_chunk": "tong-quan-nganh-tri-tue-nhan-tao_chunk_2",
-    "next_chunk": "tong-quan-nganh-tri-tue-nhan-tao_chunk_4",
-    "source": "Source: cleaned_data/markdown\\tong-quan-nganh-tri-tue-nhan-tao.md",
-    "admission_info": {}
+    "source": "cleaned_data\\markdown\\tong-quan-nganh-tri-tue-nhan-tao.md"
+  },
+  {
+    "title": "Tổng quan ngành Trí tuệ Nhân tạo",
+    "header": "2.1 Mục tiêu của chương trình",
+    "content": "Có khả năng tự học, phân tích độc lập và nghiên cứu các vấn đề chuyên sâu về lĩnh vực khoa học máy tính và trí tuệ nhân tạo; có thể tiếp tục học tập ở bậc đào tạo sau đại học. Có khả năng giải quyết các vấn đề phức tạp trong các tình huống nảy sinh trong quá trình làm việc, phân tích và đề xuất giải pháp phù hợp với thực tế; có khả năng thiết lập các mục tiêu khả thi, lập kế hoạch phù hợp với điều kiện thực tế để hoàn thành công việc được giao. Có khả năng giao tiếp xã hội, làm việc hợp tác, làm việc nhóm và làm việc trong một tổ chức; có khả năng vận dụng các kiến thức, kỹ năng và kinh nghiệm để giải quyết các tình huống nghề nghiệp khác nhau.",
+    "chunk_id": "tong-quan-nganh-tri-tue-nhan-tao_chunk_4",
+    "field": "ngành",
+    "year": null,
+    "department": "Trí tuệ nhân tạo",
+    "keywords": [
+      "khmt",
+      "ttnt",
+      "truong"
+    ],
+    "source": "cleaned_data\\markdown\\tong-quan-nganh-tri-tue-nhan-tao.md"
   },
   {
     "title": "Tổng quan ngành Trí tuệ Nhân tạo",
     "header": "2.1 Mục tiêu của chương trình",
     "content": "Có trình độ ngoại ngữ đáp ứng cơ bản yêu cầu công việc và nghề nghiệp.",
-    "chunk_id": "tong-quan-nganh-tri-tue-nhan-tao_chunk_4",
+    "chunk_id": "tong-quan-nganh-tri-tue-nhan-tao_chunk_5",
     "field": "ngành",
     "year": null,
     "department": "Trí tuệ nhân tạo",
     "keywords": [
       "ttnt"
     ],
-    "prev_chunk": "tong-quan-nganh-tri-tue-nhan-tao_chunk_3",
-    "next_chunk": "tong-quan-nganh-tri-tue-nhan-tao_chunk_5",
-    "source": "Source: cleaned_data/markdown\\tong-quan-nganh-tri-tue-nhan-tao.md",
-    "admission_info": {}
+    "source": "cleaned_data\\markdown\\tong-quan-nganh-tri-tue-nhan-tao.md"
   },
   {
     "title": "Tổng quan ngành Trí tuệ Nhân tạo",
     "header": "2.2 Cơ hội nghề nghiệp",
     "content": "Sau khi tốt nghiệp, sinh viên có thể làm việc:\n Chuyên gia lập trình Trí tuệ nhân tạo, tham gia phát triển các phần mềm, ứng dụng, các hệ thống tính toán có sử dụng Trí tuệ nhân tạo. Chuyên gia phân tích, thiết kế, xây dựng giải pháp kỹ thuật, giải pháp công nghệ thông minh có sử dụng Trí tuệ nhân tạo tại các công ty, tập đoàn công nghệ. Nhà nghiên cứu về Khoa học máy tính và Trí tuệ nhân tạo tại các trường, viện, trung tâm nghiên cứu, bộ phận Nghiên cứu & Phát triển của các công ty và tập đoàn công nghệ. Tiếp tục theo học các bậc học cao hơn về Khoa học máy tính, Trí tuệ nhân tạo.",
-    "chunk_id": "tong-quan-nganh-tri-tue-nhan-tao_chunk_5",
+    "chunk_id": "tong-quan-nganh-tri-tue-nhan-tao_chunk_6",
     "field": "ngành",
     "year": null,
     "department": "Trí tuệ nhân tạo",
@@ -85,16 +88,13 @@
       "truong",
       "hoctap"
     ],
-    "prev_chunk": "tong-quan-nganh-tri-tue-nhan-tao_chunk_4",
-    "next_chunk": "tong-quan-nganh-tri-tue-nhan-tao_chunk_6",
-    "source": "Source: cleaned_data/markdown\\tong-quan-nganh-tri-tue-nhan-tao.md",
-    "admission_info": {}
+    "source": "cleaned_data\\markdown\\tong-quan-nganh-tri-tue-nhan-tao.md"
   },
   {
     "title": "Tổng quan ngành Trí tuệ Nhân tạo",
     "header": "3. Điều kiện tốt nghiệp",
     "content": "Để được công nhận tốt nghiệp và cấp bằng, sinh viên phải:",
-    "chunk_id": "tong-quan-nganh-tri-tue-nhan-tao_chunk_6",
+    "chunk_id": "tong-quan-nganh-tri-tue-nhan-tao_chunk_7",
     "field": "ngành",
     "year": null,
     "department": "Trí tuệ nhân tạo",
@@ -103,16 +103,13 @@
       "truong",
       "hoctap"
     ],
-    "prev_chunk": "tong-quan-nganh-tri-tue-nhan-tao_chunk_5",
-    "next_chunk": "tong-quan-nganh-tri-tue-nhan-tao_chunk_7",
-    "source": "Source: cleaned_data/markdown\\tong-quan-nganh-tri-tue-nhan-tao.md",
-    "admission_info": {}
+    "source": "cleaned_data\\markdown\\tong-quan-nganh-tri-tue-nhan-tao.md"
   },
   {
     "title": "Tổng quan ngành Trí tuệ Nhân tạo",
     "header": "2. Tích lũy tối thiểu 128 tín chỉ được phân bố theo các khối kiến thức sau",
     "content": "Kiến thức giáo dục đại cương: tối thiểu 45 tín chỉ;\n Kiến thức cơ sở ngành: tối thiểu 57 tín chỉ ;\n Kiến thức tự chọn ngành: tối thiểu 8 tín chỉ ;\n Kiến thức tự chọn liên ngành: tối thiểu 8 tín chỉ ;\n Kiến thức tốt nghiệp: tối thiểu 10 tín chỉ.",
-    "chunk_id": "tong-quan-nganh-tri-tue-nhan-tao_chunk_7",
+    "chunk_id": "tong-quan-nganh-tri-tue-nhan-tao_chunk_8",
     "field": "ngành",
     "year": null,
     "department": "Trí tuệ nhân tạo",
@@ -120,9 +117,6 @@
       "ttnt",
       "hoctap"
     ],
-    "prev_chunk": "tong-quan-nganh-tri-tue-nhan-tao_chunk_6",
-    "next_chunk": null,
-    "source": "Source: cleaned_data/markdown\\tong-quan-nganh-tri-tue-nhan-tao.md",
-    "admission_info": {}
+    "source": "cleaned_data\\markdown\\tong-quan-nganh-tri-tue-nhan-tao.md"
   }
 ]

@@ -14,15 +14,12 @@
       "truong",
       "ngoai_le"
     ],
-    "prev_chunk": null,
-    "next_chunk": "uit-uni-tour-2025-hoc-sinh-thpt-kham-pha-ai-va-dinh-huong-nghe-nghiep-tuong-lai_chunk_2",
-    "source": "Source: cleaned_data/markdown\\uit-uni-tour-2025-hoc-sinh-thpt-kham-pha-ai-va-dinh-huong-nghe-nghiep-tuong-lai.md",
-    "admission_info": {}
+    "source": "cleaned_data\\markdown\\uit-uni-tour-2025-hoc-sinh-thpt-kham-pha-ai-va-dinh-huong-nghe-nghiep-tuong-lai.md"
   },
   {
     "title": "UIT UNI TOUR 2025: Học sinh THPT khám phá AI và định hướng nghề nghiệp tương lai",
     "header": "",
-    "content": "Không chỉ đơn thuần là không gian phục vụ cho nghiên cứu, các phòng lab tại UIT còn là nơi hội tụ những công nghệ tiên tiến hàng đầu và là cái nôi ươm mầm cho các ý tưởng khoa học sáng tạo công nghệ của sinh viên, nghiên cứu sinh tại trường. Các học sinh tham quan Phòng thí nghiệm tại UIT\nNhiều bạn học sinh vô cùng thích thú khi được nghe chia sẻ đến từ các nghiên cứu sinh tại Phòng thí nghiệm Truyền thông Đa phương tiện (MMLab) và Phòng thí nghiệm Vi mạch Tích hợp Chuyên dụng (ASIC Lab). Những hướng nghiên cứu chính mà các phòng thí nghiệm đang triển khai như thiết kế vi mạch, hệ thống nhúng, trí tuệ nhân tạo, học máy và thị giác máy tính đã được trình bày một cách gần gũi, sinh động thông qua các ví dụ thực tế và demo trực tiếp tại phòng lab. Đặc biệt, những chia sẻ xoay quanh chương trình đào tạo, cơ hội nghiên cứu khoa học và định hướng nghề nghiệp trong lĩnh vực bán dẫn và AI đã mở ra nhiều góc nhìn mới cho các bạn trẻ. Buổi tọa đàm chuyên sâu với chủ đề \"Làm chủ AI - Định hướng tương lai nghề nghiệp\"\nCũng trong khuôn khổ chuyến tham quan, các bạn học sinh đã tham gia buổi tọa đàm chuyên sâu với chủ đề “Làm chủ AI – Định hướng tương lai nghề nghiệp”, một hoạt động đặc biệt nhằm cung cấp góc nhìn toàn diện về vai trò của trí tuệ nhân tạo trong xã hội hiện đại và những cơ hội nghề nghiệp rộng mở trong lĩnh vực đầy tiềm năng này. Với sự chia sẻ từ khách mời đặc biệt - TS. Nguyễn Vinh Tiệp - Trưởng phòng Thí nghiệm Truyền thông Đa phương tiện (MMLab), các học sinh đã được nghe giới thiệu tổng quan về trí tuệ nhân tạo (AI) và những ứng dụng nổi bật của nó trong đời sống. Với sức ảnh hưởng sâu rộng đến mọi lĩnh vực, AI hiện đang là một trong những ngành công nghệ mũi nhọn và cũng là ngành đào tạo trọng điểm tại UIT. Các học sinh đặt câu hỏi giao lưu cùng diễn giả buổi tọa đàm\nBạn Lê Phú Trọng, lớp 12 chuyên Tin trường THPT Chuyên Trần Đại Nghĩa, đạt giải Nhì HSG QG môn Tin học năm 2024-2025 chia sẻ: “Em dự định đăng ký ngành Khoa học Máy tính tại trường ĐH Công nghệ Thông tin. Buổi tham quan hôm nay thì em rất ấn tượng với Data Center của trường và em cũng biết rõ hơn về các ngành đào tạo. Sau buổi nói chuyện với thầy và anh cựu sinh viên thì cũng giải đáp cho em được nhiều những thắc mắc liên quan đến AI hay là sẽ làm công việc gì sau khi tốt nghiệp.”\n\nKhông chỉ dừng lại ở việc tham quan và trải nghiệm, những hoạt động trong khuôn khổ UNI Tour còn là dịp để các bạn học sinh giao lưu trực tiếp với giảng viên và sinh viên UIT. Tại đây, các em đã mạnh dạn đặt nhiều câu hỏi xoay quanh về các ngành học, chương trình đào tạo, cơ hội nghề nghiệp. Mọi thắc mắc đều được giải đáp tận tình, chân thành, giúp các bạn hiểu rõ hơn về môi trường đại học, từ đó hình dung cụ thể hơn con đường mình sẽ lựa chọn trong tương lai.",
+    "content": "Không chỉ đơn thuần là không gian phục vụ cho nghiên cứu, các phòng lab tại UIT còn là nơi hội tụ những công nghệ tiên tiến hàng đầu và là cái nôi ươm mầm cho các ý tưởng khoa học sáng tạo công nghệ của sinh viên, nghiên cứu sinh tại trường. Các học sinh tham quan Phòng thí nghiệm tại UIT\nNhiều bạn học sinh vô cùng thích thú khi được nghe chia sẻ đến từ các nghiên cứu sinh tại Phòng thí nghiệm Truyền thông Đa phương tiện (MMLab) và Phòng thí nghiệm Vi mạch Tích hợp Chuyên dụng (ASIC Lab). Những hướng nghiên cứu chính mà các phòng thí nghiệm đang triển khai như thiết kế vi mạch, hệ thống nhúng, trí tuệ nhân tạo, học máy và thị giác máy tính đã được trình bày một cách gần gũi, sinh động thông qua các ví dụ thực tế và demo trực tiếp tại phòng lab. Đặc biệt, những chia sẻ xoay quanh chương trình đào tạo, cơ hội nghiên cứu khoa học và định hướng nghề nghiệp trong lĩnh vực bán dẫn và AI đã mở ra nhiều góc nhìn mới cho các bạn trẻ. Buổi tọa đàm chuyên sâu với chủ đề \"Làm chủ AI - Định hướng tương lai nghề nghiệp\"\nCũng trong khuôn khổ chuyến tham quan, các bạn học sinh đã tham gia buổi tọa đàm chuyên sâu với chủ đề “Làm chủ AI – Định hướng tương lai nghề nghiệp”, một hoạt động đặc biệt nhằm cung cấp góc nhìn toàn diện về vai trò của trí tuệ nhân tạo trong xã hội hiện đại và những cơ hội nghề nghiệp rộng mở trong lĩnh vực đầy tiềm năng này. Với sự chia sẻ từ khách mời đặc biệt - TS. Nguyễn Vinh Tiệp - Trưởng phòng Thí nghiệm Truyền thông Đa phương tiện (MMLab), các học sinh đã được nghe giới thiệu tổng quan về trí tuệ nhân tạo (AI) và những ứng dụng nổi bật của nó trong đời sống. Với sức ảnh hưởng sâu rộng đến mọi lĩnh vực, AI hiện đang là một trong những ngành công nghệ mũi nhọn và cũng là ngành đào tạo trọng điểm tại UIT. Các học sinh đặt câu hỏi giao lưu cùng diễn giả buổi tọa đàm\nBạn Lê Phú Trọng, lớp 12 chuyên Tin trường THPT Chuyên Trần Đại Nghĩa, đạt giải Nhì HSG QG môn Tin học năm 2024-2025 chia sẻ: “Em dự định đăng ký ngành Khoa học Máy tính tại trường ĐH Công nghệ Thông tin. Buổi tham quan hôm nay thì em rất ấn tượng với Data Center của trường và em cũng biết rõ hơn về các ngành đào tạo.",
     "chunk_id": "uit-uni-tour-2025-hoc-sinh-thpt-kham-pha-ai-va-dinh-huong-nghe-nghiep-tuong-lai_chunk_2",
     "field": "trường",
     "year": "2025",
@@ -36,14 +33,27 @@
       "ttnt",
       "ttdpt",
       "truong",
-      "hoctap",
       "giao_duc_pho_thong",
       "giang_vien_va_can_bo",
       "ngoai_le"
     ],
-    "prev_chunk": "uit-uni-tour-2025-hoc-sinh-thpt-kham-pha-ai-va-dinh-huong-nghe-nghiep-tuong-lai_chunk_1",
-    "next_chunk": null,
-    "source": "Source: cleaned_data/markdown\\uit-uni-tour-2025-hoc-sinh-thpt-kham-pha-ai-va-dinh-huong-nghe-nghiep-tuong-lai.md",
-    "admission_info": {}
+    "source": "cleaned_data\\markdown\\uit-uni-tour-2025-hoc-sinh-thpt-kham-pha-ai-va-dinh-huong-nghe-nghiep-tuong-lai.md"
+  },
+  {
+    "title": "UIT UNI TOUR 2025: Học sinh THPT khám phá AI và định hướng nghề nghiệp tương lai",
+    "header": "",
+    "content": "Sau buổi nói chuyện với thầy và anh cựu sinh viên thì cũng giải đáp cho em được nhiều những thắc mắc liên quan đến AI hay là sẽ làm công việc gì sau khi tốt nghiệp.”\n\nKhông chỉ dừng lại ở việc tham quan và trải nghiệm, những hoạt động trong khuôn khổ UNI Tour còn là dịp để các bạn học sinh giao lưu trực tiếp với giảng viên và sinh viên UIT. Tại đây, các em đã mạnh dạn đặt nhiều câu hỏi xoay quanh về các ngành học, chương trình đào tạo, cơ hội nghề nghiệp. Mọi thắc mắc đều được giải đáp tận tình, chân thành, giúp các bạn hiểu rõ hơn về môi trường đại học, từ đó hình dung cụ thể hơn con đường mình sẽ lựa chọn trong tương lai.",
+    "chunk_id": "uit-uni-tour-2025-hoc-sinh-thpt-kham-pha-ai-va-dinh-huong-nghe-nghiep-tuong-lai_chunk_3",
+    "field": "trường",
+    "year": "2025",
+    "department": null,
+    "keywords": [
+      "ttnt",
+      "truong",
+      "hoctap",
+      "giang_vien_va_can_bo",
+      "ngoai_le"
+    ],
+    "source": "cleaned_data\\markdown\\uit-uni-tour-2025-hoc-sinh-thpt-kham-pha-ai-va-dinh-huong-nghe-nghiep-tuong-lai.md"
   }
 ]
