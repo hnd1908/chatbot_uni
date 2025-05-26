@@ -272,11 +272,11 @@ class HybridSearchQdrant:
         return final_results
 
 if __name__ == "__main__":
-    model = SentenceTransformer('bkai-foundation-models/vietnamese-bi-encoder')
+    model = SentenceTransformer('AITeamVN/Vietnamese_Embedding')
     search_engine = HybridSearchQdrant(
         qdrant_url=os.getenv("QDRANT_URL"),
         qdrant_api_key=os.getenv("QDRANT_API_KEY"),
-        collection_name="uit_documents",
+        collection_name="uit_documents_AITeamVN",
         embedding_model=model,
         metadata_weight=0.2,
         semantic_weight=0.8

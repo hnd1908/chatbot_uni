@@ -14,7 +14,7 @@ from dotenv import load_dotenv
 load_dotenv()
 
 class LocalEmbeddings:
-    def __init__(self, model_name='bkai-foundation-models/vietnamese-bi-encoder'):
+    def __init__(self, model_name='AITeamVN/Vietnamese_Embedding'):
         self.model = SentenceTransformer(model_name)
     def embed_documents(self, texts):
         return self.model.encode(texts, convert_to_numpy=True).tolist()
@@ -150,7 +150,8 @@ def chunk_markdown(content, source_file, keywords_dict, output_dir):
         title_line = lines[0].replace("#", "").strip()
 
     source = None
-    rel_path = os.path.relpath(source_file)
+    # rel_path = os.path.relpath(source_file)
+    rel_path = os.path.relpath(source_file).replace("cleaned_data\\markdown", "markdown_data")
     source = rel_path
 
     if source and content.endswith(lines[-1]):
@@ -184,7 +185,7 @@ def chunk_markdown(content, source_file, keywords_dict, output_dir):
     if current_chunk_lines:
         chunks.append((current_header, "\n".join(current_chunk_lines)))
 
-    splitter = SemanticChunker(LocalEmbeddings(), breakpoint_threshold_type="interquartile", breakpoint_threshold_amount=0.9,buffer_size=5)
+    splitter = SemanticChunker(LocalEmbeddings(), breakpoint_threshold_type="interquartile", breakpoint_threshold_amount=0.9,buffer_size=10)
     result = []
     chunk_counter = 0
 
@@ -227,8 +228,8 @@ def save_chunks_to_json(chunks, output_path):
         json.dump(chunks, f, ensure_ascii=False, indent=2)
 
 def main():
-    markdown_dir = "cleaned_data/markdown"
-    output_dir = "cleaned_data/json"
+    markdown_dir = "markdown_data"
+    output_dir = "json/json_AITeamVN"
     keywords_file = "keywords.py"
     os.makedirs(output_dir, exist_ok=True)
     keywords_dict = {}

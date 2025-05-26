@@ -14,11 +14,11 @@ load_dotenv()
 class DocEmbedder:
     def __init__(
             self,
-            model_name: str = 'bkai-foundation-models/vietnamese-bi-encoder',
+            model_name: str = 'AITeamVN/Vietnamese_Embedding',
             qdrant_url: str = os.getenv("QDRANT_URL"),
             qdrant_api_key: str = os.getenv("QDRANT_API_KEY"),
-            collection_name: str = "uit_documents",
-            vector_size: int = 768,
+            collection_name: str = "uit_documents_AITeamVN",
+            vector_size: int = 1024,
             distance: str = Distance.COSINE,
     ):
         self.model = SentenceTransformer(model_name)
@@ -108,7 +108,7 @@ class DocEmbedder:
 if __name__ == "__main__":
     embedder = DocEmbedder()
     embedder.create_collection()
-    data_dir = "cleaned_data/json"
+    data_dir = "json/json_AITeamVN"
 
     for json_file in Path(data_dir).glob("*.json"):
         with open(json_file, "r", encoding="utf-8") as f:
