@@ -4,6 +4,8 @@ A retrieval-augmented generation (RAG) chatbot designed to assist prospective st
 
 ---
 
+![UIT Admissions Homepage](./image/home.jpeg)
+
 ## Project Overview
 
 This application uses natural language processing and knowledge retrieval to provide information about university admissions. The chatbot collects data from UIT's official website, processes it, and answers user queries based on that data.
