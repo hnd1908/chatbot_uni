@@ -60,7 +60,24 @@
 
 import { useState } from "react";
 import { Link } from "react-router-dom";
-import { UserButton, SignedIn} from "@clerk/clerk-react";
+import { UserButton, SignedIn } from "@clerk/clerk-react";
+
+function MenuIcon({ active }: { active: boolean }) {
+  return (
+    <svg
+      viewBox="0 0 50 50"
+      width={24}
+      height={24}
+      className="transition-colors duration-300"
+      xmlns="http://www.w3.org/2000/svg"
+    >
+      <path
+        d="M 0 7.5 L 0 12.5 L 50 12.5 L 50 7.5 Z M 0 22.5 L 0 27.5 L 50 27.5 L 50 22.5 Z M 0 37.5 L 0 42.5 L 50 42.5 L 50 37.5 Z"
+        fill={active ? "#222" : "#fff"}
+      />
+    </svg>
+  );
+}
 
 export default function Navbar() {
   const [isOpen, setIsOpen] = useState(false);
@@ -69,9 +86,10 @@ export default function Navbar() {
     <>
       <button
         onClick={() => setIsOpen(!isOpen)}
-        className="fixed top-4 left-4 text-2xl text-black z-50 focus:outline-none"
+        className="fixed top-4 left-4 text-2xl z-50 focus:outline-none"
+        style={{ background: "transparent" }}
       >
-        <img src="/icons8-menu.svg" alt="Menu Icon" className="w-5 h-5" />
+        <MenuIcon active={isOpen} />
       </button>
 
       <div
