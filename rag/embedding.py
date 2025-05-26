@@ -9,7 +9,9 @@ from qdrant_client import QdrantClient
 from qdrant_client.models import Distance, VectorParams, PointStruct, PayloadSchemaType
 from dotenv import load_dotenv
 
-load_dotenv()
+PROJECT_ROOT = os.path.abspath(os.path.join(os.path.dirname(__file__), '../../'))
+dotenv_path = os.path.join(PROJECT_ROOT, '.env')
+load_dotenv(dotenv_path)
 
 class DocEmbedder:
     def __init__(
@@ -17,7 +19,7 @@ class DocEmbedder:
             model_name: str = 'AITeamVN/Vietnamese_Embedding',
             qdrant_url: str = os.getenv("QDRANT_URL"),
             qdrant_api_key: str = os.getenv("QDRANT_API_KEY"),
-            collection_name: str = "uit_documents_AITeamVN",
+            collection_name: str = os.getenv("COLLECTION_NAME"),
             vector_size: int = 1024,
             distance: str = Distance.COSINE,
     ):

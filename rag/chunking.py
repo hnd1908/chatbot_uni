@@ -9,9 +9,6 @@ from sentence_transformers import SentenceTransformer
 from pyvi.ViTokenizer import tokenize
 from datetime import datetime
 from unidecode import unidecode
-from dotenv import load_dotenv
-
-load_dotenv()
 
 class LocalEmbeddings:
     def __init__(self, model_name='AITeamVN/Vietnamese_Embedding'):
@@ -111,10 +108,11 @@ def determine_field_from_keywords(text, keywords_dict):
         return "ngành", category_counts, all_found_keywords, department
 
     elif selected_category:
-        field_name = "học bổng" if selected_category == "hoc_bong" else (
+        field_name = (
+            "học bổng" if selected_category == "hoc_bong" else
             "tuyển sinh" if selected_category in ["tuyensinh", "diem"] else
-            "trường" if selected_category == "truong" else
-            "ngoài lề"
+            "ngoài lề" if selected_category not in ["truong", "hoc_bong", "tuyensinh", "diem"] else
+            "trường"
         )
         return field_name, category_counts, all_found_keywords, department
 
@@ -150,8 +148,8 @@ def chunk_markdown(content, source_file, keywords_dict, output_dir):
         title_line = lines[0].replace("#", "").strip()
 
     source = None
-    # rel_path = os.path.relpath(source_file)
-    rel_path = os.path.relpath(source_file).replace("cleaned_data\\markdown", "markdown_data")
+    rel_path = os.path.relpath(source_file)
+    # rel_path = os.path.relpath(source_file).replace("cleaned_data\\markdown", "markdown_data")
     source = rel_path
 
     if source and content.endswith(lines[-1]):

@@ -87,10 +87,10 @@ keywords_dict = {
         "giảng viên cơ hữu", "giảng viên thỉnh giảng"
     ],
     "ngoai_le": [
-        "bootcamp", "hành trình",
+        "algo bootcamp", "hành trình",
         "khám phá", "hoạt động ngoại khóa",
         "trại hè", "talkshow", "workshop",
-        "chuỗi sự kiện", "giao lưu", "triển lãm giáo dục"
+        "chuỗi sự kiện", "giao lưu", "triển lãm giáo dục", "algo", "bootcamp",
     ],
     "hoc_bong": [
         "học bổng", "học bổng toàn phần", "học bổng bán phần", "học bổng khuyến khích",
