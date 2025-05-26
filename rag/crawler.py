@@ -8,7 +8,7 @@ from tqdm import tqdm
 from bs4 import BeautifulSoup
 from urllib.parse import urlparse, urljoin
 
-crawl_folder = 'markdown_data'
+crawl_folder = 'markdown_data_raw'
 os.makedirs(crawl_folder, exist_ok=True)
 
 VALID_FILE_EXTENSIONS = [

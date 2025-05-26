@@ -9,12 +9,9 @@ from sentence_transformers import SentenceTransformer
 from pyvi.ViTokenizer import tokenize
 from datetime import datetime
 from unidecode import unidecode
-from dotenv import load_dotenv
-
-load_dotenv()
 
 class LocalEmbeddings:
-    def __init__(self, model_name='bkai-foundation-models/vietnamese-bi-encoder'):
+    def __init__(self, model_name='AITeamVN/Vietnamese_Embedding'):
         self.model = SentenceTransformer(model_name)
     def embed_documents(self, texts):
         return self.model.encode(texts, convert_to_numpy=True).tolist()
@@ -111,10 +108,11 @@ def determine_field_from_keywords(text, keywords_dict):
         return "ngành", category_counts, all_found_keywords, department
 
     elif selected_category:
-        field_name = "học bổng" if selected_category == "hoc_bong" else (
+        field_name = (
+            "học bổng" if selected_category == "hoc_bong" else
             "tuyển sinh" if selected_category in ["tuyensinh", "diem"] else
-            "trường" if selected_category == "truong" else
-            "ngoài lề"
+            "ngoài lề" if selected_category not in ["truong", "hoc_bong", "tuyensinh", "diem"] else
+            "trường"
         )
         return field_name, category_counts, all_found_keywords, department
 
@@ -151,6 +149,7 @@ def chunk_markdown(content, source_file, keywords_dict, output_dir):
 
     source = None
     rel_path = os.path.relpath(source_file)
+    # rel_path = os.path.relpath(source_file).replace("cleaned_data\\markdown", "markdown_data")
     source = rel_path
 
     if source and content.endswith(lines[-1]):
@@ -184,7 +183,7 @@ def chunk_markdown(content, source_file, keywords_dict, output_dir):
     if current_chunk_lines:
         chunks.append((current_header, "\n".join(current_chunk_lines)))
 
-    splitter = SemanticChunker(LocalEmbeddings(), breakpoint_threshold_type="interquartile", breakpoint_threshold_amount=0.9,buffer_size=5)
+    splitter = SemanticChunker(LocalEmbeddings(), breakpoint_threshold_type="interquartile", breakpoint_threshold_amount=0.9,buffer_size=10)
     result = []
     chunk_counter = 0
 
@@ -227,8 +226,8 @@ def save_chunks_to_json(chunks, output_path):
         json.dump(chunks, f, ensure_ascii=False, indent=2)
 
 def main():
-    markdown_dir = "cleaned_data/markdown"
-    output_dir = "cleaned_data/json"
+    markdown_dir = "markdown_data"
+    output_dir = "json/json_AITeamVN"
     keywords_file = "keywords.py"
     os.makedirs(output_dir, exist_ok=True)
     keywords_dict = {}

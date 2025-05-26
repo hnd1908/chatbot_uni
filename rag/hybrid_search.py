@@ -3,32 +3,16 @@ from typing import List, Dict, Any, Optional, Union
 from qdrant_client import QdrantClient
 from qdrant_client.http.models import Filter, FieldCondition, MatchAny, MatchValue
 from sentence_transformers import SentenceTransformer
-from keybert import KeyBERT
-from keywords import keywords_dict
+from .keywords import keywords_dict
 import unicodedata
 from unidecode import unidecode
 import re
 from dotenv import load_dotenv
 import os
 
-load_dotenv()
-
-def normalize(text: str) -> str:
-    text = text.lower()
-    text = unicodedata.normalize('NFD', text)
-    text = re.sub(r'[\u0300-\u036f]', '', text)
-    return text
-
-def extract_filter_keywords_with_keybert(question: str, keywords_dict: dict, kw_model, top_n: int = 5):
-    keywords = [kw for kw, _ in kw_model.extract_keywords(question, top_n=top_n)]
-    norm_keywords = [normalize(kw) for kw in keywords]
-    matched_keys = set()
-    for key, kws in keywords_dict.items():
-        for kw in kws:
-            if normalize(kw) in norm_keywords or any(normalize(kw) in k for k in norm_keywords):
-                matched_keys.add(key)
-                break
-    return list(matched_keys)
+PROJECT_ROOT = os.path.abspath(os.path.join(os.path.dirname(__file__), '../../'))
+dotenv_path = os.path.join(PROJECT_ROOT, '.env')
+load_dotenv(dotenv_path)
 
 def count_keywords_by_category(text, keywords_dict):
     category_counts = {}
@@ -272,11 +256,11 @@ class HybridSearchQdrant:
         return final_results
 
 if __name__ == "__main__":
-    model = SentenceTransformer('bkai-foundation-models/vietnamese-bi-encoder')
+    model = SentenceTransformer('AITeamVN/Vietnamese_Embedding')
     search_engine = HybridSearchQdrant(
         qdrant_url=os.getenv("QDRANT_URL"),
         qdrant_api_key=os.getenv("QDRANT_API_KEY"),
-        collection_name="uit_documents",
+        collection_name="uit_documents_AITeamVN",
         embedding_model=model,
         metadata_weight=0.2,
         semantic_weight=0.8
@@ -287,24 +271,7 @@ if __name__ == "__main__":
         if query.lower() == "exit":
             break
 
-        # Lấy filter_keywords, field, department, year từ extract_field_department_year
         field, filter_keywords, found_keywords, department, year = extract_field_department_year(query, keywords_dict)
-        # filter_keywords là tất cả các key (category) match trong câu hỏi
-        # (dùng lại logic trong extract_field_department_year)
-        # Nếu muốn lấy tất cả các key match, bạn có thể sửa hàm extract_field_department_year trả về thêm category_counts.keys()
-        # Hoặc đơn giản:
-        text = query
-        text_no_accent = unicodedata.normalize('NFD', text.lower())
-        text_no_accent = ''.join([c for c in text_no_accent if unicodedata.category(c) != 'Mn'])
-        # filter_keywords = []
-        # for category, keywords in keywords_dict.items():
-        #     for kw in keywords:
-        #         kw_lower = kw.lower()
-        #         kw_no_accent = unicodedata.normalize('NFD', kw_lower)
-        #         kw_no_accent = ''.join([c for c in kw_no_accent if unicodedata.category(c) != 'Mn'])
-        #         if kw_lower in text.lower() or kw_no_accent in text_no_accent:
-        #             filter_keywords.append(category)
-        #             break
 
         print(f"Keywords: {filter_keywords}")
         print(f"Field: {field}")

@@ -1,8 +1,8 @@
 import os
 import re
 
-markdown_folder = 'markdown_data'
-cleaned_folder = 'cleaned_data/markdown'
+markdown_folder = 'markdown_data_raw'
+cleaned_folder = 'markdown_data'
 os.makedirs(cleaned_folder, exist_ok=True)
 
 excluded_keywords = [

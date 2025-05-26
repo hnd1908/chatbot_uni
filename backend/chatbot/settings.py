@@ -82,7 +82,9 @@ WSGI_APPLICATION = 'chatbot.wsgi.application'
 
 # Database
 # https://docs.djangoproject.com/en/5.1/ref/settings/#databases
-load_dotenv()
+PROJECT_ROOT = os.path.abspath(os.path.join(os.path.dirname(__file__), '../../'))
+dotenv_path = os.path.join(PROJECT_ROOT, '.env')
+load_dotenv(dotenv_path)
 
 DATABASES = {
     'default': dj_database_url.config(default=os.getenv('DATABASE_URL'))

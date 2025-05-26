@@ -27,8 +27,8 @@ The project has separate frontend and backend components:
 - Database: PostgreSQL (Neon)  
 - Vector database: Qdrant for semantic search  
 - NLP processing:  
-  - LangChain RecursiveCharacterTextSplitter for chunking  
-  - Hugging Face VoVanPhuc model for embeddings  
+  - LangChain SemanticChunker for chunking  
+  - Sentence Transformer [AITeamVN/Vietnamese_Embedding](https://huggingface.co/AITeamVN/Vietnamese_Embedding) from Hugging Face for embeddings  
   - Custom keyword filtering  
 
 ### Frontend
@@ -107,10 +107,3 @@ The project implements a Retrieval Augmented Generation system:
 - **Embedding Generation**: Creates vector embeddings using Hugging Face models
 - **Semantic Search**: Uses Qdrant for vector similarity search
 - **Response Generation**: Combines retrieved context with Google Cloud API for answer generation
-
-### Development Roadmap
-
-- Integrate LangChain workflow components
-- Enhance reasoning with improved prompt engineering
-- Implement automated tests for RAG modules
-- Develop admin dashboard for system monitoring and analytics
