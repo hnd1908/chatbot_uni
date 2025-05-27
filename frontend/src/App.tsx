@@ -1,40 +1,17 @@
-import { Routes, Route } from "react-router-dom";
-import { SignedIn, SignedOut, RedirectToSignIn } from "@clerk/clerk-react";
+import { useEffect } from "react";
 import Home from "./pages/Home";
-import Chat from "./pages/Chat";
-import Login from "./pages/Login";
-import Navbar from "./components/Navbar";
+
+function generateGuestId() {
+  return "guest_" + Math.random().toString(36).slice(2, 18);
+}
 
 export default function App() {
-  return (
-    <>
-      <div className="flex flex-col h-screen">
-        <div className="sticky top-0 z-10">
-          <Navbar />
-        </div>
-        <div className="flex-1">
-          <Routes>
-            <Route path="/" element={<Home />} />
-            <Route path="/login" element={<Login />} />
-            <Route
-              path="/chat"
-              element={
-                <SignedIn>
-                  <Chat />
-                </SignedIn>
-              }
-            />
-            <Route
-              path="*"
-              element={
-                <SignedOut>
-                  <RedirectToSignIn />
-                </SignedOut>
-              }
-            />
-          </Routes>
-        </div>
-      </div>
-    </>
-  );
+  useEffect(() => {
+    let userId = localStorage.getItem("user_id");
+    if (!userId) {
+      userId = generateGuestId();
+      localStorage.setItem("user_id", userId);
+    }
+  }, []);
+  return <Home />;
 }

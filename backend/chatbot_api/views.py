@@ -1,5 +1,6 @@
 import os
 import sys
+import uuid
 
 PROJECT_ROOT = os.path.abspath(os.path.join(os.path.dirname(__file__), '../../'))
 if PROJECT_ROOT not in sys.path:
@@ -8,7 +9,6 @@ if PROJECT_ROOT not in sys.path:
 import google.generativeai as genai
 from rest_framework.response import Response
 from rest_framework.decorators import api_view
-from django.shortcuts import get_object_or_404
 from .models import ChatMessage, Conversation
 from .serializers import ChatMessageSerializer, ConversationSerializer
 from rag.hybrid_search import HybridSearchQdrant, extract_field_department_year, count_keywords_by_category
@@ -21,6 +21,8 @@ import numpy as np
 from typing import List, Dict
 from qdrant_client import QdrantClient
 from dotenv import load_dotenv
+import time
+from django.shortcuts import get_object_or_404
 
 CURRENT_DIR = os.path.dirname(os.path.abspath(__file__))
 os.chdir(CURRENT_DIR)
@@ -28,7 +30,6 @@ os.chdir(CURRENT_DIR)
 dotenv_path = os.path.join(PROJECT_ROOT, '.env')
 load_dotenv(dotenv_path)
 
-# --- Qdrant cấu hình ---
 QDRANT_URL = os.getenv("QDRANT_URL")
 QDRANT_API_KEY = os.getenv("QDRANT_API_KEY")
 COLLECTION_NAME = os.getenv("COLLECTION_NAME")
@@ -98,15 +99,13 @@ def format_response(documents: List[Dict]) -> str:
         response += f"\nTài liệu {i} (score {doc['score']:.2f}):\nTiêu đề: {doc['title']}\nNội dung: {doc['content']}\n"
     return response
 
-import time
-# ...existing code...
 
-def get_chat_response(user_message, history):
+def get_chat_response(user_message, history=None):
     model = genai.GenerativeModel("gemini-2.0-flash")
     tz = pytz.timezone("Asia/Ho_Chi_Minh")
     current_date = datetime.now(tz).strftime("%d/%m/%Y %H:%M:%S")
     generation_config = {
-        "temperature": 0.3,
+        "temperature": 0.5,
         "max_output_tokens": 2048,
         "top_k": 20,
         "top_p": 0.95,
@@ -117,9 +116,7 @@ def get_chat_response(user_message, history):
     t1 = time.time()
     docs_summary = format_response(documents)
     print(documents)
-    # Tạo set các file nguồn trước
     source_files = set(doc["source"] for doc in documents if doc.get("source"))
-    # Sau đó mới load nội dung các file markdown
     full_markdown_content = get_markdown_content_from_sources(source_files)
     t2 = time.time()
 
@@ -135,6 +132,7 @@ def get_chat_response(user_message, history):
     4. Sử dụng font Unicode tiêu chuẩn.
     5. Nếu người dùng hỏi bằng ngôn ngữ khác, không phải tiếng Việt, hãy hỏi lại lịch sự:
     → "Bạn có muốn tôi trả lời bằng tiếng Việt không?"
+    6. Nếu người dùng hỏi các câu như "tiếp đi", "tiếp tục đi", "bạn có thể trả lời lại câu hỏi vừa rồi không", "vậy còn...", "còn nữa không?", "tiếp tục nhé", "tiếp tục nào", "tiếp tục thôi", "tiếp tục nào bạn ơi", "tiếp tục đi bạn ơi", "tiếp tục đi nào bạn ơi", "tiếp tục đi nào", "tiếp tục đi nhé", "tiếp tục đi nha", "tiếp tục đi bạn nha", "tiếp tục đi bạn ơi nha", "tiếp tục đi bạn ơi nhé"... thì bạn phải dựa vào lịch sử hội thoại phía trên để trả lời đúng ngữ cảnh, không được trả lời chung chung hoặc lặp lại nội dung không liên quan.
 
     📅 Ngày hiện tại: {current_date}
     🏫 Trường: Đại học Công nghệ Thông tin - ĐHQG TP.HCM (UIT)
@@ -145,85 +143,66 @@ def get_chat_response(user_message, history):
     {full_markdown_content}
     '''
 
-    history_text = "".join(
-        f"Người dùng: {msg.user_message}\nChatbot_uni: {msg.bot_response}\n" for msg in history
-    )
-    new_message = f"Người dùng: {user_message}\nChatbot_uni:"
+    history_text = ""
+    if history:
+        for msg in history:
+            if hasattr(msg, 'user_message') and hasattr(msg, 'bot_response'):
+                history_text += f"Người dùng: {msg.user_message}\n"
+                history_text += f"Bốp Assistant: {msg.bot_response}\n"
+            elif isinstance(msg, dict):
+                if msg.get('role') == 'user':
+                    history_text += f"Người dùng: {msg.get('content', '')}\n"
+                else:
+                    history_text += f"Bốp Assistant: {msg.get('content', '')}\n"
 
-    full_content = base_prompt + "\n"
+        full_content = base_prompt + "\n" + history_text + f"\nNgười dùng: {user_message}\nBốp Assistant:"
 
-    if len(history_text) + len(new_message) > 12000:
-        full_content += "Lịch sử hội thoại quá dài.\n"
-
-    full_content += history_text + new_message
-
-    # In thời gian truy vấn và augmentation
+    print('---DEBUG: history_text---')
+    print(repr(history_text))
+    if not history_text:
+        print("Không có lịch sử hội thoại trước đó.")
+        full_content = base_prompt + f"\nNgười dùng: {user_message}\nBốp Assistant:"
+        
     print(f"⏱️ Thời gian truy vấn (Qdrant): {t1 - t0:.3f} giây")
     print(f"⏱️ Thời gian augmentation (load markdown & chuẩn bị prompt): {t2 - t1:.3f} giây")
 
     response = model.generate_content(full_content, generation_config=generation_config)
     final_text = response.text
-    
     return final_text
 
 # --- API Views ---
-@api_view(['GET', 'POST', 'DELETE'])
+@api_view(['GET', 'POST'])
 def conversation_handler(request):
     user_id = request.headers.get('X-User-ID')
-    if not user_id:
-        return Response({'error': 'Unauthorized'}, status=401)
-
     if request.method == "GET":
         conversation_index = request.GET.get("conversation_index")
         conversation = get_object_or_404(Conversation, conversation_index=conversation_index, user_id=user_id)
         messages = ChatMessage.objects.filter(conversation=conversation).order_by("index")
         return Response({
             "conversation_index": conversation.conversation_index,
-            "messages": ChatMessageSerializer(messages, many=True).data
+            "messages": ChatMessageSerializer(messages, many=True).data,
+            "user_id": user_id
         })
 
     elif request.method == "POST":
         message = request.data.get('message', '')
-        conversation_index = request.GET.get("conversation_index") or request.data.get('conversation_index')
-
-        if not message:
-            return Response({'error': 'Message is required'}, status=400)
-
-        if conversation_index:
-            conversation = get_object_or_404(Conversation, conversation_index=conversation_index, user_id=user_id)
+        # user_id đã được lấy ở trên, chỉ generate khi không truyền lên (reload trang)
+        last_conv = Conversation.objects.filter(user_id=user_id).order_by('-created_at').first()
+        if last_conv:
+            conversation = last_conv
         else:
             conversation = Conversation.objects.create(user_id=user_id)
 
         current_message_count = ChatMessage.objects.filter(conversation=conversation).count()
         history_messages = ChatMessage.objects.filter(conversation=conversation).order_by("index")
-
+        new_index = current_message_count
         response = get_chat_response(message, history_messages)
         chat = ChatMessage.objects.create(
-            conversation=conversation, index=current_message_count,
+            conversation=conversation, index=new_index,
             user_message=message, bot_response=response
         )
-
         return Response({
             "conversation_index": conversation.conversation_index,
-            "chat": ChatMessageSerializer(chat).data
+            "chat": ChatMessageSerializer(chat).data,
+            "user_id": user_id
         })
-
-    elif request.method == "DELETE":
-        conversation_index = request.GET.get("conversation_index") or request.data.get("conversation_index")
-        conversation = get_object_or_404(Conversation, conversation_index=conversation_index, user_id=user_id)
-        conversation.delete()
-        return Response({"message": "Deleted successfully"}, status=200)
-
-@api_view(['GET'])
-def conversation_history(request):
-    user_id = request.headers.get('X-User-ID')
-    conversations = Conversation.objects.filter(user_id=user_id).order_by('-conversation_index')
-    if not conversations.exists():
-        return Response({"error": "Không có hội thoại nào."}, status=404)
-    return Response(ConversationSerializer(conversations, many=True).data)
-
-@api_view(['POST'])
-def create_new_conversation(request):
-    user_id = request.headers.get('X-User-ID')
-    conversation = Conversation.objects.create(user_id=user_id)
-    return Response({"conversation_index": conversation.conversation_index})

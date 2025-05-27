@@ -52,7 +52,7 @@ keywords_dict = {
     ],
     "ttnt": [
         "Trí tuệ nhân tạo", "AI", "ứng dụng AI", "phân tích AI", 
-        "hệ thống thông minh", "học sâu"
+        "hệ thống thông minh", "học sâu", "khoa học nhân tạo"
     ],
     "ttdpt": [
         "Truyền thông Đa phương tiện", "đa phương tiện", "sáng tạo nội dung", 
