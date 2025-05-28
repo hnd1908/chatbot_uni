@@ -48,8 +48,6 @@ hybrid_search_engine = HybridSearchQdrant(
     qdrant_api_key=QDRANT_API_KEY,
     collection_name=COLLECTION_NAME,
     embedding_model=embedding_model,
-    metadata_weight=0.2,
-    semantic_weight=0.8
 )
 
 def retrieve_documents(query: str, top_k: int = 5) -> List[Dict]:
@@ -65,20 +63,20 @@ def retrieve_documents(query: str, top_k: int = 5) -> List[Dict]:
         )
         
         for temp_doc in results:
-            if temp_doc.get("combined_score", 0) < 0.45:
-                print(f"⚠️ Bỏ qua tài liệu {temp_doc.get('title', 'không có tiêu đề')} do điểm quá thấp: {temp_doc.get('combined_score', 0)}")
+            if temp_doc.get("semantic_score", 0) < 0.45:
+                print(f"⚠️ Bỏ qua tài liệu {temp_doc.get('title', 'không có tiêu đề')} do điểm quá thấp: {temp_doc.get('semantic_score', 0)}")
 
         return [
             {
-                "score": doc.get("combined_score", 0),
+                "score": doc.get("semantic_score", 0),
                 "title": doc.get("title", ""),
                 "content": doc.get("content", ""),
                 "source": doc.get("source_file", "")
             }
-            for doc in results if doc.get("combined_score", 0) >= 0.45
+            for doc in results if doc.get("semantic_score", 0) >= 0.45
         ]
     except Exception as e:
-        print(f"Lỗi khi truy vấn Qdrant (hybrid): {e}")
+        print(f"Lỗi khi truy vấn Qdrant (semantic): {e}")
         return []
 
 def get_markdown_content_from_sources(source_files: set) -> str:

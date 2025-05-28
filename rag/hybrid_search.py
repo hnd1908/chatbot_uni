@@ -111,19 +111,13 @@ def extract_field_department_year(question: str, keywords_dict: dict):
     # Trả về field, list các key (category) tìm được, list từ khóa thực sự, department, year
     return field, list(category_counts.keys()), all_found_keywords, department, year
 
-class HybridSearchQdrant:
+class SemanticSearch:
     def __init__(
         self,
         qdrant_url: str,
         qdrant_api_key: str,
         collection_name: str,
         embedding_model: SentenceTransformer,
-        metadata_weight: float = 0.4,
-        semantic_weight: float = 0.6,
-        keyword_weight: float = 0.2,
-        field_weight: float = 0.3,
-        department_weight: float = 0.3,
-        year_weight: float = 0.2,
         min_confidence_threshold: float = 0.0
     ):
         self.qdrant_client = QdrantClient(
@@ -133,55 +127,7 @@ class HybridSearchQdrant:
         )
         self.collection_name = collection_name
         self.embedding_model = embedding_model
-
-        self.metadata_weight = metadata_weight
-        self.semantic_weight = semantic_weight
-
-        total = keyword_weight + field_weight + department_weight + year_weight
-        self.keyword_weight = keyword_weight / total
-        self.field_weight = field_weight / total
-        self.department_weight = department_weight / total
-        self.year_weight = year_weight / total
-
         self.min_confidence_threshold = min_confidence_threshold
-
-    def _score_metadata_match(
-        self,
-        doc: Dict[str, Any],
-        filter_keywords: Optional[List[str]] = None,
-        field: Optional[str] = None,
-        department: Optional[str] = None,
-        year: Optional[Union[int, str]] = None
-    ) -> float:
-        score = 0.0
-        if filter_keywords:
-            doc_keywords = doc.get("keywords", [])
-            if isinstance(doc_keywords, str):
-                doc_keywords = [doc_keywords]
-            keyword_match = any(k in doc_keywords for k in filter_keywords)
-            score += self.keyword_weight * (1.0 if keyword_match else 0.0)
-        else:
-            score += self.keyword_weight
-
-        if field:
-            doc_field = doc.get("field", "").lower()
-            score += self.field_weight * (1.0 if field.lower() == doc_field else 0.0)
-        else:
-            score += self.field_weight
-
-        if department:
-            doc_dept = doc.get("department", "").lower()
-            score += self.department_weight * (1.0 if department.lower() == doc_dept else 0.0)
-        else:
-            score += self.department_weight
-
-        if year:
-            doc_year = str(doc.get("year", ""))
-            score += self.year_weight * (1.0 if str(year) == doc_year else 0.0)
-        else:
-            score += self.year_weight
-
-        return score
 
     def search(
         self,
@@ -194,7 +140,6 @@ class HybridSearchQdrant:
     ) -> List[Dict[str, Any]]:
         query_embedding = self.embedding_model.encode([query])[0].tolist()
 
-        # Xây dựng hard filter
         must_conditions = []
         if filter_keywords:
             must_conditions.append(FieldCondition(
@@ -229,35 +174,21 @@ class HybridSearchQdrant:
 
         results_with_scores = []
         for res in results:
-            payload = res.payload or {}
-            metadata_score = self._score_metadata_match(
-                payload,
-                filter_keywords=filter_keywords,
-                field=field,
-                department=department,
-                year=year
-            )
             semantic_score = res.score
-            combined_score = (
-                self.metadata_weight * metadata_score +
-                self.semantic_weight * semantic_score
-            )
-            if combined_score >= self.min_confidence_threshold:
-                results_with_scores.append((res, combined_score, metadata_score, semantic_score))
+            if semantic_score >= self.min_confidence_threshold:
+                results_with_scores.append((res, semantic_score))
 
         results_with_scores.sort(key=lambda x: x[1], reverse=True)
         final_results = []
-        for res, combined_score, metadata_score, semantic_score in results_with_scores[:top_k]:
+        for res, semantic_score in results_with_scores[:top_k]:
             doc = res.payload.copy()
-            doc["combined_score"] = float(combined_score)
-            doc["metadata_score"] = float(metadata_score)
             doc["semantic_score"] = float(semantic_score)
             final_results.append(doc)
         return final_results
 
 if __name__ == "__main__":
     model = SentenceTransformer('AITeamVN/Vietnamese_Embedding')
-    search_engine = HybridSearchQdrant(
+    search_engine = SemanticSearch(
         qdrant_url=os.getenv("QDRANT_URL"),
         qdrant_api_key=os.getenv("QDRANT_API_KEY"),
         collection_name="uit_documents_AITeamVN",
