@@ -42,7 +42,12 @@ export default function Chatbox() {
       const response = await axios.post(
         "http://127.0.0.1:8000/chatbot/conversation/",
         payload,
-        { cancelToken: cancelToken.token }
+        {
+          cancelToken: cancelToken.token,
+          headers: {
+            "X-User-ID": localStorage.getItem("user_id") || "",
+          },
+        }
       );
 
       const botMessage: Message = {

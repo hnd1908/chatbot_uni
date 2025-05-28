@@ -7,11 +7,8 @@ function generateGuestId() {
 
 export default function App() {
   useEffect(() => {
-    let userId = localStorage.getItem("user_id");
-    if (!userId) {
-      userId = generateGuestId();
-      localStorage.setItem("user_id", userId);
-    }
+    const userId = generateGuestId();
+    localStorage.setItem("user_id", userId);
   }, []);
   return <Home />;
 }

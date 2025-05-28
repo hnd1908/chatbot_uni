@@ -1,6 +1,5 @@
 import os
 import sys
-import uuid
 
 PROJECT_ROOT = os.path.abspath(os.path.join(os.path.dirname(__file__), '../../'))
 if PROJECT_ROOT not in sys.path:
@@ -11,7 +10,7 @@ from rest_framework.response import Response
 from rest_framework.decorators import api_view
 from .models import ChatMessage, Conversation
 from .serializers import ChatMessageSerializer, ConversationSerializer
-from rag.hybrid_search import HybridSearchQdrant, extract_field_department_year, count_keywords_by_category
+from rag.hybrid_search import HybridSearchQdrant
 from sentence_transformers import SentenceTransformer
 from rag.keywords import keywords_dict
 from datetime import datetime
@@ -48,34 +47,31 @@ hybrid_search_engine = HybridSearchQdrant(
     qdrant_api_key=QDRANT_API_KEY,
     collection_name=COLLECTION_NAME,
     embedding_model=embedding_model,
-    metadata_weight=0.2,
-    semantic_weight=0.8
+    chunk_dir=os.path.join(os.path.dirname(__file__), '../../rag/json/json_AITeamVN'), 
+    ngram_range=(1, 5),
+    semantic_weight=0.7,
+    bm25_weight=0.3,
+    min_confidence_semantic_threshold=0.3,
+    min_confidence_bm25_threshold=0.6
 )
 
 def retrieve_documents(query: str, top_k: int = 5) -> List[Dict]:
     try:
-        field, filter_keywords, found_keywords, department, year = extract_field_department_year(query, keywords_dict)
-        results = hybrid_search_engine.search(
-            query=query,
-            filter_keywords=filter_keywords,
-            field=field,
-            department=department,
-            year=year,
-            top_k=top_k
-        )
-        
-        for temp_doc in results:
-            if temp_doc.get("combined_score", 0) < 0.45:
-                print(f"⚠️ Bỏ qua tài liệu {temp_doc.get('title', 'không có tiêu đề')} do điểm quá thấp: {temp_doc.get('combined_score', 0)}")
-
+        # Không hard filter, chỉ truyền query cho hybrid search
+        results = hybrid_search_engine.search(query=query, top_k=top_k)
+        # for temp_doc in results:
+        #     if temp_doc.get("combined_score", 0) < 0.45:
+        #         print(f"⚠️ Bỏ qua tài liệu {temp_doc.get('title', 'không có tiêu đề')} do điểm quá thấp: {temp_doc.get('combined_score', 0)}")
         return [
             {
                 "score": doc.get("combined_score", 0),
+                "semantic_score": doc.get("semantic_score", 0),
+                "bm25_score": doc.get("bm25_score", 0),
                 "title": doc.get("title", ""),
                 "content": doc.get("content", ""),
                 "source": doc.get("source_file", "")
             }
-            for doc in results if doc.get("combined_score", 0) >= 0.45
+            for doc in results
         ]
     except Exception as e:
         print(f"Lỗi khi truy vấn Qdrant (hybrid): {e}")
@@ -115,7 +111,14 @@ def get_chat_response(user_message, history=None):
     documents = retrieve_documents(user_message)
     t1 = time.time()
     docs_summary = format_response(documents)
-    print(documents)
+    for i, doc in enumerate(documents, 1):
+        print(f"\n--- Document {i} ---")
+        print(f"Score: {doc['score']:.4f}")
+        print(f"Semantic Score: {doc['semantic_score']:.4f}")
+        print(f"BM25 Score: {doc['bm25_score']:.4f}")
+        print(f"Title: {doc['title']}")
+        print(f"Source: {doc['source']}")
+        print(f"Content: {doc['content'][:300]}...")  # In 300 ký tự đầu, tránh quá dài
     source_files = set(doc["source"] for doc in documents if doc.get("source"))
     full_markdown_content = get_markdown_content_from_sources(source_files)
     t2 = time.time()
