@@ -12,8 +12,10 @@ This application uses natural language processing and knowledge retrieval to pro
 
 ### Key Features
 
+- Two main branches for information retrieval:
+  - **main** (also `hybrid_search_bm25`): Combines BM25 score and semantic score for hybrid search.
+  - **hard-filter**: Uses hard metadata filtering (with hand-crafted keywords, suitable for admissions) and semantic score only.
 - Utilizes Google Cloud API for large language model (LLM) responses  
-- Performs semantic search with Qdrant for information retrieval  
 - Processes documents with chunking and keyword filtering  
 - Web-based interface 
 
