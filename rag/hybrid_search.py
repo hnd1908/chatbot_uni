@@ -34,20 +34,23 @@ def normalize_text(text):
 def remove_stopword(text):
     return ' '.join([w for w in text.split() if w not in STOPWORDS])
 
-def generate_ngrams(tokens: List[str], n: int) -> List[str]:
-    return ['_'.join(tokens[i:i+n]) for i in range(len(tokens)-n+1)]
+def generate_context_ngrams(tokens: List[str], window_size: int) -> List[str]:
+    ngrams = []
+    for i in range(len(tokens)):
+        left = max(0, i - window_size)
+        right = min(len(tokens), i + window_size + 1)
+        context = tokens[left:right]
+        ngrams.append('_'.join(context))
+    return ngrams
 
-def preprocess_text(text, ngram_range=(1, 2)) -> str:
+def preprocess_text(text, window_size=2) -> str:
     text = normalize_text(text)
     text = tokenize(text)
+    # print("Tokenized text:", text)
     text = remove_stopword(text)
     tokens = text.split()
-    
-    ngrams = []
-    for n in range(ngram_range[0], ngram_range[1] + 1):
-        ngrams.extend(generate_ngrams(tokens, n))
-    
-    return ' '.join(ngrams)
+    ngrams = generate_context_ngrams(tokens, window_size)
+    return ' '.join(tokens)
 
 
 class BM25:
@@ -108,7 +111,7 @@ class HybridSearchQdrant:
         collection_name: str,
         embedding_model: SentenceTransformer,
         chunk_dir: str = None,
-        ngram_range: tuple = (1, 2),
+        window_size: int = 2,
         semantic_weight: float = 0.5,
         bm25_weight: float = 0.5,
         min_confidence_semantic_threshold: float = 0.0,
@@ -129,7 +132,7 @@ class HybridSearchQdrant:
         self.chunk_dir = chunk_dir
         self.bm25_pickle_path = bm25_pickle_path
         self._load_or_build_bm25()
-        self.ngram_range = ngram_range
+        self.window_size = window_size
 
     def _load_or_build_bm25(self):
         if os.path.exists(self.bm25_pickle_path):
@@ -145,7 +148,7 @@ class HybridSearchQdrant:
                     data = json.load(f)
                     for chunk in data:
                         content = chunk.get('content', '')
-                        processed = preprocess_text(content, ngram_range=(1, 5))  # unigram + bigram
+                        processed = preprocess_text(content, window_size=2)  # unigram + bigram
                         bm25_docs.append(processed.split())
                         bm25_doc_map.append(chunk)
             self.bm25_model = BM25()
@@ -237,11 +240,11 @@ if __name__ == "__main__":
         collection_name="uit_documents_AITeamVN",
         embedding_model=model,
         chunk_dir=os.path.join(os.path.dirname(__file__), 'json', 'json_AITeamVN'),
-        ngram_range=(1, 5),
+        window_size=2,
         semantic_weight=0.5,
         bm25_weight=0.5,
         min_confidence_semantic_threshold=0.3,
-        min_confidence_bm25_threshold = 0.6
+        min_confidence_bm25_threshold=0.6
     )
     t1 = time.time()
     print("khởi tạo thành công, chuẩn bị in keywords mỗi chunk: ", t1-t0)

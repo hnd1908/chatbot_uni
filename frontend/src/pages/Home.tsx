@@ -45,28 +45,28 @@ function NewsSection() {
       date: "25/05/2025",
       link: "https://tuyensinh.uit.edu.vn/2025-du-kien-phuong-thuc-tuyen-sinh-nam-2025",
       summary: "Đề án tuyển sinh năm 2025 của UIT với nhiều điểm mới về phương thức xét tuyển và ngành học.",
-      thumbnail: "https://scontent.fsgn5-9.fna.fbcdn.net/v/t39.30808-6/489818885_1125023986330271_6544787257994631994_n.jpg?stp=dst-jpg_p526x296_tt6&_nc_cat=105&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeF8dzUS-P_IM3fQqS3BVtGppqa54RhasoOmprnhGFqyg0CihZZ61C7T-IhN9z-6weljOtd0kBNlAz7glqcuFpax&_nc_ohc=VNg_aszuZMgQ7kNvwEZ2ptx&_nc_oc=Adnkg8CVo9BMo-W_5YR5aGNRI5qCJe885-QeDDj6-1vkr7BVpaN3VED02_xz-t2yLvY&_nc_zt=23&_nc_ht=scontent.fsgn5-9.fna&_nc_gid=WRgkL4vJI_n_X44boy6xhg&oh=00_AfKkF1pGopk7CQelSs5wXGG7QRuJGgpp5DsVjjyLHixpMA&oe=683B9DD5"
+      thumbnail: "src/assets/tuyensinh2025.jpg"
     },
     {
       title: "Học bổng UIT tài năng 2025",
       date: "09/04/2025",
       link: "https://tuyensinh.uit.edu.vn/2025-thong-bao-hoc-bong-toan-dien-sang-tao-phung-su-nam-2025",
       summary: "UIT tiếp tục triển khai chương trình học bổng UIT Talent dành cho tân sinh viên xuất sắc.",
-      thumbnail: "https://scontent.fsgn5-10.fna.fbcdn.net/v/t39.30808-6/487872681_1121212356711434_7826403382184964905_n.jpg?stp=dst-jpg_p526x296_tt6&_nc_cat=107&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeGZIJuUknzaeY0s1HWqnhQOtYuZyn_sXqG1i5nKf-xeod-maE5FFSAbIAafBwrw_8DDWWCcdP-8Fx_E8cPy98yn&_nc_ohc=OHezndJsxHgQ7kNvwFikrPJ&_nc_oc=AdnkVpuVdH8g6GGDhYm-zixeuDeTPczitd-fzC6GBITNvD3-x1c3I20KPTAyxGCC1sg&_nc_zt=23&_nc_ht=scontent.fsgn5-10.fna&_nc_gid=09AL8Yv2l7EI2dIp2o-9bQ&oh=00_AfIcgky_VHZ2ZDmOm71bKThokeYXW4EgEqMUGEWLrafZQA&oe=683BA8E6"
+      thumbnail: "src/assets/hocbongtalent.jpg"
     },
     {
       title: "Ngày hội tư vấn tuyển sinh 2025",
       date: "17/02/2025",
       link: "https://tuyensinh.uit.edu.vn/uit-tham-gia-ngay-hoi-tu-van-tuyen-sinh-mua-thi-2025-co-hoi-hap-dan-cho-he-tre-dam-me-cong-nghe",
       summary: "Tham gia ngày hội để được tư vấn trực tiếp về các ngành học, cơ hội nghề nghiệp và trải nghiệm môi trường UIT.",
-      thumbnail: "https://scontent.fsgn5-14.fna.fbcdn.net/v/t39.30808-6/489011441_1125092149656788_2725190214608033658_n.jpg?stp=dst-jpg_p526x296_tt6&_nc_cat=101&ccb=1-7&_nc_sid=833d8c&_nc_eui2=AeH3pY0t6s4admHkdEFclW6rgf4PQhhYg_GB_g9CGFiD8VFxWtwIHvKiGcoD6Yk2CCxHpCvsFJb7csGDxnvh_e_s&_nc_ohc=GEOHPoqnGisQ7kNvwH6mVWB&_nc_oc=AdkgyH8PCmTDhiUPNVRwzat3rPjPpcTVJCs7p_cjVvgnCpc-ivHcmCcHphQU3_H6NPU&_nc_zt=23&_nc_ht=scontent.fsgn5-14.fna&_nc_gid=jTInaLWoGaVRJuqLjOeDlg&oh=00_AfI7fN_eAy7OgGnwTeO2P9vgMcIP9YOkCLcGORTc-58Rng&oe=683B7494"
+      thumbnail: "src/assets/ngayhoituvantuyensinh.jpg"
     },
     {
       title: "UIT Algo Bootcamp - Kỳ huấn luyện mùa hè | Mùa hè bùng nổ - Đậm chất đam mê",
       date: "08/05/2025",
       link: "https://tuyensinh.uit.edu.vn/uit-algo-bootcamp-ky-huan-luyen-mua-he-mua-he-bung-no-dam-chat-dam-me",
       summary: "Kỳ huấn luyện mùa hè đã chính thức quay trở lại và sẵn sàng cùng bạn tạo nên hành trình bứt phá.",
-      thumbnail: "https://tuyensinh.uit.edu.vn/sites/default/files/uploads/files/202505/uit-traihe-poster-2025_1.jpg"
+      thumbnail: "src/assets/algobootcamp.jpg"
     }
   ];
 

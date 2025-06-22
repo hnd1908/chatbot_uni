@@ -48,11 +48,11 @@ hybrid_search_engine = HybridSearchQdrant(
     collection_name=COLLECTION_NAME,
     embedding_model=embedding_model,
     chunk_dir=os.path.join(os.path.dirname(__file__), '../../rag/json/json_AITeamVN'), 
-    ngram_range=(1, 5),
-    semantic_weight=0.7,
-    bm25_weight=0.3,
-    min_confidence_semantic_threshold=0.3,
-    min_confidence_bm25_threshold=0.6
+    window_size=2,
+    semantic_weight=0.8,
+    bm25_weight=0.2,
+    min_confidence_semantic_threshold=0.4,
+    min_confidence_bm25_threshold=0.4
 )
 
 def retrieve_documents(query: str, top_k: int = 5) -> List[Dict]:
@@ -61,7 +61,7 @@ def retrieve_documents(query: str, top_k: int = 5) -> List[Dict]:
         results = hybrid_search_engine.search(query=query, top_k=top_k)
         # for temp_doc in results:
         #     if temp_doc.get("combined_score", 0) < 0.45:
-        #         print(f"⚠️ Bỏ qua tài liệu {temp_doc.get('title', 'không có tiêu đề')} do điểm quá thấp: {temp_doc.get('combined_score', 0)}")
+        #         print(f"Bỏ qua tài liệu {temp_doc.get('title', 'không có tiêu đề')} do điểm quá thấp: {temp_doc.get('combined_score', 0)}")
         return [
             {
                 "score": doc.get("combined_score", 0),
@@ -118,7 +118,7 @@ def get_chat_response(user_message, history=None):
         print(f"BM25 Score: {doc['bm25_score']:.4f}")
         print(f"Title: {doc['title']}")
         print(f"Source: {doc['source']}")
-        print(f"Content: {doc['content'][:300]}...")  # In 300 ký tự đầu, tránh quá dài
+        print(f"Content: {doc['content'][:300]}...")
     source_files = set(doc["source"] for doc in documents if doc.get("source"))
     full_markdown_content = get_markdown_content_from_sources(source_files)
     t2 = time.time()
@@ -131,11 +131,9 @@ def get_chat_response(user_message, history=None):
     1. Từ tất cả các tài liệu tham khảo, bạn cần đọc hết một cách chi tiết các tài liệu đó sau đó xác định câu hỏi có liên quan đến tất cả tài liệu được cung cấp không và trả lời câu hỏi một cách chính xác, đầy đủ nhất.
     2. Nếu câu hỏi liên quan đến các tài liệu hiện tại, bạn cần trả lời dựa trên các tài liệu đã được cung cấp.
     3. Nếu câu hỏi không liên quan đến tài liệu hiện tại, bạn vẫn có thể trả lời bằng kiến thức chung, nhưng phải mở đầu rõ ràng:
-    → "Câu hỏi này không nằm trong các tài liệu được cung cấp. Tôi sẽ sử dụng kiến thức chung để trả lời:"
+    → "Câu hỏi này không nằm trong các tài liệu được cung cấp. Tôi sẽ sử dụng kiến bên ngoài để trả lời:"
     4. Sử dụng font Unicode tiêu chuẩn.
-    5. Nếu người dùng hỏi bằng ngôn ngữ khác, không phải tiếng Việt, hãy hỏi lại lịch sự:
-    → "Bạn có muốn tôi trả lời bằng tiếng Việt không?"
-    6. Nếu người dùng hỏi các câu như "tiếp đi", "tiếp tục đi", "bạn có thể trả lời lại câu hỏi vừa rồi không", "vậy còn...", "còn nữa không?", "tiếp tục nhé", "tiếp tục nào", "tiếp tục thôi", "tiếp tục nào bạn ơi", "tiếp tục đi bạn ơi", "tiếp tục đi nào bạn ơi", "tiếp tục đi nào", "tiếp tục đi nhé", "tiếp tục đi nha", "tiếp tục đi bạn nha", "tiếp tục đi bạn ơi nha", "tiếp tục đi bạn ơi nhé"... thì bạn phải dựa vào lịch sử hội thoại phía trên để trả lời đúng ngữ cảnh, không được trả lời chung chung hoặc lặp lại nội dung không liên quan.
+    5. Nếu người dùng hỏi các câu như "tiếp đi", "tiếp tục đi", "bạn có thể trả lời lại câu hỏi vừa rồi không", "vậy còn...", "còn nữa không?", "tiếp tục nhé", "tiếp tục nào", "tiếp tục thôi", "tiếp tục nào bạn ơi", "tiếp tục đi bạn ơi", "tiếp tục đi nào bạn ơi", "tiếp tục đi nào", "tiếp tục đi nhé", "tiếp tục đi nha", "tiếp tục đi bạn nha", "tiếp tục đi bạn ơi nha", "tiếp tục đi bạn ơi nhé"... thì bạn phải dựa vào lịch sử hội thoại phía trên để trả lời đúng ngữ cảnh, không được trả lời chung chung hoặc lặp lại nội dung không liên quan.
 
     📅 Ngày hiện tại: {current_date}
     🏫 Trường: Đại học Công nghệ Thông tin - ĐHQG TP.HCM (UIT)
@@ -151,20 +149,20 @@ def get_chat_response(user_message, history=None):
         for msg in history:
             if hasattr(msg, 'user_message') and hasattr(msg, 'bot_response'):
                 history_text += f"Người dùng: {msg.user_message}\n"
-                history_text += f"Bốp Assistant: {msg.bot_response}\n"
+                history_text += f"Chatbot_uni: {msg.bot_response}\n"
             elif isinstance(msg, dict):
                 if msg.get('role') == 'user':
                     history_text += f"Người dùng: {msg.get('content', '')}\n"
                 else:
-                    history_text += f"Bốp Assistant: {msg.get('content', '')}\n"
+                    history_text += f"Chatbot_uni: {msg.get('content', '')}\n"
 
-        full_content = base_prompt + "\n" + history_text + f"\nNgười dùng: {user_message}\nBốp Assistant:"
+        full_content = base_prompt + "\n" + history_text + f"\nNgười dùng: {user_message}\nChatbot_uni:"
 
     print('---DEBUG: history_text---')
     print(repr(history_text))
     if not history_text:
         print("Không có lịch sử hội thoại trước đó.")
-        full_content = base_prompt + f"\nNgười dùng: {user_message}\nBốp Assistant:"
+        full_content = base_prompt + f"\nNgười dùng: {user_message}\nChatbot_uni:"
         
     print(f"⏱️ Thời gian truy vấn (Qdrant): {t1 - t0:.3f} giây")
     print(f"⏱️ Thời gian augmentation (load markdown & chuẩn bị prompt): {t2 - t1:.3f} giây")
